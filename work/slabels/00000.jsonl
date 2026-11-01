@@ -36,7 +36,7 @@
 {"id":26887670,"keep":0,"q":2,"kind":"other","topic":"linux kernel security"}
 {"id":41399872,"keep":0,"q":1,"kind":"blog","topic":"anandtech closure"}
 {"id":19728132,"keep":0,"q":2,"kind":"blog","topic":"online business story"}
-{"id":39386156,"keep":0,"q":1,"kind":"other","topic":"macos root login bug"}
+{"id":15800676,"keep":0,"q":1,"kind":"other","topic":"macos root login bug"}
 {"id":16319505,"keep":0,"q":1,"kind":"journalism","topic":"falcon heavy launch"}
 {"id":23155647,"keep":0,"q":1,"kind":"journalism","topic":"twitter remote work"}
 {"id":25457440,"keep":0,"q":1,"kind":"other","topic":"github cookies"}
@@ -53,6 +53,7 @@
 {"id":32768834,"keep":0,"q":1,"kind":"other","topic":"queen elizabeth death"}
 {"id":29772136,"keep":0,"q":1,"kind":"blog","topic":"google search quality"}
 {"id":21589647,"keep":1,"q":2,"kind":"blog","topic":"slack editor ux"}
+{"id":22310813,"keep":1,"q":5,"kind":"explainer","topic":"gears mechanics"}
 {"id":31025061,"keep":0,"q":1,"kind":"journalism","topic":"musk twitter bid"}
 {"id":6258422,"keep":0,"q":1,"kind":"blog","topic":"ramadan travel"}
 {"id":41247023,"keep":0,"q":1,"kind":"show_hn","topic":"youtube channels concept"}
@@ -87,7 +88,7 @@
 {"id":20260863,"keep":0,"q":1,"kind":"other","topic":"raspberry pi 4"}
 {"id":31153277,"keep":0,"q":1,"kind":"journalism","topic":"twitter musk deal"}
 {"id":18138328,"keep":0,"q":2,"kind":"journalism","topic":"supply chain hack"}
-{"id":12707606,"keep":1,"q":2,"kind":"essay","topic":"kindness essay"}
+{"id":12707606,"keep":0,"q":2,"kind":"essay","topic":"kindness essay"}
 {"id":39336139,"keep":1,"q":4,"kind":"blog","topic":"balancing cube"}
 {"id":23610416,"keep":0,"q":1,"kind":"blog","topic":"blogging ethics"}
 {"id":21401973,"keep":0,"q":1,"kind":"journalism","topic":"twitter political ads"}
@@ -132,6 +133,7 @@
 {"id":28079171,"keep":0,"q":2,"kind":"other","topic":"apple csam scanning"}
 {"id":13707547,"keep":0,"q":2,"kind":"journalism","topic":"exoplanets discovery"}
 {"id":25662215,"keep":0,"q":1,"kind":"journalism","topic":"whatsapp data policy"}
+{"id":42806247,"keep":0,"q":1,"kind":"other","topic":"startup acquisition thanks"}
 {"id":45640838,"keep":0,"q":1,"kind":"other","topic":"aws outage"}
 {"id":29627105,"keep":0,"q":1,"kind":"other","topic":"google maps easter egg"}
 {"id":32996953,"keep":0,"q":1,"kind":"blog","topic":"identity impersonation"}
@@ -298,6 +300,7 @@
 {"id":26174269,"keep":0,"q":1,"kind":"blog","topic":"subscription cancellation"}
 {"id":18566929,"keep":0,"q":1,"kind":"blog","topic":"patent claim"}
 {"id":27541339,"keep":1,"q":3,"kind":"explainer","topic":"kafka"}
+{"id":42057647,"keep":0,"q":1,"kind":"journalism","topic":"trump election win"}
 {"id":21103683,"keep":0,"q":1,"kind":"journalism","topic":"windows offline account"}
 {"id":25623858,"keep":0,"q":2,"kind":"journalism","topic":"ad fraud"}
 {"id":40447431,"keep":0,"q":1,"kind":"journalism","topic":"openai former employees"}
@@ -372,6 +375,7 @@
 {"id":44972151,"keep":0,"q":1,"kind":"journalism","topic":"aws ceo ai jobs"}
 {"id":15694926,"keep":0,"q":1,"kind":"other","topic":"firefox 57 release"}
 {"id":26083919,"keep":1,"q":3,"kind":"show_hn","topic":"vs code github"}
+{"id":29380171,"keep":0,"q":1,"kind":"other","topic":"twitter resignation"}
 {"id":28394035,"keep":0,"q":1,"kind":"journalism","topic":"usb cable product"}
 {"id":29834753,"keep":0,"q":1,"kind":"ask_hn","topic":"salary data sale"}
 {"id":6133349,"keep":0,"q":2,"kind":"journalism","topic":"nsa xkeyscore"}
