@@ -1,0 +1,200 @@
+{"id":6000,"keep":0,"q":1,"kind":"paper","topic":"public health","depth":"intermediate","title":"Influenza masks and hand hygiene RCT review","why":"Mostly cited as evidence in a mask debate, not a standalone read."}
+{"id":6001,"keep":1,"q":2,"kind":"comic","topic":"telecom","depth":"intro","title":"xkcd 1129: Phone Numbers","why":"Quick comic explaining why area codes no longer indicate where a phone owner lives."}
+{"id":6002,"keep":1,"q":3,"kind":"comic","topic":"security","depth":"intro","title":"xkcd 1181: PGP","why":"Comic that gets the PGP web-of-trust model and its practical weakness across."}
+{"id":6003,"keep":1,"q":2,"kind":"comic","topic":"physics","depth":"intro","title":"xkcd 1189: Expanding Universe","why":"Comic explaining why an expanding universe is like hitting a moving target."}
+{"id":6004,"keep":0,"q":1,"kind":"other","topic":"climate","depth":"intro","title":"xkcd 1321","why":"Cited as a joke in a climate argument; little to learn."}
+{"id":6005,"keep":0,"q":1,"kind":"comic","topic":"ethics","depth":"intro","title":"xkcd 1499: Gentlemen's agreement","why":"Joke comic about exploiting ambiguous informal deals; little to learn."}
+{"id":6006,"keep":0,"q":1,"kind":"comic","topic":"other","depth":"intro","title":"xkcd 1737","why":"Joke comic cited in a thread; not an explainer."}
+{"id":6007,"keep":0,"q":1,"kind":"comic","topic":"bluetooth","depth":"intro","title":"xkcd 2055: Bluetooth","why":"Joke comic about Bluetooth pairing frustration."}
+{"id":6008,"keep":0,"q":1,"kind":"comic","topic":"other","depth":"intro","title":"xkcd 541","why":"Comic cited in a thread, with no standalone learning value."}
+{"id":6009,"keep":0,"q":1,"kind":"comic","topic":"nutrition","depth":"intro","title":"xkcd 925","why":"Joke comic cited in a diet argument."}
+{"id":6010,"keep":1,"q":2,"kind":"reference","topic":"logic","depth":"intro","title":"Ad Hominem (Your Logical Fallacy Is)","why":"Short definition of the ad hominem fallacy with examples, useful for spotting it."}
+{"id":6011,"keep":0,"q":1,"kind":"tool","topic":"security","depth":"intro","title":"YubiKey NEO","why":"Product page for a hardware token."}
+{"id":6012,"keep":1,"q":4,"kind":"blog","topic":"llms","depth":"expert","title":"Non-determinism in GPT-4","why":"Explains why GPT-4 API outputs vary even at temperature zero, via sparse MoE batching effects."}
+{"id":6013,"keep":1,"q":4,"kind":"other","topic":"education","depth":"intro","title":"Profession","why":"Asimov short story on how education and learning must change as machines take over knowledge."}
+{"id":6014,"keep":1,"q":3,"kind":"docs","topic":"remote work","depth":"intro","title":"GitLab Communication Handbook","why":"Concrete practices for asynchronous, handbook-first communication in a remote company."}
+{"id":6015,"keep":0,"q":1,"kind":"other","topic":"politics","depth":"intro","title":"ACLU on the Second Amendment","why":"Organisational policy position statement, not an explainer."}
+{"id":6016,"keep":1,"q":4,"kind":"talk","topic":"semiconductors","depth":"intro","title":"Acquired: TSMC","why":"Podcast episode on TSMC's history and Morris Chang's strategy for foundries."}
+{"id":6017,"keep":0,"q":1,"kind":"tool","topic":"politics","depth":"intro","title":"Represent.Us petition","why":"Campaign signup page."}
+{"id":6018,"keep":0,"q":1,"kind":"tool","topic":"media","depth":"intro","title":"Ad Fontes media bias chart","why":"Interactive ranking chart of news sources, not something to read and learn from."}
+{"id":6019,"keep":0,"q":1,"kind":"tool","topic":"dns","depth":"intro","title":"AdGuard public DNS","why":"Service setup page for a DNS resolver."}
+{"id":6020,"keep":1,"q":3,"kind":"explainer","topic":"trust metrics","depth":"expert","title":"Advogato trust metric","why":"Describes a graph-based trust metric that resists Sybil attacks, with the algorithm explained."}
+{"id":6021,"keep":0,"q":1,"kind":"other","topic":"startups","depth":"intro","title":"Airbnb guarantee","why":"Company policy page."}
+{"id":6022,"keep":0,"q":1,"kind":"news","topic":"covid","depth":"intro","title":"Alberta COVID-19 statistics","why":"Government statistics dashboard."}
+{"id":6023,"keep":1,"q":4,"kind":"blog","topic":"llms","depth":"expert","title":"Subliminal Learning","why":"Shows models can pick up traits from training data that contain no explicit trace of them."}
+{"id":6024,"keep":1,"q":4,"kind":"journalism","topic":"security","depth":"expert","title":"Forensic methodology report: catching Pegasus","why":"Step-by-step forensic method for detecting spyware infections on phones."}
+{"id":6025,"keep":1,"q":2,"kind":"reference","topic":"data formats","depth":"intermediate","title":"Amazon Ion documentation","why":"Reference for Ion, a JSON superset with comments, timestamps and s-expressions."}
+{"id":6026,"keep":1,"q":3,"kind":"blog","topic":"hardware","depth":"intermediate","title":"Cloud Clash: Graviton2 vs Intel and AMD","why":"Benchmark analysis of Arm server CPUs against x86 competitors, with methodology."}
+{"id":6027,"keep":1,"q":5,"kind":"blog","topic":"hardware","depth":"expert","title":"Apple Silicon M1 and A14 deep dive","why":"Detailed microarchitecture analysis of Apple's M1 core, cache and memory design."}
+{"id":6028,"keep":0,"q":1,"kind":"tool","topic":"mobile","depth":"intro","title":"Corona SDK","why":"Product page for a mobile game framework."}
+{"id":6029,"keep":1,"q":4,"kind":"blog","topic":"llms","depth":"intermediate","title":"Agentic Misalignment","why":"Experiments where LLM agents resort to blackmail when threatened with replacement, with methodology."}
+{"id":6030,"keep":1,"q":5,"kind":"explainer","topic":"algorithms","depth":"intermediate","title":"HyperLogLog (antirez)","why":"Clear intuitive explanation of HyperLogLog cardinality estimation and why it works."}
+{"id":6031,"keep":0,"q":1,"kind":"other","topic":"astronomy","depth":"intro","title":"NASA Astronomy Picture of the Day","why":"Daily image page, not a read."}
+{"id":6032,"keep":0,"q":1,"kind":"paper","topic":"patents","depth":"intro","title":"USPTO patent on page-turning UI","why":"Patent claim text, not an explainer."}
+{"id":6033,"keep":0,"q":1,"kind":"news","topic":"apple","depth":"intro","title":"Slashdot: original iPod reactions","why":"Old forum discussion thread."}
+{"id":6034,"keep":0,"q":1,"kind":"other","topic":"macos","depth":"intermediate","title":"kernel_task high CPU on Mac","why":"Narrow troubleshooting Q&A for one hardware symptom."}
+{"id":6035,"keep":1,"q":4,"kind":"other","topic":"programming languages","depth":"intro","title":"BYTE Magazine, August 1981 (Smalltalk issue)","why":"Scanned 1981 issue with the foundational Smalltalk articles for children and programming."}
+{"id":6036,"keep":1,"q":4,"kind":"essay","topic":"open access","depth":"intro","title":"Guerilla Open Access Manifesto","why":"Aaron Swartz's argument that academic research should be freely accessible."}
+{"id":6037,"keep":0,"q":1,"kind":"other","topic":"surveillance","depth":"intro","title":"Executive Order 12333","why":"Legal text, cited as evidence in a debate."}
+{"id":6038,"keep":1,"q":4,"kind":"blog","topic":"llms","depth":"intermediate","title":"o3 breakthrough on ARC-AGI","why":"Analysis of o3's ARC-AGI results, what they mean and what they cost to run."}
+{"id":6039,"keep":1,"q":4,"kind":"tutorial","topic":"graphics","depth":"intermediate","title":"Learning Modern 3D Graphics Programming","why":"Step-by-step book teaching modern OpenGL from first triangle to shaders."}
+{"id":6040,"keep":0,"q":1,"kind":"news","topic":"self-driving","depth":"intro","title":"Police chief on Uber crash footage","why":"News coverage of a 2018 incident."}
+{"id":6041,"keep":1,"q":3,"kind":"essay","topic":"ui design","depth":"intro","title":"Finder (Siracusa)","why":"Critique of the Mac OS X Finder's design, spatial versus browser metaphors."}
+{"id":6042,"keep":0,"q":1,"kind":"news","topic":"broadband","depth":"intro","title":"US broadband still lacks ISP choice","why":"News report on broadband competition."}
+{"id":6043,"keep":0,"q":1,"kind":"news","topic":"satellites","depth":"intro","title":"SpaceX satellite internet plans (2016)","why":"Old news on a company announcement."}
+{"id":6044,"keep":0,"q":1,"kind":"news","topic":"x86","depth":"intro","title":"Intel warns Microsoft over x86 emulation","why":"News of a patent dispute."}
+{"id":6045,"keep":1,"q":4,"kind":"journalism","topic":"security","depth":"intro","title":"How crackers make minced meat of your passwords","why":"Explains GPU password cracking and why hash choice and password length matter."}
+{"id":6046,"keep":0,"q":1,"kind":"news","topic":"ai","depth":"intro","title":"Meta torrented pirated books for AI","why":"News about a legal dispute."}
+{"id":6047,"keep":1,"q":4,"kind":"essay","topic":"programming languages","depth":"intermediate","title":"The Trouble with Checked Exceptions","why":"Anders Hejlsberg on why checked exceptions hurt large APIs and code clarity."}
+{"id":6048,"keep":1,"q":3,"kind":"blog","topic":"programming languages","depth":"intermediate","title":"Language Design Is Not Just Solving Puzzles","why":"Guido van Rossum on why multi-line lambdas clash with Python's design."}
+{"id":6049,"keep":1,"q":5,"kind":"paper","topic":"machine learning","depth":"expert","title":"Distilling the Knowledge in a Neural Network","why":"Training small models to mimic large ones through soft targets; foundational distillation paper."}
+{"id":6050,"keep":1,"q":4,"kind":"paper","topic":"machine learning","depth":"expert","title":"A Neural Algorithm of Artistic Style","why":"Separates content and style in CNN features to synthesise artistic images."}
+{"id":6051,"keep":1,"q":4,"kind":"paper","topic":"llms","depth":"expert","title":"LoRA: Low-Rank Adaptation of LLMs","why":"Explains parameter-efficient fine-tuning with small low-rank weight updates."}
+{"id":6052,"keep":0,"q":1,"kind":"tool","topic":"productivity","depth":"intro","title":"Asana Luna","why":"Old product announcement page."}
+{"id":6053,"keep":0,"q":1,"kind":"tool","topic":"audio","depth":"intro","title":"Dexed DX7 synth","why":"Software download page for a synthesiser."}
+{"id":6054,"keep":1,"q":4,"kind":"essay","topic":"epistemics","depth":"intro","title":"Heuristics That Almost Always Work","why":"Why dismissing claims like fusion is always 30 years away is usually a good bet."}
+{"id":6055,"keep":0,"q":2,"kind":"blog","topic":"covid","depth":"intermediate","title":"Lockdown effectiveness: much more","why":"Contested policy cost-benefit analysis cited in an argument."}
+{"id":6056,"keep":1,"q":3,"kind":"reference","topic":"storage","depth":"intermediate","title":"ATA Secure Erase","why":"Explains the ATA SECURITY-ERASE command as the correct way to wipe a drive."}
+{"id":6057,"keep":0,"q":1,"kind":"news","topic":"wages","depth":"intro","title":"Atlanta Fed wage growth tracker","why":"Live statistics tracker."}
+{"id":6058,"keep":0,"q":1,"kind":"tool","topic":"editors","depth":"intro","title":"Hydrogen (Atom package)","why":"Editor plugin page."}
+{"id":6059,"keep":1,"q":3,"kind":"docs","topic":"python","depth":"intermediate","title":"attrs documentation","why":"Explains how attrs cuts boilerplate, adds immutability and slots for Python classes."}
+{"id":6060,"keep":0,"q":1,"kind":"other","topic":"networking","depth":"intro","title":"IPv4 address prior sales","why":"Price data for IP address sales."}
+{"id":6061,"keep":0,"q":1,"kind":"tool","topic":"datasets","depth":"intro","title":"AWS public datasets","why":"Index of data sets, not an explainer."}
+{"id":6062,"keep":0,"q":1,"kind":"tool","topic":"databases","depth":"intro","title":"Amazon RDS for PostgreSQL","why":"Product pricing page."}
+{"id":6063,"keep":0,"q":1,"kind":"tool","topic":"dns","depth":"intro","title":"Amazon Route 53","why":"Product page with pricing."}
+{"id":6064,"keep":0,"q":1,"kind":"news","topic":"cloud","depth":"intro","title":"Azure status page","why":"Live service status page."}
+{"id":6065,"keep":0,"q":1,"kind":"tool","topic":"economics","depth":"intro","title":"Bankrate cost of living calculator","why":"Calculator for comparing cities."}
+{"id":6066,"keep":0,"q":1,"kind":"news","topic":"parenting","depth":"intro","title":"BBC: babies sleeping alone","why":"Magazine feature cited in an argument, unclear learning value."}
+{"id":6067,"keep":0,"q":1,"kind":"news","topic":"salaries","depth":"intro","title":"BBC: salary transparency in Norway","why":"Magazine feature on pay data, cited in a thread."}
+{"id":6068,"keep":0,"q":1,"kind":"other","topic":"linux","depth":"intermediate","title":"Arch forum: switching to systemd","why":"Forum debate thread."}
+{"id":6069,"keep":1,"q":3,"kind":"blog","topic":"health","depth":"intro","title":"Lux: bright light and mood","why":"Explains light levels in lux and why dim indoor light affects energy and mood."}
+{"id":6070,"keep":0,"q":1,"kind":"tool","topic":"typography","depth":"intro","title":"Berkeley Mono","why":"Paid font product page."}
+{"id":6071,"keep":1,"q":4,"kind":"visual","topic":"graphics","depth":"intermediate","title":"Yliluoma ordered dithering","why":"Visual, interactive explanation of palette dithering with ordered matrices, including animation."}
+{"id":6072,"keep":0,"q":1,"kind":"docs","topic":"passwords","depth":"intro","title":"Bitwarden emergency access","why":"Product help page for a premium feature."}
+{"id":6073,"keep":1,"q":4,"kind":"explainer","topic":"displays","depth":"intro","title":"Mac external displays and HiDPI scaling","why":"Explains why macOS only scales cleanly on displays near 110 or 220 PPI."}
+{"id":6074,"keep":1,"q":4,"kind":"talk","topic":"security","depth":"expert","title":"Demystifying the Secure Enclave Processor","why":"Black Hat talk on Apple's SEP hardware, OS and encrypted storage design."}
+{"id":6075,"keep":0,"q":1,"kind":"news","topic":"youtube","depth":"intro","title":"YouTube blocks Blender videos","why":"News about a platform dispute."}
+{"id":6076,"keep":1,"q":5,"kind":"blog","topic":"storage","depth":"intermediate","title":"Petabytes on a Budget","why":"Backblaze explains how to build 67TB storage pods for under $8,000, with designs."}
+{"id":6077,"keep":1,"q":3,"kind":"explainer","topic":"reverse engineering","depth":"intermediate","title":"How Beeper Mini works","why":"Explains how the iMessage registration and bridging worked, from the company's view."}
+{"id":6078,"keep":1,"q":5,"kind":"essay","topic":"software engineering","depth":"intro","title":"You Are Not Google","why":"Why copying big-tech architecture is usually wrong for smaller teams, with reasoning."}
+{"id":6079,"keep":1,"q":3,"kind":"blog","topic":"startups","depth":"intro","title":"Idea to Paying Customers in 7 Weeks","why":"Concrete validation method: landing page and pre-sales before building the product."}
+{"id":6080,"keep":1,"q":4,"kind":"essay","topic":"web","depth":"intro","title":"A Conspiracy to Kill IE6","why":"Historical account of how browser strategy and standards shaped the web's competition."}
+{"id":6081,"keep":1,"q":3,"kind":"blog","topic":"browsers","depth":"intermediate","title":"Web Request and Declarative Net Request","why":"Chrome's rationale for declarative extension rules and the privacy tradeoffs involved."}
+{"id":6082,"keep":1,"q":3,"kind":"essay","topic":"software architecture","depth":"intro","title":"The Clean Architecture","why":"Dependency rule for keeping business logic independent of frameworks and I/O."}
+{"id":6083,"keep":1,"q":4,"kind":"essay","topic":"startups","depth":"intro","title":"Pioneers, Settlers, Town Planners","why":"Stages of technology and product maturity, and why teams must change how they work."}
+{"id":6084,"keep":0,"q":1,"kind":"tool","topic":"fonts","depth":"intro","title":"Go fonts","why":"Font download announcement."}
+{"id":6085,"keep":0,"q":1,"kind":"tool","topic":"search","depth":"intro","title":"Kagi Privacy Pass","why":"Product announcement for a search service."}
+{"id":6086,"keep":0,"q":1,"kind":"news","topic":"search","depth":"intro","title":"Kagi status update","why":"Company business update."}
+{"id":6087,"keep":1,"q":3,"kind":"explainer","topic":"internet infrastructure","depth":"intermediate","title":"Observations on the Internet Middleman","why":"Explains transit and peering economics and why ISP interconnection disputes happen."}
+{"id":6088,"keep":0,"q":1,"kind":"news","topic":"browsers","depth":"intro","title":"Mozilla promoting choice on the web","why":"Company announcement about search deals."}
+{"id":6089,"keep":1,"q":3,"kind":"blog","topic":"browsers","depth":"intermediate","title":"Adblock Plus and Firefox memory usage","why":"Measures how extensions and iframes add memory overhead, with a method worth copying."}
+{"id":6090,"keep":1,"q":4,"kind":"blog","topic":"machine learning","depth":"intro","title":"Adversarial Example Research","why":"Shows how tiny designed perturbations fool image classifiers, with visual examples."}
+{"id":6091,"keep":0,"q":1,"kind":"tool","topic":"git","depth":"intro","title":"GitTorrent announcement","why":"Project announcement."}
+{"id":6092,"keep":1,"q":3,"kind":"blog","topic":"security","depth":"intermediate","title":"Disabling Intel ME","why":"What Intel's Management Engine does and why it is hard to disable on modern chips."}
+{"id":6093,"keep":0,"q":1,"kind":"news","topic":"web development","depth":"intro","title":"Introducing WebContainers","why":"Product launch post."}
+{"id":6094,"keep":1,"q":4,"kind":"blog","topic":"go","depth":"expert","title":"Golang data races to break memory safety","why":"Shows how data races on Go slices and interfaces break memory safety."}
+{"id":6095,"keep":0,"q":1,"kind":"news","topic":"forums","depth":"intro","title":"Announcing Tildes","why":"Community launch announcement."}
+{"id":6096,"keep":0,"q":1,"kind":"news","topic":"business models","depth":"intro","title":"WhatsApp: why we don't sell ads","why":"Company policy statement."}
+{"id":6097,"keep":1,"q":4,"kind":"blog","topic":"online communities","depth":"intro","title":"Robot9000 and XKCD Signal","why":"A chat bot that blocks repeated lines, and ideas for improving conversation signal-to-noise."}
+{"id":6098,"keep":1,"q":5,"kind":"essay","topic":"software engineering","depth":"intro","title":"I contribute to the Windows kernel","why":"Why local incentives and process erode performance in large codebases, with concrete examples."}
+{"id":6099,"keep":0,"q":1,"kind":"news","topic":"piracy","depth":"intro","title":"Microsoft on counterfeiting case","why":"Company statement on a legal case."}
+{"id":6100,"keep":1,"q":4,"kind":"blog","topic":"biotech","depth":"intermediate","title":"Myths of vaccine manufacturing","why":"Explains why mRNA vaccine manufacturing is a bottleneck and why sharing designs is hard."}
+{"id":6101,"keep":1,"q":3,"kind":"blog","topic":"economics","depth":"intro","title":"It all began with a strange email","why":"How Valve started studying in-game economies with an economist, told as a story."}
+{"id":6102,"keep":0,"q":1,"kind":"news","topic":"linux gaming","depth":"intro","title":"Valve: faster zombies on Linux","why":"Benchmark announcement for a game."}
+{"id":6103,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"Presidential campaign fundraising graphic","why":"News data graphic."}
+{"id":6104,"keep":0,"q":1,"kind":"other","topic":"statistics","depth":"intro","title":"BLS consumer expenditure release","why":"Government statistics release."}
+{"id":6105,"keep":0,"q":1,"kind":"other","topic":"politics","depth":"intro","title":"Brendan Eich on community and diversity","why":"Controversy statement, not an explainer."}
+{"id":6106,"keep":1,"q":4,"kind":"reference","topic":"performance","depth":"intermediate","title":"Brendan Gregg's perf page","why":"Curated links for learning Linux perf profiling and hardware counters."}
+{"id":6107,"keep":0,"q":1,"kind":"tool","topic":"browsers","depth":"intro","title":"Kagi Orion browser FAQ","why":"Product FAQ."}
+{"id":6108,"keep":0,"q":1,"kind":"other","topic":"browsers","depth":"intro","title":"Mozilla bug 1215061","why":"Bug tracker entry."}
+{"id":6109,"keep":1,"q":3,"kind":"docs","topic":"ruby","depth":"intro","title":"Bundler in a single-file Ruby script","why":"Shows declaring gem dependencies inline in one script using bundler/inline."}
+{"id":6110,"keep":0,"q":1,"kind":"other","topic":"diversity","depth":"intro","title":"Forking and dongle jokes at tech conferences","why":"Incident account, not an explainer."}
+{"id":6111,"keep":0,"q":1,"kind":"news","topic":"legal","depth":"intro","title":"Project Gutenberg blocks Germany","why":"Legal news about a blocking decision."}
+{"id":6112,"keep":0,"q":1,"kind":"reference","topic":"video codecs","depth":"intro","title":"Can I use: AV1","why":"Browser support lookup table."}
+{"id":6113,"keep":0,"q":1,"kind":"reference","topic":"css","depth":"intro","title":"Can I use: CSS nesting","why":"Browser support lookup table."}
+{"id":6114,"keep":0,"q":1,"kind":"reference","topic":"css","depth":"intro","title":"Can I use: flexbox","why":"Browser support lookup table."}
+{"id":6115,"keep":0,"q":1,"kind":"tool","topic":"payments","depth":"intro","title":"Citi virtual account numbers","why":"Bank product page."}
+{"id":6116,"keep":1,"q":4,"kind":"journalism","topic":"history","depth":"intro","title":"The CIA and the Media","why":"Carl Bernstein's long-form account of CIA relationships with US journalists."}
+{"id":6117,"keep":1,"q":4,"kind":"book","topic":"unix","depth":"intro","title":"The Art of Unix Programming: Unix rules","why":"Explains the Unix design rules such as modularity and separation."}
+{"id":6118,"keep":1,"q":5,"kind":"book","topic":"unix","depth":"intermediate","title":"The Art of Unix Programming","why":"Eric Raymond's free book on Unix design philosophy and why it still matters."}
+{"id":6119,"keep":1,"q":4,"kind":"essay","topic":"git","depth":"intro","title":"How to write a Git commit message","why":"Guidance on writing commits that say what and why changed, with small atomic commits."}
+{"id":6120,"keep":0,"q":1,"kind":"news","topic":"covid","depth":"intro","title":"CDC: long-term effects of COVID-19","why":"Health agency guidance page."}
+{"id":6121,"keep":0,"q":1,"kind":"news","topic":"vaccines","depth":"intro","title":"CDC: flu vaccine effectiveness","why":"Health agency page used in a debate."}
+{"id":6122,"keep":0,"q":1,"kind":"news","topic":"road safety","depth":"intro","title":"CDC: global road safety","why":"Health agency page cited in a thread."}
+{"id":6123,"keep":0,"q":1,"kind":"news","topic":"vaping","depth":"intro","title":"CDC: severe lung disease and e-cigarettes","why":"Health agency outbreak update."}
+{"id":6124,"keep":1,"q":4,"kind":"paper","topic":"llms","depth":"intermediate","title":"GPT-4 System Card","why":"Documents GPT-4's evaluated risks and the safety mitigations applied before release."}
+{"id":6125,"keep":0,"q":1,"kind":"other","topic":"climate","depth":"intro","title":"Wrong again: 50 years of failed predictions","why":"Advocacy piece on forecasting."}
+{"id":6126,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"Census: income and poverty report","why":"Statistics report."}
+{"id":6127,"keep":0,"q":1,"kind":"other","topic":"economics","depth":"intro","title":"Census: rural and urban population","why":"Statistics press release."}
+{"id":6128,"keep":1,"q":4,"kind":"visual","topic":"security","depth":"intermediate","title":"How Certificate Transparency works","why":"Interactive walkthrough of append-only certificate logs and Merkle trees."}
+{"id":6129,"keep":1,"q":4,"kind":"blog","topic":"language implementation","depth":"expert","title":"C extensions in JRuby and Truffle","why":"How Truffle and Graal run C extensions alongside interpreted code."}
+{"id":6130,"keep":0,"q":1,"kind":"news","topic":"reddit","depth":"intro","title":"Apollo developer's call with Reddit","why":"Audio recording of a dispute."}
+{"id":6131,"keep":0,"q":1,"kind":"reference","topic":"browsers","depth":"intro","title":"Chrome enterprise policies","why":"Configuration reference listing."}
+{"id":6132,"keep":0,"q":1,"kind":"tool","topic":"browsers","depth":"intro","title":"Chrome status features","why":"Feature tracker."}
+{"id":6133,"keep":0,"q":1,"kind":"tool","topic":"security","depth":"intro","title":"fwknop","why":"Software project page."}
+{"id":6134,"keep":1,"q":4,"kind":"visual","topic":"security","depth":"intro","title":"Lest We Remember: cold boot attacks","why":"Shows how DRAM keeps data after power loss, and how that enables key recovery."}
+{"id":6135,"keep":0,"q":1,"kind":"news","topic":"climate","depth":"intro","title":"NASA CO2 vital signs","why":"Live data tracker."}
+{"id":6136,"keep":0,"q":1,"kind":"other","topic":"licensing","depth":"intro","title":"Why CLISP is under the GPL","why":"Licensing position statement."}
+{"id":6137,"keep":0,"q":1,"kind":"reference","topic":"clojure","depth":"intro","title":"Clojure cheatsheet","why":"Function lookup sheet."}
+{"id":6138,"keep":1,"q":3,"kind":"reference","topic":"clojure","depth":"intermediate","title":"Clojure reader","why":"Explains how Clojure reads code as data structures, the basis of its macros."}
+{"id":6139,"keep":1,"q":5,"kind":"paper","topic":"information theory","depth":"expert","title":"A Mathematical Theory of Communication","why":"Shannon's founding paper defining entropy, channel capacity and redundancy."}
+{"id":6140,"keep":0,"q":1,"kind":"reference","topic":"health costs","depth":"intro","title":"CMS national health expenditure fact sheet","why":"Statistics fact sheet."}
+{"id":6141,"keep":0,"q":1,"kind":"other","topic":"payments","depth":"intro","title":"PayPal acceptable use policy","why":"Legal policy text."}
+{"id":6142,"keep":0,"q":1,"kind":"tool","topic":"editors","depth":"intro","title":"VS Code download page","why":"Software download page."}
+{"id":6143,"keep":1,"q":5,"kind":"visual","topic":"computation","depth":"expert","title":"Tetris in Conway's Game of Life","why":"Layered build from Game of Life cells up to a working Tetris, with the abstractions explained."}
+{"id":6144,"keep":0,"q":1,"kind":"tool","topic":"bitcoin","depth":"intro","title":"Coin.dance blocks","why":"Live mining statistics."}
+{"id":6145,"keep":0,"q":1,"kind":"tool","topic":"css","depth":"intro","title":"ColorZilla gradient editor","why":"Online tool."}
+{"id":6146,"keep":0,"q":1,"kind":"reference","topic":"healthcare","depth":"intro","title":"Mirror, Mirror 2021: health system comparison","why":"Statistics report comparing countries."}
+{"id":6147,"keep":0,"q":1,"kind":"other","topic":"cloudflare","depth":"intermediate","title":"Archive.is error 1001","why":"Support thread about a DNS misconfiguration."}
+{"id":6148,"keep":0,"q":1,"kind":"reference","topic":"privacy","depth":"intro","title":"FTC: stopping unsolicited mail and calls","why":"Government help page."}
+{"id":6149,"keep":0,"q":1,"kind":"news","topic":"food safety","depth":"intro","title":"Consumer Reports: lead in dark chocolate","why":"Consumer news test results."}
+{"id":6150,"keep":0,"q":1,"kind":"other","topic":"copyright","depth":"intro","title":"Copyright Office: AI and copyright","why":"Government guidance page on AI and copyright."}
+{"id":6151,"keep":0,"q":1,"kind":"reference","topic":"copyright","depth":"intro","title":"Copyright Office Circular 9: work made for hire","why":"Legal circular text."}
+{"id":6152,"keep":0,"q":1,"kind":"reference","topic":"copyright","depth":"intro","title":"Copyright Office: fair use","why":"Legal reference page."}
+{"id":6153,"keep":0,"q":1,"kind":"tool","topic":"machine learning","depth":"intro","title":"Coral USB Accelerator","why":"Hardware product page."}
+{"id":6154,"keep":0,"q":1,"kind":"news","topic":"covid","depth":"intro","title":"IHME COVID-19 model for the US","why":"Live forecast tracker."}
+{"id":6155,"keep":0,"q":1,"kind":"other","topic":"diet","depth":"intro","title":"Cowspiracy facts","why":"Advocacy documentary facts page."}
+{"id":6156,"keep":0,"q":1,"kind":"reference","topic":"hardware","depth":"intro","title":"CPU benchmark power performance chart","why":"Benchmark chart."}
+{"id":6157,"keep":1,"q":4,"kind":"explainer","topic":"data structures","depth":"intermediate","title":"Crit-bit trees","why":"Binary radix trees for space-efficient dictionaries, with the design rationale explained."}
+{"id":6158,"keep":1,"q":4,"kind":"explainer","topic":"cryptography","depth":"expert","title":"Curve25519 and ECDH design","why":"Bernstein on how Curve25519 parameters were chosen and why they can be verified."}
+{"id":6159,"keep":1,"q":3,"kind":"essay","topic":"software law","depth":"intro","title":"Software Law","why":"Explains what copyright lets users do with software, including modifying and redistributing it."}
+{"id":6160,"keep":0,"q":1,"kind":"tool","topic":"licensing","depth":"intro","title":"Creative Commons: CC0 chooser","why":"License selection wizard."}
+{"id":6161,"keep":0,"q":1,"kind":"tool","topic":"hardware","depth":"intro","title":"HiFive1 on Crowd Supply","why":"Crowdfunding campaign page."}
+{"id":6162,"keep":1,"q":5,"kind":"paper","topic":"programming languages","depth":"expert","title":"The Next 700 Programming Languages","why":"Landin's 1966 paper on language design, foreshadowing DSLs and the lambda calculus basis of ML-style languages."}
+{"id":6163,"keep":1,"q":3,"kind":"book","topic":"programming","depth":"intermediate","title":"Object-Oriented Programming with ANSI-C","why":"Shows how classes, inheritance and dynamic dispatch can be built in plain C."}
+{"id":6164,"keep":1,"q":3,"kind":"other","topic":"fiction","depth":"intro","title":"The Machine Stops","why":"E.M. Forster's 1909 story anticipating networked, centralised dependence on machines."}
+{"id":6165,"keep":1,"q":5,"kind":"paper","topic":"programming languages","depth":"expert","title":"On Understanding Data Abstraction, Revisited","why":"Clarifies the difference between objects and abstract data types with a crisp distinction."}
+{"id":6166,"keep":1,"q":4,"kind":"essay","topic":"programming languages","depth":"intro","title":"Why Pascal Is Not My Favorite Programming Language","why":"Kernighan's concrete critique of Pascal's limits, written by a Unix pioneer."}
+{"id":6167,"keep":0,"q":2,"kind":"other","topic":"perl","depth":"intro","title":"Perligata","why":"Humorous module for writing Perl in Latin."}
+{"id":6168,"keep":1,"q":4,"kind":"docs","topic":"computer science education","depth":"intro","title":"CS Unplugged","why":"Free classroom activities teaching algorithms with cards, string and games, no computers."}
+{"id":6169,"keep":0,"q":2,"kind":"docs","topic":"trademarks","depth":"intro","title":"Harvard: introduction to trademarks","why":"Course legal material, not a technical read."}
+{"id":6170,"keep":0,"q":1,"kind":"tool","topic":"dns","depth":"intro","title":"ICANN CZDS zone data","why":"Data access portal."}
+{"id":6171,"keep":0,"q":1,"kind":"other","topic":"web","depth":"intro","title":"Web Economy Bullshit Generator","why":"Joke generator."}
+{"id":6172,"keep":0,"q":2,"kind":"tool","topic":"hardware","depth":"intermediate","title":"Bus Pirate","why":"Hardware product documentation."}
+{"id":6173,"keep":0,"q":1,"kind":"other","topic":"curl","depth":"intro","title":"I have a Toyota Corolla","why":"Anecdote about a software complaint."}
+{"id":6174,"keep":0,"q":2,"kind":"other","topic":"curl","depth":"intro","title":"I will slaughter you","why":"Personal account of threats after a software bundle."}
+{"id":6175,"keep":1,"q":4,"kind":"essay","topic":"hardware","depth":"intermediate","title":"CPU bugs","why":"Catalogue of processor errata and why CPU bugs keep reaching production."}
+{"id":6176,"keep":1,"q":4,"kind":"essay","topic":"hiring","depth":"intro","title":"Programmer Moneyball","why":"Data-driven argument that paying top engineers more is cheaper than hiring many average ones."}
+{"id":6177,"keep":0,"q":1,"kind":"tool","topic":"astronomy","depth":"intro","title":"Dark site finder map","why":"Interactive map tool."}
+{"id":6178,"keep":0,"q":1,"kind":"other","topic":"ai","depth":"intro","title":"DARPA explainable AI program","why":"Government program page."}
+{"id":6179,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"BLS employment data","why":"Statistics data tool."}
+{"id":6180,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"OECD income inequality data","why":"Statistics data page."}
+{"id":6181,"keep":1,"q":4,"kind":"blog","topic":"research integrity","depth":"intermediate","title":"Data Colada: fraud in Ariely's study","why":"Forensic walk-through of data files showing the data was altered, with the method explained."}
+{"id":6182,"keep":1,"q":4,"kind":"visual","topic":"distributed systems","depth":"intermediate","title":"How Dat Works","why":"Visual explanation of how hypercore and Merkle trees sync peer-to-peer data."}
+{"id":6183,"keep":0,"q":2,"kind":"other","topic":"remarkable","depth":"intro","title":"Parabola-rM","why":"Project log for running Linux on an e-ink tablet."}
+{"id":6184,"keep":0,"q":1,"kind":"reference","topic":"security","depth":"intro","title":"Debian security advisories","why":"Advisory index page."}
+{"id":6185,"keep":1,"q":4,"kind":"tutorial","topic":"deep learning","depth":"intermediate","title":"Deep Learning Tutorials","why":"Theano-based tutorials on CNNs, RBMs and autoencoders with runnable code."}
+{"id":6186,"keep":0,"q":2,"kind":"blog","topic":"small business","depth":"intro","title":"I sell onions on the internet","why":"Small personal business anecdote."}
+{"id":6187,"keep":1,"q":4,"kind":"other","topic":"security","depth":"expert","title":"EncFS security audit","why":"Explains why EncFS leaks information when an attacker sees multiple ciphertext snapshots."}
+{"id":6188,"keep":1,"q":4,"kind":"paper","topic":"algorithms","depth":"expert","title":"Computational Complexity of Air Travel Planning","why":"Why airfare pricing rules make travel planning computationally hard, from an ITA co-founder."}
+{"id":6189,"keep":1,"q":4,"kind":"tutorial","topic":"programming languages","depth":"intermediate","title":"Write You a Haskell","why":"Builds a small compiler step by step in Haskell, with clear chapters."}
+{"id":6190,"keep":1,"q":3,"kind":"blog","topic":".net","depth":"intermediate","title":"Performance improvements in .NET 5","why":"Details runtime and library optimisations with benchmark context."}
+{"id":6191,"keep":1,"q":3,"kind":"blog","topic":"windows history","depth":"intro","title":"The Old New Thing: time zone map","why":"Raymond's story of how political borders ended up in Windows' time zone map."}
+{"id":6192,"keep":0,"q":2,"kind":"docs","topic":"mobile","depth":"intro","title":"Jetpack Compose","why":"Framework landing page."}
+{"id":6193,"keep":0,"q":1,"kind":"tool","topic":"javascript","depth":"intro","title":"BananaBread demo","why":"Browser demo page."}
+{"id":6194,"keep":0,"q":1,"kind":"reference","topic":"web apis","depth":"intro","title":"MDN: FileSystem","why":"API reference lookup."}
+{"id":6195,"keep":0,"q":1,"kind":"reference","topic":"web apis","depth":"intro","title":"MDN: File System Access API","why":"API reference lookup."}
+{"id":6196,"keep":0,"q":1,"kind":"reference","topic":"web apis","depth":"intro","title":"MDN: OffscreenCanvas","why":"API reference lookup."}
+{"id":6197,"keep":0,"q":1,"kind":"reference","topic":"javascript","depth":"intro","title":"MDN: Array.prototype.map","why":"API reference lookup."}
+{"id":6198,"keep":0,"q":1,"kind":"reference","topic":"javascript","depth":"intro","title":"MDN: Array.prototype.sort","why":"API reference lookup."}
+{"id":6199,"keep":0,"q":1,"kind":"reference","topic":"javascript","depth":"intro","title":"MDN: label statement","why":"Language reference lookup."}
