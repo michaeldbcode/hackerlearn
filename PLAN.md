@@ -176,30 +176,49 @@ site/              ← generated static site
 
 ## Status
 
-**Session 1 (2026-11-01)**
-- [x] Repo connected, plan written.
-- [x] Network verified: HF, HN API and arbitrary sites are reachable.
-- [x] Dataset schema inspected on the 2015-06 sample (see Dataset facts).
-- [x] `.gitignore`, `CLAUDE.md`, `served/download.py` (Stage 0 downloader) written.
-- [ ] Stage 0 full download: not started.
-- [ ] Stages 1–8: not started.
+**Session 1 (2026-11-01, evening)**: pipeline built end to end. Bulk labelling is running.
 
-## Next steps (exact)
+Done:
+- [x] Stage 0: full dataset downloaded (239 monthly files, 12.4 GB, ~4 min with HF_TOKEN). `python3 -m served.download 8`
+- [x] Stage 1: `served/extract.py`. **4.68M link mentions, 2.87M distinct URLs, 260K users** (runs in ~1 min on 4 cores).
+  Distinct-user thresholds: ≥2 → 444K URLs, ≥3 → 201K, ≥5 → 84K, ≥10 → 27K.
+  Wikipedia (45K URLs ≥3), GitHub (19K) and Amazon (books) are excluded for now; they'd make good separate sections later.
+- [x] **Decision: classify per URL, not per mention.** Each URL comes with up to 3 snippets from different commenters, preferring ones with recommendation words. That's ~10× cheaper.
+  `served/batches.py 5` → **47,405 URLs (≥5 distinct users) in 238 batches** of 200 (`work/batches/`), sorted by user count descending, so the best come first.
+- [x] Stage 2 prompt: `work/prompt_classify.md`. The pilot was high quality and strict (~40% kept).
+- [x] Stage 5 prep: `served/comments.py` → 90K candidate comments (≥200 words and (≥4 replies or linked by ≥2 users)). The top 6,000 by heuristic are in `work/cbatches/` (60 × 100). Prompt: `work/prompt_comments.md`.
+- [x] Stage 6 prep: `served/stories.py` → 32,042 stories (score ≥300, comments ≥100) in `work/sbatches/` (81 × 400). Prompt: `work/prompt_stories.md`.
+- [x] Stage 4: `served/fetch.py`. Async httpx + trafilatura; title/author/date/words/excerpt for kept links → `work/pages.jsonl` (append-only, resumable). ~70% yield a readable excerpt.
+- [x] Stages 3+7: `served/build.py` merges labels + pages → `docs/data/{links,comments,stories,topics}.json` + `docs/data/ex/*.json` (excerpts, lazy-loaded).
+  Rank score = `2*q + log2(users+1)`, with comics −1.5.
+- [x] Site: `docs/index.html`, a single static page with no build step. HN-dense list, Paul Graham-style serif text, dark mode.
+  Tabs: reads / comments / threads / saved. Search, topic, kind and sort filters. Expand (shows a commenter quote + page excerpt), open, hn discussion (Algolia search), save, dismiss (stored in localStorage).
+  Keys: j/k, e/Enter, o, x, s, /. Preview locally: `cd docs && python3 -m http.server`.
+  Lives in `docs/` so GitHub Pages can serve it (Settings → Pages → main /docs). **The owner decides whether to make it public.**
 
-1. `pip install duckdb pyarrow httpx trafilatura`
-2. `python -m served.download` (run in the background; ~6–10 GB).
-3. Confirm the type codes 3/4/5, then write `served/extract.py` (Stage 1). Write
-   `work/stats.md` with: total comments, comments with links, distinct URLs, the
-   distribution of distinct-user counts, top 50 domains, and the candidate count at
-   thresholds 2/3/5.
-4. Choose a threshold so candidate mentions land at ~50–150K. Write the batches
-   (`served/batches.py`). Commit.
-5. Pilot: 3 Haiku subagents on 3 batches, plus 1 Sonnet check. Review the labels and
-   adjust the prompt (save it in `work/prompt_classify.md`). Commit.
-6. Full Stage 2 with parallel Haiku subagents. Commit and push every ~10 batches.
-   Update Status here.
-7. Then Stages 3 → 7 in order.
+How bulk labelling runs (no API key needed):
+- `scripts/run_labels.sh <batches|cbatches|sbatches> <P> haiku` runs P parallel headless `claude -p --model haiku` workers, one batch each (`scripts/label_one.sh`). Logs go to `logs/`.
+  Resumable: `python3 -m served.pending <kind>` lists batches without a complete labels file.
+  Gotcha: use `--allowedTools=Read,Write` (with `=`). Without it, the flag swallows the prompt.
+  Gotcha: never `pkill -f <pattern>` where the pattern also appears in your own command line; it kills your shell.
+- Speed: ~7 min per batch per worker. Ran 10 workers on links + 4 on comments + 4 on stories.
+- `scripts/autocommit.sh` loops: fetch new pages → build → commit + push (every ~10 min).
+
+## Next steps (exact): for a resuming session
+
+1. Setup (fresh container): `pip install duckdb pyarrow httpx trafilatura`.
+   Labels, batches and pages are in git, so **you don't need the raw data** unless re-running Stages 0/1/5/6 prep.
+2. Check progress: `for k in batches cbatches sbatches; do python3 -m served.pending $k | cut -c1-60; done`
+3. Resume labelling (in the background):
+   `nohup scripts/run_labels.sh batches 10 haiku > data/run_labels.log 2>&1 &`
+   (and `cbatches 4`, `sbatches 4`), then `nohup scripts/autocommit.sh >/dev/null 2>&1 &`. Create `data/` first (`mkdir -p data`).
+4. Once most link labels are in: **topic taxonomy**. Collect raw `topic` values with counts from `work/{labels,clabels,slabels}`. Have a Sonnet subagent map them to ~40 canonical topics → `work/topic_map.json` (raw → canonical). Make `served/build.py` apply it in `norm_topic` (unmapped → raw). Rebuild.
+5. QA: a Sonnet re-label of ~3 random link batches, comparing keep agreement → `work/qa.md`. If Haiku is too loose or strict, adjust the threshold (`q`) in build.py.
+6. Extend coverage if budget allows: the next 6,000 great-comment candidates (`served/comments.py`, raise N, write new batch numbers), and links with 3–4 distinct users (`served/batches.py 3`, but keep the existing numbering: only append new batches for URLs not yet covered).
+7. Separate sections later: Wikipedia "rabbit holes" (most-linked articles), books (Amazon/Goodreads links → titles), GitHub repos.
+8. Daily updates from the HN API, and deploy (owner to decide: GitHub Pages / VPS / domain).
+9. Personalisation from browser history (Chrome/Safari) to re-rank the feed.
 
 ## Open questions for the owner
-- Include books (Amazon/Goodreads) and Wikipedia as their own sections?
-- Hosting: a VPS like HackerTube, or a static host? Domain name?
+- Make the site public via GitHub Pages, or keep it private (VPS with auth / local only)?
+- Wikipedia, books and GitHub repos as their own tabs?

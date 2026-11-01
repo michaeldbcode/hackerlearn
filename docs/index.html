@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>served</title>
+<style>
+:root{--bg:#fbfaf7;--fg:#1d1d1b;--mute:#76736c;--line:#e7e3da;--acc:#d25a12;--card:#fff;--hl:#fff4e8}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#161615;--fg:#e8e6e1;--mute:#9a968e;--line:#2c2b28;--acc:#ff8a3d;--card:#1d1d1b;--hl:#2a2118}}
+:root[data-theme=dark]{--bg:#161615;--fg:#e8e6e1;--mute:#9a968e;--line:#2c2b28;--acc:#ff8a3d;--card:#1d1d1b;--hl:#2a2118}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 Georgia,"Iowan Old Style",serif}
+header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line);z-index:2}
+.bar{max-width:780px;margin:0 auto;padding:10px 16px;display:flex;gap:14px;align-items:center;flex-wrap:wrap;font:14px/1.3 Verdana,Geneva,sans-serif}
+.logo{font-weight:bold;color:var(--acc);text-decoration:none;font-size:17px;letter-spacing:.5px}
+.tabs a{color:var(--mute);text-decoration:none;margin-right:10px;cursor:pointer}
+.tabs a.on{color:var(--fg);font-weight:bold}
+.ctl{max-width:780px;margin:0 auto;padding:0 16px 10px;display:flex;gap:8px;flex-wrap:wrap;font:13px Verdana,sans-serif}
+select,input{font:13px Verdana,sans-serif;background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:4px;padding:4px 6px}
+input[type=search]{flex:1;min-width:140px}
+main{max-width:780px;margin:0 auto;padding:6px 16px 60px}
+.it{display:flex;gap:10px;padding:12px 8px;border-bottom:1px solid var(--line);border-radius:4px}
+.it.cur{background:var(--hl)}
+.rk{color:var(--mute);font:13px Verdana,sans-serif;min-width:30px;text-align:right;padding-top:3px}
+.bd{flex:1;min-width:0}
+.tt{font-size:18px;line-height:1.3;color:var(--fg);text-decoration:none}
+.tt:visited{color:var(--mute)}
+.dm{font:12px Verdana,sans-serif;color:var(--mute);margin-left:6px}
+.mt{font:12px/1.6 Verdana,sans-serif;color:var(--mute);margin-top:3px}
+.mt b{color:var(--acc);font-weight:normal}
+.why{margin:5px 0 0;font-size:15.5px}
+.act{font:12px Verdana,sans-serif;margin-top:6px;display:flex;gap:14px;flex-wrap:wrap}
+.act a{color:var(--mute);cursor:pointer;text-decoration:none}
+.act a:hover{color:var(--acc)}
+.ex{margin-top:10px;padding:12px 14px;background:var(--card);border:1px solid var(--line);border-radius:6px;font-size:15.5px;line-height:1.6;white-space:pre-wrap;max-height:60vh;overflow:auto}
+.ex .q{font-style:italic;color:var(--mute);border-left:3px solid var(--acc);padding-left:10px;margin-bottom:10px;white-space:normal}
+.more{display:block;margin:20px auto;font:14px Verdana,sans-serif;padding:8px 18px;background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:4px;cursor:pointer}
+.help{font:12px Verdana,sans-serif;color:var(--mute);text-align:center;margin-top:24px}
+.saved{color:var(--acc)!important}
+.empty{color:var(--mute);padding:40px 0;text-align:center;font-family:Verdana,sans-serif}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <a class="logo" href="#">served</a>
+    <nav class="tabs">
+      <a data-tab="links" class="on">reads</a>
+      <a data-tab="comments">comments</a>
+      <a data-tab="stories">threads</a>
+      <a data-tab="saved">saved</a>
+    </nav>
+  </div>
+  <div class="ctl">
+    <input type="search" id="q" placeholder="search (/)">
+    <select id="topic"><option value="">all topics</option></select>
+    <select id="kind"><option value="">any kind</option></select>
+    <select id="sort"><option value="s">best</option><option value="n">most recommended</option><option value="y">newest</option><option value="r">random</option></select>
+    <label style="display:flex;align-items:center;gap:4px;color:var(--mute)"><input type="checkbox" id="showdis">dismissed</label>
+  </div>
+</header>
+<main id="list"></main>
+<p class="help">j/k move · enter or e expand · o open · x dismiss · s save · / search</p>
+<script>
+const $=s=>document.querySelector(s);
+const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let tab='links', data={}, exCache={}, view=[], shown=0, cur=-1;
+let dismissed=new Set(store.get('dis',[])), saved=store.get('sav',{});
+const key=(t,x)=>t+':'+x.u;
+async function load(t){if(!data[t]){data[t]=await (await fetch('data/'+t+'.json')).json();data[t].forEach(x=>x._t=t)}return data[t]}
+async function ex(t,i){const c='data/ex/'+t+'-'+Math.floor(i/250)+'.json';if(!exCache[c])exCache[c]=await (await fetch(c)).json();return exCache[c][i]||{}}
+function esc(s){return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c])}
+function meta(x){
+  if(x._t==='links')return `<b>linked by ${x.n} HN users</b> · ${x.y} · ${x.k}${x.lv?' · '+x.lv:''} · ${esc(x.p)}${x.wc?' · '+Math.max(1,Math.round(x.wc/230))+' min':''}`;
+  if(x._t==='comments')return `${esc(x.d)} · ${x.y} · ${x.n} replies${x.c?' · <b>linked by '+x.c+' users</b>':''} · ${esc(x.p)}`;
+  return `${x.n} points · ${x.c} comments · ${x.y} · ${x.k.replace('_',' ')} · ${esc(x.p)}`;
+}
+function card(x,r){
+  const k=key(x._t,x), sv=saved[k];
+  const hn=x._t==='links'?`https://hn.algolia.com/?type=comment&query=${encodeURIComponent(x.u.replace('https://',''))}`:x.u;
+  return `<div class="it" data-k="${esc(k)}"><div class="rk">${r}.</div><div class="bd">
+  <a class="tt" href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}</a><span class="dm">(${esc(x.d)})</span>
+  <div class="mt">${meta(x)}</div>
+  ${x.w?`<p class="why">${esc(x.w)}</p>`:''}
+  <div class="act"><a data-a="exp">expand</a><a href="${esc(x.u)}" target="_blank" rel="noopener">open</a><a href="${esc(hn)}" target="_blank" rel="noopener">hn discussion</a><a data-a="sav" class="${sv?'saved':''}">${sv?'★ saved':'☆ save'}</a><a data-a="dis">${dismissed.has(k)?'undismiss':'dismiss'}</a></div>
+  <div class="exw"></div></div></div>`;
+}
+async function render(){
+  const q=$('#q').value.toLowerCase().trim(), tp=$('#topic').value, kd=$('#kind').value, so=$('#sort').value, sd=$('#showdis').checked;
+  let src=tab==='saved'?Object.values(saved):await load(tab);
+  view=src.filter(x=>(sd||!dismissed.has(key(x._t,x)))&&(!tp||x.p===tp)&&(!kd||x.k===kd)&&(!q||(x.t+' '+x.w+' '+x.p+' '+x.d).toLowerCase().includes(q)));
+  if(so==='n')view.sort((a,b)=>b.n-a.n);else if(so==='y')view.sort((a,b)=>(b.y.slice(-4))-(a.y.slice(-4))||b.s-a.s);else if(so==='r')view.sort(()=>Math.random()-.5);else view.sort((a,b)=>b.s-a.s);
+  const kinds=[...new Set(src.map(x=>x.k))].sort();
+  $('#kind').innerHTML='<option value="">any kind</option>'+kinds.map(k=>`<option ${k===kd?'selected':''}>${k}</option>`).join('');
+  shown=0;cur=-1;$('#list').innerHTML=view.length?'':'<p class="empty">nothing here yet</p>';more();
+}
+function more(){
+  const n=Math.min(view.length,shown+40);let h='';for(let i=shown;i<n;i++)h+=card(view[i],i+1);
+  $('#list').querySelector('.more')?.remove();$('#list').insertAdjacentHTML('beforeend',h);shown=n;
+  if(shown<view.length)$('#list').insertAdjacentHTML('beforeend','<button class="more">more</button>');
+}
+function itemOf(el){const k=el.closest('.it').dataset.k;return view.find(x=>key(x._t,x)===k)}
+async function toggle(el){
+  const w=el.closest('.it').querySelector('.exw');if(w.innerHTML){w.innerHTML='';return}
+  const x=itemOf(el), e=await ex(x._t,x.i);
+  let h='';if(e.st)h+=`<div class="q">in thread: ${esc(e.st)}</div>`;if(e.qt)h+=`<div class="q">“${esc(e.qt)}”<br>— an HN commenter</div>`;
+  h+=esc(e.ex||'No preview available. Open the link to read it.');if(e.ex&&e.ex.length>=1790)h+='…';
+  w.innerHTML=`<div class="ex">${h}</div>`;
+}
+$('#list').addEventListener('click',e=>{
+  if(e.target.classList.contains('more'))return more();
+  const a=e.target.dataset.a;if(!a)return;const it=e.target.closest('.it'),k=it.dataset.k,x=itemOf(e.target);
+  if(a==='exp')toggle(e.target);
+  if(a==='dis'){dismissed.has(k)?dismissed.delete(k):dismissed.add(k);store.set('dis',[...dismissed]);if(!$('#showdis').checked)it.remove();else e.target.textContent=dismissed.has(k)?'undismiss':'dismiss'}
+  if(a==='sav'){if(saved[k])delete saved[k];else{const{ex,...y}=x;saved[k]=y}store.set('sav',saved);e.target.className=saved[k]?'saved':'';e.target.textContent=saved[k]?'★ saved':'☆ save'}
+});
+document.querySelectorAll('.tabs a').forEach(a=>a.onclick=()=>{document.querySelectorAll('.tabs a').forEach(b=>b.classList.remove('on'));a.classList.add('on');tab=a.dataset.tab;store.set('tab',tab);render()});
+['q','topic','kind','sort','showdis'].forEach(id=>$('#'+id).addEventListener(id==='q'?'input':'change',render));
+function sel(i){const its=[...document.querySelectorAll('.it')];if(!its.length)return;cur=Math.max(0,Math.min(its.length-1,i));its.forEach(e=>e.classList.remove('cur'));its[cur].classList.add('cur');its[cur].scrollIntoView({block:'nearest'});if(cur>=its.length-3&&shown<view.length)more()}
+document.addEventListener('keydown',e=>{
+  if(e.target.tagName==='INPUT'||e.target.tagName==='SELECT'){if(e.key==='Escape')e.target.blur();return}
+  const its=[...document.querySelectorAll('.it')],it=its[cur];
+  if(e.key==='j')sel(cur+1);else if(e.key==='k')sel(cur-1);else if(e.key==='/'){e.preventDefault();$('#q').focus()}
+  else if(it&&(e.key==='e'||e.key==='Enter'))it.querySelector('[data-a=exp]').click();
+  else if(it&&e.key==='o')window.open(it.querySelector('.tt').href,'_blank');
+  else if(it&&e.key==='x'){it.querySelector('[data-a=dis]').click();sel(cur)}
+  else if(it&&e.key==='s')it.querySelector('[data-a=sav]').click();
+});
+(async()=>{try{const t=await (await fetch('data/topics.json')).json();$('#topic').innerHTML+=t.map(x=>`<option>${esc(x)}</option>`).join('')}catch(e){}
+tab=store.get('tab','links');document.querySelectorAll('.tabs a').forEach(a=>a.classList.toggle('on',a.dataset.tab===tab));render()})();
+</script>
+</body>
+</html>

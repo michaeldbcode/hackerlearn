@@ -1,0 +1,396 @@
+{"id":16582136,"keep":0,"q":1,"kind":"other","topic":"stephen hawking death"}
+{"id":11116274,"keep":0,"q":1,"kind":"other","topic":"apple fbi encryption"}
+{"id":39865810,"keep":1,"q":5,"kind":"postmortem","topic":"xz backdoor"}
+{"id":41002195,"keep":0,"q":1,"kind":"other","topic":"crowdstrike outage"}
+{"id":3078128,"keep":0,"q":1,"kind":"other","topic":"steve jobs death"}
+{"id":31261533,"keep":1,"q":5,"kind":"explainer","topic":"mechanical watch"}
+{"id":24872911,"keep":0,"q":1,"kind":"other","topic":"youtube-dl dmca"}
+{"id":13682022,"keep":1,"q":4,"kind":"essay","topic":"uber workplace culture"}
+{"id":26699106,"keep":0,"q":2,"kind":"other","topic":"google oracle api"}
+{"id":27424195,"keep":0,"q":1,"kind":"blog","topic":"replit legal threats"}
+{"id":26296339,"keep":1,"q":5,"kind":"postmortem","topic":"game loading times"}
+{"id":23065782,"keep":0,"q":2,"kind":"essay","topic":"leaving amazon"}
+{"id":39386156,"keep":0,"q":1,"kind":"other","topic":"text to video"}
+{"id":30347719,"keep":1,"q":3,"kind":"essay","topic":"search quality decline"}
+{"id":22107823,"keep":0,"q":1,"kind":"blog","topic":"google search ads"}
+{"id":28550764,"keep":1,"q":4,"kind":"show_hn","topic":"search engine design"}
+{"id":45283887,"keep":0,"q":1,"kind":"blog","topic":"saas pricing"}
+{"id":29845208,"keep":1,"q":4,"kind":"essay","topic":"web3 critique"}
+{"id":15924794,"keep":0,"q":1,"kind":"journalism","topic":"net neutrality repeal"}
+{"id":26487854,"keep":0,"q":1,"kind":"blog","topic":"github rename"}
+{"id":46205632,"keep":0,"q":1,"kind":"show_hn","topic":"ai generated front page"}
+{"id":20052623,"keep":0,"q":1,"kind":"other","topic":"browser switching advocacy"}
+{"id":22918980,"keep":1,"q":4,"kind":"ask_hn","topic":"career disability"}
+{"id":13718752,"keep":1,"q":5,"kind":"postmortem","topic":"cloudbleed memory leak"}
+{"id":42797260,"keep":1,"q":4,"kind":"show_hn","topic":"open hardware laptop"}
+{"id":29250063,"keep":0,"q":1,"kind":"journalism","topic":"dark patterns ftc"}
+{"id":40345775,"keep":0,"q":1,"kind":"other","topic":"llm model release"}
+{"id":42443229,"keep":1,"q":5,"kind":"explainer","topic":"moon orbit"}
+{"id":11966167,"keep":0,"q":1,"kind":"journalism","topic":"brexit politics"}
+{"id":25015967,"keep":0,"q":1,"kind":"journalism","topic":"us election"}
+{"id":8532261,"keep":0,"q":1,"kind":"journalism","topic":"apple ceo"}
+{"id":42611536,"keep":0,"q":1,"kind":"other","topic":"interactive toy"}
+{"id":33249215,"keep":1,"q":5,"kind":"explainer","topic":"sound waves"}
+{"id":45017028,"keep":0,"q":1,"kind":"journalism","topic":"android developer verification"}
+{"id":13713480,"keep":1,"q":5,"kind":"history","topic":"sha-1 collision"}
+{"id":26887670,"keep":0,"q":2,"kind":"other","topic":"linux kernel security"}
+{"id":41399872,"keep":0,"q":1,"kind":"blog","topic":"anandtech closure"}
+{"id":19728132,"keep":0,"q":2,"kind":"blog","topic":"online business story"}
+{"id":39386156,"keep":0,"q":1,"kind":"other","topic":"macos root login bug"}
+{"id":16319505,"keep":0,"q":1,"kind":"journalism","topic":"falcon heavy launch"}
+{"id":23155647,"keep":0,"q":1,"kind":"journalism","topic":"twitter remote work"}
+{"id":25457440,"keep":0,"q":1,"kind":"other","topic":"github cookies"}
+{"id":43208973,"keep":0,"q":1,"kind":"journalism","topic":"zelensky white house"}
+{"id":45903404,"keep":0,"q":1,"kind":"other","topic":"steam machine"}
+{"id":27676266,"keep":0,"q":1,"kind":"other","topic":"github copilot launch"}
+{"id":7373566,"keep":0,"q":1,"kind":"other","topic":"2048 game"}
+{"id":18224227,"keep":0,"q":1,"kind":"other","topic":"paul allen death"}
+{"id":29981188,"keep":1,"q":5,"kind":"explainer","topic":"gps positioning"}
+{"id":17221527,"keep":0,"q":1,"kind":"journalism","topic":"microsoft github acquisition"}
+{"id":18847043,"keep":0,"q":1,"kind":"other","topic":"github free repos"}
+{"id":23361987,"keep":0,"q":1,"kind":"journalism","topic":"spacex crewed launch"}
+{"id":42845091,"keep":0,"q":1,"kind":"other","topic":"pebble revival"}
+{"id":32768834,"keep":0,"q":1,"kind":"other","topic":"queen elizabeth death"}
+{"id":29772136,"keep":0,"q":1,"kind":"blog","topic":"google search quality"}
+{"id":21589647,"keep":1,"q":2,"kind":"blog","topic":"slack editor ux"}
+{"id":31025061,"keep":0,"q":1,"kind":"journalism","topic":"musk twitter bid"}
+{"id":6258422,"keep":0,"q":1,"kind":"blog","topic":"ramadan travel"}
+{"id":41247023,"keep":0,"q":1,"kind":"show_hn","topic":"youtube channels concept"}
+{"id":15278883,"keep":0,"q":2,"kind":"journalism","topic":"w3c drm"}
+{"id":25941431,"keep":0,"q":1,"kind":"journalism","topic":"robinhood trading limits"}
+{"id":13810015,"keep":0,"q":2,"kind":"journalism","topic":"cia hacking leak"}
+{"id":45742488,"keep":0,"q":1,"kind":"other","topic":"android openness advocacy"}
+{"id":24627363,"keep":1,"q":3,"kind":"essay","topic":"surveillance privacy"}
+{"id":19393279,"keep":1,"q":3,"kind":"show_hn","topic":"retro game console"}
+{"id":27684807,"keep":0,"q":1,"kind":"blog","topic":"amazon listing hijack"}
+{"id":40782130,"keep":0,"q":1,"kind":"journalism","topic":"assange plea deal"}
+{"id":28606962,"keep":0,"q":2,"kind":"blog","topic":"framework laptop review"}
+{"id":6201586,"keep":1,"q":3,"kind":"paper","topic":"hyperloop transport"}
+{"id":25111726,"keep":0,"q":1,"kind":"other","topic":"youtube-dl restored"}
+{"id":23366546,"keep":1,"q":3,"kind":"ask_hn","topic":"programming history"}
+{"id":46219346,"keep":1,"q":3,"kind":"explainer","topic":"biology scale"}
+{"id":18321884,"keep":0,"q":1,"kind":"journalism","topic":"ibm red hat"}
+{"id":25074959,"keep":0,"q":1,"kind":"other","topic":"macos gatekeeper outage"}
+{"id":21871026,"keep":1,"q":3,"kind":"blog","topic":"linux business card"}
+{"id":23851275,"keep":0,"q":1,"kind":"journalism","topic":"twitter account hack"}
+{"id":24965614,"keep":0,"q":1,"kind":"other","topic":"raspberry pi product"}
+{"id":13755673,"keep":0,"q":1,"kind":"ask_hn","topic":"s3 outage"}
+{"id":22867627,"keep":0,"q":1,"kind":"other","topic":"github free teams"}
+{"id":40707558,"keep":0,"q":1,"kind":"journalism","topic":"ftc adobe lawsuit"}
+{"id":18000698,"keep":0,"q":1,"kind":"journalism","topic":"torvalds apology"}
+{"id":26263508,"keep":0,"q":1,"kind":"other","topic":"framework laptop launch"}
+{"id":12494998,"keep":0,"q":1,"kind":"other","topic":"pardon snowden"}
+{"id":39778999,"keep":0,"q":1,"kind":"journalism","topic":"apple monopoly lawsuit"}
+{"id":39526057,"keep":1,"q":5,"kind":"explainer","topic":"airfoil lift"}
+{"id":21190265,"keep":0,"q":1,"kind":"journalism","topic":"hearthstone suspension"}
+{"id":27846969,"keep":0,"q":1,"kind":"other","topic":"steam deck launch"}
+{"id":20260863,"keep":0,"q":1,"kind":"other","topic":"raspberry pi 4"}
+{"id":31153277,"keep":0,"q":1,"kind":"journalism","topic":"twitter musk deal"}
+{"id":18138328,"keep":0,"q":2,"kind":"journalism","topic":"supply chain hack"}
+{"id":12707606,"keep":1,"q":2,"kind":"essay","topic":"kindness essay"}
+{"id":39336139,"keep":1,"q":4,"kind":"blog","topic":"balancing cube"}
+{"id":23610416,"keep":0,"q":1,"kind":"blog","topic":"blogging ethics"}
+{"id":21401973,"keep":0,"q":1,"kind":"journalism","topic":"twitter political ads"}
+{"id":19109474,"keep":0,"q":1,"kind":"blog","topic":"media ethics"}
+{"id":44226145,"keep":0,"q":1,"kind":"other","topic":"tax code software"}
+{"id":39036842,"keep":0,"q":1,"kind":"essay","topic":"personal loss"}
+{"id":41694044,"keep":0,"q":1,"kind":"other","topic":"novelty web project"}
+{"id":45963780,"keep":0,"q":1,"kind":"other","topic":"cloudflare outage"}
+{"id":22050802,"keep":0,"q":1,"kind":"other","topic":"career thanks"}
+{"id":31344981,"keep":0,"q":2,"kind":"other","topic":"nvidia open source drivers"}
+{"id":12073675,"keep":0,"q":1,"kind":"other","topic":"hacker news features"}
+{"id":3288671,"keep":0,"q":1,"kind":"blog","topic":"impersonation scam"}
+{"id":8595905,"keep":0,"q":1,"kind":"other","topic":"dotnet open source"}
+{"id":19632449,"keep":0,"q":1,"kind":"journalism","topic":"assange arrest"}
+{"id":41395413,"keep":1,"q":4,"kind":"explainer","topic":"checkbox bitfield"}
+{"id":18064537,"keep":0,"q":1,"kind":"journalism","topic":"chrome cookies"}
+{"id":25225775,"keep":0,"q":1,"kind":"other","topic":"thanks dang"}
+{"id":16619917,"keep":0,"q":1,"kind":"journalism","topic":"uber self-driving crash"}
+{"id":41046773,"keep":0,"q":2,"kind":"other","topic":"open source ai"}
+{"id":18052923,"keep":1,"q":3,"kind":"essay","topic":"browser security"}
+{"id":44163063,"keep":1,"q":4,"kind":"essay","topic":"ai coding"}
+{"id":32850178,"keep":0,"q":1,"kind":"journalism","topic":"adobe figma"}
+{"id":27390512,"keep":1,"q":3,"kind":"blog","topic":"system profiling"}
+{"id":16065845,"keep":1,"q":5,"kind":"paper","topic":"spectre side channel"}
+{"id":26991300,"keep":1,"q":5,"kind":"explainer","topic":"internal combustion engine"}
+{"id":27370026,"keep":0,"q":1,"kind":"journalism","topic":"stack overflow sale"}
+{"id":24488224,"keep":0,"q":1,"kind":"blog","topic":"instagram data leak"}
+{"id":42517447,"keep":0,"q":2,"kind":"other","topic":"terminal emulator release"}
+{"id":25415989,"keep":0,"q":1,"kind":"other","topic":"google outage"}
+{"id":42102506,"keep":0,"q":1,"kind":"other","topic":"viral image"}
+{"id":40906148,"keep":1,"q":4,"kind":"blog","topic":"barcode reverse engineering"}
+{"id":22843306,"keep":0,"q":1,"kind":"other","topic":"john conway death"}
+{"id":21611677,"keep":0,"q":1,"kind":"other","topic":"save org"}
+{"id":19719380,"keep":0,"q":1,"kind":"blog","topic":"startup cloning dispute"}
+{"id":22236106,"keep":0,"q":2,"kind":"other","topic":"chrome tracking id"}
+{"id":43462783,"keep":0,"q":1,"kind":"journalism","topic":"group chat leak"}
+{"id":23689549,"keep":1,"q":4,"kind":"essay","topic":"redis history"}
+{"id":15316175,"keep":0,"q":1,"kind":"other","topic":"react relicensing"}
+{"id":30450336,"keep":0,"q":1,"kind":"journalism","topic":"russia ukraine invasion"}
+{"id":22106536,"keep":0,"q":1,"kind":"journalism","topic":"apple encrypted backups"}
+{"id":41827362,"keep":0,"q":1,"kind":"other","topic":"starship flight"}
+{"id":28079171,"keep":0,"q":2,"kind":"other","topic":"apple csam scanning"}
+{"id":13707547,"keep":0,"q":2,"kind":"journalism","topic":"exoplanets discovery"}
+{"id":25662215,"keep":0,"q":1,"kind":"journalism","topic":"whatsapp data policy"}
+{"id":45640838,"keep":0,"q":1,"kind":"other","topic":"aws outage"}
+{"id":29627105,"keep":0,"q":1,"kind":"other","topic":"google maps easter egg"}
+{"id":32996953,"keep":0,"q":1,"kind":"blog","topic":"identity impersonation"}
+{"id":40456834,"keep":0,"q":1,"kind":"other","topic":"e-paper tablet product"}
+{"id":23703367,"keep":0,"q":1,"kind":"journalism","topic":"earn it act"}
+{"id":10037157,"keep":0,"q":1,"kind":"other","topic":"google announcement"}
+{"id":20200335,"keep":0,"q":1,"kind":"journalism","topic":"mazda touchscreens"}
+{"id":45751400,"keep":1,"q":3,"kind":"blog","topic":"python tooling"}
+{"id":40077533,"keep":0,"q":1,"kind":"other","topic":"meta llama release"}
+{"id":19798678,"keep":1,"q":4,"kind":"history","topic":"ie6 history"}
+{"id":46124267,"keep":0,"q":1,"kind":"journalism","topic":"anthropic bun acquisition"}
+{"id":30689043,"keep":0,"q":1,"kind":"journalism","topic":"daylight saving law"}
+{"id":15686653,"keep":1,"q":4,"kind":"blog","topic":"firefox performance"}
+{"id":13747414,"keep":0,"q":1,"kind":"essay","topic":"uber harassment"}
+{"id":19624226,"keep":0,"q":2,"kind":"other","topic":"black hole image"}
+{"id":16877395,"keep":0,"q":1,"kind":"other","topic":"foundationdb open source"}
+{"id":25357315,"keep":1,"q":5,"kind":"explainer","topic":"camera optics"}
+{"id":45396441,"keep":0,"q":1,"kind":"other","topic":"webgl planet game"}
+{"id":43163011,"keep":0,"q":1,"kind":"other","topic":"claude release"}
+{"id":44800746,"keep":0,"q":1,"kind":"other","topic":"open models release"}
+{"id":12591617,"keep":0,"q":1,"kind":"other","topic":"multiplanetary video"}
+{"id":24464807,"keep":0,"q":1,"kind":"journalism","topic":"nvidia arm acquisition"}
+{"id":14600873,"keep":0,"q":1,"kind":"journalism","topic":"kalanick resigns"}
+{"id":41549649,"keep":0,"q":2,"kind":"journalism","topic":"youtube production leak"}
+{"id":39132453,"keep":0,"q":1,"kind":"journalism","topic":"apple eu changes"}
+{"id":42135520,"keep":1,"q":3,"kind":"show_hn","topic":"e-ink display"}
+{"id":14299628,"keep":0,"q":1,"kind":"tutorial","topic":"music production"}
+{"id":27395635,"keep":0,"q":2,"kind":"other","topic":"search censorship"}
+{"id":5046845,"keep":0,"q":1,"kind":"journalism","topic":"aaron swartz death"}
+{"id":19105733,"keep":1,"q":3,"kind":"essay","topic":"startup failure"}
+{"id":21202905,"keep":1,"q":4,"kind":"history","topic":"unix password hash"}
+{"id":20044430,"keep":0,"q":1,"kind":"journalism","topic":"chrome ad blocking"}
+{"id":27609027,"keep":0,"q":1,"kind":"journalism","topic":"mcafee death"}
+{"id":33022768,"keep":0,"q":1,"kind":"journalism","topic":"stadia shutdown"}
+{"id":9003791,"keep":1,"q":3,"kind":"journalism","topic":"email encryption"}
+{"id":19989684,"keep":0,"q":1,"kind":"other","topic":"github sponsors"}
+{"id":23172483,"keep":0,"q":1,"kind":"other","topic":"deno release"}
+{"id":45483386,"keep":0,"q":1,"kind":"journalism","topic":"korea data center fire"}
+{"id":27833064,"keep":1,"q":2,"kind":"essay","topic":"persistence startup"}
+{"id":17015661,"keep":1,"q":4,"kind":"essay","topic":"functional programming"}
+{"id":45087396,"keep":1,"q":3,"kind":"essay","topic":"hardware freedom"}
+{"id":44826997,"keep":0,"q":1,"kind":"other","topic":"gpt-5 release"}
+{"id":21517722,"keep":0,"q":1,"kind":"journalism","topic":"border device search"}
+{"id":7216471,"keep":0,"q":1,"kind":"other","topic":"protest"}
+{"id":3491542,"keep":0,"q":1,"kind":"other","topic":"startup request"}
+{"id":32186203,"keep":1,"q":4,"kind":"ask_hn","topic":"data structures"}
+{"id":29978723,"keep":0,"q":1,"kind":"journalism","topic":"activision acquisition"}
+{"id":11893153,"keep":0,"q":1,"kind":"journalism","topic":"linkedin acquisition"}
+{"id":11390545,"keep":0,"q":2,"kind":"other","topic":"wsl announcement"}
+{"id":28637276,"keep":1,"q":4,"kind":"blog","topic":"ios zero-day"}
+{"id":33529838,"keep":0,"q":1,"kind":"journalism","topic":"meta layoffs"}
+{"id":23273247,"keep":1,"q":4,"kind":"blog","topic":"macos performance"}
+{"id":19367850,"keep":0,"q":1,"kind":"other","topic":"firefox send launch"}
+{"id":17515492,"keep":0,"q":1,"kind":"other","topic":"python bdfl"}
+{"id":26061935,"keep":0,"q":1,"kind":"journalism","topic":"stadia terraria"}
+{"id":15940144,"keep":0,"q":2,"kind":"blog","topic":"firefox policy"}
+{"id":26721951,"keep":0,"q":1,"kind":"ask_hn","topic":"low effort jobs"}
+{"id":25854523,"keep":0,"q":1,"kind":"other","topic":"exercise database"}
+{"id":8624160,"keep":0,"q":2,"kind":"other","topic":"letsencrypt launch"}
+{"id":46313991,"keep":0,"q":1,"kind":"other","topic":"acm open access"}
+{"id":44063703,"keep":0,"q":1,"kind":"other","topic":"claude 4 release"}
+{"id":11080701,"keep":0,"q":2,"kind":"journalism","topic":"gravitational waves news"}
+{"id":32179563,"keep":1,"q":2,"kind":"blog","topic":"web design"}
+{"id":20985875,"keep":1,"q":4,"kind":"blog","topic":"solo infrastructure"}
+{"id":25964226,"keep":0,"q":1,"kind":"journalism","topic":"element play store"}
+{"id":19087418,"keep":1,"q":2,"kind":"ask_hn","topic":"reading recommendations"}
+{"id":41392128,"keep":1,"q":3,"kind":"blog","topic":"sql injection"}
+{"id":23480918,"keep":0,"q":1,"kind":"journalism","topic":"zoom activist account"}
+{"id":41386319,"keep":1,"q":3,"kind":"blog","topic":"air conditioner controls"}
+{"id":7884560,"keep":0,"q":1,"kind":"other","topic":"tesla patents"}
+{"id":26271117,"keep":1,"q":4,"kind":"show_hn","topic":"single file executables"}
+{"id":21790396,"keep":0,"q":2,"kind":"essay","topic":"having kids"}
+{"id":7566069,"keep":0,"q":1,"kind":"other","topic":"dropbox alternatives"}
+{"id":25661474,"keep":0,"q":1,"kind":"journalism","topic":"capitol lockdown"}
+{"id":33566924,"keep":0,"q":1,"kind":"other","topic":"bubbles toy"}
+{"id":41060102,"keep":1,"q":4,"kind":"blog","topic":"git forks data exposure"}
+{"id":14330547,"keep":1,"q":5,"kind":"postmortem","topic":"wannacry kill switch"}
+{"id":43595269,"keep":0,"q":2,"kind":"essay","topic":"advertising ban"}
+{"id":43322922,"keep":0,"q":1,"kind":"journalism","topic":"ublock origin removal"}
+{"id":39161339,"keep":1,"q":2,"kind":"essay","topic":"checkbox ui"}
+{"id":5371725,"keep":0,"q":1,"kind":"other","topic":"google reader shutdown"}
+{"id":23828253,"keep":0,"q":1,"kind":"other","topic":"grant imahara death"}
+{"id":25691912,"keep":0,"q":1,"kind":"journalism","topic":"trump suspension"}
+{"id":15965653,"keep":1,"q":3,"kind":"essay","topic":"maps business"}
+{"id":3105526,"keep":0,"q":1,"kind":"other","topic":"dennis ritchie death"}
+{"id":42909921,"keep":1,"q":4,"kind":"blog","topic":"ad location tracking"}
+{"id":43378239,"keep":0,"q":1,"kind":"other","topic":"docs open source"}
+{"id":10226196,"keep":0,"q":1,"kind":"journalism","topic":"school clock arrest"}
+{"id":20955103,"keep":0,"q":1,"kind":"journalism","topic":"private prisons ban"}
+{"id":26638145,"keep":0,"q":2,"kind":"journalism","topic":"ubiquiti breach"}
+{"id":26006656,"keep":0,"q":1,"kind":"other","topic":"bezos email"}
+{"id":20387298,"keep":1,"q":3,"kind":"blog","topic":"zoom webcam exploit"}
+{"id":43700607,"keep":0,"q":1,"kind":"journalism","topic":"cve program funding"}
+{"id":19756125,"keep":0,"q":2,"kind":"blog","topic":"email deliverability"}
+{"id":23331287,"keep":1,"q":2,"kind":"postmortem","topic":"appget shutdown"}
+{"id":19706514,"keep":0,"q":1,"kind":"other","topic":"joe armstrong death"}
+{"id":16493489,"keep":1,"q":4,"kind":"tutorial","topic":"machine learning"}
+{"id":30615959,"keep":0,"q":1,"kind":"other","topic":"pockit computer"}
+{"id":22738415,"keep":0,"q":1,"kind":"journalism","topic":"honda touchscreen"}
+{"id":19553941,"keep":1,"q":3,"kind":"blog","topic":"browser engineering"}
+{"id":23168874,"keep":0,"q":1,"kind":"blog","topic":"google extension policy"}
+{"id":45903325,"keep":0,"q":1,"kind":"other","topic":"steam frame"}
+{"id":28844101,"keep":1,"q":2,"kind":"blog","topic":"iot security"}
+{"id":9784470,"keep":0,"q":1,"kind":"journalism","topic":"same-sex marriage ruling"}
+{"id":19377322,"keep":0,"q":1,"kind":"journalism","topic":"spotify apple"}
+{"id":38858012,"keep":0,"q":1,"kind":"other","topic":"wirth death"}
+{"id":42136259,"keep":0,"q":1,"kind":"journalism","topic":"onion infowars"}
+{"id":26891811,"keep":1,"q":4,"kind":"blog","topic":"forensic tool exploits"}
+{"id":43859446,"keep":0,"q":1,"kind":"other","topic":"redis license"}
+{"id":16727869,"keep":0,"q":2,"kind":"other","topic":"1.1.1.1 launch"}
+{"id":39063242,"keep":1,"q":3,"kind":"blog","topic":"hotel touchscreen"}
+{"id":32715437,"keep":1,"q":4,"kind":"essay","topic":"self hosting email"}
+{"id":25033844,"keep":0,"q":1,"kind":"journalism","topic":"covid vaccine"}
+{"id":40133976,"keep":0,"q":2,"kind":"journalism","topic":"google search decline"}
+{"id":31033758,"keep":1,"q":3,"kind":"blog","topic":"github stars fraud"}
+{"id":14911467,"keep":0,"q":1,"kind":"other","topic":"job board launch"}
+{"id":23102430,"keep":0,"q":1,"kind":"journalism","topic":"zoom keybase acquisition"}
+{"id":24155609,"keep":0,"q":1,"kind":"other","topic":"factorio release"}
+{"id":43561253,"keep":0,"q":1,"kind":"journalism","topic":"tariffs"}
+{"id":10982340,"keep":0,"q":1,"kind":"other","topic":"basic income research"}
+{"id":26787654,"keep":0,"q":1,"kind":"essay","topic":"personal finance essay"}
+{"id":17022963,"keep":1,"q":3,"kind":"paper","topic":"conversational ai"}
+{"id":23603866,"keep":0,"q":1,"kind":"journalism","topic":"apple arm processors"}
+{"id":20876248,"keep":0,"q":2,"kind":"blog","topic":"gdpr consent"}
+{"id":43750535,"keep":0,"q":1,"kind":"blog","topic":"microsoft fork dispute"}
+{"id":42786962,"keep":0,"q":1,"kind":"journalism","topic":"ulbricht pardon"}
+{"id":43094260,"keep":0,"q":1,"kind":"other","topic":"tf2 source release"}
+{"id":42314547,"keep":0,"q":1,"kind":"other","topic":"viral image"}
+{"id":5218288,"keep":0,"q":1,"kind":"blog","topic":"tesla test drive"}
+{"id":28942189,"keep":1,"q":3,"kind":"essay","topic":"career learning"}
+{"id":32884467,"keep":0,"q":1,"kind":"show_hn","topic":"puzzle game"}
+{"id":24201306,"keep":0,"q":1,"kind":"journalism","topic":"oculus facebook login"}
+{"id":13356318,"keep":0,"q":1,"kind":"journalism","topic":"atlassian trello"}
+{"id":12136578,"keep":0,"q":1,"kind":"journalism","topic":"suing us government"}
+{"id":16202205,"keep":0,"q":1,"kind":"other","topic":"kernel mailing list drama"}
+{"id":12133766,"keep":0,"q":1,"kind":"other","topic":"tesla master plan"}
+{"id":17462089,"keep":0,"q":1,"kind":"journalism","topic":"eu copyright vote"}
+{"id":23634138,"keep":0,"q":1,"kind":"journalism","topic":"tiktok clipboard"}
+{"id":33240341,"keep":0,"q":1,"kind":"journalism","topic":"copilot lawsuit"}
+{"id":42768072,"keep":0,"q":1,"kind":"other","topic":"deepseek r1 release"}
+{"id":13921433,"keep":0,"q":1,"kind":"journalism","topic":"github ip policy"}
+{"id":21523780,"keep":0,"q":1,"kind":"other","topic":"macbook pro launch"}
+{"id":31544634,"keep":0,"q":1,"kind":"blog","topic":"teaching cheating"}
+{"id":11781053,"keep":0,"q":1,"kind":"journalism","topic":"oracle google verdict"}
+{"id":20854214,"keep":0,"q":1,"kind":"ask_hn","topic":"hacker news redesign"}
+{"id":6181081,"keep":0,"q":2,"kind":"journalism","topic":"lavabit shutdown"}
+{"id":40503202,"keep":1,"q":3,"kind":"show_hn","topic":"terminal effects"}
+{"id":22594549,"keep":0,"q":1,"kind":"other","topic":"npm github acquisition"}
+{"id":19490573,"keep":0,"q":2,"kind":"blog","topic":"difficult conversations"}
+{"id":43332830,"keep":1,"q":4,"kind":"blog","topic":"typescript performance"}
+{"id":43558671,"keep":0,"q":1,"kind":"other","topic":"hn moderator"}
+{"id":10669891,"keep":0,"q":1,"kind":"other","topic":"swift open source"}
+{"id":43066953,"keep":1,"q":3,"kind":"blog","topic":"software complexity"}
+{"id":30932095,"keep":0,"q":1,"kind":"other","topic":"dall-e 2 release"}
+{"id":2555349,"keep":1,"q":4,"kind":"show_hn","topic":"jslinux emulator"}
+{"id":22911533,"keep":0,"q":1,"kind":"essay","topic":"startup manifesto"}
+{"id":43615912,"keep":0,"q":1,"kind":"journalism","topic":"japan trading cards"}
+{"id":12907201,"keep":0,"q":1,"kind":"journalism","topic":"trump election win"}
+{"id":45936460,"keep":0,"q":2,"kind":"journalism","topic":"archive today pressure"}
+{"id":27016630,"keep":1,"q":5,"kind":"blog","topic":"sqlite static hosting"}
+{"id":40654190,"keep":0,"q":2,"kind":"essay","topic":"startup finance"}
+{"id":42655870,"keep":0,"q":1,"kind":"blog","topic":"personal essay"}
+{"id":45640226,"keep":1,"q":3,"kind":"explainer","topic":"space elevator"}
+{"id":26174269,"keep":0,"q":1,"kind":"blog","topic":"subscription cancellation"}
+{"id":18566929,"keep":0,"q":1,"kind":"blog","topic":"patent claim"}
+{"id":27541339,"keep":1,"q":3,"kind":"explainer","topic":"kafka"}
+{"id":21103683,"keep":0,"q":1,"kind":"journalism","topic":"windows offline account"}
+{"id":25623858,"keep":0,"q":2,"kind":"journalism","topic":"ad fraud"}
+{"id":40447431,"keep":0,"q":1,"kind":"journalism","topic":"openai former employees"}
+{"id":38845510,"keep":1,"q":2,"kind":"show_hn","topic":"pacman game"}
+{"id":21046547,"keep":1,"q":4,"kind":"blog","topic":"serverless cost"}
+{"id":23223219,"keep":0,"q":1,"kind":"journalism","topic":"youtube comment deletion"}
+{"id":39520776,"keep":0,"q":1,"kind":"blog","topic":"cloud billing"}
+{"id":23848039,"keep":1,"q":4,"kind":"paper","topic":"interview anxiety"}
+{"id":28162412,"keep":0,"q":1,"kind":"journalism","topic":"apple child safety"}
+{"id":10347821,"keep":0,"q":1,"kind":"other","topic":"yc research"}
+{"id":38806270,"keep":0,"q":1,"kind":"blog","topic":"firefox advocacy"}
+{"id":44567857,"keep":1,"q":3,"kind":"essay","topic":"llm adoption"}
+{"id":43128253,"keep":0,"q":1,"kind":"journalism","topic":"apple data protection"}
+{"id":23092904,"keep":0,"q":1,"kind":"other","topic":"github codespaces"}
+{"id":42489645,"keep":1,"q":4,"kind":"essay","topic":"cognitive load"}
+{"id":7548991,"keep":1,"q":5,"kind":"history","topic":"heartbleed"}
+{"id":16483241,"keep":0,"q":2,"kind":"blog","topic":"quitting google"}
+{"id":21602437,"keep":0,"q":1,"kind":"other","topic":"tesla cybertruck"}
+{"id":31862258,"keep":0,"q":1,"kind":"journalism","topic":"roe overturned"}
+{"id":12701272,"keep":0,"q":1,"kind":"other","topic":"google hiring test"}
+{"id":5215884,"keep":1,"q":3,"kind":"blog","topic":"heroku rails"}
+{"id":45610226,"keep":1,"q":4,"kind":"blog","topic":"kindle drm"}
+{"id":21233041,"keep":0,"q":1,"kind":"journalism","topic":"ublock chrome review"}
+{"id":46338339,"keep":0,"q":1,"kind":"journalism","topic":"spotify backup"}
+{"id":43282905,"keep":0,"q":1,"kind":"other","topic":"mistral ocr release"}
+{"id":46160315,"keep":0,"q":1,"kind":"journalism","topic":"netflix warner acquisition"}
+{"id":18249755,"keep":1,"q":2,"kind":"explainer","topic":"paper airplane design"}
+{"id":25363366,"keep":0,"q":1,"kind":"journalism","topic":"ftc facebook lawsuit"}
+{"id":33357197,"keep":1,"q":4,"kind":"show_hn","topic":"3d scanning pyramid"}
+{"id":30186326,"keep":0,"q":1,"kind":"journalism","topic":"facebook user loss"}
+{"id":46252114,"keep":0,"q":1,"kind":"blog","topic":"apple id lockout"}
+{"id":17570029,"keep":1,"q":2,"kind":"blog","topic":"openstreetmap"}
+{"id":41858665,"keep":0,"q":1,"kind":"journalism","topic":"click to cancel rule"}
+{"id":20990583,"keep":0,"q":1,"kind":"journalism","topic":"stallman resigns"}
+{"id":13748302,"keep":0,"q":1,"kind":"journalism","topic":"spacex dragon moon"}
+{"id":28554565,"keep":0,"q":1,"kind":"other","topic":"clive sinclair death"}
+{"id":27427330,"keep":1,"q":3,"kind":"blog","topic":"seo spam"}
+{"id":19273955,"keep":0,"q":1,"kind":"journalism","topic":"elsevier subscriptions"}
+{"id":3383209,"keep":0,"q":1,"kind":"journalism","topic":"sopa demo day"}
+{"id":20264911,"keep":0,"q":1,"kind":"ask_hn","topic":"raspberry pi uses"}
+{"id":10575953,"keep":0,"q":1,"kind":"blog","topic":"jessica livingston"}
+{"id":24522908,"keep":0,"q":1,"kind":"journalism","topic":"ginsburg death"}
+{"id":17967366,"keep":0,"q":1,"kind":"journalism","topic":"eu upload filter"}
+{"id":17223116,"keep":0,"q":1,"kind":"other","topic":"gitlab import spike"}
+{"id":3174961,"keep":0,"q":1,"kind":"essay","topic":"steve jobs eulogy"}
+{"id":45967211,"keep":0,"q":1,"kind":"other","topic":"gemini 3 release"}
+{"id":30504812,"keep":0,"q":1,"kind":"journalism","topic":"namecheap russia"}
+{"id":14031452,"keep":0,"q":1,"kind":"journalism","topic":"turing award"}
+{"id":23167794,"keep":0,"q":1,"kind":"other","topic":"unreal engine 5 preview"}
+{"id":5330998,"keep":1,"q":2,"kind":"blog","topic":"web ui design"}
+{"id":40358041,"keep":0,"q":1,"kind":"other","topic":"veo release"}
+{"id":25648585,"keep":0,"q":1,"kind":"other","topic":"github iran"}
+{"id":11348798,"keep":1,"q":4,"kind":"essay","topic":"npm dependencies"}
+{"id":20624576,"keep":1,"q":4,"kind":"blog","topic":"touchscreen hack"}
+{"id":42473321,"keep":0,"q":1,"kind":"other","topic":"arc-agi benchmark"}
+{"id":39479001,"keep":0,"q":2,"kind":"blog","topic":"phishing"}
+{"id":26251143,"keep":0,"q":1,"kind":"essay","topic":"personal story"}
+{"id":24356741,"keep":0,"q":1,"kind":"journalism","topic":"nsa call records"}
+{"id":21923220,"keep":0,"q":1,"kind":"journalism","topic":"irs free file"}
+{"id":15752022,"keep":0,"q":1,"kind":"journalism","topic":"uber data ransom"}
+{"id":30784939,"keep":0,"q":1,"kind":"essay","topic":"personal essay"}
+{"id":40986894,"keep":0,"q":2,"kind":"essay","topic":"job market"}
+{"id":12684980,"keep":0,"q":1,"kind":"other","topic":"yarn release"}
+{"id":8422599,"keep":0,"q":1,"kind":"other","topic":"hacker news api"}
+{"id":25802366,"keep":1,"q":3,"kind":"postmortem","topic":"safe browsing"}
+{"id":29789137,"keep":0,"q":1,"kind":"journalism","topic":"elizabeth holmes verdict"}
+{"id":41578483,"keep":1,"q":4,"kind":"essay","topic":"word frequency data"}
+{"id":32927360,"keep":0,"q":1,"kind":"other","topic":"whisper release"}
+{"id":24146987,"keep":0,"q":1,"kind":"journalism","topic":"fortnite app store"}
+{"id":29387264,"keep":0,"q":2,"kind":"blog","topic":"stripe hiring"}
+{"id":14952787,"keep":0,"q":1,"kind":"journalism","topic":"google memo firing"}
+{"id":44972151,"keep":0,"q":1,"kind":"journalism","topic":"aws ceo ai jobs"}
+{"id":15694926,"keep":0,"q":1,"kind":"other","topic":"firefox 57 release"}
+{"id":26083919,"keep":1,"q":3,"kind":"show_hn","topic":"vs code github"}
+{"id":28394035,"keep":0,"q":1,"kind":"journalism","topic":"usb cable product"}
+{"id":29834753,"keep":0,"q":1,"kind":"ask_hn","topic":"salary data sale"}
+{"id":6133349,"keep":0,"q":2,"kind":"journalism","topic":"nsa xkeyscore"}
+{"id":14568468,"keep":0,"q":1,"kind":"journalism","topic":"amazon whole foods"}
+{"id":26337046,"keep":0,"q":1,"kind":"other","topic":"hacking essay"}
+{"id":26422799,"keep":1,"q":2,"kind":"show_hn","topic":"emoji domain email"}
+{"id":42910910,"keep":0,"q":1,"kind":"journalism","topic":"doge engineers"}
+{"id":16775744,"keep":1,"q":3,"kind":"ask_hn","topic":"electronics learning"}
+{"id":31433556,"keep":0,"q":1,"kind":"other","topic":"framework laptop launch"}
+{"id":7211514,"keep":0,"q":1,"kind":"other","topic":"facebook fraud video"}
+{"id":10904671,"keep":0,"q":1,"kind":"blog","topic":"github letter"}
+{"id":43401245,"keep":0,"q":1,"kind":"journalism","topic":"apple pebble restriction"}
+{"id":22022466,"keep":1,"q":4,"kind":"essay","topic":"clean code"}
+{"id":18094823,"keep":0,"q":1,"kind":"journalism","topic":"facebook breach"}
+{"id":22925087,"keep":0,"q":1,"kind":"other","topic":"github shirt"}
+{"id":21447215,"keep":0,"q":2,"kind":"blog","topic":"patent troll lawsuit"}
+{"id":12649414,"keep":0,"q":1,"kind":"other","topic":"rethinkdb shutdown"}
+{"id":15368353,"keep":0,"q":1,"kind":"blog","topic":"firefox opinion"}
+{"id":21762640,"keep":0,"q":2,"kind":"essay","topic":"learning at work"}
+{"id":39369653,"keep":0,"q":1,"kind":"journalism","topic":"encryption ban ruling"}
+{"id":26201160,"keep":1,"q":3,"kind":"explainer","topic":"buoyancy"}
+{"id":23309269,"keep":1,"q":2,"kind":"explainer","topic":"aws services"}
