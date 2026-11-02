@@ -58,7 +58,7 @@
 {"id": 14639967, "keep": 1, "q": 4, "kind": "paper", "topic": "smartphone cognition"}
 {"id": 15444607, "keep": 1, "q": 4, "kind": "tutorial", "topic": "intel management engine"}
 {"id": 27295906, "keep": 1, "q": 3, "kind": "essay", "topic": "research integrity"}
-{"id": 29254147, "keep": 0, "q": 2, "kind": "show_hn", "topic": "browser automation"}
+{"id": 29254147, "keep": 0, "q": 1, "kind": "show_hn", "topic": "browser automation"}
 {"id": 25951390, "keep": 0, "q": 1, "kind": "journalism", "topic": "app store reviews"}
 {"id": 42871371, "keep": 0, "q": 2, "kind": "journalism", "topic": "ai data leak"}
 {"id": 23709016, "keep": 0, "q": 1, "kind": "other", "topic": "web history"}

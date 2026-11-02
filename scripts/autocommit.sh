@@ -8,6 +8,6 @@ while true; do
   git commit -q --no-verify -m "Checkpoint: labels + site rebuild $(date -u +%H:%M)
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_015fWBz5xwHi2yjNbXW5rTf2" >/dev/null 2>&1 && git push -q --no-verify >/dev/null 2>&1
+Claude-Session: https://claude.ai/code/session_015fWBz7FAdrs5P38WugE4Tu" >/dev/null 2>&1 && git push -q --no-verify >/dev/null 2>&1
   sleep 120
 done
