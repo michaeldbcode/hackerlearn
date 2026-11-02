@@ -1,0 +1,100 @@
+{"id": 7284868, "keep": 0, "q": 1, "topic": "recruiting anecdote", "title": "Google recruiter anecdote about performance engineering", "why": "Personal recruiting anecdote with no transferable technical lesson."}
+{"id": 30083883, "keep": 0, "q": 1, "topic": "web content dating", "title": "Why companies hide blog post dates", "why": "Speculation that firms remove dates so stale blogs do not look inactive; opinion without evidence."}
+{"id": 5265720, "keep": 0, "q": 1, "topic": "web server benchmarks", "title": "ApacheBench output comparing Go and Node", "why": "Raw benchmark output without controls, analysis, or conclusions."}
+{"id": 39658466, "keep": 0, "q": 1, "topic": "cycling helmets", "title": "Argument against cycling helmet advocacy", "why": "Advocacy argument about helmets and infrastructure, not a technical explanation."}
+{"id": 6231760, "keep": 1, "q": 5, "topic": "watch mechanisms", "title": "How Geneva drives, heart cams and date wheels work", "why": "Geneva drives limit mainspring range to fix uneven timing; heart cams reset chronograph hammers to one fixed position."}
+{"id": 27990331, "keep": 0, "q": 1, "topic": "psychosis causes", "title": "Claim that psychosis is a metabolic fuel failure", "why": "Unsupported causal claims drawn from anecdote; the central thesis lacks evidence."}
+{"id": 32884215, "keep": 0, "q": 1, "topic": "grunge music history", "title": "Rumored history of SubPop and Nirvana", "why": "Admittedly speculative rumor and conjecture about record labels."}
+{"id": 6145768, "keep": 0, "q": 1, "topic": "japanese name registration", "title": "Anecdote about registering foreign names in Japan", "why": "Personal bureaucratic anecdote; a story rather than a generalizable explanation."}
+{"id": 8572548, "keep": 1, "q": 3, "topic": "tor traffic analysis", "title": "Why darknet servers in datacenters are traceable", "why": "Tor hides endpoints but not traffic volume, so datacenters can spot heavy Tor servers and image them."}
+{"id": 20142233, "keep": 0, "q": 1, "topic": "career burnout", "title": "Venting about software career burnout", "why": "Emotional venting about work life with no technical lesson."}
+{"id": 8244932, "keep": 1, "q": 3, "topic": "semantic versioning", "title": "Why SemVer trades human meaning for mechanical rules", "why": "SemVer packs change scope, user impact and severity into one number, which can mislead human judgment."}
+{"id": 673946, "keep": 0, "q": 1, "topic": "it job satisfaction", "title": "Complaints about being the lone IT worker", "why": "Personal workplace complaint without technical explanation."}
+{"id": 5053616, "keep": 0, "q": 1, "topic": "legal sentencing debate", "title": "Perspective on the Swartz case and sentencing", "why": "Argumentative legal opinion about US sentencing and civil disobedience."}
+{"id": 24455443, "keep": 1, "q": 4, "topic": "transformer internals", "title": "Logit lens shows one representation across layers", "why": "Decoding intermediate GPT layers with the final head reveals a consistent representation throughout the network, not gradual refinement."}
+{"id": 22524552, "keep": 0, "q": 1, "topic": "guake history", "title": "Origin story of Guake and attribution dispute", "why": "Project history and attribution grievance, not transferable technical knowledge."}
+{"id": 2211224, "keep": 0, "q": 1, "topic": "ip law debate", "title": "Argument that IP laws enable innovation", "why": "Reasoned position on IP policy; argument rather than explanation."}
+{"id": 4519563, "keep": 0, "q": 1, "topic": "argentina politics", "title": "Rant on Argentine government corruption", "why": "Political opinion."}
+{"id": 20903229, "keep": 1, "q": 3, "topic": "aws console design", "title": "Why the AWS console gets less investment than APIs", "why": "Insider account: AWS assumed users would use APIs, so console work depended on case-by-case team priorities."}
+{"id": 24579860, "keep": 0, "q": 1, "topic": "app store politics", "title": "Opinion on Match, Epic and Spotify", "why": "Company-bashing opinion."}
+{"id": 18022741, "keep": 1, "q": 4, "topic": "disparate impact law", "title": "Disparate impact: discrimination without intent", "why": "Griggs v. Duke Power held that facially neutral practices with discriminatory effects violate the Civil Rights Act, regardless of intent."}
+{"id": 31227888, "keep": 0, "q": 1, "topic": "bromantane pharmacology", "title": "Discussion of bromantane's neurochemical effects", "why": "Speculative discussion of mechanisms with open questions and no firm conclusions."}
+{"id": 15452647, "keep": 0, "q": 1, "topic": "automation anecdote", "title": "Scripted monitoring of an immigration portal", "why": "Personal story about polling a website; too anecdotal to serve as a transferable guide."}
+{"id": 14942385, "keep": 0, "q": 1, "topic": "new orleans family", "title": "Personal family story about moving home", "why": "Personal life anecdote."}
+{"id": 1531188, "keep": 0, "q": 1, "topic": "child services story", "title": "Account of a child services investigation", "why": "Personal account of legal and family conflict."}
+{"id": 6308018, "keep": 0, "q": 1, "topic": "india startups", "title": "Rebuttal of an article on India for startups", "why": "Opinion and argument about outsourcing and India's startup climate."}
+{"id": 5072755, "keep": 1, "q": 3, "topic": "bakken oil boom", "title": "Why the Bakken boom outpaces its infrastructure", "why": "Drilling outpaces pipeline capacity, so associated natural gas lacks markets and trucked oil strains roads."}
+{"id": 22961835, "keep": 0, "q": 1, "topic": "covid policy", "title": "Argument about containment versus mitigation", "why": "Opinion on COVID strategy framed as competing ideologies."}
+{"id": 8864094, "keep": 0, "q": 1, "topic": "science funding politics", "title": "Argument that science was defunded", "why": "Political argument about funding and monopolies."}
+{"id": 26320584, "keep": 0, "q": 1, "topic": "methane livestock", "title": "Argument that livestock methane is not rising", "why": "Advocacy argument with loose numbers; not an explanation a reader can rely on."}
+{"id": 31593658, "keep": 0, "q": 1, "topic": "video game graphics", "title": "Essay comparing film and game technology history", "why": "Opinion essay with historical examples; mostly argument."}
+{"id": 4685720, "keep": 0, "q": 1, "topic": "behavioral genetics", "title": "Pointers to heritability research and syllabi", "why": "Mostly course links and context; the visible text does not yet deliver a self-contained explanation."}
+{"id": 3469660, "keep": 0, "q": 1, "topic": "hn community culture", "title": "Newcomer perspective on HN community quality", "why": "Opinion about community norms."}
+{"id": 5686054, "keep": 0, "q": 1, "topic": "philosophy of math", "title": "Platonism versus constructed mathematics debate", "why": "Quoted philosophical debate; argument rather than explanation."}
+{"id": 7989219, "keep": 0, "q": 1, "topic": "java vs scala", "title": "Political commentary on language performance debates", "why": "Opinion about business politics and performance FUD."}
+{"id": 969878, "keep": 1, "q": 3, "topic": "hospital it culture", "title": "Why hospital IT clashes with clinical safety culture", "why": "An ER nurse explains that medicine's slow, safety-first change culture conflicts with fast software cycles, harming workflows."}
+{"id": 2317371, "keep": 0, "q": 1, "topic": "dubai politics", "title": "Defense of Dubai against critics", "why": "Opinion about a city's reputation."}
+{"id": 14732987, "keep": 1, "q": 3, "topic": "bug bounty economics", "title": "Why bug bounties must undercut black market prices", "why": "Bounties work only if rewards beat the effort of reporting but stay below what exploit brokers pay."}
+{"id": 20846247, "keep": 0, "q": 1, "topic": "hotel living", "title": "Fantasy of living in a hotel", "why": "Lifestyle musing."}
+{"id": 26679754, "keep": 0, "q": 1, "topic": "linux laptop switch", "title": "Personal review of switching from Mac to Linux", "why": "Subjective experience and pain points without deeper technical explanation."}
+{"id": 11875552, "keep": 1, "q": 3, "topic": "technical interview screening", "title": "Job-relevant SQL test exposes inflated resume skills", "why": "A two-minute, job-relevant SQL question exposes candidates whose claimed skills do not match, justifying technical screens."}
+{"id": 25067359, "keep": 1, "q": 3, "topic": "e ink economics", "title": "Why E Ink displays cost so much", "why": "E Ink pricing follows bill-of-materials and low volume; cutting cost would require an inferior product."}
+{"id": 7346844, "keep": 0, "q": 1, "topic": "math education", "title": "Critique of fragmented math education", "why": "Opinion on curriculum structure without concrete explanation."}
+{"id": 13843743, "keep": 1, "q": 4, "topic": "saas pricing", "title": "Practical SaaS pricing: charge more, start at $49", "why": "Price above comfort, use a $49/$99/$249 tier grid, and avoid sub-$29 customers who churn easily."}
+{"id": 23661964, "keep": 0, "q": 1, "topic": "palm phone review", "title": "Personal review of a minimalist phone", "why": "Subjective device review."}
+{"id": 2801226, "keep": 1, "q": 3, "topic": "network simplex", "title": "Network flow LPs keep integer solutions integral", "why": "With integer arc capacities, network simplex keeps integer basic solutions, making large flow problems fast."}
+{"id": 11196276, "keep": 1, "q": 3, "topic": "iot cloud tethering", "title": "Why IoT devices default to cloud tethering", "why": "Vendors tether devices for lock-in, and NAT and firewalled networks make direct end-to-end transit hard."}
+{"id": 20728391, "keep": 1, "q": 3, "topic": "engineer interviewing", "title": "Interview by discussing past projects, not whiteboards", "why": "Screen by resume, then discuss past projects and their tradeoffs in depth instead of using puzzles."}
+{"id": 22093303, "keep": 1, "q": 3, "topic": "copyright public domain", "title": "Why NASA footage was free but SpaceX footage is not", "why": "US federal works are not copyrighted, so NASA footage spread freely, while contractor footage stays protected."}
+{"id": 16826940, "keep": 0, "q": 1, "topic": "startup ideas", "title": "Musing on finding startup ideas", "why": "Personal career musing."}
+{"id": 13714200, "keep": 1, "q": 4, "topic": "replication failures", "title": "Unrecorded lab conditions break experiment replication", "why": "Methods sections omit variables like noise and cage hygiene that quietly change animal behavior and results."}
+{"id": 20095753, "keep": 0, "q": 1, "topic": "generalist careers", "title": "Personal career reflection on generalists", "why": "Career anecdote."}
+{"id": 24190396, "keep": 0, "q": 1, "topic": "app review critique", "title": "Critique of an Apple App Review letter", "why": "Opinion about motives and platform power."}
+{"id": 25843231, "keep": 0, "q": 1, "topic": "china politics", "title": "Argument over Jack Ma's status", "why": "Political debate."}
+{"id": 8770740, "keep": 0, "q": 1, "topic": "bed bug anecdote", "title": "Personal bed bug infestation story", "why": "Anecdote without a generalizable lesson."}
+{"id": 29152130, "keep": 0, "q": 1, "topic": "ev grid estimate", "title": "Personal model of EV grid demand", "why": "Unverified self-built estimate mixed with policy opinion."}
+{"id": 22226978, "keep": 1, "q": 4, "topic": "password storage", "title": "Why clients must store reversible credentials", "why": "Clients need plaintext-equivalent credentials to replay logins, so hashing fails; DPAPI beats hard-coded keys."}
+{"id": 4310247, "keep": 0, "q": 1, "topic": "yahoo redesign", "title": "Critique of the Yahoo homepage design", "why": "Design opinion."}
+{"id": 18858561, "keep": 0, "q": 1, "topic": "adult college", "title": "Personal observations about returning to college", "why": "Opinion list drawn from personal experience."}
+{"id": 8053325, "keep": 0, "q": 1, "topic": "digital ownership", "title": "Concern about subscription ownership erosion", "why": "Opinion about digital ownership."}
+{"id": 16679946, "keep": 0, "q": 1, "topic": "autism experience", "title": "Personal account of growing up undiagnosed", "why": "Personal anecdote."}
+{"id": 9729696, "keep": 1, "q": 3, "topic": "facial recognition policy", "title": "How NTIA's voluntary facial recognition process works", "why": "Covers only voluntary commercial guidelines, excludes government use, and is enforced by FTC only if firms break their own policies."}
+{"id": 15281702, "keep": 1, "q": 4, "topic": "fed treasury accounting", "title": "Fed, Treasury, TARP and QE: who made money", "why": "TARP turned a Treasury profit, and Fed asset purchases returned profits to Treasury; the Fed is not the Treasury."}
+{"id": 8711660, "keep": 0, "q": 1, "topic": "hn moderation", "title": "Moderator note on flagged Uber stories", "why": "Moderation notice."}
+{"id": 12134648, "keep": 0, "q": 1, "topic": "microservices critique", "title": "Argument that microservices serve developer politics", "why": "Opinion about organizational motives."}
+{"id": 8999657, "keep": 1, "q": 3, "topic": "cable industry history", "title": "Tom Wheeler's cable-industry past in context", "why": "Wheeler led the cable trade association from 1976 to 1984, when cable was TV-focused and the internet was tiny."}
+{"id": 19080868, "keep": 0, "q": 1, "topic": "earnings commentary", "title": "Live commentary on Alphabet quarterly results", "why": "Market commentary."}
+{"id": 26712481, "keep": 0, "q": 1, "topic": "programming difficulty", "title": "Music analogy for programming difficulty", "why": "Opinion analogy."}
+{"id": 18609655, "keep": 0, "q": 1, "topic": "vpn allegations", "title": "Allegations about VPN company ties", "why": "Accusations without verified evidence."}
+{"id": 563810, "keep": 0, "q": 1, "topic": "acquisition locations", "title": "Map of 2008 tech acquisitions outside the Valley", "why": "Informal research summary without analysis."}
+{"id": 16090305, "keep": 1, "q": 4, "topic": "dvd region encryption", "title": "How DVD region encryption sparked DeCSS", "why": "CSS encrypted discs by region and Linux players were withheld, so enthusiasts reverse-engineered the scheme."}
+{"id": 6389986, "keep": 0, "q": 1, "topic": "nationalism africa", "title": "Argument that nations and states differ", "why": "Ideological argument about post-colonial politics."}
+{"id": 18314175, "keep": 1, "q": 3, "topic": "markdown html parsing", "title": "Why inline Markdown in HTML breaks parsing", "why": "Markdown placed in the HTML body gets parsed as tags, mangling '<string'; textarea storage avoids that."}
+{"id": 19075848, "keep": 1, "q": 4, "topic": "wasm design history", "title": "Why WebAssembly moved from AST to stack encoding", "why": "Early pre-order AST gave way to post-order encoding, which decoded faster; multi-value returns shaped the final design."}
+{"id": 6120530, "keep": 0, "q": 1, "topic": "hn politics", "title": "Opinion on political content on HN", "why": "Moderation opinion."}
+{"id": 23023958, "keep": 0, "q": 1, "topic": "vitamin d anecdote", "title": "Personal vitamin D experience", "why": "Personal anecdote."}
+{"id": 4560540, "keep": 0, "q": 1, "topic": "laptop vs phone", "title": "Opinion on portable devices", "why": "Opinion."}
+{"id": 7489532, "keep": 0, "q": 1, "topic": "compiler preprocessing timing", "title": "Timing gcc, clang and warp preprocessing", "why": "Raw timings without deeper explanation."}
+{"id": 6317227, "keep": 0, "q": 1, "topic": "facebook gripes", "title": "Personal list of Facebook complaints", "why": "Opinion."}
+{"id": 20812854, "keep": 0, "q": 1, "topic": "levandowski case", "title": "Rant about executive greed", "why": "Opinion about a person."}
+{"id": 26499876, "keep": 0, "q": 1, "topic": "sparta history", "title": "Argument about Spartan legacy", "why": "Opinion."}
+{"id": 20749104, "keep": 0, "q": 1, "topic": "google android features", "title": "Rebuttal of GNU critique of Google", "why": "Argument about exaggeration of features."}
+{"id": 20117412, "keep": 0, "q": 1, "topic": "family and loneliness", "title": "Personal observation about family life", "why": "Opinion."}
+{"id": 20611816, "keep": 0, "q": 1, "topic": "8chan moderation", "title": "Argument about moderation and free speech", "why": "Political opinion."}
+{"id": 23489871, "keep": 1, "q": 3, "topic": "academic preprint archives", "title": "Why preprint servers lack archival guarantees", "why": "Preprint servers lack archival-grade storage and bandwidth funding, while tenure metrics tie researchers to prestige journals."}
+{"id": 7424141, "keep": 0, "q": 1, "topic": "java language opinion", "title": "Wishlist for a Java cleanup", "why": "Opinion."}
+{"id": 16238381, "keep": 0, "q": 1, "topic": "marriage economics", "title": "Opinion on gender roles and marriage", "why": "Opinion."}
+{"id": 5085082, "keep": 0, "q": 1, "topic": "civil forfeiture case", "title": "Rebuttal of a government seizure story", "why": "Case-specific argument rather than general explanation."}
+{"id": 26857859, "keep": 1, "q": 3, "topic": "cloud development", "title": "Cloud development resembles 1960s time-sharing", "why": "Cloud platforms share mainframe traits: no full local fidelity, closed source, and limited debugging, slowing feedback loops."}
+{"id": 25922311, "keep": 0, "q": 1, "topic": "hn echo chamber", "title": "Moderator note on perceived HN bias", "why": "Moderation opinion."}
+{"id": 25753872, "keep": 0, "q": 1, "topic": "rapid covid tests", "title": "Personal anecdote about false negatives", "why": "Single-case anecdote."}
+{"id": 20498317, "keep": 0, "q": 1, "topic": "agi history", "title": "Argument about AGI predictions", "why": "Opinion."}
+{"id": 14122973, "keep": 0, "q": 1, "topic": "ssh host keys", "title": "Vendor response on SSH host verification", "why": "Corporate statement defending product decisions."}
+{"id": 26888722, "keep": 0, "q": 1, "topic": "kernel experiment", "title": "Ethics argument about kernel patches", "why": "Argument about conduct and consequences."}
+{"id": 5531412, "keep": 1, "q": 3, "topic": "malicious applet analysis", "title": "Reverse-engineering a malicious Mt.Gox applet", "why": "Download the JAR, decompile it, and find a hard-coded URL sending host and OS data to an external server."}
+{"id": 16159301, "keep": 1, "q": 5, "topic": "rest api auth", "title": "Use random bearer tokens for REST API auth", "why": "Store 16+ byte urandom tokens in a database; skip OAuth, JWTs and stateless crypto for typical applications."}
+{"id": 24669402, "keep": 0, "q": 1, "topic": "app store antitrust", "title": "Opinion on app store pricing and courts", "why": "Opinion."}
+{"id": 6154475, "keep": 1, "q": 3, "topic": "blizzard china chat", "title": "Blizzard complied with China's WoW chat interception", "why": "Former employee describes modifying the WoW client so Chinese authorities could intercept all chat, to keep market access."}
+{"id": 9397169, "keep": 1, "q": 4, "topic": "compiler profiles", "title": "Flat profiles in heavily optimized codebases", "why": "Profiles of heavily optimized large C++ programs have grown flatter over time, so assuming a few hot spots dominate is wrong."}
+{"id": 23175387, "keep": 0, "q": 1, "topic": "wisconsin covid order", "title": "Opinion on stay-at-home orders and trust", "why": "Political opinion."}
+{"id": 28532912, "keep": 0, "q": 1, "topic": "natural immunity policy", "title": "Argument for vaccination-based policy", "why": "Policy argument."}

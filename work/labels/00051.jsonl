@@ -1,0 +1,200 @@
+{"id": 10200, "keep": 1, "q": 3, "kind": "reference", "topic": "nutrition", "depth": "intro", "title": "Vitamin D Consumer Fact Sheet", "why": "Official NIH basics on vitamin D roles, food sources, and recommended intake levels."}
+{"id": 10201, "keep": 1, "q": 3, "kind": "explainer", "topic": "nuclear energy", "depth": "intermediate", "title": "NEA News: Load-Following Nuclear Power", "why": "Explains how nuclear plants adjust output to follow demand, and the licensing and economic tradeoffs."}
+{"id": 10202, "keep": 1, "q": 3, "kind": "paper", "topic": "nuclear energy", "depth": "expert", "title": "Technical and Economic Aspects of Load Following with Nuclear Plants", "why": "OECD report on whether and how nuclear plants can ramp output with demand, with plant data."}
+{"id": 10203, "keep": 1, "q": 3, "kind": "explainer", "topic": "programming languages", "depth": "expert", "title": "XML and Scheme", "why": "Notes on representing XML in Scheme as SXML, with parsers and why hygienic macros help."}
+{"id": 10204, "keep": 0, "q": 2, "kind": "tool", "topic": "data visualization", "depth": "intro", "title": "jQuery Sparkline", "why": "Library page for inline sparkline charts; a tool, not something to learn from."}
+{"id": 10205, "keep": 0, "q": 2, "kind": "blog", "topic": "computer science", "depth": "intermediate", "title": "The Morning Paper Revisited", "why": "Medium repost; commenters point to it loosely and its content is unclear."}
+{"id": 10206, "keep": 1, "q": 4, "kind": "docs", "topic": "c language", "depth": "expert", "title": "C99 Rationale", "why": "Committee rationale explaining why C's design choices were made; illuminating for language history."}
+{"id": 10207, "keep": 0, "q": 2, "kind": "reference", "topic": "c language", "depth": "expert", "title": "C99 Draft Standard n1124", "why": "Raw standard draft; reference text rather than something to read for insight."}
+{"id": 10208, "keep": 0, "q": 2, "kind": "reference", "topic": "c language", "depth": "expert", "title": "Bounds-Checking Interfaces Technical Report", "why": "Dry standards report on Annex K functions; reference, not explanatory."}
+{"id": 10209, "keep": 0, "q": 1, "kind": "reference", "topic": "c language", "depth": "expert", "title": "C2Y Working Draft n3220", "why": "Standards working draft; reference material only."}
+{"id": 10210, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "Introducing ChatGPT and Whisper APIs", "why": "Product announcement from 2023; news rather than lasting learning."}
+{"id": 10211, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "OpenAI Privacy Policy", "why": "Legal policy text."}
+{"id": 10212, "keep": 0, "q": 2, "kind": "tool", "topic": "computer vision", "depth": "intro", "title": "OpenCV Wiki", "why": "Library wiki index page; tool documentation."}
+{"id": 10213, "keep": 0, "q": 2, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "OpenID Connect Discovery 1.0", "why": "Protocol specification; reference for implementers, not an explainer."}
+{"id": 10214, "keep": 0, "q": 2, "kind": "docs", "topic": "java", "depth": "intermediate", "title": "JEP 318: Epsilon GC", "why": "JDK proposal for a no-op garbage collector; design doc, not explanatory."}
+{"id": 10215, "keep": 0, "q": 2, "kind": "docs", "topic": "java", "depth": "intermediate", "title": "JEP 411: Deprecate the Security Manager", "why": "JDK proposal text on a deprecation decision; reference."}
+{"id": 10216, "keep": 0, "q": 2, "kind": "tool", "topic": "java", "depth": "intermediate", "title": "Project Panama", "why": "Project homepage for Java foreign function interface work."}
+{"id": 10217, "keep": 1, "q": 4, "kind": "paper", "topic": "machine learning", "depth": "expert", "title": "A Path Towards Autonomous Machine Intelligence", "why": "LeCun's position paper on world models, intrinsic motivation and joint embedding architectures."}
+{"id": 10218, "keep": 0, "q": 1, "kind": "tool", "topic": "llms", "depth": "intro", "title": "OpenRouter Models", "why": "Model catalog page; a listing, not content."}
+{"id": 10219, "keep": 0, "q": 1, "kind": "tool", "topic": "virtual worlds", "depth": "intro", "title": "OpenSimulator Wiki", "why": "Project wiki front page for a virtual-world server."}
+{"id": 10220, "keep": 0, "q": 1, "kind": "other", "topic": "open source", "depth": "intro", "title": "OSI Sponsors", "why": "Sponsor list page."}
+{"id": 10221, "keep": 0, "q": 1, "kind": "news", "topic": "economics", "depth": "intro", "title": "OPM Fork Letter", "why": "Government letter about federal workforce policy; time-bound news."}
+{"id": 10222, "keep": 1, "q": 3, "kind": "reference", "topic": "emacs", "depth": "intermediate", "title": "Org Mode Syntax Specification", "why": "Readable spec of Org markup, including affiliated keywords and comment rules."}
+{"id": 10223, "keep": 0, "q": 2, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "org-drill", "why": "Emacs package page for spaced-repetition flashcards."}
+{"id": 10224, "keep": 0, "q": 2, "kind": "blog", "topic": "economics", "depth": "intermediate", "title": "Does Legalized Prostitution Increase Human Trafficking?", "why": "Summary of one study that commenters cite as evidence in a debate."}
+{"id": 10225, "keep": 0, "q": 1, "kind": "tool", "topic": "data visualization", "depth": "intro", "title": "RRDtool", "why": "Tool homepage for time-series databases and graphing."}
+{"id": 10226, "keep": 1, "q": 3, "kind": "explainer", "topic": "history", "depth": "intro", "title": "Child Mortality in the Past", "why": "Data-driven explainer on how common child death was across history."}
+{"id": 10227, "keep": 0, "q": 2, "kind": "reference", "topic": "public health", "depth": "intro", "title": "COVID Deaths by Vaccination", "why": "Statistics tracker page; numbers rather than an explanation."}
+{"id": 10228, "keep": 1, "q": 3, "kind": "explainer", "topic": "history", "depth": "intro", "title": "Famines", "why": "Explainer on causes and decline of famines, with long-run historical data."}
+{"id": 10229, "keep": 0, "q": 2, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Income Inequality", "why": "Statistics page of charts rather than an argument to learn from."}
+{"id": 10230, "keep": 1, "q": 3, "kind": "explainer", "topic": "psychology", "depth": "intermediate", "title": "Intelligence", "why": "Explains IQ measurement and why scores rose over time, with data and caveats."}
+{"id": 10231, "keep": 0, "q": 2, "kind": "reference", "topic": "food", "depth": "intro", "title": "Meat Production", "why": "Data page on meat production and consumption trends."}
+{"id": 10232, "keep": 1, "q": 3, "kind": "explainer", "topic": "health economics", "depth": "intermediate", "title": "Life Expectancy and Health Spending", "why": "Explains why higher health spending does not buy proportionally longer lives, with a clear thought experiment."}
+{"id": 10233, "keep": 0, "q": 2, "kind": "reference", "topic": "urbanism", "depth": "intro", "title": "Urbanization", "why": "Statistics page on urban population and related data."}
+{"id": 10234, "keep": 1, "q": 3, "kind": "explainer", "topic": "public health", "depth": "intermediate", "title": "Why US Life Expectancy Is Low", "why": "Explains factors behind lower American life expectancy compared with peer countries."}
+{"id": 10235, "keep": 1, "q": 4, "kind": "essay", "topic": "operating systems", "depth": "intermediate", "title": "BSD for Linux Users", "why": "Long, opinionated comparison of FreeBSD and Linux design strengths and differences."}
+{"id": 10236, "keep": 1, "q": 5, "kind": "essay", "topic": "frontend", "depth": "intermediate", "title": "React as a UI Runtime", "why": "Dan Abramov's deep dive explaining React from first principles, including hooks and state."}
+{"id": 10237, "keep": 0, "q": 1, "kind": "other", "topic": "web", "depth": "intro", "title": "Defender of the Favicon", "why": "Browser game and toy page."}
+{"id": 10238, "keep": 0, "q": 2, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Historical Returns on Stocks, Bonds and Bills", "why": "Dataset page of historical returns; a reference table."}
+{"id": 10239, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "Pagure", "why": "Software forge project page."}
+{"id": 10240, "keep": 1, "q": 3, "kind": "journalism", "topic": "security", "depth": "intro", "title": "Tor Spooks", "why": "Investigative piece on US government funding of Tor and what it means for anonymity."}
+{"id": 10241, "keep": 1, "q": 4, "kind": "blog", "topic": "hardware", "depth": "intermediate", "title": "The Lightning Digital AV Adapter Surprise", "why": "Teardown-style investigation showing the adapter runs a full OS; a fun reverse-engineering read."}
+{"id": 10242, "keep": 0, "q": 2, "kind": "paper", "topic": "epidemiology", "depth": "expert", "title": "Temperature and Humidity Effects on COVID Transmission", "why": "Paper mostly cited as evidence in debates; not clearly something to learn from."}
+{"id": 10243, "keep": 0, "q": 1, "kind": "other", "topic": "open source", "depth": "intro", "title": "Godot Patreon", "why": "Donation page."}
+{"id": 10244, "keep": 0, "q": 2, "kind": "book", "topic": "reading", "depth": "intro", "title": "Patrick Collison's Bookshelf", "why": "Personal reading list with color codes; a list rather than explanatory content."}
+{"id": 10245, "keep": 1, "q": 3, "kind": "essay", "topic": "tech industry", "depth": "intro", "title": "Apple's Mistake", "why": "Paul Graham essay on Apple's control over developers; a short argument worth knowing."}
+{"id": 10246, "keep": 1, "q": 5, "kind": "essay", "topic": "machine learning", "depth": "intermediate", "title": "Better Bayesian Filtering", "why": "Practical explanation of improving naive Bayes spam filters, with clear reasoning about probabilities."}
+{"id": 10247, "keep": 1, "q": 3, "kind": "essay", "topic": "programming languages", "depth": "intro", "title": "What Languages Fix", "why": "Paul Graham essay on what problems languages solve and why new ones get designed."}
+{"id": 10248, "keep": 1, "q": 4, "kind": "essay", "topic": "career", "depth": "intro", "title": "How to Do Great Work", "why": "Practical essay on finding and pursuing work that matters, with concrete advice."}
+{"id": 10249, "keep": 1, "q": 3, "kind": "essay", "topic": "startups", "depth": "intro", "title": "Startup FAQ", "why": "Paul Graham's short answers on founding, ideas, and building startups."}
+{"id": 10250, "keep": 1, "q": 3, "kind": "essay", "topic": "career", "depth": "intro", "title": "Todo", "why": "Short reflective essay on what to do with time and effort; commenters find it motivating."}
+{"id": 10251, "keep": 1, "q": 5, "kind": "essay", "topic": "writing", "depth": "intro", "title": "How to Write Usefully", "why": "Classic guide to writing that makes strong, specific claims readers can act on."}
+{"id": 10252, "keep": 1, "q": 4, "kind": "essay", "topic": "writing", "depth": "intro", "title": "Writes and Write-nots", "why": "Essay arguing that writing is thinking and why the ability to write matters more over time."}
+{"id": 10253, "keep": 1, "q": 5, "kind": "essay", "topic": "math", "depth": "intermediate", "title": "On Teaching Mathematics", "why": "Arnold's essay arguing mathematics is like physics and should be taught experimentally."}
+{"id": 10254, "keep": 0, "q": 1, "kind": "tool", "topic": "home automation", "depth": "intro", "title": "ratgdo", "why": "Project homepage for a garage door controller."}
+{"id": 10255, "keep": 0, "q": 2, "kind": "news", "topic": "policing", "depth": "intro", "title": "FBI Warning on White Supremacists in Law Enforcement", "why": "News report on a specific story; not lasting learning."}
+{"id": 10256, "keep": 0, "q": 2, "kind": "news", "topic": "company culture", "depth": "intro", "title": "Ex-Valve Employee Describes Industry Politics", "why": "News coverage of workplace politics; commenters cite it as context."}
+{"id": 10257, "keep": 1, "q": 4, "kind": "blog", "topic": "infrastructure", "depth": "intermediate", "title": "Why American Costs Are So High", "why": "Detailed analysis of why US infrastructure costs more, using international comparisons."}
+{"id": 10258, "keep": 1, "q": 3, "kind": "reference", "topic": "history", "depth": "intro", "title": "Lead Poisoning in Roman Wine", "why": "Encyclopaedia Romana entry on lead exposure from pipes, vessels and wine sweeteners."}
+{"id": 10259, "keep": 1, "q": 4, "kind": "comic", "topic": "internet culture", "depth": "intro", "title": "Greater Internet Fuckwad Theory", "why": "Classic comic on how anonymity and audience change online behavior; widely cited."}
+{"id": 10260, "keep": 1, "q": 4, "kind": "other", "topic": "engineering culture", "depth": "intro", "title": "The Black Team", "why": "Short story about an expert's clever tweak on a machine, illustrating engineering judgment."}
+{"id": 10261, "keep": 0, "q": 2, "kind": "other", "topic": "ai", "depth": "intro", "title": "Jürgen Schmidhuber Homepage", "why": "Personal homepage."}
+{"id": 10262, "keep": 1, "q": 3, "kind": "essay", "topic": "history", "depth": "intermediate", "title": "The Fate of Empires", "why": "Glubb's classic sketch of the life stages of nations and empires."}
+{"id": 10263, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "expert", "title": "PEP 544: Protocols", "why": "Language spec proposal; reference for typing rather than a teaching explainer."}
+{"id": 10264, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 621: Project Metadata in pyproject.toml", "why": "Packaging standard spec; reference, not an explainer."}
+{"id": 10265, "keep": 0, "q": 1, "kind": "news", "topic": "programming languages", "depth": "intro", "title": "Announcing Perl 7", "why": "Version announcement; news."}
+{"id": 10266, "keep": 0, "q": 1, "kind": "other", "topic": "health", "depth": "intro", "title": "Peter Attia Podcast", "why": "Podcast homepage."}
+{"id": 10267, "keep": 0, "q": 1, "kind": "news", "topic": "policy", "depth": "intro", "title": "UK Petition", "why": "Petition page."}
+{"id": 10268, "keep": 0, "q": 2, "kind": "reference", "topic": "society", "depth": "intro", "title": "Millennials and Limiting Offensive Speech", "why": "Survey write-up; statistics cited as evidence in arguments."}
+{"id": 10269, "keep": 0, "q": 2, "kind": "reference", "topic": "education", "depth": "intro", "title": "US Students in Math and Science", "why": "Statistics page on international test results."}
+{"id": 10270, "keep": 0, "q": 2, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Dual-Income Households 1960-2012", "why": "Data page on household trends."}
+{"id": 10271, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Public Opinion on Abortion", "why": "Survey fact sheet."}
+{"id": 10272, "keep": 0, "q": 2, "kind": "visual", "topic": "defense", "depth": "intro", "title": "Defense Spending Comparison", "why": "Single chart from a chart archive; evidence in argument."}
+{"id": 10273, "keep": 0, "q": 2, "kind": "docs", "topic": "php", "depth": "intermediate", "title": "PHP Anonymous Functions", "why": "Language manual page; generic reference."}
+{"id": 10274, "keep": 0, "q": 2, "kind": "tool", "topic": "statistics", "depth": "expert", "title": "Dieharder", "why": "Random number test suite homepage; a tool."}
+{"id": 10275, "keep": 0, "q": 1, "kind": "tool", "topic": "web", "depth": "intro", "title": "Spectre CSS", "why": "CSS framework homepage."}
+{"id": 10276, "keep": 0, "q": 2, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Power Consumption Benchmark", "why": "Single product benchmark page; a comparison, not an explanation."}
+{"id": 10277, "keep": 0, "q": 1, "kind": "tool", "topic": "web", "depth": "intro", "title": "Pinboard Upgrade", "why": "Pricing page."}
+{"id": 10278, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "RockPro64", "why": "Product page for a single-board computer."}
+{"id": 10279, "keep": 0, "q": 2, "kind": "tool", "topic": "python", "depth": "intermediate", "title": "Pint", "why": "Units library documentation; reference for a tool."}
+{"id": 10280, "keep": 1, "q": 3, "kind": "blog", "topic": "fonts", "depth": "intro", "title": "Sans Bullshit Sans", "why": "Explains how a font with custom ligatures replaces buzzword sequences with one glyph."}
+{"id": 10281, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "Pixelmator Pro", "why": "Product page."}
+{"id": 10282, "keep": 0, "q": 2, "kind": "docs", "topic": "go", "depth": "intermediate", "title": "Go context package", "why": "Standard library reference; generic docs."}
+{"id": 10283, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "Plaid Legal", "why": "Legal terms page."}
+{"id": 10284, "keep": 0, "q": 2, "kind": "reference", "topic": "aviation", "depth": "intro", "title": "Plane Crash Causes", "why": "Statistics tables of crash data."}
+{"id": 10285, "keep": 0, "q": 1, "kind": "docs", "topic": "llms", "depth": "intro", "title": "OpenAI Crawler Bots", "why": "Crawler list documentation; reference."}
+{"id": 10286, "keep": 0, "q": 2, "kind": "reference", "topic": "optimization", "depth": "expert", "title": "MIP Solver Benchmarks", "why": "Benchmark results page; comparisons rather than explanation."}
+{"id": 10287, "keep": 1, "q": 4, "kind": "reference", "topic": "epistemology", "depth": "expert", "title": "Analysis of Knowledge", "why": "Stanford Encyclopedia entry on justified true belief and the objections to it."}
+{"id": 10288, "keep": 1, "q": 4, "kind": "reference", "topic": "philosophy of mind", "depth": "expert", "title": "Panpsychism", "why": "Stanford Encyclopedia entry surveying panpsychist views and their arguments."}
+{"id": 10289, "keep": 1, "q": 4, "kind": "reference", "topic": "philosophy of mind", "depth": "expert", "title": "Qualia and Knowledge", "why": "Stanford Encyclopedia entry on Mary's room and knowledge arguments about experience."}
+{"id": 10290, "keep": 0, "q": 1, "kind": "tool", "topic": "gaming", "depth": "intro", "title": "PlayOnLinux", "why": "Software homepage."}
+{"id": 10291, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "plotnine", "why": "Library homepage."}
+{"id": 10292, "keep": 1, "q": 3, "kind": "essay", "topic": "tech policy", "depth": "intro", "title": "Rent to Pwn", "why": "Doctorow essay on subscription and repair restrictions in tech hardware."}
+{"id": 10293, "keep": 0, "q": 1, "kind": "visual", "topic": "politics", "depth": "intro", "title": "Political Compass 2020", "why": "Results chart page; not an explainer."}
+{"id": 10294, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "The Pitchforks Are Coming", "why": "Magazine piece on wage growth and plutocrats, a classic argument about inequality."}
+{"id": 10295, "keep": 1, "q": 5, "kind": "visual", "topic": "llms", "depth": "intermediate", "title": "Transformer Explainer", "why": "Interactive visual walkthrough of how transformer models process text."}
+{"id": 10296, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "Polyform Noncommercial License", "why": "License text."}
+{"id": 10297, "keep": 1, "q": 3, "kind": "other", "topic": "unix", "depth": "intermediate", "title": "Useless Use of Cat Award", "why": "Explains the useless-use-of-cat idiom and when grep or awk fit better."}
+{"id": 10298, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "Office Service Status", "why": "Status page."}
+{"id": 10299, "keep": 1, "q": 5, "kind": "blog", "topic": "security", "depth": "expert", "title": "HTTP Desync Attacks: Request Smuggling Reborn", "why": "Deep explanation of HTTP request smuggling and how desync attacks work across servers."}
+{"id": 10300, "keep": 1, "q": 3, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "PostgreSQL Table Partitioning", "why": "Official guide to partitioning types and how queries prune partitions."}
+{"id": 10301, "keep": 0, "q": 2, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "PostgreSQL JSON Functions and Operators", "why": "Reference lookup for JSON operators and functions."}
+{"id": 10302, "keep": 0, "q": 2, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "PostgreSQL ltree", "why": "Extension reference page."}
+{"id": 10303, "keep": 0, "q": 1, "kind": "reference", "topic": "databases", "depth": "intermediate", "title": "CREATE TABLE", "why": "Command reference page."}
+{"id": 10304, "keep": 0, "q": 2, "kind": "docs", "topic": "databases", "depth": "expert", "title": "PREPARE", "why": "Command reference; plan caching notes are useful but mostly lookup."}
+{"id": 10305, "keep": 0, "q": 2, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "Warm Standby", "why": "Replication docs; reference for configuration."}
+{"id": 10306, "keep": 0, "q": 1, "kind": "other", "topic": "graphics", "depth": "intro", "title": "Pouet Demo Page", "why": "Demoscene production page."}
+{"id": 10307, "keep": 1, "q": 5, "kind": "paper", "topic": "programming", "depth": "expert", "title": "Structured Programming with go to Statements", "why": "Knuth's classic paper weighing goto against structured programming, with concrete examples."}
+{"id": 10308, "keep": 1, "q": 3, "kind": "book", "topic": "learning", "depth": "intro", "title": "Pragmatic Thinking and Learning", "why": "Book on learning and mental habits, blending theory with practical advice."}
+{"id": 10309, "keep": 1, "q": 4, "kind": "book", "topic": "functional programming", "depth": "intermediate", "title": "Domain Modeling Made Functional", "why": "Book on modeling domains with types in F#, with practical design methods."}
+{"id": 10310, "keep": 1, "q": 3, "kind": "explainer", "topic": "demographics", "depth": "intro", "title": "How Many People Have Ever Lived on Earth?", "why": "Explains population estimates and what the large numbers imply for remembrance."}
+{"id": 10311, "keep": 1, "q": 4, "kind": "explainer", "topic": "film", "depth": "intro", "title": "Why Every Movie Looks Sort of Orange and Blue", "why": "Explains how color grading trends emerged in film, with historical context."}
+{"id": 10312, "keep": 1, "q": 4, "kind": "blog", "topic": "cloud architecture", "depth": "expert", "title": "Scaling Up the Prime Video Monitoring Service", "why": "Engineering case study on cutting monitoring costs by redesigning a distributed serverless system."}
+{"id": 10313, "keep": 1, "q": 3, "kind": "book", "topic": "economics", "depth": "intro", "title": "Big Debt Crises", "why": "Free book by Ray Dalio on how debt cycles work, with historical cases."}
+{"id": 10314, "keep": 0, "q": 2, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "Prism Break", "why": "Directory of privacy tools; a list, not an explanation."}
+{"id": 10315, "keep": 1, "q": 3, "kind": "blog", "topic": "criminal justice", "depth": "intro", "title": "Prison Wages", "why": "Analysis of what incarcerated workers earn, with data on prison wage rates."}
+{"id": 10316, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "F-Droid Security Issues", "why": "Explains how F-Droid's signing and build model creates security risks on Android."}
+{"id": 10317, "keep": 1, "q": 4, "kind": "book", "topic": "machine learning", "depth": "expert", "title": "Probabilistic Machine Learning: Advanced Topics", "why": "Draft book on advanced probabilistic ML, with a rigorous treatment and Python code."}
+{"id": 10318, "keep": 1, "q": 4, "kind": "essay", "topic": "compilers", "depth": "intermediate", "title": "Proebsting's Law", "why": "Argues compiler optimization gains are small compared with hardware progress, with analysis."}
+{"id": 10319, "keep": 1, "q": 4, "kind": "blog", "topic": "software history", "depth": "intro", "title": "A Spellchecker Used to Be a Major Feat", "why": "Shows how hardware progress turned once-hard software tasks into trivial ones."}
+{"id": 10320, "keep": 1, "q": 5, "kind": "paper", "topic": "statistics", "depth": "expert", "title": "Statistical Modeling: The Two Cultures", "why": "Breiman's classic contrast between data modeling and algorithmic modeling."}
+{"id": 10321, "keep": 1, "q": 4, "kind": "essay", "topic": "space", "depth": "intermediate", "title": "Stealth in Space", "why": "Long physics-based analysis of whether spacecraft can be detected, including thrust exhaust."}
+{"id": 10322, "keep": 0, "q": 1, "kind": "reference", "topic": "software", "depth": "intro", "title": "Apache Projects Directory", "why": "Directory listing of projects."}
+{"id": 10323, "keep": 1, "q": 4, "kind": "visual", "topic": "statistics", "depth": "intro", "title": "P-Hacking Interactive", "why": "Interactive simulation teaching how multiple comparisons inflate false findings."}
+{"id": 10324, "keep": 0, "q": 1, "kind": "tool", "topic": "java", "depth": "intro", "title": "Enterprisify Java", "why": "Name generator joke."}
+{"id": 10325, "keep": 0, "q": 2, "kind": "reference", "topic": "nonprofits", "depth": "intro", "title": "Internet Archive Form 990", "why": "Financial filing page; a data record."}
+{"id": 10326, "keep": 0, "q": 2, "kind": "visual", "topic": "health", "depth": "intermediate", "title": "Toxmap", "why": "Interactive data map; a dashboard rather than an explainer."}
+{"id": 10327, "keep": 1, "q": 3, "kind": "journalism", "topic": "healthcare", "depth": "intro", "title": "UnitedHealth Claim Denials", "why": "Investigative report on claim denials and one patient's ulcerative colitis treatment."}
+{"id": 10328, "keep": 0, "q": 2, "kind": "docs", "topic": "protobuf", "depth": "expert", "title": "Protocol Buffers Text Format Spec", "why": "Format specification; reference."}
+{"id": 10329, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "ProtonMail Pricing", "why": "Pricing page."}
+{"id": 10330, "keep": 0, "q": 1, "kind": "other", "topic": "tools", "depth": "intro", "title": "Power Tool Manufacturers and Owners", "why": "Brand ownership chart."}
+{"id": 10331, "keep": 0, "q": 2, "kind": "blog", "topic": "history", "depth": "intro", "title": "DOS Ain't Done Till Windows Says So", "why": "Short post on a Microsoft urban legend; little to learn."}
+{"id": 10332, "keep": 0, "q": 2, "kind": "tool", "topic": "privacy", "depth": "intermediate", "title": "JStylo-Anonymouth", "why": "Stylometry tool homepage."}
+{"id": 10333, "keep": 1, "q": 4, "kind": "paper", "topic": "ux", "depth": "intro", "title": "Line Length and Reading Speed", "why": "Usability study on reading speed and comprehension across line lengths."}
+{"id": 10334, "keep": 1, "q": 4, "kind": "book", "topic": "windows", "depth": "intermediate", "title": "The Old New Thing: Tales of Application Compatibility", "why": "Raymond Chen's appendix on how Windows kept broken apps working, with vivid cases."}
+{"id": 10335, "keep": 0, "q": 2, "kind": "docs", "topic": "unix", "depth": "intermediate", "title": "POSIX.1-2018 Edition", "why": "Standard home page; reference."}
+{"id": 10336, "keep": 0, "q": 2, "kind": "reference", "topic": "time", "depth": "intermediate", "title": "POSIX Epoch Time Specification", "why": "Specification section on time representation; reference."}
+{"id": 10337, "keep": 0, "q": 2, "kind": "docs", "topic": "build systems", "depth": "intermediate", "title": "POSIX make", "why": "Specification of the make utility; reference text."}
+{"id": 10338, "keep": 0, "q": 1, "kind": "reference", "topic": "unix", "depth": "intro", "title": "POSIX.1-2024 Edition", "why": "Landing page for the standard."}
+{"id": 10339, "keep": 0, "q": 1, "kind": "other", "topic": "networking", "depth": "intro", "title": "Outages Mailing List", "why": "Mailing list index."}
+{"id": 10340, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Liberty Phone", "why": "Product page."}
+{"id": 10341, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "Zathura", "why": "Project page for a PDF viewer."}
+{"id": 10342, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "PyInstaller", "why": "Tool documentation page."}
+{"id": 10343, "keep": 0, "q": 2, "kind": "tool", "topic": "python", "depth": "intermediate", "title": "regex module", "why": "Library page for an alternative Python regex engine."}
+{"id": 10344, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PyPy Compatibility", "why": "Compatibility statement."}
+{"id": 10345, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 3113: Removal of Tuple Parameter Unpacking", "why": "Short spec for removing tuple unpacking in function headers."}
+{"id": 10346, "keep": 1, "q": 4, "kind": "blog", "topic": "docker", "depth": "intermediate", "title": "Using Alpine Can Make Python Docker Builds Slower", "why": "Explains why Alpine's musl libc makes Python builds slow and when Debian is better."}
+{"id": 10347, "keep": 1, "q": 4, "kind": "blog", "topic": "python performance", "depth": "intermediate", "title": "Unladen Swallow Retrospective", "why": "Retrospective on why a Python speedup project fell short and what was learned."}
+{"id": 10348, "keep": 1, "q": 4, "kind": "journalism", "topic": "physics", "depth": "intro", "title": "A New Physics Theory of Life", "why": "Explains Jeremy England's thermodynamic idea of life as dissipative self-organization."}
+{"id": 10349, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Flo Control Cat Door", "why": "DIY cat door project."}
+{"id": 10350, "keep": 1, "q": 5, "kind": "explainer", "topic": "networking", "depth": "expert", "title": "BBR: Congestion-Based Congestion Control", "why": "Explains how BBR estimates bottleneck bandwidth and round-trip time to control congestion."}
+{"id": 10351, "keep": 0, "q": 2, "kind": "reference", "topic": "web", "depth": "intro", "title": "Quirksmode Compatibility Tables", "why": "Browser compatibility tables; reference."}
+{"id": 10352, "keep": 1, "q": 2, "kind": "blog", "topic": "history", "depth": "intro", "title": "History Rhymes", "why": "Traces the origin and attribution of the 'history rhymes' quote."}
+{"id": 10353, "keep": 1, "q": 4, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "Postgres Full-Text Search Is Good Enough", "why": "Overview of Postgres text search features and when they beat dedicated engines."}
+{"id": 10354, "keep": 1, "q": 4, "kind": "essay", "topic": "engineering", "depth": "intro", "title": "Just Remove the Duck", "why": "Short essay on removing ornamental complexity from systems; widely referenced."}
+{"id": 10355, "keep": 0, "q": 1, "kind": "tool", "topic": "cloud", "depth": "intro", "title": "OnMetal Servers", "why": "Product page."}
+{"id": 10356, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "Radicale", "why": "Software homepage."}
+{"id": 10357, "keep": 1, "q": 5, "kind": "blog", "topic": "rust", "depth": "expert", "title": "Uninitialized Memory and Undefined Behavior", "why": "Explains why reading uninitialized memory is undefined behavior, not just a garbage value."}
+{"id": 10358, "keep": 0, "q": 1, "kind": "other", "topic": "web", "depth": "intro", "title": "Random CAPTCHA", "why": "Joke signup page."}
+{"id": 10359, "keep": 1, "q": 5, "kind": "blog", "topic": "floating point", "depth": "intermediate", "title": "Comparing Floating Point Numbers, 2012 Edition", "why": "Bruce Dawson's practical guide to correct floating-point comparisons and their pitfalls."}
+{"id": 10360, "keep": 0, "q": 2, "kind": "essay", "topic": "healthcare", "depth": "intermediate", "title": "Why Everything You Know About Healthcare Is Wrong", "why": "Argument built on charts; contested, so not a clear explainer."}
+{"id": 10361, "keep": 1, "q": 5, "kind": "essay", "topic": "security", "depth": "intro", "title": "The Six Dumbest Ideas in Computer Security", "why": "Marcus Ranum's classic critique of security practices that keep failing."}
+{"id": 10362, "keep": 0, "q": 2, "kind": "docs", "topic": "hardware", "depth": "intermediate", "title": "Raspberry Pi Documentation", "why": "Official hardware docs; reference."}
+{"id": 10363, "keep": 0, "q": 1, "kind": "other", "topic": "people", "depth": "intro", "title": "RationalWiki: Eric S. Raymond", "why": "Critical wiki profile of a person."}
+{"id": 10364, "keep": 0, "q": 2, "kind": "reference", "topic": "internet culture", "depth": "intro", "title": "Poe's Law", "why": "Wiki entry defining a concept; generic reference."}
+{"id": 10365, "keep": 1, "q": 3, "kind": "blog", "topic": "nutrition", "depth": "intermediate", "title": "The China Study: Fact or Fallacy", "why": "Critique of the China Study's methods and the epidemiology behind its conclusions."}
+{"id": 10366, "keep": 1, "q": 4, "kind": "essay", "topic": "testing", "depth": "intermediate", "title": "Why Most Unit Testing Is Waste", "why": "Essay arguing many unit tests add little value compared with other testing approaches."}
+{"id": 10367, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "rclone Google Drive Backend", "why": "Backend docs; reference."}
+{"id": 10368, "keep": 0, "q": 2, "kind": "docs", "topic": "react", "depth": "intermediate", "title": "ReactDOMServer API", "why": "API reference."}
+{"id": 10369, "keep": 0, "q": 1, "kind": "reference", "topic": "emergency preparedness", "depth": "intro", "title": "Ready.gov Emergency Kit", "why": "Government checklist."}
+{"id": 10370, "keep": 0, "q": 2, "kind": "other", "topic": "cpu architecture", "depth": "expert", "title": "RealWorldTech Forum Thread", "why": "Forum discussion with contested microarchitecture claims."}
+{"id": 10371, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "Two-Party Consent Recording States", "why": "Legal reference."}
+{"id": 10372, "keep": 0, "q": 1, "kind": "tool", "topic": "programming languages", "depth": "intro", "title": "Red Language", "why": "Language homepage."}
+{"id": 10373, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "Reddit User Agreement", "why": "Legal terms."}
+{"id": 10374, "keep": 1, "q": 5, "kind": "paper", "topic": "ai", "depth": "intro", "title": "Computing Machinery and Intelligence", "why": "Turing's original paper proposing the imitation game and answering objections to machine thinking."}
+{"id": 10375, "keep": 0, "q": 2, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "Redis Protocol Specification", "why": "Protocol spec; reference."}
+{"id": 10376, "keep": 1, "q": 3, "kind": "docs", "topic": "build systems", "depth": "intermediate", "title": "redo Manual", "why": "Manual for a simple build system that checks content, explaining its design choices."}
+{"id": 10377, "keep": 1, "q": 4, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "Reproducible Builds Documentation", "why": "Explains why builds vary and how to make them deterministic, with practical guidance."}
+{"id": 10378, "keep": 0, "q": 2, "kind": "tool", "topic": "virtualization", "depth": "intermediate", "title": "Drawbridge", "why": "Project page for a picoprocess research system."}
+{"id": 10379, "keep": 1, "q": 4, "kind": "visual", "topic": "graphics", "depth": "intro", "title": "Depixelizing Pixel Art", "why": "Interactive paper page showing how pixel art becomes smooth vector images, with comparisons."}
+{"id": 10380, "keep": 1, "q": 5, "kind": "paper", "topic": "distributed systems", "depth": "intermediate", "title": "Time, Clocks, and the Ordering of Events in a Distributed System", "why": "Lamport's foundational paper on logical clocks and event ordering."}
+{"id": 10381, "keep": 1, "q": 4, "kind": "paper", "topic": "formal methods", "depth": "intermediate", "title": "Use of Formal Methods at Amazon", "why": "Experience report on using TLA+ to find design bugs in AWS systems."}
+{"id": 10382, "keep": 0, "q": 2, "kind": "paper", "topic": "psychology", "depth": "intermediate", "title": "Men and Things, Women and People", "why": "Meta-analysis mostly cited as evidence in debates."}
+{"id": 10383, "keep": 1, "q": 3, "kind": "journalism", "topic": "automotive", "depth": "intermediate", "title": "Tesla Batteries and Range", "why": "Investigation into how Tesla range and battery claims were reported and tested."}
+{"id": 10384, "keep": 1, "q": 3, "kind": "journalism", "topic": "automotive", "depth": "intro", "title": "Tesla Steering and Suspension Problems", "why": "Investigation into Tesla quality and repair problems, drawing on owner accounts."}
+{"id": 10385, "keep": 0, "q": 2, "kind": "journalism", "topic": "health", "depth": "intermediate", "title": "USA Trans Youth Data", "why": "Investigation whose figures are contested and mostly cited as evidence."}
+{"id": 10386, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Governments Spying Through Push Notifications", "why": "News item on a specific letter."}
+{"id": 10387, "keep": 1, "q": 3, "kind": "journalism", "topic": "workplace safety", "depth": "intro", "title": "Tesla Factory Injuries Off the Books", "why": "Investigation comparing internal injury tracking with official logs."}
+{"id": 10388, "keep": 0, "q": 1, "kind": "tool", "topic": "video", "depth": "intro", "title": "youtube-dl Supported Sites", "why": "Tool page listing supported sites."}
+{"id": 10389, "keep": 0, "q": 1, "kind": "tool", "topic": "speech synthesis", "depth": "intro", "title": "Piper Samples", "why": "Demo samples page."}
+{"id": 10390, "keep": 1, "q": 4, "kind": "blog", "topic": "typescript", "depth": "intermediate", "title": "Typescripting the Technical Interview", "why": "Shows how TypeScript types can model interview problems, extending a well-known blog idea."}
+{"id": 10391, "keep": 0, "q": 2, "kind": "essay", "topic": "politics", "depth": "intro", "title": "Worst Form of Government", "why": "Short origin note on a famous quote; little beyond attribution."}
+{"id": 10392, "keep": 1, "q": 3, "kind": "blog", "topic": "electronics", "depth": "intermediate", "title": "Apple iPhone Charger Teardown", "why": "Teardown showing what separates an Apple charger's build from cheap copies."}
+{"id": 10393, "keep": 1, "q": 3, "kind": "blog", "topic": "electronics", "depth": "intermediate", "title": "Counterfeit MacBook Charger Teardown", "why": "Teardown of a counterfeit charger showing what safety and build problems look like inside."}
+{"id": 10394, "keep": 0, "q": 2, "kind": "journalism", "topic": "security", "depth": "intro", "title": "Risky Biz: Big Hack Podcast", "why": "Podcast episode on a disputed news story."}
+{"id": 10395, "keep": 0, "q": 2, "kind": "visual", "topic": "illusions", "depth": "intro", "title": "Akiyoshi Kitaoka Illusions", "why": "Personal homepage and gallery of an illusion artist."}
+{"id": 10396, "keep": 0, "q": 2, "kind": "news", "topic": "cloud", "depth": "intro", "title": "Cloudflare Took Down Our Website", "why": "Incident account and company dispute; news-like."}
+{"id": 10397, "keep": 0, "q": 1, "kind": "blog", "topic": "nutrition", "depth": "intro", "title": "Soylent Founder Blog Post", "why": "Personal blog post from one individual."}
+{"id": 10398, "keep": 1, "q": 4, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Why Isn't Wall Street in Jail?", "why": "Taibbi's piece on why financial fraud led to so few prosecutions."}
+{"id": 10249, "keep": 1, "q": 3, "kind": "essay", "topic": "startups", "depth": "intro", "title": "Startup FAQ", "why": "Paul Graham's short answers on founding, ideas, and building startups."}
