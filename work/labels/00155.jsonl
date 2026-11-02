@@ -1,0 +1,200 @@
+{"id":31000,"keep":1,"q":2,"kind":"blog","topic":"startups","depth":"intro","title":"How I Started a Dating Empire","why":"Founder's account of how a dating site grew through word of mouth and timing."}
+{"id":31001,"keep":0,"q":1,"kind":"other","topic":"telecom","depth":"intro","title":"Plivo pricing","why":"Vendor pricing page; no reading value."}
+{"id":31002,"keep":0,"q":1,"kind":"other","topic":"publishing","depth":"intro","title":"PLOS publication fees","why":"Fee schedule page; reference lookup only."}
+{"id":31003,"keep":0,"q":1,"kind":"tool","topic":"data visualization","depth":"intro","title":"Plotly Dash","why":"Product page for a framework; not a learning resource."}
+{"id":31004,"keep":0,"q":2,"kind":"blog","topic":"digital rights","depth":"intro","title":"Playstationed","why":"Short commentary on a specific news item about game store rentals."}
+{"id":31005,"keep":0,"q":2,"kind":"blog","topic":"ai","depth":"intro","title":"Pop that bubble","why":"Opinion commentary on a current debate about AI and creative jobs."}
+{"id":31006,"keep":1,"q":4,"kind":"essay","topic":"startups","depth":"intermediate","title":"The PMArca Guide to Startups, Part 4: The Only Thing That Matters","why":"Andreessen on product-market fit, talent and execution; a widely cited startup essay."}
+{"id":31007,"keep":1,"q":3,"kind":"essay","topic":"startups","depth":"intro","title":"Luck and the Entrepreneur","why":"Framework for thinking about luck versus effort in building companies."}
+{"id":31008,"keep":0,"q":1,"kind":"reference","topic":"toxicology","depth":"intro","title":"Glyphosate extoxnet profile","why":"Pesticide toxicity data sheet; a lookup, cited in an argument."}
+{"id":31009,"keep":1,"q":4,"kind":"paper","topic":"language and cognition","depth":"expert","title":"Russian blues reveal effects of language on color discrimination","why":"Study showing native language words for blue shape colour perception; discussed in depth."}
+{"id":31010,"keep":1,"q":4,"kind":"paper","topic":"economics","depth":"expert","title":"High income improves evaluation of life but not emotional well-being","why":"Kahneman and Deaton on how income relates to life evaluation versus daily happiness."}
+{"id":31011,"keep":0,"q":2,"kind":"paper","topic":"intelligence","depth":"expert","title":"Flynn effect reversal in Norway","why":"Cited as evidence in an IQ argument rather than read for explanation."}
+{"id":31012,"keep":0,"q":2,"kind":"paper","topic":"intelligence","depth":"expert","title":"Flynn effect reversal in Norway (PDF)","why":"Same Norwegian IQ study, cited as evidence in argument."}
+{"id":31013,"keep":0,"q":2,"kind":"paper","topic":"intelligence","depth":"expert","title":"Environmental cause of Flynn reversal","why":"Cited as evidence in a debate about environmental versus genetic IQ causes."}
+{"id":31014,"keep":0,"q":2,"kind":"paper","topic":"toxicology","depth":"expert","title":"Lead exposure and cognitive loss","why":"Cited as evidence for a point about lead; used in argument."}
+{"id":31015,"keep":1,"q":4,"kind":"essay","topic":"reading","depth":"intro","title":"How to Read a Book","why":"Practical essay on reading non-fiction strategically, from a historian of science."}
+{"id":31016,"keep":0,"q":2,"kind":"blog","topic":"ai crawlers","depth":"intro","title":"Anubis crawler post","why":"Cited as evidence about AI scraper traffic within a discussion."}
+{"id":31017,"keep":0,"q":1,"kind":"tool","topic":"podcasting","depth":"intro","title":"Podcast Index apps","why":"Directory of apps; not a reading resource."}
+{"id":31018,"keep":0,"q":1,"kind":"other","topic":"health","depth":"intro","title":"Sarno on RSI","why":"Contested treatment theory promoted in comments; not reliable learning content."}
+{"id":31019,"keep":1,"q":4,"kind":"other","topic":"poetry","depth":"intro","title":"Dulce et Decorum Est","why":"Wilfred Owen's classic anti-war poem, widely quoted and worth reading."}
+{"id":31020,"keep":0,"q":1,"kind":"tool","topic":"security","depth":"intro","title":"NTPasswd","why":"Password-reset utility download; no explanatory value."}
+{"id":31021,"keep":0,"q":1,"kind":"news","topic":"media","depth":"intro","title":"The media bubble is real","why":"Opinion piece on media bias; commentary on a news debate."}
+{"id":31022,"keep":0,"q":1,"kind":"news","topic":"social media","depth":"intro","title":"Facebook lifts COVID origin ban","why":"News item about a policy change; time-bound."}
+{"id":31023,"keep":0,"q":1,"kind":"news","topic":"policy","depth":"intro","title":"Congress EV charger spending","why":"Political news about infrastructure spending."}
+{"id":31024,"keep":0,"q":1,"kind":"news","topic":"vaccines","depth":"intro","title":"Europe coronavirus vaccine struggle","why":"Time-bound news coverage of the 2021 vaccine rollout."}
+{"id":31025,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"PolitiFact: Biden and bleach claim","why":"Fact-check of a political statement."}
+{"id":31026,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"PolitiFact: Harris and vaccines","why":"Fact-check of a political claim."}
+{"id":31027,"keep":0,"q":1,"kind":"news","topic":"taxation","depth":"intro","title":"PolitiFact: US corporate tax rate","why":"Fact-check on a statistic; cited in argument."}
+{"id":31028,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"PolitiFact: Clapper testimony","why":"Fact-check cited in a political argument."}
+{"id":31029,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"PolitiFact: federal spending pie chart","why":"Fact-check of a viral meme."}
+{"id":31030,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"PolitiFact: Warren Facebook ad","why":"Fact-check on a political ad dispute."}
+{"id":31031,"keep":0,"q":1,"kind":"other","topic":"licensing","depth":"intro","title":"PolyForm licenses","why":"Licence text; legal reference, not learning content."}
+{"id":31032,"keep":1,"q":3,"kind":"visual","topic":"urban planning","depth":"intro","title":"The hidden politics of SimCity","why":"Video and article on the urban-planning ideas embedded in SimCity."}
+{"id":31033,"keep":1,"q":3,"kind":"docs","topic":"programming languages","depth":"intro","title":"What is Pony","why":"Overview of Pony's actor model and compile-time safety guarantees."}
+{"id":31034,"keep":1,"q":4,"kind":"essay","topic":"law","depth":"intermediate","title":"Warrants: bulwark of liberty or paper shield?","why":"Ken White on why search warrants offer weaker privacy protection than assumed."}
+{"id":31035,"keep":1,"q":3,"kind":"essay","topic":"law","depth":"intermediate","title":"Section 230 Is the Subject of the Most Effective Legal Propaganda","why":"Explains what Section 230 does and does not do, from a lawyer."}
+{"id":31036,"keep":0,"q":1,"kind":"news","topic":"intelligence","depth":"intro","title":"American IQ scores decline","why":"Popular coverage of a study; news-style."}
+{"id":31037,"keep":0,"q":1,"kind":"news","topic":"nuclear energy","depth":"intro","title":"TerraPower and China","why":"News coverage of a reactor project."}
+{"id":31038,"keep":0,"q":1,"kind":"news","topic":"computing","depth":"intro","title":"30-year-old computer runs school heat","why":"Short news story about an old system."}
+{"id":31039,"keep":0,"q":1,"kind":"other","topic":"demographics","depth":"intro","title":"Population pyramid: United States","why":"Interactive statistics chart; a data tracker."}
+{"id":31040,"keep":0,"q":1,"kind":"other","topic":"web traffic","depth":"intro","title":"Pornhub 2019 year in review","why":"Company statistics page."}
+{"id":31041,"keep":0,"q":1,"kind":"tool","topic":"gemini protocol","depth":"intro","title":"Gemini web portal","why":"Web proxy for a protocol; a tool, not a reading."}
+{"id":31042,"keep":0,"q":1,"kind":"tool","topic":"personal finance","depth":"intro","title":"Portfolio Performance","why":"Desktop software homepage."}
+{"id":31043,"keep":1,"q":4,"kind":"essay","topic":"driving safety","depth":"intro","title":"A Fighter Pilot's Guide to Surviving on the Roads","why":"Explains saccades and limited peripheral vision, and why drivers miss hazards."}
+{"id":31044,"keep":0,"q":1,"kind":"other","topic":"email","depth":"intro","title":"Posteo transparency report","why":"Transparency statistics report; reference only."}
+{"id":31045,"keep":0,"q":2,"kind":"docs","topic":"email","depth":"intermediate","title":"Postfix postscreen","why":"Feature README for a mail server component; config reference."}
+{"id":31046,"keep":0,"q":2,"kind":"news","topic":"security","depth":"intermediate","title":"Postfix SMTP smuggling advisory","why":"Vulnerability disclosure notice; time-bound news."}
+{"id":31047,"keep":1,"q":4,"kind":"book","topic":"databases","depth":"expert","title":"PostgreSQL 14 Internals","why":"Free book on PostgreSQL storage, transactions and query internals."}
+{"id":31048,"keep":0,"q":1,"kind":"other","topic":"databases","depth":"intro","title":"About PostgreSQL","why":"Project homepage; marketing and limits lookup."}
+{"id":31049,"keep":0,"q":1,"kind":"other","topic":"open source funding","depth":"intro","title":"PostgreSQL donate","why":"Donation page."}
+{"id":31050,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL 9.2 hstore docs","why":"Feature reference for a data type; a lookup."}
+{"id":31051,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL 9.5 JSON functions","why":"Function reference; lookup rather than learning."}
+{"id":31052,"keep":1,"q":3,"kind":"docs","topic":"databases","depth":"intermediate","title":"Continuous Archiving and Point-in-Time Recovery","why":"Official explanation of base backups, WAL archiving and point-in-time recovery."}
+{"id":31053,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL character types","why":"Type reference; lookup."}
+{"id":31054,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL enum types","why":"Feature reference; lookup."}
+{"id":31055,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL feature matrix","why":"SQL standard conformance table; lookup, cited in argument."}
+{"id":31056,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL admin functions","why":"Function reference; lookup."}
+{"id":31057,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL PL/Python","why":"Language extension reference."}
+{"id":31058,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL table expressions","why":"SQL reference section; lookup."}
+{"id":31059,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL replication settings","why":"Configuration reference; lookup."}
+{"id":31060,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL ALTER TABLE","why":"Command reference; lookup."}
+{"id":31061,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL CREATE INDEX","why":"Command reference; lookup."}
+{"id":31062,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL INSERT","why":"Command reference; lookup."}
+{"id":31063,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL query planner settings","why":"Configuration reference; lookup."}
+{"id":31064,"keep":1,"q":3,"kind":"docs","topic":"databases","depth":"expert","title":"Heap-Only Tuples (HOT) updates","why":"Explains how PostgreSQL avoids index updates on non-indexed column changes."}
+{"id":31065,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"PostgreSQL devel JSON functions","why":"Development-version reference; lookup."}
+{"id":31066,"keep":0,"q":1,"kind":"tool","topic":"databases","depth":"intro","title":"PostgreSQL Ubuntu downloads","why":"Installation download page."}
+{"id":31067,"keep":0,"q":1,"kind":"other","topic":"databases","depth":"intro","title":"PostgreSQL mailing lists","why":"Mailing list index; navigation page."}
+{"id":31068,"keep":0,"q":2,"kind":"other","topic":"company culture","depth":"intro","title":"PostHog handbook","why":"Company handbook; internal process documentation, not a learning piece."}
+{"id":31069,"keep":0,"q":2,"kind":"other","topic":"demoscene","depth":"intro","title":"Pouet: 4k demo","why":"Demo listing page; a link to a video."}
+{"id":31070,"keep":0,"q":2,"kind":"other","topic":"demoscene","depth":"intro","title":"Pouet: MySQL raytracer","why":"Demo listing page for a novelty program."}
+{"id":31071,"keep":0,"q":3,"kind":"other","topic":"public health","depth":"expert","title":"Community masking trial in Bangladesh","why":"Cited as evidence in a masking argument; the paper is not explained."}
+{"id":31072,"keep":0,"q":1,"kind":"other","topic":"demographics","depth":"intro","title":"Immigrants in California","why":"Statistics report cited as evidence in an argument."}
+{"id":31073,"keep":1,"q":5,"kind":"book","topic":"typography","depth":"intro","title":"Practical Typography: Summary of Key Rules","why":"Concise, well-argued guide to typography rules for readable text."}
+{"id":31074,"keep":1,"q":3,"kind":"essay","topic":"web advertising","depth":"intermediate","title":"The Cowardice of Brave","why":"Critique of Brave's ad model and creator payments, from a typography author."}
+{"id":31075,"keep":0,"q":2,"kind":"other","topic":"elixir","depth":"intro","title":"Pragmatic Studio Elixir course","why":"Paid course sales page."}
+{"id":31076,"keep":0,"q":2,"kind":"other","topic":"elixir","depth":"intro","title":"Pragmatic Studio Elixir course","why":"Paid course sales page."}
+{"id":31077,"keep":1,"q":4,"kind":"book","topic":"databases","depth":"intermediate","title":"SQL Antipatterns","why":"Catalogue of common SQL design mistakes and how to avoid them."}
+{"id":31078,"keep":1,"q":4,"kind":"book","topic":"graphics","depth":"intermediate","title":"The Ray Tracer Challenge","why":"Language-neutral project book for building a ray tracer step by step."}
+{"id":31079,"keep":1,"q":3,"kind":"book","topic":"databases","depth":"intro","title":"Seven Databases in Seven Weeks","why":"Tour of seven database types and their trade-offs."}
+{"id":31080,"keep":1,"q":4,"kind":"book","topic":"compilers","depth":"intermediate","title":"Language Implementation Patterns","why":"Practical patterns for parsers, interpreters and code generators."}
+{"id":31081,"keep":1,"q":4,"kind":"book","topic":"erlang","depth":"intro","title":"Programming Erlang","why":"Joe Armstrong's introduction to Erlang's concurrency model."}
+{"id":31082,"keep":1,"q":3,"kind":"book","topic":"ruby","depth":"intro","title":"Programming Ruby 1.9 (Pickaxe)","why":"Standard reference and tutorial for learning Ruby."}
+{"id":31083,"keep":1,"q":3,"kind":"explainer","topic":"demographics","depth":"intro","title":"How Many People Have Ever Lived on Earth?","why":"Estimates total humans ever born and what the uncertainty means."}
+{"id":31084,"keep":0,"q":2,"kind":"docs","topic":"javascript","depth":"intermediate","title":"Preact differences to React","why":"Migration reference listing API differences; lookup."}
+{"id":31085,"keep":1,"q":4,"kind":"essay","topic":"quantum physics","depth":"expert","title":"Why the Many-Worlds Formulation Is Probably Correct","why":"Sean Carroll's argument for many-worlds over alternative interpretations."}
+{"id":31086,"keep":1,"q":4,"kind":"explainer","topic":"quantum physics","depth":"intermediate","title":"The Notorious Delayed-Choice Quantum Eraser","why":"Explains the delayed-choice eraser experiment without mysticism."}
+{"id":31087,"keep":1,"q":5,"kind":"explainer","topic":"concurrency","depth":"expert","title":"Weak vs. Strong Memory Models","why":"Clear map of CPU memory ordering models and why they matter for lock-free code."}
+{"id":31088,"keep":1,"q":3,"kind":"book","topic":"economics of education","depth":"intermediate","title":"The Case Against Education","why":"Argues that education is mostly signalling; gives a thorough cost-benefit analysis."}
+{"id":31089,"keep":1,"q":3,"kind":"book","topic":"economics history","depth":"intermediate","title":"The Great Leveler","why":"History of how mass violence and disasters have reduced inequality."}
+{"id":31090,"keep":1,"q":4,"kind":"book","topic":"philosophy","depth":"intro","title":"On Bullshit","why":"Frankfurt's short philosophical analysis of bullshit versus lying."}
+{"id":31091,"keep":1,"q":3,"kind":"book","topic":"engineering management","depth":"intermediate","title":"An Elegant Puzzle","why":"Practical guide to engineering management and team systems."}
+{"id":31092,"keep":0,"q":1,"kind":"tool","topic":"security","depth":"intro","title":"SecureDrop","why":"Project page for a whistleblower tool."}
+{"id":31093,"keep":1,"q":4,"kind":"essay","topic":"journalism","depth":"intermediate","title":"The View from Nowhere: Questions and Answers","why":"Jay Rosen on objectivity norms in journalism and their failure modes."}
+{"id":31094,"keep":0,"q":1,"kind":"docs","topic":"javascript","depth":"intro","title":"Prettier ignore comments","why":"Config reference for a formatter."}
+{"id":31095,"keep":0,"q":1,"kind":"other","topic":"law","depth":"intro","title":"Consent order","why":"Legal document; not learning content."}
+{"id":31096,"keep":0,"q":1,"kind":"other","topic":"hosting","depth":"intro","title":"Prgmr San Jose colocation","why":"Hosting provider offer page."}
+{"id":31097,"keep":1,"q":3,"kind":"explainer","topic":"copyright","depth":"intro","title":"How Mickey Mouse Evades the Public Domain","why":"Explains how trademarks and copyright terms extend Disney's control."}
+{"id":31098,"keep":1,"q":3,"kind":"explainer","topic":"traffic safety","depth":"intro","title":"Is Every Speed Limit Too Low?","why":"Explains why speed differences between cars matter more than absolute speed."}
+{"id":31099,"keep":1,"q":3,"kind":"explainer","topic":"finance","depth":"intro","title":"Porsche: The Hedge Fund That Also Made Cars","why":"How Porsche's stake in Volkswagen shaped the company's history."}
+{"id":31100,"keep":1,"q":3,"kind":"explainer","topic":"finance","depth":"intro","title":"The Trade of the Century: When George Soros Broke the Pound","why":"Story of the 1992 currency trade and how it was done."}
+{"id":31101,"keep":1,"q":3,"kind":"explainer","topic":"statistics","depth":"intro","title":"Why the Father of Modern Statistics Didn't Believe Smoking Causes Cancer","why":"Fisher's objections to the smoking evidence and what they teach about causation."}
+{"id":31102,"keep":1,"q":4,"kind":"paper","topic":"economics","depth":"intermediate","title":"Understanding Why Crime Fell in the 90s","why":"Levitt's analysis of four factors behind the crime drop and six that were not."}
+{"id":31103,"keep":0,"q":1,"kind":"reference","topic":"number theory","depth":"intro","title":"Lists of primes to a million","why":"Data tables of primes; a lookup."}
+{"id":31104,"keep":1,"q":4,"kind":"paper","topic":"economics","depth":"expert","title":"High Income Improves Evaluation of Life but Not Emotional Well-Being","why":"Deaton and Kahneman on the $75k threshold and life satisfaction versus emotional well-being."}
+{"id":31105,"keep":0,"q":1,"kind":"other","topic":"web","depth":"intro","title":"Print-this link","why":"Print proxy link; no content value."}
+{"id":31106,"keep":0,"q":2,"kind":"other","topic":"criminal justice","depth":"intermediate","title":"Prison Policy income report","why":"Statistics report cited as evidence."}
+{"id":31107,"keep":0,"q":2,"kind":"other","topic":"criminal justice","depth":"intermediate","title":"Prison population breakdown 2019","why":"Statistics report cited as evidence."}
+{"id":31108,"keep":0,"q":1,"kind":"other","topic":"privacy","depth":"intro","title":"OpenAI privacy policies","why":"Opt-out and policy page."}
+{"id":31109,"keep":0,"q":2,"kind":"tool","topic":"privacy","depth":"intro","title":"Privacy Guides VPN recommendations","why":"Product recommendations page."}
+{"id":31110,"keep":0,"q":2,"kind":"tool","topic":"privacy","depth":"intro","title":"PrivacyTools browser recommendations","why":"Software recommendations; a tool list."}
+{"id":31111,"keep":1,"q":4,"kind":"reference","topic":"game boy hardware","depth":"expert","title":"Pan Docs","why":"Definitive technical reference for Game Boy hardware, for emulator and homebrew work."}
+{"id":31112,"keep":1,"q":4,"kind":"essay","topic":"garbage collection","depth":"expert","title":"Erlang's garbage collector","why":"Why per-process GC keeps Erlang responsive, a classic prog21 essay."}
+{"id":31113,"keep":1,"q":3,"kind":"essay","topic":"programming education","depth":"intro","title":"Programming for kids: Python versus JavaScript","why":"Argues about which language suits teaching programming and why."}
+{"id":31114,"keep":1,"q":4,"kind":"essay","topic":"programming careers","depth":"intermediate","title":"Recovering Programmer","why":"Reflection on the gap between being a programmer and being good at it."}
+{"id":31115,"keep":0,"q":1,"kind":"other","topic":"apis","depth":"intro","title":"ProgrammableWeb API directory","why":"API directory listing; reference lookup."}
+{"id":31116,"keep":1,"q":3,"kind":"essay","topic":"parsing","depth":"expert","title":"How to Parse Ruby","why":"Why Ruby is hard to parse and what makes a language grammar tractable."}
+{"id":31117,"keep":0,"q":1,"kind":"other","topic":"insurance","depth":"intro","title":"Progressive Snapshot","why":"Insurance product page."}
+{"id":31118,"keep":1,"q":5,"kind":"paper","topic":"statistics","depth":"expert","title":"Statistical Modeling: The Two Cultures","why":"Breiman's classic argument for algorithmic modelling over data modelling."}
+{"id":31119,"keep":1,"q":3,"kind":"blog","topic":"programming languages","depth":"expert","title":"Object-Oriented Tail Recursion","why":"Explores whether tail calls matter in object-oriented languages, using real examples."}
+{"id":31120,"keep":1,"q":4,"kind":"reference","topic":"rocket propulsion","depth":"intermediate","title":"Project Rho engine list","why":"Detailed comparison of rocket engine designs, including Orion and nuclear pulse."}
+{"id":31121,"keep":0,"q":1,"kind":"other","topic":"open source","depth":"intro","title":"Apache projects directory","why":"Project directory listing."}
+{"id":31122,"keep":0,"q":1,"kind":"other","topic":"elections","depth":"intro","title":"2024 election forecast","why":"Live forecast dashboard; time-bound."}
+{"id":31123,"keep":0,"q":2,"kind":"tool","topic":"css","depth":"intro","title":"Radium","why":"Library project page."}
+{"id":31124,"keep":0,"q":1,"kind":"other","topic":"nonprofits","depth":"intro","title":"Linux Foundation 990 filings","why":"Tax filings; a reference lookup."}
+{"id":31125,"keep":0,"q":1,"kind":"other","topic":"nonprofits","depth":"intro","title":"Signal Foundation 990 filings","why":"Tax filings; a reference lookup."}
+{"id":31126,"keep":0,"q":2,"kind":"journalism","topic":"politics","depth":"intro","title":"Parler Capitol videos","why":"Video archive cited as evidence in a political argument."}
+{"id":31127,"keep":0,"q":1,"kind":"other","topic":"smartphones","depth":"intro","title":"Project Sandcastle status","why":"Hardware compatibility status page."}
+{"id":31128,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"Project Veritas Google leak","why":"Partisan news video page."}
+{"id":31129,"keep":1,"q":4,"kind":"journalism","topic":"mathematics","depth":"intermediate","title":"The Paradox of the Proof","why":"Long-form look at Mochizuki's claimed proof of the abc conjecture and the verification problem."}
+{"id":31130,"keep":1,"q":5,"kind":"blog","topic":"security","depth":"expert","title":"A deep dive into an NSO zero-click exploit chain","why":"Detailed technical analysis of a zero-click iPhone exploit chain."}
+{"id":31131,"keep":0,"q":1,"kind":"reference","topic":"monitoring","depth":"intro","title":"Prometheus exporters list","why":"List of integrations; a lookup."}
+{"id":31132,"keep":1,"q":3,"kind":"docs","topic":"monitoring","depth":"intermediate","title":"Prometheus histograms and summaries","why":"Explains why cumulative histograms aggregate across hosts where summaries do not."}
+{"id":31133,"keep":0,"q":3,"kind":"reference","topic":"javascript","depth":"expert","title":"Promises/A+ spec","why":"Formal specification; a reference rather than an explanation."}
+{"id":31134,"keep":1,"q":4,"kind":"journalism","topic":"privacy","depth":"intro","title":"Everything We Know About What Data Brokers Know About You","why":"Catalogue of data broker practices and the personal data they hold."}
+{"id":31135,"keep":1,"q":3,"kind":"journalism","topic":"privacy","depth":"intermediate","title":"Facebook Doesn't Tell Users Everything It Really Knows About Them","why":"Investigation into Facebook's offline data and shadow profiles."}
+{"id":31136,"keep":1,"q":3,"kind":"journalism","topic":"privacy","depth":"intermediate","title":"How Facebook Undermines Privacy Protections for Its 2 Billion WhatsApp Users","why":"Explains how WhatsApp message review works and what content moderators see."}
+{"id":31137,"keep":0,"q":2,"kind":"journalism","topic":"college admissions","depth":"intro","title":"Jared Kushner's Harvard admission","why":"Investigative story cited as evidence in an argument about admissions."}
+{"id":31138,"keep":0,"q":2,"kind":"journalism","topic":"public health","depth":"intro","title":"US emergency medical stockpile","why":"Cited as evidence in a political argument about pandemic funding."}
+{"id":31139,"keep":0,"q":2,"kind":"news","topic":"politics","depth":"intro","title":"Trump and Russ Vought video","why":"News item about political rhetoric."}
+{"id":31140,"keep":1,"q":3,"kind":"journalism","topic":"healthcare","depth":"intro","title":"Why Your Health Insurer Doesn't Care About Your Big Bills","why":"Explains how insurers' incentives shape the bills patients receive."}
+{"id":31141,"keep":0,"q":1,"kind":"other","topic":"labour","depth":"intro","title":"Prospect tech workers union","why":"Union recruitment page."}
+{"id":31142,"keep":0,"q":1,"kind":"other","topic":"public health","depth":"intro","title":"HHS hospital utilization dashboard","why":"Live dashboard; time-bound statistics."}
+{"id":31143,"keep":0,"q":1,"kind":"other","topic":"privacy","depth":"intro","title":"Proton transparency report","why":"Company transparency report."}
+{"id":31144,"keep":0,"q":1,"kind":"news","topic":"email","depth":"intro","title":"ProtonMail statement on Radware","why":"Company statement on a specific incident."}
+{"id":31145,"keep":0,"q":2,"kind":"journalism","topic":"crypto","depth":"intermediate","title":"Tether papers investigation","why":"Investigation cited as evidence in crypto argument; time-bound."}
+{"id":31146,"keep":0,"q":1,"kind":"other","topic":"email","depth":"intro","title":"Privacy-respecting email list","why":"Directory of email providers."}
+{"id":31147,"keep":0,"q":1,"kind":"tool","topic":"networking","depth":"intermediate","title":"HPN-SSH","why":"Patched SSH project page; a tool download."}
+{"id":31148,"keep":1,"q":4,"kind":"journalism","topic":"psychology","depth":"intermediate","title":"The Weirdest People in the World?","why":"Joe Henrich on WEIRD samples and why psychology findings may not generalise."}
+{"id":31149,"keep":1,"q":4,"kind":"journalism","topic":"online harassment","depth":"intermediate","title":"Why Women Aren't Welcome on the Internet","why":"Documents the scale and types of online harassment women face."}
+{"id":31150,"keep":1,"q":4,"kind":"paper","topic":"expertise","depth":"expert","title":"The Role of Deliberate Practice in the Acquisition of Expert Performance","why":"Ericsson's account of why deliberate practice, not experience, builds expertise."}
+{"id":31151,"keep":0,"q":2,"kind":"paper","topic":"social media","depth":"expert","title":"Trade-offs between misinformation and balanced enforcement","why":"Preprint cited as evidence in a moderation argument."}
+{"id":31152,"keep":0,"q":2,"kind":"paper","topic":"road safety","depth":"intermediate","title":"Helmets and driver behaviour","why":"Cited as evidence in a bike helmet argument."}
+{"id":31153,"keep":1,"q":4,"kind":"paper","topic":"education","depth":"intermediate","title":"Learning Styles: Concepts and Evidence","why":"Reviews the evidence and finds no support for learning-styles matching."}
+{"id":31154,"keep":0,"q":2,"kind":"paper","topic":"education","depth":"intermediate","title":"SAT as a measure of g","why":"Cited as evidence in an argument about admissions."}
+{"id":31155,"keep":1,"q":3,"kind":"blog","topic":"psychology","depth":"intro","title":"Goodbye MBTI: the fad won't die","why":"Accessible critique of MBTI's validity and reliability problems."}
+{"id":31156,"keep":0,"q":1,"kind":"other","topic":"psychology","depth":"intro","title":"APA PsycNET search","why":"Search page; no content."}
+{"id":31157,"keep":1,"q":4,"kind":"paper","topic":"hiring","depth":"expert","title":"Selecting Talent: The Upshot from 85 Years of Research","why":"Meta-analysis showing which hiring methods predict job performance best."}
+{"id":31158,"keep":0,"q":1,"kind":"other","topic":"mental health","depth":"intro","title":"Psycom depression definition","why":"Disputed as a definition; cited in argument."}
+{"id":31159,"keep":0,"q":2,"kind":"docs","topic":"databases","depth":"intermediate","title":"psycopg advanced usage","why":"Library docs; lookup."}
+{"id":31160,"keep":1,"q":3,"kind":"visual","topic":"java","depth":"intro","title":"Java call stack from HTTP to JDBC as a picture","why":"Annotated call-stack diagram from a real web app, showing layering in practice."}
+{"id":31161,"keep":1,"q":2,"kind":"blog","topic":"machine learning","depth":"intermediate","title":"Stable Diffusion based image compression","why":"Shows how diffusion latents can compress images better than JPEG per pixel."}
+{"id":31162,"keep":0,"q":2,"kind":"news","topic":"air traffic","depth":"intermediate","title":"NATS major incident preliminary report","why":"Incident investigation report; time-bound."}
+{"id":31163,"keep":1,"q":3,"kind":"paper","topic":"smart contracts","depth":"expert","title":"Compiling Idris to the Ethereum VM","why":"Thesis on using a dependently typed language for smart contracts."}
+{"id":31164,"keep":0,"q":1,"kind":"news","topic":"covid","depth":"intro","title":"One in three Americans had COVID by end of 2020","why":"News item cited as evidence."}
+{"id":31165,"keep":0,"q":1,"kind":"tool","topic":"productivity","depth":"intro","title":"Vitamin-R","why":"Timer app page."}
+{"id":31166,"keep":0,"q":1,"kind":"reference","topic":"dns","depth":"intro","title":"Public Suffix List","why":"Data file; a lookup."}
+{"id":31167,"keep":0,"q":1,"kind":"other","topic":"dns","depth":"intro","title":"Public Suffix List submissions","why":"Submission procedure page."}
+{"id":31168,"keep":0,"q":2,"kind":"paper","topic":"nutrition","depth":"expert","title":"Vitamin D deficiency prevalence","why":"Cited as evidence in an argument."}
+{"id":31169,"keep":0,"q":2,"kind":"paper","topic":"medicine","depth":"expert","title":"Medical errors as a cause of death","why":"Cited as evidence in an argument."}
+{"id":31170,"keep":0,"q":2,"kind":"paper","topic":"air quality","depth":"expert","title":"CO2 and cognitive performance","why":"Cited as evidence in an argument about indoor air."}
+{"id":31171,"keep":0,"q":2,"kind":"paper","topic":"psychology","depth":"expert","title":"Stanford prison experiment critique","why":"Cited as evidence in an argument."}
+{"id":31172,"keep":0,"q":2,"kind":"paper","topic":"endocrinology","depth":"expert","title":"Testosterone levels in young men","why":"Cited as evidence in an argument."}
+{"id":31173,"keep":0,"q":2,"kind":"paper","topic":"vaccines","depth":"expert","title":"COVID and myocarditis risk","why":"Cited as evidence in a vaccine debate."}
+{"id":31174,"keep":0,"q":2,"kind":"reference","topic":"nutrition","depth":"intro","title":"Satiety index of common foods","why":"Food data table; a lookup."}
+{"id":31175,"keep":0,"q":2,"kind":"paper","topic":"plastics","depth":"intermediate","title":"Ten rivers and ocean plastic","why":"Cited as evidence in an argument about plastic pollution."}
+{"id":31176,"keep":0,"q":2,"kind":"paper","topic":"covid","depth":"expert","title":"Filtration efficiency of cloth masks","why":"Cited as evidence in a mask argument."}
+{"id":31177,"keep":1,"q":3,"kind":"paper","topic":"physics","depth":"intermediate","title":"All objects and some questions","why":"Article on the charge radii of particles and what the measurements mean."}
+{"id":31178,"keep":0,"q":2,"kind":"paper","topic":"biosensors","depth":"expert","title":"Saliva-based HER2 biosensor","why":"Cited as evidence in a test comparison."}
+{"id":31179,"keep":0,"q":1,"kind":"reference","topic":"unix","depth":"intermediate","title":"POSIX regular expressions","why":"Standard specification; a lookup."}
+{"id":31180,"keep":0,"q":1,"kind":"reference","topic":"unix","depth":"intermediate","title":"POSIX exec","why":"Standard specification; a lookup."}
+{"id":31181,"keep":0,"q":1,"kind":"reference","topic":"unix","depth":"intermediate","title":"POSIX find","why":"Standard specification; a lookup."}
+{"id":31182,"keep":0,"q":1,"kind":"reference","topic":"unix","depth":"intermediate","title":"POSIX sed","why":"Standard specification; a lookup."}
+{"id":31183,"keep":0,"q":2,"kind":"news","topic":"energy","depth":"intermediate","title":"MIT solar water paper","why":"Cited as evidence in a discussion of units; news framing."}
+{"id":31184,"keep":0,"q":1,"kind":"tool","topic":"hardware","depth":"intro","title":"Pulse-Eight USB HDMI CEC adapter","why":"Product page."}
+{"id":31185,"keep":0,"q":1,"kind":"tool","topic":"email","depth":"intro","title":"PurelyMail about page","why":"Company about page."}
+{"id":31186,"keep":1,"q":3,"kind":"blog","topic":"hardware security","depth":"expert","title":"Deep dive into Intel ME disablement","why":"Technical walkthrough of disabling the Intel Management Engine firmware."}
+{"id":31187,"keep":0,"q":2,"kind":"news","topic":"hardware","depth":"intro","title":"Librem 5 lockdown mode","why":"Product feature announcement."}
+{"id":31188,"keep":0,"q":1,"kind":"other","topic":"hardware","depth":"intro","title":"Petition for an ME-less CPU","why":"Petition page."}
+{"id":31189,"keep":0,"q":1,"kind":"tool","topic":"hardware","depth":"intro","title":"Librem 15 laptop","why":"Product page."}
+{"id":31190,"keep":1,"q":3,"kind":"essay","topic":"image processing","depth":"intro","title":"It's Time to Retire Lena from Computer Science","why":"Explains the Lena test image's origin and why researchers have dropped it."}
+{"id":31191,"keep":0,"q":1,"kind":"docs","topic":"virtualization","depth":"intro","title":"Proxmox roadmap","why":"Release roadmap page."}
+{"id":31192,"keep":0,"q":1,"kind":"tool","topic":"browsers","depth":"intro","title":"Jumanji browser","why":"Project page for a browser."}
+{"id":31193,"keep":0,"q":1,"kind":"tool","topic":"game development","depth":"intro","title":"Pygame news","why":"Project news page."}
+{"id":31194,"keep":0,"q":2,"kind":"tool","topic":"python","depth":"intro","title":"Pyodide console","why":"Interactive Python REPL in the browser; a tool."}
+{"id":31195,"keep":0,"q":1,"kind":"tool","topic":"python","depth":"intro","title":"plumbum","why":"Library package page."}
+{"id":31196,"keep":0,"q":1,"kind":"tool","topic":"video","depth":"intro","title":"youtube_dl on PyPI","why":"Package download page."}
+{"id":31197,"keep":0,"q":1,"kind":"tool","topic":"python","depth":"intro","title":"greenlet","why":"Library package page."}
+{"id":31198,"keep":0,"q":1,"kind":"tool","topic":"python","depth":"intro","title":"ipdb","why":"Library package page."}
+{"id":31199,"keep":0,"q":1,"kind":"tool","topic":"python","depth":"intro","title":"requests","why":"Library package page; no explanatory content."}
