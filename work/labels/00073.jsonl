@@ -1,0 +1,200 @@
+{"id": 14600, "keep": 0, "q": 2, "kind": "tool", "topic": "security", "depth": "expert", "title": "Microsoft Detours", "why": "Research project page for the Detours API-hooking library; a tool home rather than a lesson."}
+{"id": 14601, "keep": 0, "q": 1, "kind": "tool", "topic": "windows", "depth": "intro", "title": "Windows 11 Download", "why": "Official Windows 11 installer download page with no learning content."}
+{"id": 14602, "keep": 0, "q": 1, "kind": "tool", "topic": "java", "depth": "intro", "title": "Microsoft Build of OpenJDK", "why": "Download page for Microsoft's OpenJDK builds."}
+{"id": 14603, "keep": 0, "q": 2, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Microsoft Pluton Security Processor", "why": "Vendor announcement of a security chip; more marketing than technical explanation."}
+{"id": 14604, "keep": 1, "q": 4, "kind": "docs", "topic": "developer tools", "depth": "intermediate", "title": "Language Server Protocol Specification", "why": "Spec behind modern editor language features, explaining how editors talk to language servers."}
+{"id": 14605, "keep": 0, "q": 2, "kind": "reference", "topic": "economics", "depth": "intro", "title": "UK Long-Term Migration Flows", "why": "Statistical briefing on UK migration figures; data-tracker style."}
+{"id": 14606, "keep": 0, "q": 1, "kind": "news", "topic": "military", "depth": "intro", "title": "Congress Buys Abrams Tanks", "why": "Dated news about defence procurement."}
+{"id": 14607, "keep": 0, "q": 1, "kind": "news", "topic": "military", "depth": "intro", "title": "Pentagon Tells Congress to Stop Buying Equipment", "why": "Dated news about defence procurement."}
+{"id": 14608, "keep": 0, "q": 1, "kind": "other", "topic": "domains", "depth": "intro", "title": "milk.com", "why": "Domain-for-sale page with no content."}
+{"id": 14609, "keep": 0, "q": 1, "kind": "reference", "topic": "games", "depth": "intro", "title": "Minecraft Stats Page", "why": "Live sales counter; a statistics tracker."}
+{"id": 14610, "keep": 1, "q": 3, "kind": "book", "topic": "intellectual property", "depth": "intermediate", "title": "Against Intellectual Property", "why": "Kinsella's book arguing from first principles for abolishing IP law; a full argued case."}
+{"id": 14611, "keep": 0, "q": 2, "kind": "essay", "topic": "policing", "depth": "intro", "title": "Police Have No Duty to Protect You", "why": "Libertarian commentary on a court ruling; opinion-driven rather than explanatory."}
+{"id": 14612, "keep": 1, "q": 4, "kind": "book", "topic": "ruby", "depth": "intro", "title": "Why's Poignant Guide to Ruby", "why": "Whimsical illustrated introduction to programming and Ruby; a beloved first book."}
+{"id": 14613, "keep": 1, "q": 4, "kind": "blog", "topic": "nix", "depth": "intermediate", "title": "Nix with Dockerfiles", "why": "Shows how to build minimal Docker images with Nix and nix-copy-closure, with reasoning."}
+{"id": 14614, "keep": 1, "q": 4, "kind": "book", "topic": "lisp", "depth": "expert", "title": "The Art of the Metaobject Protocol", "why": "Explains CLOS's metaobject protocol and how Lisp systems can be extended from within."}
+{"id": 14615, "keep": 1, "q": 4, "kind": "book", "topic": "prolog", "depth": "intermediate", "title": "The Art of Prolog", "why": "Classic textbook on advanced Prolog programming techniques and idioms."}
+{"id": 14616, "keep": 1, "q": 5, "kind": "book", "topic": "computer architecture", "depth": "intermediate", "title": "The Elements of Computing Systems", "why": "Build a computer from NAND gates up through a compiler and simple OS."}
+{"id": 14617, "keep": 1, "q": 4, "kind": "book", "topic": "safety engineering", "depth": "expert", "title": "Engineering a Safer World", "why": "Leveson's systems-theoretic approach to safety and accident analysis for complex systems."}
+{"id": 14618, "keep": 1, "q": 4, "kind": "book", "topic": "scheme", "depth": "intro", "title": "The Little Schemer", "why": "Playful, question-driven introduction to recursion and Scheme."}
+{"id": 14619, "keep": 0, "q": 1, "kind": "other", "topic": "jobs", "depth": "intro", "title": "Mixpanel Jobs", "why": "Job listings page."}
+{"id": 14620, "keep": 0, "q": 1, "kind": "reference", "topic": "llms", "depth": "intro", "title": "MCP Client List", "why": "Directory of MCP-supporting clients; a catalogue rather than an explainer."}
+{"id": 14621, "keep": 1, "q": 3, "kind": "docs", "topic": "security", "depth": "expert", "title": "MCP Authorization Specification", "why": "Spec for OAuth-based authorization in the Model Context Protocol; dense but precise."}
+{"id": 14622, "keep": 0, "q": 1, "kind": "tool", "topic": "email", "depth": "intro", "title": "Modoboa", "why": "Mail server product homepage."}
+{"id": 14623, "keep": 0, "q": 1, "kind": "other", "topic": "llms", "depth": "intro", "title": "Moltbook Skill File", "why": "Instructions for an AI agent to join a social site; not explanatory content."}
+{"id": 14624, "keep": 1, "q": 3, "kind": "essay", "topic": "economics", "depth": "intermediate", "title": "ARPUs of the Big Four", "why": "Compares revenue per user across major tech companies with clear numbers and reasoning."}
+{"id": 14625, "keep": 0, "q": 1, "kind": "news", "topic": "taxes", "depth": "intro", "title": "Buffett's Secretary Taxes", "why": "Dated news item about effective tax rates."}
+{"id": 14626, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "States Most Reliant on Federal Government", "why": "Ranking statistics page."}
+{"id": 14627, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "MongoDB Atlas", "why": "Managed database product page."}
+{"id": 14628, "keep": 0, "q": 1, "kind": "reference", "topic": "databases", "depth": "intro", "title": "Who Uses MongoDB", "why": "Customer logo list; marketing page."}
+{"id": 14629, "keep": 1, "q": 4, "kind": "essay", "topic": "writing", "depth": "intro", "title": "David Foster Wallace in His Own Words", "why": "Collected excerpts from Wallace, including his Kenyon commencement speech."}
+{"id": 14630, "keep": 1, "q": 4, "kind": "visual", "topic": "image processing", "depth": "intro", "title": "Lena", "why": "Visual history of the Lena test image and why it became a computing standard."}
+{"id": 14631, "keep": 1, "q": 4, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "Big Data Is Dead", "why": "Argues most workloads fit on one machine, with grounded data on single-node scaling."}
+{"id": 14632, "keep": 1, "q": 3, "kind": "journalism", "topic": "environment", "depth": "intro", "title": "Where's California's Water Going", "why": "Explains how California's water is used, especially by agriculture, with footprint numbers."}
+{"id": 14633, "keep": 1, "q": 3, "kind": "journalism", "topic": "criminal justice", "depth": "intro", "title": "CCA Private Prisons Investigation", "why": "Investigation into private prison operators and the incentives they create."}
+{"id": 14634, "keep": 0, "q": 1, "kind": "news", "topic": "mobile", "depth": "intro", "title": "Motorola B2B Solutions", "why": "Press release on enterprise products."}
+{"id": 14635, "keep": 1, "q": 4, "kind": "essay", "topic": "cryptography", "depth": "intermediate", "title": "GPG and Me", "why": "Marlinspike's critique of PGP usability and why end-to-end encryption needs better tools."}
+{"id": 14636, "keep": 0, "q": 2, "kind": "other", "topic": "open web", "depth": "intro", "title": "Mozilla Manifesto", "why": "Mission-statement principles; values rather than explanation."}
+{"id": 14637, "keep": 0, "q": 1, "kind": "reference", "topic": "legal", "depth": "intro", "title": "Mozilla Acceptable Use Policy", "why": "Legal policy text."}
+{"id": 14638, "keep": 0, "q": 1, "kind": "reference", "topic": "legal", "depth": "intro", "title": "Firefox Terms of Service", "why": "Legal terms text."}
+{"id": 14639, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intro", "title": "Firefox Landing Page", "why": "Product homepage."}
+{"id": 14640, "keep": 0, "q": 2, "kind": "reference", "topic": "browsers", "depth": "intro", "title": "Mozilla 2017 Annual Report", "why": "Organisation report on finances and strategy, not a learning resource."}
+{"id": 14641, "keep": 0, "q": 1, "kind": "reference", "topic": "organizations", "depth": "intro", "title": "Mozilla Corporation Board", "why": "Governance page listing board members."}
+{"id": 14642, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intro", "title": "Firefox Download Page", "why": "Product download page."}
+{"id": 14643, "keep": 0, "q": 1, "kind": "tool", "topic": "javascript", "depth": "intro", "title": "Mozilla Rhino", "why": "Project page for a JavaScript engine written in Java."}
+{"id": 14644, "keep": 0, "q": 1, "kind": "reference", "topic": "video codecs", "depth": "intro", "title": "MPEG LA AVC Terms Summary", "why": "Licensing terms for H.264."}
+{"id": 14645, "keep": 1, "q": 4, "kind": "blog", "topic": "javascript", "depth": "expert", "title": "Maybe You Don't Need Rust to Speed Up Your JS", "why": "V8 engineer's dissection of a WebAssembly speedup; sharp look at JS performance."}
+{"id": 14646, "keep": 0, "q": 1, "kind": "tool", "topic": "networking", "depth": "intro", "title": "NCSI Test File", "why": "Network connectivity check file for Windows."}
+{"id": 14647, "keep": 0, "q": 2, "kind": "reference", "topic": "environment", "depth": "intermediate", "title": "Danish Study on Bag Environmental Impact", "why": "Government lifecycle study cited in debates; used as evidence rather than explained."}
+{"id": 14648, "keep": 1, "q": 3, "kind": "paper", "topic": "games", "depth": "intermediate", "title": "Bartle Player Types Update", "why": "Survey-based update of Bartle's player taxonomy from the MUD era; short and readable."}
+{"id": 14649, "keep": 0, "q": 2, "kind": "blog", "topic": "networking", "depth": "intermediate", "title": "Removing Forwarded Ports from Mullvad VPN", "why": "Company explains dropping port forwarding because of abuse; policy announcement."}
+{"id": 14649, "keep": 0, "q": 2, "kind": "blog", "topic": "networking", "depth": "intermediate", "title": "Removing Forwarded Ports from Mullvad VPN", "why": "Company explains dropping port forwarding because of abuse; policy announcement."}
+{"id": 14650, "keep": 1, "q": 3, "kind": "visual", "topic": "openstreetmap", "depth": "intro", "title": "OpenStreetMap Then and Now", "why": "Side-by-side map viewer showing how OpenStreetMap grew from 2007 to today."}
+{"id": 14651, "keep": 1, "q": 4, "kind": "blog", "topic": "browsers", "depth": "expert", "title": "Positron Discontinued", "why": "Account of building an Electron-compatible Mozilla prototype and why it was shut down."}
+{"id": 14652, "keep": 0, "q": 2, "kind": "tool", "topic": "unix tools", "depth": "intermediate", "title": "Heirloom Doctools", "why": "Project page for a troff toolchain; a tool home rather than teaching content."}
+{"id": 14653, "keep": 0, "q": 1, "kind": "reference", "topic": "criminal justice", "depth": "intro", "title": "NAACP Criminal Justice Fact Sheet", "why": "Statistics fact sheet."}
+{"id": 14654, "keep": 1, "q": 5, "kind": "tutorial", "topic": "computer architecture", "depth": "intermediate", "title": "Nand2Tetris Course", "why": "Project course building a computer from logic gates up to a Tetris game."}
+{"id": 14655, "keep": 1, "q": 4, "kind": "tutorial", "topic": "computer architecture", "depth": "intermediate", "title": "Nand2Tetris Course Slides", "why": "Lecture slides for building a computer from first principles, layer by layer."}
+{"id": 14656, "keep": 0, "q": 1, "kind": "tool", "topic": "genomics", "depth": "intro", "title": "Oxford Nanopore MinION", "why": "Product page for a DNA sequencer."}
+{"id": 14657, "keep": 0, "q": 1, "kind": "news", "topic": "climate", "depth": "intro", "title": "Antarctic Sea Ice Record", "why": "NASA news item on sea ice."}
+{"id": 14658, "keep": 0, "q": 2, "kind": "news", "topic": "climate", "depth": "intro", "title": "Human Activity Greening Earth", "why": "NASA news story summarising a single study; topical."}
+{"id": 14659, "keep": 0, "q": 1, "kind": "reference", "topic": "markets", "depth": "intro", "title": "Lumber Futures Price", "why": "Commodity price tracker."}
+{"id": 14660, "keep": 0, "q": 2, "kind": "reference", "topic": "geopolitics", "depth": "intro", "title": "NATO 2008 Bucharest Declaration", "why": "Primary political text cited in a debate."}
+{"id": 14661, "keep": 0, "q": 2, "kind": "journalism", "topic": "epidemiology", "depth": "intermediate", "title": "Herd Immunity Thresholds", "why": "COVID-era news feature on herd immunity estimates; topical."}
+{"id": 14662, "keep": 0, "q": 2, "kind": "journalism", "topic": "epidemiology", "depth": "intro", "title": "Coronavirus on Surfaces", "why": "COVID news piece on fomite transmission; topical."}
+{"id": 14663, "keep": 0, "q": 2, "kind": "paper", "topic": "epidemiology", "depth": "intermediate", "title": "Asymptomatic Transmission Study", "why": "Single COVID contact-tracing study cited as evidence in a debate."}
+{"id": 14664, "keep": 1, "q": 3, "kind": "paper", "topic": "energy", "depth": "expert", "title": "Renewable Grid Reliability Study", "why": "Modelling study on reliable renewable power systems and the storage they need."}
+{"id": 14665, "keep": 0, "q": 2, "kind": "paper", "topic": "epidemiology", "depth": "intermediate", "title": "School Closures and Reproduction Number", "why": "COVID modelling paper cited for intervention effects; evidence in debate."}
+{"id": 14666, "keep": 1, "q": 4, "kind": "paper", "topic": "llms", "depth": "expert", "title": "SynthID-Text Watermarking", "why": "Nature paper on statistically watermarking LLM text with minimal quality loss."}
+{"id": 14667, "keep": 1, "q": 3, "kind": "paper", "topic": "environment", "depth": "intermediate", "title": "Great Pacific Garbage Patch Mass", "why": "Study estimating plastic mass in the garbage patch, with fishing nets dominant."}
+{"id": 14668, "keep": 1, "q": 2, "kind": "paper", "topic": "health", "depth": "intermediate", "title": "Light Text on Dark and Myopia", "why": "Study linking light-on-dark screen text with lower myopia risk; contested evidence."}
+{"id": 14669, "keep": 1, "q": 3, "kind": "paper", "topic": "neuroscience", "depth": "intermediate", "title": "GPS Use and Hippocampal Decline", "why": "Longitudinal study linking GPS reliance with declining spatial memory."}
+{"id": 14670, "keep": 1, "q": 4, "kind": "journalism", "topic": "neuroscience", "depth": "intro", "title": "The Strange Brain of the World's Greatest Solo Climber", "why": "Feature on Alex Honnold's atypical amygdala response and what it says about fear."}
+{"id": 14671, "keep": 0, "q": 1, "kind": "news", "topic": "cars", "depth": "intro", "title": "Cars Getting Bigger and Front Blind Zones", "why": "News feature on vehicle size and visibility; topical."}
+{"id": 14672, "keep": 0, "q": 1, "kind": "news", "topic": "misinformation", "depth": "intro", "title": "Fake Persona and Hunter Biden Story", "why": "News story on a 2020 political episode."}
+{"id": 14673, "keep": 0, "q": 2, "kind": "tool", "topic": "git", "depth": "intermediate", "title": "nbdime", "why": "Project docs for a notebook diff tool; a tool home page."}
+{"id": 14674, "keep": 1, "q": 4, "kind": "visual", "topic": "systems thinking", "depth": "intro", "title": "Loopy", "why": "Interactive tool for drawing causal loop diagrams to explore systems thinking."}
+{"id": 14675, "keep": 1, "q": 2, "kind": "paper", "topic": "nutrition", "depth": "intermediate", "title": "Sugar Dependence in Rats", "why": "Rat study on sugar bingeing and dependence; contested translation to humans."}
+{"id": 14676, "keep": 1, "q": 2, "kind": "paper", "topic": "nutrition", "depth": "intermediate", "title": "Neuroprotective Ketogenic Diet", "why": "Review of ketogenic diets for neurological disease, including Alzheimer's."}
+{"id": 14677, "keep": 1, "q": 3, "kind": "paper", "topic": "nutrition", "depth": "intro", "title": "382-Day Medically Supervised Fast", "why": "Case report of a year-long supervised fast with clinical detail."}
+{"id": 14678, "keep": 1, "q": 3, "kind": "paper", "topic": "nutrition", "depth": "intro", "title": "382-Day Medically Supervised Fast (PDF)", "why": "PDF of the same case report on a year-long supervised fast."}
+{"id": 14679, "keep": 0, "q": 2, "kind": "paper", "topic": "health", "depth": "intermediate", "title": "Radiation and Calcium Channels", "why": "Review cited in debates on phone radiation; evidence-only."}
+{"id": 14680, "keep": 0, "q": 1, "kind": "paper", "topic": "nutrition", "depth": "intermediate", "title": "Glyphosate and Gut Health", "why": "Single paper cited in a debate about glyphosate and gluten."}
+{"id": 14681, "keep": 0, "q": 1, "kind": "paper", "topic": "dentistry", "depth": "intermediate", "title": "Novamin Remineralization Review", "why": "Dental review cited in toothpaste debates."}
+{"id": 14682, "keep": 0, "q": 2, "kind": "paper", "topic": "psychology", "depth": "intermediate", "title": "Rat Park Replication", "why": "Replication study cited in debate; evidence rather than explanation."}
+{"id": 14683, "keep": 0, "q": 1, "kind": "reference", "topic": "professional licensing", "depth": "intro", "title": "NCEES Software Engineering PE", "why": "Licensing exam page."}
+{"id": 14684, "keep": 0, "q": 1, "kind": "reference", "topic": "employment", "depth": "intro", "title": "Employee Ownership 100", "why": "List of employee-owned companies."}
+{"id": 14685, "keep": 1, "q": 4, "kind": "docs", "topic": "security", "depth": "intro", "title": "Updating Your Approach to Password Security", "why": "UK NCSC guidance explaining why old password rules fail, in plain English."}
+{"id": 14686, "keep": 0, "q": 1, "kind": "reference", "topic": "health economics", "depth": "intro", "title": "Health Insurance Premiums Survey", "why": "Statistical survey of premiums."}
+{"id": 14687, "keep": 0, "q": 1, "kind": "other", "topic": "genomics", "depth": "intro", "title": "Nebula Genomics", "why": "Consumer DNA sequencing product page."}
+{"id": 14688, "keep": 0, "q": 2, "kind": "tool", "topic": "css", "depth": "intro", "title": "normalize.css", "why": "Project page for a CSS reset library."}
+{"id": 14689, "keep": 0, "q": 2, "kind": "tool", "topic": "code generation", "depth": "intermediate", "title": "Cog", "why": "Project page for a code-generation tool."}
+{"id": 14690, "keep": 1, "q": 3, "kind": "paper", "topic": "fitness", "depth": "intermediate", "title": "Testosterone and Muscle Size Trial", "why": "1996 NEJM trial on testosterone and exercise effects on muscle size."}
+{"id": 14691, "keep": 0, "q": 1, "kind": "paper", "topic": "epidemiology", "depth": "intro", "title": "Covid in NYC Pregnant Women", "why": "Short letter on COVID prevalence, cited as evidence in a debate."}
+{"id": 14692, "keep": 0, "q": 2, "kind": "reference", "topic": "editors", "depth": "intro", "title": "Neovim LSP Documentation", "why": "Reference manual for Neovim's built-in LSP client."}
+{"id": 14693, "keep": 1, "q": 3, "kind": "reference", "topic": "electronics", "depth": "intro", "title": "NASA Tin Whisker Site", "why": "Reference site with images explaining tin whiskers and their failure risk."}
+{"id": 14694, "keep": 1, "q": 2, "kind": "explainer", "topic": "personal finance", "depth": "intro", "title": "Total Cost of Owning a Car", "why": "Explainer breaking down car ownership costs with real numbers."}
+{"id": 14695, "keep": 1, "q": 2, "kind": "explainer", "topic": "personal finance", "depth": "intro", "title": "Total Cost of Owning a Car (2016)", "why": "Earlier version of the car ownership cost explainer."}
+{"id": 14696, "keep": 0, "q": 1, "kind": "tool", "topic": "version control", "depth": "intro", "title": "Pijul Nest", "why": "Repository hosting page for a version control system."}
+{"id": 14697, "keep": 0, "q": 2, "kind": "reference", "topic": "machine learning", "depth": "intro", "title": "Netflix Prize Leaderboard", "why": "Leaderboard page."}
+{"id": 14698, "keep": 0, "q": 2, "kind": "reference", "topic": "social media", "depth": "intermediate", "title": "TikTok Timebomb Report", "why": "Advocacy research report; used as evidence rather than explained."}
+{"id": 14699, "keep": 1, "q": 3, "kind": "journalism", "topic": "privacy", "depth": "intro", "title": "How a Hollywood Star Lobbies the EU", "why": "Investigation into lobbying behind EU surveillance rules."}
+{"id": 14700, "keep": 0, "q": 1, "kind": "reference", "topic": "domains", "depth": "intro", "title": "ICANN New gTLD Program", "why": "Program page with application info."}
+{"id": 14701, "keep": 1, "q": 3, "kind": "journalism", "topic": "career", "depth": "intro", "title": "Silicon Valley's Brutal Ageism", "why": "Long-form piece on age discrimination in the tech industry."}
+{"id": 14702, "keep": 1, "q": 4, "kind": "journalism", "topic": "economics", "depth": "intermediate", "title": "Boeing 737 Max and Managerial Revolution", "why": "Analysis of how financialization shaped Boeing's culture and the 737 Max failures."}
+{"id": 14703, "keep": 0, "q": 2, "kind": "other", "topic": "php", "depth": "intermediate", "title": "PHP Hash Function History", "why": "Mailing list thread on early PHP hash design; niche."}
+{"id": 14704, "keep": 0, "q": 1, "kind": "news", "topic": "apple", "depth": "intro", "title": "Microsoft Invests in Apple", "why": "1997 news item."}
+{"id": 14705, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Phone Tracking and Surveillance", "why": "News item on phone surveillance."}
+{"id": 14706, "keep": 0, "q": 2, "kind": "news", "topic": "dart", "depth": "intro", "title": "Dart for the Entire Web", "why": "Announcement that Dart would compile to JavaScript; dated news."}
+{"id": 14707, "keep": 1, "q": 3, "kind": "journalism", "topic": "psychology", "depth": "intro", "title": "Harvard Study of Adult Development", "why": "Accessible summary of the 80-year Harvard study on what predicts happiness."}
+{"id": 14708, "keep": 0, "q": 1, "kind": "news", "topic": "github", "depth": "intro", "title": "Microsoft Acquires GitHub", "why": "Press release."}
+{"id": 14709, "keep": 0, "q": 2, "kind": "news", "topic": "academic publishing", "depth": "intro", "title": "MIT Students Fool Journals", "why": "News on SCIgen hoax papers."}
+{"id": 14710, "keep": 0, "q": 1, "kind": "news", "topic": "fusion", "depth": "intro", "title": "MIT Fusion Magnet Advance", "why": "University news release."}
+{"id": 14711, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Clinton 2016 Election", "why": "Political news."}
+{"id": 14712, "keep": 0, "q": 1, "kind": "news", "topic": "housing", "depth": "intro", "title": "Average US Home Size by Decade", "why": "Statistics news piece."}
+{"id": 14713, "keep": 0, "q": 2, "kind": "news", "topic": "covid", "depth": "intro", "title": "Myocarditis After COVID Infection", "why": "Press release on a cohort study; topical."}
+{"id": 14714, "keep": 1, "q": 3, "kind": "explainer", "topic": "law", "depth": "intermediate", "title": "Legal Myths About Assange Extradition", "why": "Lawyer's clear rebuttal of common legal misconceptions about extradition."}
+{"id": 14715, "keep": 1, "q": 2, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "The City of London Corporation", "why": "Feature on the City of London's unusual governing institution."}
+{"id": 14716, "keep": 1, "q": 3, "kind": "essay", "topic": "literature", "depth": "intro", "title": "Asimov on Orwell's 1984", "why": "Asimov's critique of 1984 as a model for thinking about future technology and society."}
+{"id": 14717, "keep": 1, "q": 4, "kind": "journalism", "topic": "technology policy", "depth": "intermediate", "title": "The Planning Machine", "why": "Morozov on Chile's Cybersyn and the idea of computer-run economies."}
+{"id": 14718, "keep": 1, "q": 4, "kind": "journalism", "topic": "climate", "depth": "intro", "title": "The Siege of Miami", "why": "Explains Miami's geology and flood risk as sea levels rise."}
+{"id": 14719, "keep": 1, "q": 3, "kind": "journalism", "topic": "politics", "depth": "intro", "title": "Elon Musk's Shadow Rule", "why": "Long-form reporting on Musk's role in the Ukraine war and Pentagon relations."}
+{"id": 14720, "keep": 1, "q": 5, "kind": "journalism", "topic": "criminal justice", "depth": "intro", "title": "Hellhole", "why": "Gawande's classic investigation of solitary confinement and its psychological harm."}
+{"id": 14721, "keep": 0, "q": 1, "kind": "tool", "topic": "office software", "depth": "intro", "title": "Nextcloud Collabora Online", "why": "Product page for an office integration."}
+{"id": 14722, "keep": 0, "q": 1, "kind": "other", "topic": "self hosting", "depth": "intro", "title": "Nextcloud Providers", "why": "Provider list page."}
+{"id": 14723, "keep": 0, "q": 2, "kind": "reference", "topic": "fire safety", "depth": "intro", "title": "Vehicle Fires Report", "why": "NFPA statistics report."}
+{"id": 14724, "keep": 0, "q": 1, "kind": "tool", "topic": "health", "depth": "intro", "title": "BMI Calculator", "why": "Calculator page."}
+{"id": 14725, "keep": 1, "q": 2, "kind": "reference", "topic": "safety", "depth": "intro", "title": "NHTSA Crash Test Dummies", "why": "Reference page on the crash test dummies used in US safety testing."}
+{"id": 14726, "keep": 0, "q": 1, "kind": "news", "topic": "traffic safety", "depth": "intro", "title": "2020 Traffic Fatality Data", "why": "Press release with statistics."}
+{"id": 14727, "keep": 1, "q": 4, "kind": "essay", "topic": "existential risk", "depth": "intermediate", "title": "Existential Risks", "why": "Bostrom's taxonomy of existential risks and why they matter for humanity."}
+{"id": 14728, "keep": 0, "q": 1, "kind": "reference", "topic": "health", "depth": "intro", "title": "Obesity Statistics", "why": "Statistics page."}
+{"id": 14729, "keep": 0, "q": 1, "kind": "reference", "topic": "consoles", "depth": "intro", "title": "Nintendo Switch Tech Specs", "why": "Spec sheet."}
+{"id": 14730, "keep": 0, "q": 1, "kind": "tool", "topic": "nix", "depth": "intro", "title": "Nix Download", "why": "Installation page."}
+{"id": 14731, "keep": 0, "q": 1, "kind": "reference", "topic": "nix", "depth": "intro", "title": "NixOS Packages", "why": "Package search page."}
+{"id": 14732, "keep": 0, "q": 1, "kind": "other", "topic": "funding", "depth": "intro", "title": "NLnet Projects", "why": "Funder's project list."}
+{"id": 14733, "keep": 0, "q": 2, "kind": "reference", "topic": "labor law", "depth": "intro", "title": "Your Rights to Discuss Wages", "why": "NLRB legal guidance; legal text."}
+{"id": 14734, "keep": 0, "q": 1, "kind": "reference", "topic": "labor law", "depth": "intro", "title": "NLRB Strikes Guidance", "why": "Legal guidance page."}
+{"id": 14735, "keep": 0, "q": 1, "kind": "tool", "topic": "networking", "depth": "intro", "title": "Ncat", "why": "Project page for a netcat clone."}
+{"id": 14736, "keep": 1, "q": 3, "kind": "reference", "topic": "climate", "depth": "intro", "title": "NOAA Ocean Acidification", "why": "Plain educational explainer on how CO2 changes ocean chemistry and marine life."}
+{"id": 14737, "keep": 1, "q": 3, "kind": "essay", "topic": "economics", "depth": "intermediate", "title": "Paycheck to Paycheck and Five Other Myths", "why": "Debunks the claim that most Americans live paycheck to paycheck, using data."}
+{"id": 14738, "keep": 0, "q": 2, "kind": "docs", "topic": "node", "depth": "intermediate", "title": "Node.js HTTP Docs", "why": "API reference for Node's HTTP module."}
+{"id": 14739, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "Node.js Permissions Docs", "why": "Experimental feature reference page."}
+{"id": 14740, "keep": 0, "q": 1, "kind": "reference", "topic": "node", "depth": "intro", "title": "Node.js Release Schedule", "why": "Release policy page."}
+{"id": 14741, "keep": 1, "q": 4, "kind": "blog", "topic": "web platform", "depth": "intermediate", "title": "Web SQL Database, In Memoriam", "why": "Nolan Lawson on why WebSQL was dropped; clear history of the standards process."}
+{"id": 14742, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "California Employment Discrimination", "why": "Legal reference page."}
+{"id": 14743, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intermediate", "title": "Fiduciary Duty of Corporations", "why": "Legal reference on fiduciary duties."}
+{"id": 14744, "keep": 0, "q": 1, "kind": "other", "topic": "business", "depth": "intro", "title": "Nomad List Open Revenue", "why": "Founder's revenue dashboard."}
+{"id": 14745, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "oathtool", "why": "Man page for a command-line TOTP tool."}
+{"id": 14746, "keep": 0, "q": 1, "kind": "tool", "topic": "backups", "depth": "intro", "title": "rdiff-backup", "why": "Project page for a backup tool."}
+{"id": 14747, "keep": 0, "q": 2, "kind": "tool", "topic": "languages", "depth": "intermediate", "title": "TXR", "why": "Project page for a text-processing language."}
+{"id": 14748, "keep": 0, "q": 1, "kind": "tool", "topic": "browsers", "depth": "intro", "title": "NoScript NSA", "why": "Mobile add-on page."}
+{"id": 14749, "keep": 0, "q": 1, "kind": "tool", "topic": "css", "depth": "intro", "title": "NES.css", "why": "CSS framework demo page."}
+{"id": 14750, "keep": 1, "q": 4, "kind": "book", "topic": "build systems", "depth": "intermediate", "title": "GNU Make", "why": "Book covering GNU make from basics to advanced recipes."}
+{"id": 14751, "keep": 1, "q": 4, "kind": "book", "topic": "cryptography", "depth": "expert", "title": "Serious Cryptography", "why": "Accessible modern cryptography textbook covering primitives and security definitions."}
+{"id": 14752, "keep": 1, "q": 3, "kind": "book", "topic": "security", "depth": "intro", "title": "Silence on the Wire", "why": "Philosophical, anecdote-rich book on hacking, information theory and surveillance."}
+{"id": 14753, "keep": 1, "q": 3, "kind": "blog", "topic": "game development", "depth": "intro", "title": "The Origins of Minecraft", "why": "Notch's account of how Infiniminer and Dwarf Fortress inspired Minecraft."}
+{"id": 14754, "keep": 0, "q": 1, "kind": "tool", "topic": "hackernews", "depth": "intro", "title": "Notifo for Hacker News", "why": "Notification tool page."}
+{"id": 14755, "keep": 0, "q": 1, "kind": "other", "topic": "pricing", "depth": "intro", "title": "Notion Pricing", "why": "Pricing page."}
+{"id": 14756, "keep": 0, "q": 1, "kind": "other", "topic": "web", "depth": "intro", "title": "Now Now Now", "why": "Directory site about now pages; short and slight."}
+{"id": 14757, "keep": 0, "q": 1, "kind": "reference", "topic": "payments", "depth": "intro", "title": "UPI Product Overview", "why": "Payment product page."}
+{"id": 14758, "keep": 0, "q": 1, "kind": "tool", "topic": "npm", "depth": "intro", "title": "patch-package", "why": "Project page for an npm patching tool."}
+{"id": 14759, "keep": 0, "q": 1, "kind": "news", "topic": "military", "depth": "intro", "title": "Costs of War: Air Conditioning", "why": "NPR news on war logistics costs."}
+{"id": 14760, "keep": 0, "q": 1, "kind": "news", "topic": "cartels", "depth": "intro", "title": "Mexico Busts Cartel Phone Networks", "why": "News item."}
+{"id": 14761, "keep": 1, "q": 3, "kind": "journalism", "topic": "education", "depth": "intro", "title": "Why America's Schools Have a Money Problem", "why": "Explains how property taxes shape school funding and inequality."}
+{"id": 14762, "keep": 1, "q": 3, "kind": "journalism", "topic": "history", "depth": "intro", "title": "How the CIA Overthrew Iran's Democracy", "why": "Narrative history of the 1953 coup in Iran."}
+{"id": 14763, "keep": 1, "q": 3, "kind": "journalism", "topic": "history", "depth": "intro", "title": "The CIA's Secret Quest for Mind Control", "why": "History of MKUltra and CIA interrogation research."}
+{"id": 14764, "keep": 0, "q": 1, "kind": "news", "topic": "work", "depth": "intro", "title": "Microsoft Japan Four-Day Week", "why": "News item on a company trial."}
+{"id": 14765, "keep": 1, "q": 4, "kind": "journalism", "topic": "environment", "depth": "intro", "title": "Waste Land", "why": "Planet Money episode on how recycling became a marketing tool instead of a solution."}
+{"id": 14766, "keep": 0, "q": 1, "kind": "news", "topic": "traffic safety", "depth": "intro", "title": "Pedestrian Deaths Rising", "why": "News on record pedestrian deaths."}
+{"id": 14767, "keep": 0, "q": 1, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "Planet Money Podcast", "why": "Podcast show page."}
+{"id": 14768, "keep": 1, "q": 3, "kind": "journalism", "topic": "health", "depth": "intro", "title": "Her Incredible Sense of Smell", "why": "Feature on a woman who could detect Parkinson's by scent and the research that followed."}
+{"id": 14769, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Why It's Illegal to Braid Hair Without a License", "why": "Planet Money episode on occupational licensing and its harms."}
+{"id": 14770, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "The Tale of the Onion King", "why": "Planet Money story on the 1955 onion futures corner and why such futures were banned."}
+{"id": 14771, "keep": 1, "q": 3, "kind": "journalism", "topic": "climate", "depth": "intro", "title": "Is Grass-Fed Beef Better for the Planet?", "why": "Science explainer on methane, carbon and the grass-fed beef debate."}
+{"id": 14772, "keep": 0, "q": 2, "kind": "journalism", "topic": "covid", "depth": "intro", "title": "Economic Cost of Shutdowns", "why": "Transcript of a COVID-era discussion; topical."}
+{"id": 14773, "keep": 0, "q": 1, "kind": "reference", "topic": "violence", "depth": "intro", "title": "NSVRC Statistics", "why": "Statistics page."}
+{"id": 14774, "keep": 1, "q": 4, "kind": "blog", "topic": "hashing", "depth": "expert", "title": "Prospecting for Hash Functions", "why": "Generating and testing non-cryptographic hash functions by search, with clear method."}
+{"id": 14775, "keep": 0, "q": 1, "kind": "reference", "topic": "crime", "depth": "intro", "title": "NYPD Crime Statistics", "why": "Statistics PDF."}
+{"id": 14776, "keep": 1, "q": 3, "kind": "journalism", "topic": "climate", "depth": "intro", "title": "The Uninhabitable Earth", "why": "Long-form overview of the worst-case effects of climate change."}
+{"id": 14777, "keep": 0, "q": 1, "kind": "news", "topic": "ufos", "depth": "intro", "title": "Tic Tac UFO Q and A", "why": "News interview."}
+{"id": 14778, "keep": 1, "q": 3, "kind": "essay", "topic": "sociology", "depth": "intro", "title": "Luxury Beliefs Are the Latest Status Symbol", "why": "Essay introducing the concept of luxury beliefs and how they signal class."}
+{"id": 14779, "keep": 0, "q": 1, "kind": "news", "topic": "iraq", "depth": "intro", "title": "Iraq WMD Quest Intensifies", "why": "2002 news."}
+{"id": 14780, "keep": 0, "q": 2, "kind": "news", "topic": "social media", "depth": "intro", "title": "Social Media and 2008 Election", "why": "2008 media column."}
+{"id": 14781, "keep": 0, "q": 1, "kind": "news", "topic": "kindle", "depth": "intro", "title": "Amazon Removes Kindle Books", "why": "2009 news."}
+{"id": 14782, "keep": 1, "q": 4, "kind": "essay", "topic": "economics", "depth": "intermediate", "title": "How Did Economists Get It So Wrong?", "why": "Krugman's essay on the failure of macroeconomics and the case for Keynesian ideas."}
+{"id": 14783, "keep": 1, "q": 3, "kind": "journalism", "topic": "privacy", "depth": "intro", "title": "Shopping Habits", "why": "Excerpt on how Target inferred a customer's pregnancy from purchase data."}
+{"id": 14784, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Apple's Tax Strategy", "why": "Investigative piece on how Apple shifted profits to low-tax jurisdictions."}
+{"id": 14785, "keep": 1, "q": 3, "kind": "journalism", "topic": "politics", "depth": "intermediate", "title": "Obama's Leadership in the War on Al Qaeda", "why": "Long-form reporting on the targeted-killing decision process."}
+{"id": 14786, "keep": 0, "q": 1, "kind": "news", "topic": "elections", "depth": "intro", "title": "Vote by Mail Ballots", "why": "2012 news."}
+{"id": 14787, "keep": 0, "q": 2, "kind": "essay", "topic": "economics", "depth": "intermediate", "title": "The Excel Depression", "why": "Krugman column on a spreadsheet error in a debt study; topical commentary."}
+{"id": 14788, "keep": 0, "q": 2, "kind": "essay", "topic": "health", "depth": "intro", "title": "Should We Take Lithium?", "why": "Opinion piece on lithium and brain health; evidence-light."}
+{"id": 14789, "keep": 1, "q": 3, "kind": "journalism", "topic": "statistics", "depth": "intro", "title": "The Divorce Surge Is Over", "why": "Analysis of divorce statistics and why the myth persists."}
+{"id": 14790, "keep": 1, "q": 3, "kind": "journalism", "topic": "criminal justice", "depth": "intermediate", "title": "Bias in Police Use of Force", "why": "Analysis of racial disparities in police force, separating pepper spray from shootings."}
+{"id": 14791, "keep": 0, "q": 1, "kind": "news", "topic": "ufos", "depth": "intro", "title": "Pentagon UFO Program", "why": "2017 news."}
+{"id": 14792, "keep": 1, "q": 3, "kind": "journalism", "topic": "environment", "depth": "intro", "title": "Recycling Goes to the Landfill", "why": "Explains why much recycling ends up in landfill and the contamination problem."}
+{"id": 14793, "keep": 0, "q": 2, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "China AI Surveillance", "why": "News feature on surveillance; topical."}
+{"id": 14794, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Hunter Biden Laptop Story", "why": "Political news."}
+{"id": 14795, "keep": 0, "q": 1, "kind": "news", "topic": "antitrust", "depth": "intro", "title": "Apple Google Search Antitrust", "why": "News on an antitrust case."}
+{"id": 14796, "keep": 0, "q": 2, "kind": "news", "topic": "military", "depth": "intro", "title": "Iran Nuclear Scientist Assassination", "why": "News story."}
+{"id": 14797, "keep": 0, "q": 1, "kind": "news", "topic": "retail", "depth": "intro", "title": "Walgreens Shoplifting Closures", "why": "Business news."}
+{"id": 14798, "keep": 1, "q": 3, "kind": "journalism", "topic": "social media", "depth": "intermediate", "title": "YouTube's Radical Rabbit Hole", "why": "Interactive investigation into YouTube recommendations pushing extreme content."}
