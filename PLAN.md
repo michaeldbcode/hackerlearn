@@ -201,6 +201,7 @@ How bulk labelling runs (no API key needed):
   Resumable: `python3 -m served.pending <kind>` lists batches without a complete labels file.
   Gotcha: use `--allowedTools=Read,Write` (with `=`). Without it, the flag swallows the prompt.
   Gotcha: never `pkill -f <pattern>` where the pattern also appears in your own command line; it kills your shell.
+- Workers sleep 10 min and retry when the usage limit is hit (`touch data/STOP` makes them exit).
 - Speed: ~7 min per batch per worker. Ran 10 workers on links + 4 on comments + 4 on stories.
 - `scripts/autocommit.sh` loops: fetch new pages → build → commit + push (every ~10 min).
 

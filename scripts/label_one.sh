@@ -4,7 +4,12 @@ kind=$1; n=$2; model=${3:-haiku}
 case $kind in batches) prompt=work/prompt_classify.md; out=work/labels;; cbatches) prompt=work/prompt_comments.md; out=work/clabels;; sbatches) prompt=work/prompt_stories.md; out=work/slabels;; esac
 mkdir -p $out logs
 lines=$(wc -l < work/$kind/$n.jsonl)
+for try in $(seq 1 30); do
+[ -f data/STOP ] && exit 0
 timeout 900 claude -p --model "$model" --allowedTools=Read,Write \
   "Working dir $(pwd). Read the instructions in $prompt and follow them exactly for batch $n: read work/$kind/$n.jsonl (all $lines lines; use offset/limit to read the whole file) and write $out/$n.jsonl with exactly one JSON line per input line ($lines lines). Do not write any other files. Reply 'done'." \
   > logs/$kind-$n.log 2>&1
+grep -q "hit your .*limit" logs/$kind-$n.log || break
+echo "limit hit; sleeping 10m ($kind $n)"; sleep 600
+done
 echo "$kind $n exit=$? lines=$(wc -l < $out/$n.jsonl 2>/dev/null)"
