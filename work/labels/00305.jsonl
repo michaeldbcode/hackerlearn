@@ -1,0 +1,200 @@
+{"id": 61000, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "MapD ships demo", "why": "Vendor demo of a GPU database querying a large shipping dataset; a product showcase, not a lesson."}
+{"id": 61001, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "MapD tweetmap", "why": "Vendor demo for searching geocoded tweets; a product showcase."}
+{"id": 61002, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "MapD product page", "why": "Vendor product page for licensed GPU database software."}
+{"id": 61003, "keep": 0, "q": 1, "kind": "news", "topic": "geopolitics", "depth": "intro", "title": "Russian-Ukraine monitor map", "why": "Live conflict map of the moment; a news tracker rather than explanatory reading."}
+{"id": 61004, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "Mapillary legal terms", "why": "License terms text; a legal document."}
+{"id": 61005, "keep": 0, "q": 1, "kind": "other", "topic": "policing", "depth": "intro", "title": "Mapping Police Violence 2015", "why": "Statistics tracker of police killings; data site, not explanatory."}
+{"id": 61006, "keep": 0, "q": 1, "kind": "tool", "topic": "urban crime", "depth": "intro", "title": "NYC crime map", "why": "Interactive crime statistics map for New York City."}
+{"id": 61007, "keep": 1, "q": 4, "kind": "book", "topic": "consciousness", "depth": "intro", "title": "The Doors of Perception", "why": "Huxley's classic essay on perception and his mescaline experience; short and readable."}
+{"id": 61008, "keep": 0, "q": 1, "kind": "paper", "topic": "psychedelics", "depth": "intermediate", "title": "MAPS newsletter LSD anecdote", "why": "Newsletter anecdote cited as evidence; not worth reading on its own."}
+{"id": 61009, "keep": 1, "q": 3, "kind": "paper", "topic": "pharmacology", "depth": "expert", "title": "LSD pharmacology review (Passie 2008)", "why": "Peer-reviewed review of LSD receptor binding and dosing data."}
+{"id": 61010, "keep": 0, "q": 2, "kind": "tool", "topic": "maps", "depth": "intro", "title": "Stamen watercolor map", "why": "Map tile art demo; the process post is secondary."}
+{"id": 61011, "keep": 0, "q": 1, "kind": "tool", "topic": "maps", "depth": "intro", "title": "MapTiler Cloud", "why": "Commercial map hosting product page."}
+{"id": 61012, "keep": 0, "q": 1, "kind": "tool", "topic": "maps", "depth": "intro", "title": "MapTiler Cloud plans", "why": "Pricing page."}
+{"id": 61013, "keep": 1, "q": 4, "kind": "paper", "topic": "security", "depth": "expert", "title": "Counter-cryptanalysis", "why": "Shows how weak hash functions like MD5 and SHA1 can stay securely usable despite known collisions."}
+{"id": 61014, "keep": 1, "q": 3, "kind": "other", "topic": "git", "depth": "intermediate", "title": "Git and hash collisions (mailing list)", "why": "Mailing-list explanation of why SHA1 collisions would not let attackers slip code into git history."}
+{"id": 61015, "keep": 0, "q": 1, "kind": "other", "topic": "linux kernel", "depth": "intro", "title": "RDRAND mailing list thread", "why": "Heated mailing-list flame; no lesson beyond the argument."}
+{"id": 61016, "keep": 0, "q": 2, "kind": "other", "topic": "community culture", "depth": "intro", "title": "Linux code of conduct debate", "why": "Opinion mailing-list post on community culture; argumentative."}
+{"id": 61017, "keep": 0, "q": 1, "kind": "other", "topic": "openbsd", "depth": "intro", "title": "OpenBSD culture mailing list", "why": "Single mailing-list reference cited in a culture debate."}
+{"id": 61018, "keep": 0, "q": 1, "kind": "other", "topic": "openbsd", "depth": "intermediate", "title": "64-bit time_t commit thread", "why": "Commit thread about ABI breakage; reference only."}
+{"id": 61019, "keep": 0, "q": 1, "kind": "other", "topic": "docker security", "depth": "intro", "title": "OpenBSD misc Docker thread", "why": "Mailing-list argument about container security."}
+{"id": 61020, "keep": 0, "q": 1, "kind": "other", "topic": "open source licensing", "depth": "intro", "title": "OpenBSD ports mailing list", "why": "Mailing-list post on ports and non-free software."}
+{"id": 61021, "keep": 0, "q": 1, "kind": "other", "topic": "compilers", "depth": "intermediate", "title": "Why OpenBSD hasn't switched compilers", "why": "Narrow, dated mailing-list explanation of compiler choice."}
+{"id": 61022, "keep": 0, "q": 1, "kind": "other", "topic": "cryptography", "depth": "intermediate", "title": "LibreSSL and FIPS thread", "why": "Mailing-list argument about FIPS compliance."}
+{"id": 61023, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "OpenBSD tech mailing list", "why": "Mailing-list reference about bugs in a single project."}
+{"id": 61024, "keep": 0, "q": 1, "kind": "other", "topic": "authentication", "depth": "intro", "title": "OpenSSH U2F dev list", "why": "Dev-list note about adding U2F to SSH."}
+{"id": 61025, "keep": 0, "q": 1, "kind": "blog", "topic": "linux", "depth": "intro", "title": "Windows refund day", "why": "Personal list of Windows refund stories; opinion."}
+{"id": 61026, "keep": 1, "q": 3, "kind": "reference", "topic": "meditation", "depth": "intro", "title": "UCLA meditation resources", "why": "Beginner meditation guidance and practice resources from a university research center."}
+{"id": 61027, "keep": 1, "q": 3, "kind": "other", "topic": "video games", "depth": "intro", "title": "Epistle 3", "why": "Former Valve writer's plot summary of the cancelled Half-Life episode three story."}
+{"id": 61028, "keep": 0, "q": 2, "kind": "blog", "topic": "reading tools", "depth": "intro", "title": "Safari Reader and Instapaper", "why": "Short post about reading tools; product-adjacent."}
+{"id": 61029, "keep": 1, "q": 3, "kind": "essay", "topic": "tech industry", "depth": "intermediate", "title": "An Alternate Universe", "why": "Analysis of Microsoft's strategy around Surface and Windows in 2012."}
+{"id": 61030, "keep": 1, "q": 3, "kind": "essay", "topic": "startups", "depth": "intro", "title": "One-person product", "why": "Marco Arment's essay on running a profitable one-person business after selling Tumblr."}
+{"id": 61031, "keep": 0, "q": 2, "kind": "news", "topic": "app stores", "depth": "intro", "title": "App Store rule 5.6", "why": "Commentary on a single app store policy."}
+{"id": 61032, "keep": 0, "q": 2, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Overcast goes anonymous", "why": "Product announcement about privacy defaults."}
+{"id": 61033, "keep": 0, "q": 1, "kind": "tool", "topic": "mac apps", "depth": "intro", "title": "Marco's apps", "why": "App list page."}
+{"id": 61034, "keep": 0, "q": 1, "kind": "other", "topic": "headphones", "depth": "intro", "title": "Closed portable headphones", "why": "Buying recommendation with a product list."}
+{"id": 61035, "keep": 0, "q": 1, "kind": "other", "topic": "sponsorship", "depth": "intro", "title": "Sponsorship page", "why": "Sponsor acknowledgement page."}
+{"id": 61036, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Why the Sony hack is unlikely North Korea", "why": "Security analyst's reasoning on attribution, arguing the attack likely came from an insider."}
+{"id": 61037, "keep": 0, "q": 1, "kind": "tool", "topic": "banking", "depth": "intro", "title": "Marcus by Goldman Sachs", "why": "Bank product homepage."}
+{"id": 61038, "keep": 1, "q": 3, "kind": "essay", "topic": "philosophy", "depth": "intermediate", "title": "Repressive Tolerance", "why": "Marcuse's argument that tolerance can entrench power; a foundational critical theory essay."}
+{"id": 61039, "keep": 0, "q": 1, "kind": "tool", "topic": "search", "depth": "intro", "title": "Marginalia explore", "why": "Search tool page."}
+{"id": 61040, "keep": 1, "q": 3, "kind": "blog", "topic": "economics", "depth": "intermediate", "title": "Problems with a guaranteed annual income", "why": "Cowen's walk through practical weaknesses of guaranteed income proposals."}
+{"id": 61041, "keep": 1, "q": 3, "kind": "blog", "topic": "regulation", "depth": "intermediate", "title": "Is the FDA too conservative?", "why": "Economist's summary of the FDA's risk trade-off, linking the underlying paper."}
+{"id": 61042, "keep": 1, "q": 2, "kind": "blog", "topic": "economics", "depth": "intermediate", "title": "Is the middle class shrinking?", "why": "Argues middle-class shrinkage may reflect upward mobility, backed by data."}
+{"id": 61043, "keep": 0, "q": 2, "kind": "blog", "topic": "media statistics", "depth": "intro", "title": "Trump effect and college applications", "why": "Commentary on one news story's statistics."}
+{"id": 61044, "keep": 0, "q": 2, "kind": "blog", "topic": "economics", "depth": "intermediate", "title": "Seattle minimum wage study", "why": "Commentary on a single study."}
+{"id": 61045, "keep": 0, "q": 2, "kind": "blog", "topic": "psychology", "depth": "intermediate", "title": "Growth mindset replication", "why": "Short commentary on replication results."}
+{"id": 61046, "keep": 1, "q": 2, "kind": "essay", "topic": "economics", "depth": "intermediate", "title": "Bullshit jobs theory review", "why": "Economist's critical review of Graeber's theory of pointless jobs."}
+{"id": 61047, "keep": 1, "q": 3, "kind": "explainer", "topic": "economics", "depth": "intro", "title": "The Baumol effect", "why": "Explains why labour-intensive services get relatively pricier over time, and the implications."}
+{"id": 61048, "keep": 0, "q": 1, "kind": "reference", "topic": "databases", "depth": "intro", "title": "Distributions that include MariaDB", "why": "List of distributions shipping MariaDB."}
+{"id": 61049, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intro", "title": "MariaDB vs MySQL compatibility", "why": "Vendor comparison page."}
+{"id": 61050, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intro", "title": "MariaDB vs MySQL features", "why": "Vendor feature comparison."}
+{"id": 61051, "keep": 0, "q": 2, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "MariaDB temporal tables", "why": "Feature reference for one database product."}
+{"id": 61052, "keep": 1, "q": 2, "kind": "journalism", "topic": "relationships", "depth": "intro", "title": "The millionaire's starter wife", "why": "First-person long-form account of a marriage to a wealthy man, widely shared."}
+{"id": 61053, "keep": 0, "q": 1, "kind": "tool", "topic": "javascript", "depth": "intro", "title": "CodeMirror demo", "why": "Editor library demo page."}
+{"id": 61054, "keep": 0, "q": 1, "kind": "other", "topic": "web", "depth": "intro", "title": "Marijn's linkroll", "why": "Link directory of personal sites."}
+{"id": 61055, "keep": 1, "q": 4, "kind": "tutorial", "topic": "functional programming", "depth": "intermediate", "title": "Monads by analogy in JavaScript", "why": "Explains monads with JavaScript examples instead of Haskell syntax."}
+{"id": 61056, "keep": 0, "q": 2, "kind": "essay", "topic": "open source", "depth": "intro", "title": "I've sold out", "why": "Personal post about selling out; current discussion rather than lasting material."}
+{"id": 61057, "keep": 0, "q": 1, "kind": "tool", "topic": "javascript", "depth": "intro", "title": "Bespoke.js", "why": "Presentation library homepage."}
+{"id": 61058, "keep": 0, "q": 1, "kind": "tool", "topic": "mobile", "depth": "intro", "title": "Google+ Android app", "why": "App store listing."}
+{"id": 61059, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "GME short interest", "why": "Live stock statistics page."}
+{"id": 61060, "keep": 0, "q": 1, "kind": "news", "topic": "advertising", "depth": "intro", "title": "Ad blocking survey", "why": "Survey statistics news."}
+{"id": 61061, "keep": 0, "q": 1, "kind": "tool", "topic": "fediverse", "depth": "intro", "title": "Mastodon on DigitalOcean", "why": "Hosting marketplace listing."}
+{"id": 61062, "keep": 0, "q": 1, "kind": "tool", "topic": "editors", "depth": "intro", "title": "vscode-sshfs", "why": "Editor extension listing."}
+{"id": 61063, "keep": 0, "q": 1, "kind": "tool", "topic": "ai", "depth": "intro", "title": "Claude Code VS Code extension", "why": "Extension listing."}
+{"id": 61064, "keep": 0, "q": 1, "kind": "tool", "topic": "clojure", "depth": "intro", "title": "Calva", "why": "Extension listing."}
+{"id": 61065, "keep": 0, "q": 1, "kind": "tool", "topic": "editors", "depth": "intro", "title": "VS Code Dance", "why": "Extension listing."}
+{"id": 61066, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "Python VS Code extension", "why": "Extension listing."}
+{"id": 61067, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "Pylance", "why": "Extension listing."}
+{"id": 61068, "keep": 0, "q": 1, "kind": "tool", "topic": "notes", "depth": "intro", "title": "VS Code journal extension", "why": "Extension listing."}
+{"id": 61069, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "VS Code org-mode", "why": "Extension listing."}
+{"id": 61070, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "Emacs keymap for VS Code", "why": "Extension listing."}
+{"id": 61071, "keep": 0, "q": 1, "kind": "tool", "topic": "developer tools", "depth": "intro", "title": "CodeTour", "why": "Extension listing."}
+{"id": 61072, "keep": 0, "q": 1, "kind": "tool", "topic": "d language", "depth": "intro", "title": "code-d", "why": "Extension listing."}
+{"id": 61073, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "FT company tearsheet", "why": "Stock data page."}
+{"id": 61074, "keep": 1, "q": 3, "kind": "blog", "topic": "urbanism", "depth": "intermediate", "title": "How Houston regulates land use", "why": "Explains how Houston manages land use without formal zoning and how that shapes sprawl."}
+{"id": 61075, "keep": 1, "q": 3, "kind": "blog", "topic": "urbanism", "depth": "intermediate", "title": "Why Japanese zoning is more liberal", "why": "Compares Japanese and US zoning rules and how they affect housing supply."}
+{"id": 61076, "keep": 0, "q": 1, "kind": "news", "topic": "markets", "depth": "intro", "title": "Negative oil futures", "why": "Market news."}
+{"id": 61077, "keep": 0, "q": 2, "kind": "news", "topic": "investing", "depth": "intro", "title": "Bogle warning on index funds", "why": "Investing news piece."}
+{"id": 61078, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Musk market crash prediction", "why": "Political news."}
+{"id": 61079, "keep": 0, "q": 1, "kind": "reference", "topic": "personal finance", "depth": "intro", "title": "Savings survey", "why": "Statistics article."}
+{"id": 61080, "keep": 0, "q": 1, "kind": "news", "topic": "personal finance", "depth": "intro", "title": "Net worth by age", "why": "Statistics article."}
+{"id": 61081, "keep": 1, "q": 3, "kind": "essay", "topic": "history", "depth": "intermediate", "title": "Jared Diamond on Easter Island", "why": "Diamond's rebuttal to critics of his Easter Island collapse account."}
+{"id": 61082, "keep": 0, "q": 1, "kind": "blog", "topic": "marketing", "depth": "intro", "title": "Google AMP", "why": "Freelance marketer's post on web marketing."}
+{"id": 61083, "keep": 0, "q": 1, "kind": "blog", "topic": "nutrition", "depth": "intro", "title": "Artificial sweeteners and insulin", "why": "Diet blog post citing studies."}
+{"id": 61084, "keep": 0, "q": 1, "kind": "blog", "topic": "nutrition", "depth": "intro", "title": "Intermittent fasting benefits", "why": "Lifestyle blog on fasting."}
+{"id": 61085, "keep": 1, "q": 3, "kind": "blog", "topic": "c programming", "depth": "intermediate", "title": "C: both true and false", "why": "Explains how C treats conditions and boolean values, with a worked example."}
+{"id": 61086, "keep": 0, "q": 1, "kind": "news", "topic": "linux", "depth": "intro", "title": "Mir and KWin", "why": "Dated opinion post about desktop tech."}
+{"id": 61087, "keep": 0, "q": 1, "kind": "reference", "topic": "books", "depth": "intro", "title": "Open content book list", "why": "Book list page."}
+{"id": 61088, "keep": 1, "q": 3, "kind": "tutorial", "topic": "build tools", "depth": "intro", "title": "Auto-documented Makefile", "why": "Shows how to generate a self-documenting Makefile help target from comments."}
+{"id": 61089, "keep": 1, "q": 3, "kind": "tutorial", "topic": "graphics", "depth": "intro", "title": "Physically based rendering", "why": "Explains PBR shading and textures with examples aimed at artists."}
+{"id": 61090, "keep": 0, "q": 1, "kind": "tool", "topic": "medicine", "depth": "intro", "title": "Marrow donor registry", "why": "Registry homepage."}
+{"id": 61091, "keep": 0, "q": 1, "kind": "tool", "topic": "medicine", "depth": "intro", "title": "Marrow registry signup", "why": "Signup page."}
+{"id": 61092, "keep": 1, "q": 3, "kind": "explainer", "topic": "space", "depth": "intro", "title": "Sounds on Mars", "why": "NASA page on how sound behaves on Mars, with a simulated audio comparison to Earth."}
+{"id": 61093, "keep": 1, "q": 3, "kind": "explainer", "topic": "space", "depth": "intro", "title": "Mars 2020 electrical power", "why": "Explains why the rover uses a plutonium RTG for power and how it works."}
+{"id": 61094, "keep": 1, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "marshmallow docs", "why": "Library documentation for Python object serialization and validation."}
+{"id": 61095, "keep": 0, "q": 1, "kind": "tool", "topic": "social media", "depth": "intro", "title": "Twitter Archive Eraser", "why": "Deletion tool page."}
+{"id": 61096, "keep": 1, "q": 4, "kind": "blog", "topic": "serialization", "depth": "intermediate", "title": "Schema evolution in Avro, protobuf and Thrift", "why": "Compares how Avro, protobuf and Thrift handle schema changes over time."}
+{"id": 61097, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Improving security of SSH private keys", "why": "Explains why salted hashes do not slow attackers and how key-derivation functions help."}
+{"id": 61098, "keep": 1, "q": 3, "kind": "essay", "topic": "writing", "depth": "intro", "title": "Is book writing worth it?", "why": "Candid breakdown of the time and money cost of writing a technical book."}
+{"id": 61099, "keep": 0, "q": 1, "kind": "blog", "topic": "blogging", "depth": "intro", "title": "Kleppmann archive", "why": "Blog index page."}
+{"id": 61100, "keep": 1, "q": 4, "kind": "paper", "topic": "distributed systems", "depth": "expert", "title": "A highly-available move operation for replicated trees", "why": "Paper on a CRDT approach for moving nodes within replicated tree structures."}
+{"id": 61101, "keep": 1, "q": 3, "kind": "docs", "topic": "build systems", "depth": "intro", "title": "Ninja manual", "why": "Introduction to Ninja's design and how it differs from Make."}
+{"id": 61102, "keep": 1, "q": 4, "kind": "essay", "topic": "machine learning", "depth": "intermediate", "title": "Continuous Delivery for Machine Learning", "why": "Lays out versioning, testing and deployment practices for ML pipelines."}
+{"id": 61103, "keep": 1, "q": 5, "kind": "essay", "topic": "architecture", "depth": "intermediate", "title": "The LMAX Architecture", "why": "Describes a high-throughput single-threaded design with event sourcing and why it works."}
+{"id": 61104, "keep": 1, "q": 4, "kind": "essay", "topic": "testing", "depth": "intermediate", "title": "Microservice Testing", "why": "Survey of test strategies for microservice systems and their trade-offs."}
+{"id": 61105, "keep": 1, "q": 4, "kind": "essay", "topic": "microservices", "depth": "intermediate", "title": "Microservice Trade-Offs", "why": "Balanced look at costs and benefits of microservice architecture."}
+{"id": 61106, "keep": 0, "q": 1, "kind": "blog", "topic": "software", "depth": "intro", "title": "Martin Fowler bliki index", "why": "Blog index page."}
+{"id": 61107, "keep": 1, "q": 4, "kind": "essay", "topic": "distributed systems", "depth": "intro", "title": "Circuit Breaker", "why": "Explains the circuit breaker pattern for stopping cascading failures."}
+{"id": 61108, "keep": 1, "q": 3, "kind": "essay", "topic": "documentation", "depth": "intro", "title": "Code As Documentation", "why": "Argues code should explain itself and when comments and docs still matter."}
+{"id": 61109, "keep": 1, "q": 3, "kind": "essay", "topic": "refactoring", "depth": "intro", "title": "Code Smell", "why": "Explains code smells as signals of deeper problems rather than rules."}
+{"id": 61110, "keep": 1, "q": 3, "kind": "essay", "topic": "programming languages", "depth": "intermediate", "title": "Intentional Software", "why": "Overview of intentional programming and why the project stalled."}
+{"id": 61111, "keep": 1, "q": 3, "kind": "essay", "topic": "devops", "depth": "intro", "title": "Phoenix Server", "why": "Explains rebuilding servers from scratch instead of patching them."}
+{"id": 61112, "keep": 1, "q": 4, "kind": "essay", "topic": "testing", "depth": "intro", "title": "Test Double", "why": "Clear taxonomy of mocks, stubs, spies and fakes for testing."}
+{"id": 61113, "keep": 1, "q": 2, "kind": "essay", "topic": "management", "depth": "intro", "title": "Two Pizza Team", "why": "Short essay on keeping teams small enough to coordinate easily."}
+{"id": 61114, "keep": 1, "q": 4, "kind": "book", "topic": "software architecture", "depth": "intermediate", "title": "Patterns of Enterprise Application Architecture", "why": "Catalog of enterprise patterns such as repository, unit of work and active record."}
+{"id": 61115, "keep": 1, "q": 3, "kind": "reference", "topic": "design patterns", "depth": "intermediate", "title": "Transaction Script", "why": "Describes organising business logic as one procedure per transaction, with trade-offs."}
+{"id": 61116, "keep": 0, "q": 1, "kind": "tool", "topic": "marketing", "depth": "intro", "title": "Captain Marvel promo site", "why": "Promotional website."}
+{"id": 61117, "keep": 1, "q": 4, "kind": "book", "topic": "economics", "depth": "intermediate", "title": "Economic and Philosophic Manuscripts of 1844", "why": "Marx's early text on alienated labour and private property."}
+{"id": 61118, "keep": 1, "q": 3, "kind": "book", "topic": "economics", "depth": "intermediate", "title": "Wage Labour and Capital", "why": "Marx's chapter on how capitalist competition affects workers and the middle class."}
+{"id": 61119, "keep": 1, "q": 5, "kind": "book", "topic": "economics", "depth": "intermediate", "title": "Capital, Volume I, Chapter 1", "why": "Marx's opening chapter on commodities, use value, exchange value and fetishism."}
+{"id": 61120, "keep": 1, "q": 4, "kind": "essay", "topic": "politics", "depth": "intro", "title": "The Soul of Man under Socialism", "why": "Wilde's essay on individualism and socialism; readable and provocative."}
+{"id": 61121, "keep": 1, "q": 4, "kind": "essay", "topic": "git", "depth": "intermediate", "title": "Git in six hundred words", "why": "Concise explanation of how git stores commits, trees and blobs."}
+{"id": 61122, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Groupon cash out", "why": "Dated business news."}
+{"id": 61123, "keep": 0, "q": 1, "kind": "news", "topic": "encryption", "depth": "intro", "title": "FBI BitLocker backdoor", "why": "News story."}
+{"id": 61124, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Facebook and Snapchat acquisition", "why": "News story."}
+{"id": 61125, "keep": 0, "q": 1, "kind": "news", "topic": "engineering culture", "depth": "intro", "title": "Facebook's new mantra", "why": "News story."}
+{"id": 61126, "keep": 0, "q": 1, "kind": "news", "topic": "search", "depth": "intro", "title": "DuckDuckGo disinformation", "why": "News story."}
+{"id": 61127, "keep": 0, "q": 1, "kind": "tool", "topic": "jobs", "depth": "intro", "title": "Mashape jobs", "why": "Job listing."}
+{"id": 61128, "keep": 0, "q": 1, "kind": "news", "topic": "franchising", "depth": "intro", "title": "McDonald's franchise profit", "why": "Article on franchise income figures."}
+{"id": 61129, "keep": 1, "q": 4, "kind": "paper", "topic": "rationality", "depth": "expert", "title": "Are Disagreements Honest?", "why": "Hanson's argument that persistent disagreement reflects a lack of honesty rather than compromise."}
+{"id": 61130, "keep": 0, "q": 1, "kind": "tool", "topic": "keyboards", "depth": "intro", "title": "Infinity Ergodox", "why": "Shop listing."}
+{"id": 61131, "keep": 1, "q": 3, "kind": "essay", "topic": "math", "depth": "intermediate", "title": "Over the hill: mathematicians' peak age", "why": "Historical analysis of when mathematicians do their best work, testing the age-35 belief."}
+{"id": 61132, "keep": 0, "q": 1, "kind": "news", "topic": "windows", "depth": "intro", "title": "Windows 10 end of life", "why": "Support status news."}
+{"id": 61133, "keep": 0, "q": 1, "kind": "tool", "topic": "retro computing", "depth": "intro", "title": "Card reader punch simulator", "why": "Interactive novelty simulator."}
+{"id": 61134, "keep": 0, "q": 1, "kind": "tool", "topic": "retro computing", "depth": "intro", "title": "JS/UIX terminal", "why": "Retro terminal emulator."}
+{"id": 61135, "keep": 1, "q": 3, "kind": "blog", "topic": "typography", "depth": "intermediate", "title": "CRT typography", "why": "Explains phosphor decay and dot stretching when rendering retro fonts."}
+{"id": 61136, "keep": 0, "q": 1, "kind": "news", "topic": "payments", "depth": "intro", "title": "Magnetic stripe phase-out", "why": "Corporate news."}
+{"id": 61137, "keep": 0, "q": 1, "kind": "reference", "topic": "payments", "depth": "intro", "title": "Merchant interchange rates", "why": "Fee rate table."}
+{"id": 61138, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "Mastercard data opt-out", "why": "Opt-out form."}
+{"id": 61139, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "Mastercard data opt-out (alt)", "why": "Opt-out form."}
+{"id": 61140, "keep": 1, "q": 3, "kind": "tutorial", "topic": "emacs", "depth": "intermediate", "title": "Combobulate structured editing", "why": "Shows structural movement and editing with tree-sitter in Emacs."}
+{"id": 61141, "keep": 1, "q": 4, "kind": "tutorial", "topic": "emacs", "depth": "intermediate", "title": "Complete guide to mastering eshell", "why": "Thorough guide to Emacs's shell, with commands and workflows."}
+{"id": 61142, "keep": 1, "q": 4, "kind": "explainer", "topic": "command line", "depth": "intro", "title": "Keyboard shortcuts for GNU readline", "why": "Explains readline shortcuts and why they work in any readline-based tool."}
+{"id": 61143, "keep": 1, "q": 3, "kind": "tutorial", "topic": "emacs", "depth": "intermediate", "title": "Speed up Emacs with native compilation", "why": "Explains native elisp compilation via libjansson and the speedup it gives."}
+{"id": 61144, "keep": 1, "q": 4, "kind": "tutorial", "topic": "emacs", "depth": "intermediate", "title": "Complete guide to mastering eshell (2010)", "why": "Original 2010 eshell guide covering commands, pipes and Emacs integration."}
+{"id": 61145, "keep": 0, "q": 1, "kind": "other", "topic": "food prices", "depth": "intro", "title": "Supermarket price tracking thread", "why": "Social media thread."}
+{"id": 61146, "keep": 0, "q": 2, "kind": "news", "topic": "firefox", "depth": "intermediate", "title": "Firefox WebGL on Wayland", "why": "Release news about browser graphics."}
+{"id": 61147, "keep": 0, "q": 2, "kind": "news", "topic": "firefox", "depth": "intermediate", "title": "VA-API on Wayland", "why": "Release news about video acceleration."}
+{"id": 61148, "keep": 0, "q": 1, "kind": "tool", "topic": "jobs", "depth": "intro", "title": "Matchist talent page", "why": "Recruiting page."}
+{"id": 61149, "keep": 0, "q": 2, "kind": "news", "topic": "databases", "depth": "intermediate", "title": "Materialize roadmap", "why": "Company roadmap post."}
+{"id": 61150, "keep": 0, "q": 2, "kind": "tool", "topic": "programming languages", "depth": "intermediate", "title": "Eff language", "why": "Language homepage."}
+{"id": 61151, "keep": 1, "q": 5, "kind": "book", "topic": "math", "depth": "intermediate", "title": "Proofs and Refutations", "why": "Lakatos's dialogue on how mathematical proofs and counterexamples actually develop."}
+{"id": 61152, "keep": 1, "q": 4, "kind": "book", "topic": "math", "depth": "intermediate", "title": "Linear Algebra Done Wrong", "why": "Free textbook that builds linear algebra from vector spaces, delaying determinants."}
+{"id": 61153, "keep": 1, "q": 3, "kind": "blog", "topic": "physics", "depth": "intermediate", "title": "Woit on the Standard Model", "why": "Physicist's critique of why confirming the Standard Model is disappointing."}
+{"id": 61154, "keep": 0, "q": 2, "kind": "blog", "topic": "culture", "depth": "intro", "title": "Woit on intellectualism", "why": "Opinion post."}
+{"id": 61155, "keep": 0, "q": 2, "kind": "news", "topic": "physics", "depth": "intro", "title": "Physicists create a wormhole", "why": "Critique of news coverage."}
+{"id": 61156, "keep": 1, "q": 2, "kind": "explainer", "topic": "probability", "depth": "intro", "title": "Base rate fun facts", "why": "Explains how base rates distort test results with a short worked example."}
+{"id": 61157, "keep": 0, "q": 1, "kind": "paper", "topic": "psychology", "depth": "intermediate", "title": "Infant interest in sex differences", "why": "Study cited as evidence in an argument."}
+{"id": 61158, "keep": 0, "q": 1, "kind": "paper", "topic": "math", "depth": "expert", "title": "Navier-Stokes claimed proof (Russian)", "why": "Unverified claimed proof in Russian."}
+{"id": 61159, "keep": 1, "q": 3, "kind": "reference", "topic": "web", "depth": "intro", "title": "MathJax basic tutorial and quick reference", "why": "Quick reference for writing math formulas on the web with MathJax."}
+{"id": 61160, "keep": 1, "q": 4, "kind": "visual", "topic": "traffic", "depth": "intro", "title": "Traffic jam simulations", "why": "Shows how small reaction delays create stop-and-go traffic waves."}
+{"id": 61161, "keep": 1, "q": 4, "kind": "book", "topic": "category theory", "depth": "intermediate", "title": "Category Theory for the Sciences", "why": "Spivak's accessible introduction to category theory for scientists."}
+{"id": 61162, "keep": 1, "q": 4, "kind": "book", "topic": "linear algebra", "depth": "intro", "title": "Linear Algebra for Everyone", "why": "Strang's gentle linear algebra text with a preview of deep learning."}
+{"id": 61163, "keep": 0, "q": 2, "kind": "other", "topic": "philosophy of math", "depth": "intermediate", "title": "Zeilberger opinions", "why": "Opinion page; provocative but not structured learning."}
+{"id": 61164, "keep": 0, "q": 1, "kind": "other", "topic": "math", "depth": "intro", "title": "Floor tiles photo page", "why": "Photo page of tiles."}
+{"id": 61165, "keep": 1, "q": 4, "kind": "visual", "topic": "math", "depth": "intermediate", "title": "The moving sofa problem", "why": "Visual introduction to the moving sofa optimisation problem and its known solutions."}
+{"id": 61166, "keep": 1, "q": 4, "kind": "book", "topic": "math", "depth": "intermediate", "title": "Tao lecture notes on linear algebra", "why": "Tao's lecture notes written as a self-contained alternative to a textbook."}
+{"id": 61167, "keep": 1, "q": 4, "kind": "explainer", "topic": "physics", "depth": "intermediate", "title": "Baez on Noether's theorem", "why": "Shows how Noether's theorem links symmetry and conservation laws, using simple calculus."}
+{"id": 61168, "keep": 1, "q": 3, "kind": "blog", "topic": "category theory", "depth": "intermediate", "title": "This Week's Finds 121", "why": "Baez's column on category theory and what the natural numbers really are."}
+{"id": 61169, "keep": 0, "q": 1, "kind": "paper", "topic": "math", "depth": "intermediate", "title": "SVP draft lecture notes", "why": "Draft lecture notes with limited standalone value."}
+{"id": 61170, "keep": 1, "q": 4, "kind": "explainer", "topic": "problem solving", "depth": "intro", "title": "How to Solve It", "why": "Summary of Pólya's heuristics for approaching math problems."}
+{"id": 61171, "keep": 1, "q": 4, "kind": "explainer", "topic": "algorithms", "depth": "intro", "title": "The traveling salesman problem", "why": "Cook's overview of the TSP with examples and background on the problem."}
+{"id": 61172, "keep": 1, "q": 4, "kind": "reference", "topic": "math", "depth": "intermediate", "title": "The Matrix Cookbook", "why": "Reference of matrix identities and derivative formulas."}
+{"id": 61173, "keep": 1, "q": 4, "kind": "blog", "topic": "math", "depth": "intermediate", "title": "Matrices, probability and graphs", "why": "Shows how matrices model probability and graphs, with intuition."}
+{"id": 61174, "keep": 0, "q": 1, "kind": "tool", "topic": "education", "depth": "intro", "title": "Math Academy how it works", "why": "Product page."}
+{"id": 61175, "keep": 0, "q": 2, "kind": "news", "topic": "ai", "depth": "intermediate", "title": "IMO AI results", "why": "Benchmark leaderboard news."}
+{"id": 61176, "keep": 0, "q": 1, "kind": "tool", "topic": "math", "depth": "intro", "title": "DiceLab dice", "why": "Product listing for dice."}
+{"id": 61177, "keep": 0, "q": 1, "kind": "reference", "topic": "math", "depth": "intro", "title": "Mathematics book list", "why": "Book list."}
+{"id": 61178, "keep": 0, "q": 1, "kind": "other", "topic": "plotting", "depth": "intermediate", "title": "xkcd-style plots", "why": "Narrow Q&A about plot styling."}
+{"id": 61179, "keep": 1, "q": 3, "kind": "essay", "topic": "foundations of mathematics", "depth": "intermediate", "title": "Univalent Foundations: No Comment", "why": "Blunt critique of homotopy type theory's claims to reinvent mathematics."}
+{"id": 61180, "keep": 0, "q": 1, "kind": "other", "topic": "foundations of mathematics", "depth": "intermediate", "title": "Univalent Foundations comments", "why": "Comment thread on the same post."}
+{"id": 61181, "keep": 1, "q": 4, "kind": "visual", "topic": "math", "depth": "intro", "title": "Factorization diagrams", "why": "Visualises factorisation as diagrams that reveal number structure."}
+{"id": 61182, "keep": 0, "q": 1, "kind": "other", "topic": "math", "depth": "intro", "title": "Math jokes thread", "why": "Joke thread."}
+{"id": 61183, "keep": 1, "q": 3, "kind": "other", "topic": "computer algebra", "depth": "intermediate", "title": "Computer algebra errors", "why": "Examples of computer algebra systems returning false mathematical results."}
+{"id": 61184, "keep": 1, "q": 4, "kind": "other", "topic": "math", "depth": "expert", "title": "Examples of eventual counterexamples", "why": "Collects statements that hold for many cases before failing, with expert analysis."}
+{"id": 61185, "keep": 1, "q": 3, "kind": "other", "topic": "formal verification", "depth": "intermediate", "title": "Proofs shown wrong after formalization", "why": "Examples of published proofs found flawed once formalised in a proof assistant."}
+{"id": 61186, "keep": 0, "q": 1, "kind": "other", "topic": "math", "depth": "intro", "title": "Late-learning mathematicians", "why": "List of examples."}
+{"id": 61187, "keep": 1, "q": 3, "kind": "other", "topic": "logic", "depth": "expert", "title": "Analysis of definable numbers", "why": "Discussion of which real numbers are definable and what that means for analysis."}
+{"id": 61188, "keep": 0, "q": 1, "kind": "other", "topic": "math", "depth": "intro", "title": "Proofs without words", "why": "Short question about visual proofs."}
+{"id": 61189, "keep": 0, "q": 1, "kind": "tool", "topic": "ocr", "depth": "intro", "title": "Mathpix OCR", "why": "Product page."}
+{"id": 61190, "keep": 1, "q": 2, "kind": "other", "topic": "math", "depth": "intermediate", "title": "The Haruhi problem", "why": "History and proof of a superpermutation puzzle that began on an anime board."}
+{"id": 61191, "keep": 1, "q": 3, "kind": "docs", "topic": "quantum computing", "depth": "expert", "title": "Quipper", "why": "Describes Quipper's embedded language for quantum circuits and its examples."}
+{"id": 61192, "keep": 0, "q": 1, "kind": "tool", "topic": "social", "depth": "intro", "title": "Greg Egan Mastodon profile", "why": "Profile page."}
+{"id": 61193, "keep": 1, "q": 3, "kind": "visual", "topic": "game theory", "depth": "intro", "title": "Ultimate Tic-Tac-Toe", "why": "Illustrated explanation of ultimate tic-tac-toe and its strategy."}
+{"id": 61194, "keep": 0, "q": 1, "kind": "tool", "topic": "pricing", "depth": "intro", "title": "MATLAB licensing", "why": "Pricing page."}
+{"id": 61195, "keep": 0, "q": 1, "kind": "reference", "topic": "math", "depth": "intro", "title": "MathWorld elementary cellular automaton", "why": "Generic reference lookup."}
+{"id": 61196, "keep": 0, "q": 1, "kind": "reference", "topic": "math", "depth": "intro", "title": "MathWorld pi continued fraction", "why": "Generic reference lookup."}
+{"id": 61197, "keep": 0, "q": 1, "kind": "reference", "topic": "math", "depth": "intro", "title": "MathWorld prime-generating polynomial", "why": "Generic reference lookup."}
+{"id": 61198, "keep": 0, "q": 1, "kind": "reference", "topic": "math", "depth": "intro", "title": "MathWorld sphere point picking", "why": "Generic reference lookup."}
+{"id": 61199, "keep": 0, "q": 1, "kind": "news", "topic": "math", "depth": "intro", "title": "MathWorld Google puzzle solutions", "why": "Solutions to a 2004 aptitude test item, dated news."}

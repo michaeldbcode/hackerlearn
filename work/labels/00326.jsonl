@@ -1,0 +1,200 @@
+{"id": 65200, "keep": 1, "q": 3, "kind": "docs", "topic": "llms", "depth": "intermediate", "title": "Programmatic tool calling", "why": "How to have Claude call tools from code, cutting context bloat and round trips."}
+{"id": 65201, "keep": 0, "q": 1, "kind": "tool", "topic": "llms", "depth": "intro", "title": "DeepSeek usage page", "why": "Account usage dashboard, not content to learn from."}
+{"id": 65202, "keep": 0, "q": 1, "kind": "docs", "topic": "llms", "depth": "intermediate", "title": "OpenAI Batch API reference", "why": "Endpoint reference lookup with no explanation to learn from."}
+{"id": 65203, "keep": 0, "q": 1, "kind": "docs", "topic": "llms", "depth": "intermediate", "title": "OpenAI Chat API reference", "why": "Endpoint reference lookup for a chat API."}
+{"id": 65204, "keep": 0, "q": 2, "kind": "docs", "topic": "llms", "depth": "intermediate", "title": "OpenAI batch guide", "why": "Vendor product guide for a discounted batch tier."}
+{"id": 65205, "keep": 0, "q": 1, "kind": "docs", "topic": "llms", "depth": "intermediate", "title": "OpenAI embedding models", "why": "Model catalogue page; reference lookup."}
+{"id": 65206, "keep": 1, "q": 3, "kind": "explainer", "topic": "llms", "depth": "intro", "title": "What are embeddings", "why": "Plain introduction to embeddings and example uses for vector similarity."}
+{"id": 65207, "keep": 0, "q": 2, "kind": "docs", "topic": "llms", "depth": "intermediate", "title": "OpenAI function calling docs", "why": "Vendor API docs; reference lookup for function calling parameters."}
+{"id": 65208, "keep": 1, "q": 2, "kind": "docs", "topic": "llms", "depth": "intro", "title": "Prompt engineering guide", "why": "Vendor guide to prompting basics: framing, examples and structuring instructions."}
+{"id": 65209, "keep": 0, "q": 1, "kind": "docs", "topic": "llms", "depth": "expert", "title": "OpenAI structured output schemas", "why": "Schema support reference lookup for structured outputs."}
+{"id": 65210, "keep": 0, "q": 1, "kind": "reference", "topic": "llms", "depth": "intro", "title": "OpenAI data usage policy", "why": "Data retention and training policy; legal-style reference."}
+{"id": 65211, "keep": 0, "q": 1, "kind": "reference", "topic": "llms", "depth": "intro", "title": "GPT-5.2 model page", "why": "Model spec and pricing page."}
+{"id": 65212, "keep": 0, "q": 1, "kind": "reference", "topic": "llms", "depth": "intro", "title": "OpenAI model data usage", "why": "Data usage policy by model; reference lookup."}
+{"id": 65213, "keep": 1, "q": 3, "kind": "blog", "topic": "cloud economics", "depth": "intermediate", "title": "Follow the Capex", "why": "Compares cloud providers' capital spending to separate real infrastructure investment from bit players."}
+{"id": 65214, "keep": 0, "q": 1, "kind": "reference", "topic": "optimization", "depth": "expert", "title": "MILP solver benchmark page", "why": "Solver benchmark listing; a lookup page."}
+{"id": 65215, "keep": 1, "q": 4, "kind": "reference", "topic": "aesthetics", "depth": "intro", "title": "Beauty", "why": "Stanford Encyclopedia overview of philosophical theories of beauty and subjectivity."}
+{"id": 65216, "keep": 1, "q": 4, "kind": "reference", "topic": "causation", "depth": "expert", "title": "Probabilistic causation", "why": "Survey of how probability theories define and test causal claims."}
+{"id": 65217, "keep": 1, "q": 3, "kind": "reference", "topic": "logic", "depth": "expert", "title": "Dialetheism", "why": "Explains philosophical theories that accept true contradictions and their motivations."}
+{"id": 65218, "keep": 1, "q": 4, "kind": "reference", "topic": "political philosophy", "depth": "intermediate", "title": "Equal opportunity", "why": "Survey of what equality of opportunity means and its main critiques."}
+{"id": 65219, "keep": 1, "q": 4, "kind": "reference", "topic": "ethics", "depth": "intermediate", "title": "Virtue ethics", "why": "Overview of virtue ethics, its history, and how it differs from rule-based ethics."}
+{"id": 65220, "keep": 1, "q": 3, "kind": "reference", "topic": "philosophy", "depth": "intro", "title": "Heraclitus", "why": "Introduction to Heraclitus's philosophy of flux and its later interpretations."}
+{"id": 65221, "keep": 1, "q": 4, "kind": "reference", "topic": "math", "depth": "expert", "title": "Hilbert's program", "why": "Explains Hilbert's foundations program and how Godel's theorems undermined it."}
+{"id": 65222, "keep": 1, "q": 4, "kind": "reference", "topic": "political philosophy", "depth": "intro", "title": "Justice", "why": "Overview of major theories of justice and where they disagree."}
+{"id": 65223, "keep": 1, "q": 4, "kind": "reference", "topic": "ethics", "depth": "intermediate", "title": "Kant's moral philosophy", "why": "Explains Kant's categorical imperative and the formula of humanity."}
+{"id": 65224, "keep": 1, "q": 4, "kind": "reference", "topic": "philosophy of science", "depth": "intermediate", "title": "Imre Lakatos", "why": "Explains Lakatos's research programmes and how they judge scientific progress."}
+{"id": 65225, "keep": 1, "q": 3, "kind": "reference", "topic": "linguistics", "depth": "intermediate", "title": "Philosophy of linguistics", "why": "Surveys philosophical questions about language, meaning, and its link to thought."}
+{"id": 65226, "keep": 1, "q": 4, "kind": "reference", "topic": "political philosophy", "depth": "intermediate", "title": "John Locke's political philosophy", "why": "Explains Locke's theory of natural rights, consent, and government."}
+{"id": 65227, "keep": 1, "q": 4, "kind": "reference", "topic": "logic", "depth": "expert", "title": "Linear logic", "why": "Explains linear logic's resource-sensitive proof system and its applications."}
+{"id": 65228, "keep": 1, "q": 4, "kind": "reference", "topic": "philosophy", "depth": "intro", "title": "Karl Marx", "why": "Overview of Marx's theory of history, capitalism, and class conflict."}
+{"id": 65229, "keep": 1, "q": 3, "kind": "reference", "topic": "philosophy of science", "depth": "intermediate", "title": "Measurement in science", "why": "Surveys philosophical accounts of what measurement is and how it works."}
+{"id": 65230, "keep": 1, "q": 4, "kind": "reference", "topic": "ethics", "depth": "expert", "title": "Metaethics", "why": "Surveys debates on the nature and status of moral claims."}
+{"id": 65231, "keep": 1, "q": 3, "kind": "reference", "topic": "philosophy", "depth": "intro", "title": "Mohism", "why": "Introduces Mohist ethics, logic, and early Chinese thought."}
+{"id": 65232, "keep": 1, "q": 3, "kind": "reference", "topic": "ethics", "depth": "expert", "title": "Moral cognitivism", "why": "Explains whether moral statements express beliefs that can be true or false."}
+{"id": 65233, "keep": 1, "q": 4, "kind": "reference", "topic": "philosophy", "depth": "expert", "title": "Natural kinds", "why": "Explains natural kinds and their roles in language, science, and metaphysics."}
+{"id": 65234, "keep": 1, "q": 3, "kind": "reference", "topic": "philosophy of mind", "depth": "expert", "title": "Neutral monism", "why": "Explains neutral monism and how it tries to unify mind and matter."}
+{"id": 65235, "keep": 1, "q": 3, "kind": "reference", "topic": "metaphysics", "depth": "intermediate", "title": "Nothingness", "why": "Surveys philosophical views on why there is something rather than nothing."}
+{"id": 65236, "keep": 1, "q": 4, "kind": "reference", "topic": "statistics", "depth": "intermediate", "title": "Simpson's paradox", "why": "Explains how aggregated data can reverse trends seen within subgroups."}
+{"id": 65237, "keep": 1, "q": 3, "kind": "reference", "topic": "decision theory", "depth": "intermediate", "title": "Pascal's wager", "why": "Analyses Pascal's wager and its decision-theoretic flaws."}
+{"id": 65238, "keep": 1, "q": 5, "kind": "reference", "topic": "philosophy", "depth": "intro", "title": "Plato", "why": "Survey of Plato's dialogues, theory of forms, and political philosophy."}
+{"id": 65239, "keep": 1, "q": 3, "kind": "reference", "topic": "philosophy", "depth": "intermediate", "title": "Plato on rhetoric", "why": "Explains Plato's critique of rhetoric and its role in his philosophy."}
+{"id": 65240, "keep": 1, "q": 3, "kind": "reference", "topic": "philosophy", "depth": "intermediate", "title": "Postmodernism", "why": "Explains postmodern ideas about language, identity, and critique of the subject."}
+{"id": 65241, "keep": 1, "q": 4, "kind": "reference", "topic": "philosophy", "depth": "intermediate", "title": "Pragmatism", "why": "Explains pragmatism's view that meaning and truth depend on practical consequences."}
+{"id": 65242, "keep": 1, "q": 4, "kind": "reference", "topic": "game theory", "depth": "intermediate", "title": "Prisoner's dilemma", "why": "Explains the prisoner's dilemma, its variants, and why cooperation is hard."}
+{"id": 65243, "keep": 1, "q": 3, "kind": "reference", "topic": "philosophy", "depth": "intermediate", "title": "Process philosophy", "why": "Overview of process philosophy and its view that becoming is fundamental."}
+{"id": 65244, "keep": 1, "q": 3, "kind": "reference", "topic": "logic", "depth": "intermediate", "title": "Reasoning by analogy", "why": "Explains analogical reasoning, when it works, and how it fails."}
+{"id": 65245, "keep": 1, "q": 3, "kind": "reference", "topic": "political philosophy", "depth": "intermediate", "title": "Rights", "why": "Surveys theories of rights, including Hohfeld's analysis and will vs interest theories."}
+{"id": 65246, "keep": 1, "q": 4, "kind": "reference", "topic": "logic", "depth": "expert", "title": "Russell's paradox", "why": "Explains Russell's paradox and its impact on set theory and logic."}
+{"id": 65247, "keep": 1, "q": 3, "kind": "reference", "topic": "philosophy of science", "depth": "intermediate", "title": "Simplicity", "why": "Surveys what simplicity means and how it bears on choosing between theories."}
+{"id": 65248, "keep": 1, "q": 3, "kind": "reference", "topic": "epistemology", "depth": "expert", "title": "Skepticism and content externalism", "why": "Explains externalism about mental content and how it bears on skeptical arguments."}
+{"id": 65249, "keep": 1, "q": 3, "kind": "reference", "topic": "philosophy of biology", "depth": "intermediate", "title": "Species", "why": "Surveys competing definitions of biological species and their problems."}
+{"id": 65250, "keep": 1, "q": 3, "kind": "reference", "topic": "philosophy of technology", "depth": "intro", "title": "Philosophy of technology", "why": "Overview of philosophical questions about technology and its social impact."}
+{"id": 65251, "keep": 1, "q": 4, "kind": "reference", "topic": "logic", "depth": "expert", "title": "Type theory", "why": "Explains type theory's formal foundations and its relation to set theory."}
+{"id": 65252, "keep": 1, "q": 3, "kind": "reference", "topic": "epistemology", "depth": "intermediate", "title": "Understanding", "why": "Surveys philosophical accounts of understanding and how it differs from knowledge."}
+{"id": 65253, "keep": 1, "q": 4, "kind": "reference", "topic": "philosophy of mathematics", "depth": "expert", "title": "Wittgenstein on mathematics", "why": "Explains Wittgenstein's views on mathematics, proof, and rule-following."}
+{"id": 65254, "keep": 0, "q": 1, "kind": "tool", "topic": "analytics", "depth": "intro", "title": "Plausible vs Google Analytics", "why": "Vendor comparison page for a product."}
+{"id": 65255, "keep": 0, "q": 1, "kind": "tool", "topic": "video games", "depth": "intro", "title": "Play CS servers", "why": "Game server listing page."}
+{"id": 65256, "keep": 0, "q": 1, "kind": "tool", "topic": "ai", "depth": "intro", "title": "AI Dungeon", "why": "Product landing page for a game."}
+{"id": 65257, "keep": 0, "q": 2, "kind": "tool", "topic": "game dev", "depth": "intro", "title": "Playdate Pulp", "why": "Product page for a game-making tool."}
+{"id": 65258, "keep": 0, "q": 1, "kind": "news", "topic": "gaming", "depth": "intermediate", "title": "ESEA forum thread", "why": "Old forum post about a gaming community event."}
+{"id": 65259, "keep": 0, "q": 1, "kind": "tool", "topic": "rust", "depth": "intermediate", "title": "Rust Playground", "why": "Online compiler playground; a tool, not something to read."}
+{"id": 65260, "keep": 0, "q": 2, "kind": "tool", "topic": "programming languages", "depth": "expert", "title": "QFTASM Tetris interpreter", "why": "Interpreter page for an esoteric assembly language."}
+{"id": 65261, "keep": 0, "q": 1, "kind": "other", "topic": "data labeling", "depth": "intro", "title": "Playment vs Mechanical Turk", "why": "Vendor marketing comparison of crowdsourcing platforms."}
+{"id": 65262, "keep": 0, "q": 2, "kind": "reference", "topic": "programming languages", "depth": "expert", "title": "Charity language", "why": "Language homepage; a lookup for an experimental functional language."}
+{"id": 65263, "keep": 0, "q": 1, "kind": "tool", "topic": "cad", "depth": "intro", "title": "Solid Edge community edition", "why": "Vendor download page for CAD software."}
+{"id": 65264, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Ploopy mouse", "why": "Product page for an open-source mouse."}
+{"id": 65265, "keep": 0, "q": 1, "kind": "docs", "topic": "data visualization", "depth": "intermediate", "title": "Plotly for Python", "why": "Library homepage; a lookup page."}
+{"id": 65266, "keep": 0, "q": 2, "kind": "tool", "topic": "data visualization", "depth": "intermediate", "title": "Plotly Dash", "why": "Framework homepage with no explanatory content."}
+{"id": 65267, "keep": 0, "q": 1, "kind": "docs", "topic": "data visualization", "depth": "intermediate", "title": "Plotly JavaScript", "why": "Library homepage; a lookup page."}
+{"id": 65268, "keep": 1, "q": 3, "kind": "essay", "topic": "llms", "depth": "intro", "title": "Julius", "why": "Essay on whether chatbot advice can replace real expertise, with a rubber-duck comparison."}
+{"id": 65269, "keep": 0, "q": 1, "kind": "tool", "topic": "ides", "depth": "intro", "title": "JetBrains Rust plugin", "why": "IDE plugin download page."}
+{"id": 65270, "keep": 0, "q": 1, "kind": "tool", "topic": "ides", "depth": "intro", "title": "AceJump plugin", "why": "IDE plugin download page."}
+{"id": 65271, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "Plumbum", "why": "Library docs homepage for a shell scripting library."}
+{"id": 65272, "keep": 1, "q": 4, "kind": "essay", "topic": "automation", "depth": "intro", "title": "Reverse centaurs", "why": "Doctorow on machines that make humans serve them, and why it matters for work."}
+{"id": 65273, "keep": 0, "q": 2, "kind": "essay", "topic": "tech criticism", "depth": "intro", "title": "Sociopathic monsters", "why": "Opinion on tech companies' conduct, argued through a viral thread."}
+{"id": 65274, "keep": 1, "q": 3, "kind": "essay", "topic": "ai", "depth": "intermediate", "title": "Great Taylors' Ghost", "why": "Doctorow on how tools built for control get used against vulnerable people."}
+{"id": 65275, "keep": 1, "q": 5, "kind": "essay", "topic": "tech economics", "depth": "intro", "title": "Enshittification", "why": "Explains how platforms decay: serve users, then business customers, then extract value."}
+{"id": 65276, "keep": 1, "q": 3, "kind": "essay", "topic": "security", "depth": "intro", "title": "Cyber Dunning-Kruger", "why": "Explains why tech-savvy people fall for scams and how overconfidence contributes."}
+{"id": 65277, "keep": 0, "q": 2, "kind": "news", "topic": "app stores", "depth": "intermediate", "title": "Spoil the bunch", "why": "Commentary on a timely App Store fee dispute."}
+{"id": 65278, "keep": 1, "q": 3, "kind": "essay", "topic": "social media", "depth": "intro", "title": "The Ulysses pact", "why": "Essay on using commitment devices to resist platform lock-in."}
+{"id": 65279, "keep": 0, "q": 2, "kind": "essay", "topic": "ai", "depth": "intermediate", "title": "Potatotrac", "why": "Timely commentary on AI scrapers and discrimination."}
+{"id": 65280, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "Hack Yourself First course", "why": "Paid course landing page."}
+{"id": 65281, "keep": 0, "q": 1, "kind": "docs", "topic": "geo", "depth": "intro", "title": "Plus Codes developers", "why": "Developer page for a location encoding system; lookup."}
+{"id": 65282, "keep": 0, "q": 1, "kind": "other", "topic": "systems thinking", "depth": "intro", "title": "Systems Practice course", "why": "Course marketing page."}
+{"id": 65283, "keep": 1, "q": 3, "kind": "explainer", "topic": "energy", "depth": "intermediate", "title": "Energy density of uranium", "why": "Compares uranium's energy per kilogram with coal and explains the figures."}
+{"id": 65284, "keep": 0, "q": 2, "kind": "tool", "topic": "type theory", "depth": "expert", "title": "Bedrock project page", "why": "Project homepage for a Coq-based systems tool."}
+{"id": 65285, "keep": 1, "q": 4, "kind": "paper", "topic": "rust", "depth": "expert", "title": "GhostCell", "why": "Paper on using GhostCell to manage lifetimes for related objects in Rust."}
+{"id": 65286, "keep": 1, "q": 4, "kind": "paper", "topic": "rust", "depth": "expert", "title": "RustBelt", "why": "Formal verification of Rust's safety guarantees; paper and project page."}
+{"id": 65287, "keep": 1, "q": 3, "kind": "essay", "topic": "career", "depth": "intro", "title": "The PMarca guide to personal productivity", "why": "Marc Andreessen's practical essay on productivity habits and structured procrastination."}
+{"id": 65288, "keep": 1, "q": 4, "kind": "book", "topic": "physics", "depth": "expert", "title": "Modern Classical Physics (draft)", "why": "Draft textbook on classical physics from Thorne and Blandford's course."}
+{"id": 65289, "keep": 0, "q": 2, "kind": "paper", "topic": "neuroscience", "depth": "expert", "title": "Valproic acid and perfect pitch", "why": "Study cited as evidence in a comment thread."}
+{"id": 65290, "keep": 0, "q": 2, "kind": "paper", "topic": "neuroscience", "depth": "expert", "title": "Language and thought are not the same", "why": "Research article cited as evidence in an argument."}
+{"id": 65291, "keep": 0, "q": 1, "kind": "paper", "topic": "health", "depth": "intermediate", "title": "Thermal paper health risks", "why": "Research cited as a health warning."}
+{"id": 65292, "keep": 0, "q": 2, "kind": "paper", "topic": "nutrition", "depth": "intermediate", "title": "Vitamin D intake study", "why": "Study cited as evidence in a discussion."}
+{"id": 65293, "keep": 0, "q": 2, "kind": "paper", "topic": "genetics", "depth": "expert", "title": "Genetics of intelligence", "why": "Research cited as evidence in a debate."}
+{"id": 65294, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "ITAR regulations", "why": "Legal export regulation text."}
+{"id": 65295, "keep": 0, "q": 2, "kind": "reference", "topic": "programming languages", "depth": "intermediate", "title": "CLU language", "why": "Language homepage; a reference lookup."}
+{"id": 65296, "keep": 0, "q": 2, "kind": "paper", "topic": "privacy", "depth": "intermediate", "title": "Private traits from Facebook likes", "why": "Research cited as evidence about data privacy."}
+{"id": 65297, "keep": 0, "q": 2, "kind": "paper", "topic": "economics", "depth": "intermediate", "title": "Income and emotional well-being", "why": "Paper cited as evidence in a debate on happiness."}
+{"id": 65298, "keep": 0, "q": 2, "kind": "paper", "topic": "law", "depth": "intermediate", "title": "Hungry judges reply", "why": "Reply paper cited in a debate over science reporting."}
+{"id": 65299, "keep": 0, "q": 2, "kind": "paper", "topic": "gender", "depth": "intermediate", "title": "Gender fairness study", "why": "Research cited as evidence in a discussion."}
+{"id": 65300, "keep": 0, "q": 2, "kind": "paper", "topic": "ethics", "depth": "intermediate", "title": "Upper-class unethical tendencies", "why": "Research cited as evidence in a debate."}
+{"id": 65301, "keep": 0, "q": 2, "kind": "paper", "topic": "gender", "depth": "intermediate", "title": "Gender and hiring bias", "why": "Research cited as evidence in an argument."}
+{"id": 65302, "keep": 0, "q": 2, "kind": "paper", "topic": "gender", "depth": "intermediate", "title": "Gender and negotiation study", "why": "Research cited as evidence in an argument."}
+{"id": 65303, "keep": 0, "q": 2, "kind": "paper", "topic": "criminal justice", "depth": "intermediate", "title": "Wrongful convictions study", "why": "Research cited as evidence in an argument."}
+{"id": 65304, "keep": 0, "q": 2, "kind": "paper", "topic": "genetics", "depth": "expert", "title": "Icelandic selection study", "why": "Research cited as evidence for a contested claim."}
+{"id": 65305, "keep": 0, "q": 2, "kind": "paper", "topic": "policing", "depth": "intermediate", "title": "Police killings statistics paper", "why": "Research cited as evidence in a debate."}
+{"id": 65306, "keep": 0, "q": 2, "kind": "paper", "topic": "economics", "depth": "intermediate", "title": "Social mobility decline", "why": "Research cited as evidence on mobility."}
+{"id": 65307, "keep": 0, "q": 2, "kind": "paper", "topic": "biology", "depth": "intermediate", "title": "SARS-CoV-2 lineage analysis", "why": "Research cited as evidence about virus mutations."}
+{"id": 65308, "keep": 0, "q": 2, "kind": "paper", "topic": "ecology", "depth": "intermediate", "title": "Marten Scheffer PNAS paper", "why": "Research article cited as a source in a discussion."}
+{"id": 65309, "keep": 0, "q": 2, "kind": "paper", "topic": "biology", "depth": "intermediate", "title": "Retrotransposon claim paper", "why": "Research cited as evidence in a vaccine debate."}
+{"id": 65310, "keep": 0, "q": 2, "kind": "paper", "topic": "cognition", "depth": "intermediate", "title": "Brain training study", "why": "Research cited as evidence on brain training."}
+{"id": 65311, "keep": 0, "q": 2, "kind": "paper", "topic": "environment", "depth": "intermediate", "title": "Air pollution and cognition", "why": "Research cited as evidence."}
+{"id": 65312, "keep": 0, "q": 2, "kind": "paper", "topic": "education", "depth": "intermediate", "title": "Who trains the best computer scientists", "why": "Research cited as evidence on skills."}
+{"id": 65313, "keep": 0, "q": 2, "kind": "paper", "topic": "health", "depth": "intermediate", "title": "Pandemic intervention study", "why": "Research cited as evidence in a debate."}
+{"id": 65314, "keep": 0, "q": 2, "kind": "paper", "topic": "ecology", "depth": "intermediate", "title": "Insect biomass decline", "why": "Research cited as evidence on insect decline."}
+{"id": 65315, "keep": 0, "q": 2, "kind": "paper", "topic": "biology", "depth": "intermediate", "title": "Furin cleavage site", "why": "Research cited in a contested debate."}
+{"id": 65316, "keep": 0, "q": 2, "kind": "paper", "topic": "planetary science", "depth": "expert", "title": "InSight mid-crust study", "why": "Research paper cited as a finding."}
+{"id": 65317, "keep": 0, "q": 2, "kind": "paper", "topic": "economics", "depth": "intermediate", "title": "Ideal salary study", "why": "Research cited as evidence in the money and happiness debate."}
+{"id": 65318, "keep": 0, "q": 2, "kind": "tool", "topic": "compression", "depth": "intermediate", "title": "Lossy PNG tools", "why": "Tool page for lossy PNG compression."}
+{"id": 65319, "keep": 0, "q": 2, "kind": "reference", "topic": "health", "depth": "intermediate", "title": "Health insurance and mortality", "why": "Advocacy report cited as evidence."}
+{"id": 65320, "keep": 0, "q": 2, "kind": "journalism", "topic": "politics", "depth": "intermediate", "title": "Gilens and Page summary", "why": "Advocacy summary of a political science study."}
+{"id": 65321, "keep": 1, "q": 4, "kind": "docs", "topic": "package managers", "depth": "intermediate", "title": "pnpm motivation", "why": "Explains pnpm's content store and symlinks, which save disk space and avoid phantom dependencies."}
+{"id": 65322, "keep": 1, "q": 3, "kind": "explainer", "topic": "geology", "depth": "intro", "title": "Cascadia subduction zone", "why": "Explains the Cascadia subduction zone and the history of megathrust quakes."}
+{"id": 65323, "keep": 0, "q": 1, "kind": "tool", "topic": "podcasts", "depth": "intro", "title": "Pocket Casts submit", "why": "Submission form."}
+{"id": 65324, "keep": 0, "q": 1, "kind": "news", "topic": "gaming", "depth": "intermediate", "title": "Unity and ironSource merger interview", "why": "Business news interview about a merger."}
+{"id": 65325, "keep": 1, "q": 2, "kind": "talk", "topic": "sleep", "depth": "intro", "title": "Matthew Walker on sleep", "why": "Podcast conversation with a sleep scientist about sleep habits and health."}
+{"id": 65326, "keep": 0, "q": 2, "kind": "news", "topic": "nuclear", "depth": "intermediate", "title": "Fukushima update", "why": "Advocacy update about a news event."}
+{"id": 65327, "keep": 0, "q": 1, "kind": "other", "topic": "poetry", "depth": "intro", "title": "Stopping by Woods on a Snowy Evening", "why": "Poem page; not explanatory."}
+{"id": 65328, "keep": 0, "q": 1, "kind": "other", "topic": "poetry", "depth": "intro", "title": "Do Not Go Gentle", "why": "Poem page; not explanatory."}
+{"id": 65329, "keep": 0, "q": 1, "kind": "news", "topic": "intelligence", "depth": "intermediate", "title": "NSA watchdog retaliation", "why": "News about a whistleblower dispute."}
+{"id": 65330, "keep": 0, "q": 1, "kind": "other", "topic": "web", "depth": "intro", "title": "Pointer Pointer", "why": "Novelty site with no explanation."}
+{"id": 65331, "keep": 1, "q": 3, "kind": "paper", "topic": "law", "depth": "intermediate", "title": "The Myth of the Ford Pinto Case", "why": "Paper examining the Ford Pinto case and whether the famous story holds up."}
+{"id": 65332, "keep": 1, "q": 2, "kind": "blog", "topic": "time", "depth": "intro", "title": "How much is time wrong", "why": "Blog post on how far clock time drifts from solar time around the world."}
+{"id": 65333, "keep": 1, "q": 3, "kind": "blog", "topic": "compression", "depth": "intermediate", "title": "Gzip vs bzip2 vs LZMA vs xz", "why": "Benchmarks compression tools on ratio and speed, showing the tradeoffs."}
+{"id": 65334, "keep": 0, "q": 2, "kind": "tool", "topic": "game theory", "depth": "expert", "title": "Cepheus poker", "why": "Project homepage for a poker solver."}
+{"id": 65335, "keep": 0, "q": 1, "kind": "news", "topic": "energy", "depth": "intro", "title": "World's largest sand battery", "why": "Company news about an energy project."}
+{"id": 65336, "keep": 0, "q": 1, "kind": "news", "topic": "public safety", "depth": "intro", "title": "NSW bushfire enforcement", "why": "Government news release."}
+{"id": 65337, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Average American income", "why": "Statistics tracker."}
+{"id": 65338, "keep": 0, "q": 1, "kind": "tool", "topic": "politics", "depth": "intro", "title": "Political compass test", "why": "Online quiz."}
+{"id": 65339, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "Political compass 2008 chart", "why": "Political chart page."}
+{"id": 65340, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Friday news dump", "why": "Dictionary entry for a political term; generic lookup."}
+{"id": 65341, "keep": 1, "q": 3, "kind": "journalism", "topic": "politics", "depth": "intermediate", "title": "Obama and the Hezbollah drug investigation", "why": "Investigative piece on the DEA's Hezbollah drug-trafficking case and its political handling."}
+{"id": 65342, "keep": 0, "q": 1, "kind": "news", "topic": "covid", "depth": "intro", "title": "COVID testing by state", "why": "Data chart of testing news."}
+{"id": 65343, "keep": 1, "q": 4, "kind": "journalism", "topic": "guns", "depth": "intermediate", "title": "The NRA and the Second Amendment", "why": "History of how the NRA and courts shaped modern readings of the Second Amendment."}
+{"id": 65344, "keep": 1, "q": 3, "kind": "journalism", "topic": "politics", "depth": "intermediate", "title": "Bannon, Thiel and the anti-democratic worldview", "why": "Magazine piece on the political philosophies of Steve Bannon and Peter Thiel."}
+{"id": 65345, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intermediate", "title": "William Barber and the racist past of tipping", "why": "Feature on the racial history of tipping and the case for ending it."}
+{"id": 65346, "keep": 0, "q": 1, "kind": "news", "topic": "covid", "depth": "intro", "title": "CDC coronavirus test delays", "why": "News about testing delays."}
+{"id": 65347, "keep": 0, "q": 1, "kind": "news", "topic": "terrorism", "depth": "intro", "title": "White supremacist terror threat", "why": "News about a DHS threat report."}
+{"id": 65348, "keep": 0, "q": 1, "kind": "news", "topic": "elections", "depth": "intro", "title": "Georgia election machine glitch", "why": "News on an election equipment problem."}
+{"id": 65349, "keep": 0, "q": 2, "kind": "journalism", "topic": "military", "depth": "intermediate", "title": "US military balloons", "why": "Feature on military balloon surveillance programs."}
+{"id": 65350, "keep": 0, "q": 1, "kind": "news", "topic": "military", "depth": "intro", "title": "Missile and drone costs", "why": "News on Navy costs in the Red Sea."}
+{"id": 65351, "keep": 0, "q": 1, "kind": "news", "topic": "space", "depth": "intro", "title": "California and SpaceX", "why": "News on a regulatory dispute."}
+{"id": 65352, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "California kids online", "why": "News on a bill."}
+{"id": 65353, "keep": 0, "q": 1, "kind": "news", "topic": "immigration", "depth": "intro", "title": "H-1B visa overhaul", "why": "News on a visa policy."}
+{"id": 65354, "keep": 1, "q": 2, "kind": "journalism", "topic": "food policy", "depth": "intermediate", "title": "Raw milk as a conservative signal", "why": "Magazine feature on how raw milk became a political identity marker."}
+{"id": 65355, "keep": 1, "q": 2, "kind": "journalism", "topic": "economics", "depth": "intermediate", "title": "Democrats and the strong economy", "why": "Analysis of how official headline statistics may overstate economic strength."}
+{"id": 65356, "keep": 0, "q": 1, "kind": "news", "topic": "archives", "depth": "intro", "title": "Library of Congress Twitter archive", "why": "News about a canceled archive project."}
+{"id": 65357, "keep": 0, "q": 1, "kind": "news", "topic": "nutrition", "depth": "intermediate", "title": "Money behind the healthy eating fight", "why": "News investigation on nutrition advocacy funding."}
+{"id": 65358, "keep": 0, "q": 1, "kind": "news", "topic": "criminal justice", "depth": "intro", "title": "George Soros and criminal justice", "why": "Political news and opinion."}
+{"id": 65359, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Trump lobbying ban", "why": "News on a policy change."}
+{"id": 65360, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Antifa and Charlottesville", "why": "News on FBI analysis of violence."}
+{"id": 65361, "keep": 1, "q": 4, "kind": "journalism", "topic": "algorithms", "depth": "intermediate", "title": "Dutch scandal serves as a warning", "why": "How the Dutch benefits algorithm scandal shows the risks of automated decisions."}
+{"id": 65362, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "EU Commission switches to Signal", "why": "News about staff messaging."}
+{"id": 65363, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "EU and Musk interview", "why": "News on a policy dispute."}
+{"id": 65364, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "Italy bans ChatGPT", "why": "News on a regulatory action."}
+{"id": 65365, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Von der Leyen scandal", "why": "News on a political scandal."}
+{"id": 65366, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "France poll of polls", "why": "Poll tracker."}
+{"id": 65367, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "UK poll of polls", "why": "Poll tracker."}
+{"id": 65368, "keep": 0, "q": 1, "kind": "news", "topic": "energy", "depth": "intro", "title": "Texas grid fact check", "why": "Fact-check on a news event."}
+{"id": 65369, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Obama on gay marriage fact check", "why": "Fact-check on a politician's statement."}
+{"id": 65370, "keep": 0, "q": 1, "kind": "news", "topic": "healthcare", "depth": "intro", "title": "Emergency care share fact check", "why": "Fact-check on a statistic."}
+{"id": 65371, "keep": 0, "q": 1, "kind": "news", "topic": "elections", "depth": "intro", "title": "Georgia election workers fact check", "why": "Fact-check on a viral claim."}
+{"id": 65372, "keep": 0, "q": 1, "kind": "news", "topic": "covid", "depth": "intro", "title": "Li-Meng Yan fact check", "why": "Fact-check on a viral claim."}
+{"id": 65373, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Trump on same-sex marriage fact check", "why": "Fact-check on a politician's statement."}
+{"id": 65374, "keep": 0, "q": 1, "kind": "news", "topic": "immigration", "depth": "intro", "title": "Undocumented immigrants and taxes fact check", "why": "Fact-check on a statement."}
+{"id": 65375, "keep": 0, "q": 1, "kind": "news", "topic": "immigration", "depth": "intro", "title": "Family separation fact check", "why": "Fact-check on a statement."}
+{"id": 65376, "keep": 0, "q": 1, "kind": "news", "topic": "immigration", "depth": "intro", "title": "Muslim database fact check", "why": "Fact-check on a statement."}
+{"id": 65377, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Don Lemon statistics fact check", "why": "Fact-check on a statistic."}
+{"id": 65378, "keep": 0, "q": 1, "kind": "news", "topic": "economics", "depth": "intro", "title": "Eisenhower tax rates fact check", "why": "Fact-check on a statement."}
+{"id": 65379, "keep": 0, "q": 1, "kind": "news", "topic": "economics", "depth": "intro", "title": "National debt tweet fact check", "why": "Fact-check on a tweet."}
+{"id": 65380, "keep": 0, "q": 1, "kind": "news", "topic": "sports", "depth": "intro", "title": "College sports profit fact check", "why": "Fact-check on a statement."}
+{"id": 65381, "keep": 0, "q": 1, "kind": "other", "topic": "ai", "depth": "intro", "title": "Quinnipiac poll release", "why": "Poll release with topline numbers."}
+{"id": 65382, "keep": 0, "q": 1, "kind": "reference", "topic": "licensing", "depth": "intermediate", "title": "PolyForm Shield license", "why": "License text."}
+{"id": 65383, "keep": 0, "q": 1, "kind": "reference", "topic": "licensing", "depth": "intermediate", "title": "PolyForm Small Business license", "why": "License text."}
+{"id": 65384, "keep": 1, "q": 2, "kind": "journalism", "topic": "games industry", "depth": "intro", "title": "Harassment in game development", "why": "Feature on harassment in games and the support groups that formed in response."}
+{"id": 65385, "keep": 0, "q": 1, "kind": "news", "topic": "games", "depth": "intro", "title": "Fortnite rare skins", "why": "News about a game's monetization."}
+{"id": 65386, "keep": 0, "q": 2, "kind": "news", "topic": "law", "depth": "intermediate", "title": "French court on Steam resale", "why": "News on a court ruling."}
+{"id": 65387, "keep": 0, "q": 1, "kind": "other", "topic": "games", "depth": "intro", "title": "PS4 review", "why": "Game review."}
+{"id": 65388, "keep": 0, "q": 1, "kind": "other", "topic": "games", "depth": "intro", "title": "Xbox One review", "why": "Game review."}
+{"id": 65389, "keep": 0, "q": 1, "kind": "docs", "topic": "web components", "depth": "intermediate", "title": "Polymer material elements", "why": "Component library docs."}
+{"id": 65390, "keep": 1, "q": 2, "kind": "docs", "topic": "web components", "depth": "intermediate", "title": "lit-html", "why": "Docs explaining how lit-html renders templates efficiently by updating only changed parts."}
+{"id": 65391, "keep": 1, "q": 3, "kind": "book", "topic": "productivity", "depth": "intro", "title": "The Pomodoro Technique", "why": "Francesco Cirillo's short guide to timed work intervals and breaks."}
+{"id": 65392, "keep": 1, "q": 3, "kind": "tutorial", "topic": "negotiation", "depth": "intro", "title": "Translate your BATNA to the current deal", "why": "How to re-evaluate your negotiating alternatives when a job or contract changes."}
+{"id": 65393, "keep": 1, "q": 2, "kind": "tutorial", "topic": "networking", "depth": "intermediate", "title": "Bypassing the AT&T gateway", "why": "Hands-on guide to replacing an ISP gateway with a bypass setup."}
+{"id": 65394, "keep": 0, "q": 1, "kind": "tool", "topic": "games", "depth": "intro", "title": "Vampire Survivors", "why": "Game page."}
+{"id": 65395, "keep": 0, "q": 1, "kind": "reference", "topic": "privacy", "depth": "intro", "title": "Ponemon trust report", "why": "Survey report of company trust rankings."}
+{"id": 65396, "keep": 1, "q": 3, "kind": "reference", "topic": "video games history", "depth": "intermediate", "title": "Pong Story", "why": "Catalogue of Pong clones and their hardware history."}
+{"id": 65397, "keep": 1, "q": 4, "kind": "blog", "topic": "javascript", "depth": "intermediate", "title": "Speculative optimization in V8", "why": "Explains how V8's JIT speculates on types and deoptimizes when those guesses fail."}
+{"id": 65398, "keep": 0, "q": 1, "kind": "tool", "topic": "web", "depth": "intro", "title": "Progressive JPEG demo", "why": "Demo tool with no explanation."}
+{"id": 65399, "keep": 0, "q": 1, "kind": "docs", "topic": "linux", "depth": "intro", "title": "Pop!_OS vs Ubuntu", "why": "Distro comparison docs."}

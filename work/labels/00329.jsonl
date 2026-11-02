@@ -1,0 +1,200 @@
+{"id": 65800, "keep": 1, "q": 4, "kind": "blog", "topic": "security", "depth": "expert", "title": "Neutralizing Intel ME on Librem laptops", "why": "How the Intel Management Engine was disabled on Librem hardware, with the reverse-engineering background."}
+{"id": 65801, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "Supplying the demand", "why": "Vendor update on Librem laptop shipping delays and hardware problems."}
+{"id": 65802, "keep": 0, "q": 2, "kind": "blog", "topic": "infrastructure", "depth": "intro", "title": "The Great Purism DNS Outage of 2018", "why": "Company status narrative about a domain lapse; little general lesson."}
+{"id": 65803, "keep": 0, "q": 2, "kind": "blog", "topic": "hardware", "depth": "intro", "title": "Road to FSF RYF endorsement", "why": "Vendor roadmap for free-software certification; marketing rather than learning."}
+{"id": 65804, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Librem 13 shop page", "why": "Product sales page for a laptop."}
+{"id": 65805, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Pusher jobs", "why": "Job listings page."}
+{"id": 65806, "keep": 0, "q": 1, "kind": "news", "topic": "energy", "depth": "intro", "title": "IEA solar forecasting accuracy", "why": "News commentary on energy agency forecast accuracy; not a learning resource."}
+{"id": 65807, "keep": 0, "q": 2, "kind": "news", "topic": "energy", "depth": "intro", "title": "Chile solar export submarine cable", "why": "News about a proposed long-distance solar power cable project."}
+{"id": 65808, "keep": 0, "q": 1, "kind": "news", "topic": "energy", "depth": "intro", "title": "Tesla big battery grid services", "why": "News item about a battery installation."}
+{"id": 65809, "keep": 1, "q": 3, "kind": "docs", "topic": "virtualization", "depth": "intermediate", "title": "Proxmox VE admin guide", "why": "Official guide to installing, configuring and operating Proxmox virtualization clusters."}
+{"id": 65810, "keep": 1, "q": 5, "kind": "essay", "topic": "concurrency", "depth": "expert", "title": "Preemption is GC for memory reordering", "why": "Explains asymmetric memory fences via preemption, giving a clear mental model of memory reordering."}
+{"id": 65811, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "PVXchange price index", "why": "Live price tracker for solar components."}
+{"id": 65812, "keep": 0, "q": 1, "kind": "reference", "topic": "venture capital", "depth": "intro", "title": "PwC MoneyTree regional data", "why": "Statistics dashboard of venture funding by region."}
+{"id": 65813, "keep": 1, "q": 3, "kind": "explainer", "topic": "space", "depth": "intro", "title": "NASA space tether education", "why": "Short explainer on how orbital tethers trade momentum and energy."}
+{"id": 65814, "keep": 1, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PyAutoGUI documentation", "why": "Reference and examples for scripting mouse and keyboard automation in Python."}
+{"id": 65815, "keep": 1, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "Pydantic settings management", "why": "Shows how to load typed settings and environment variables with Pydantic."}
+{"id": 65816, "keep": 0, "q": 1, "kind": "tool", "topic": "llms", "depth": "intro", "title": "Pydantic Logfire", "why": "Commercial observability product homepage."}
+{"id": 65817, "keep": 0, "q": 2, "kind": "blog", "topic": "policy", "depth": "intermediate", "title": "EU CRA law and open source", "why": "Advocacy position post on the EU Cyber Resilience Act, not a learning resource."}
+{"id": 65818, "keep": 0, "q": 1, "kind": "reference", "topic": "python", "depth": "intro", "title": "Pygments command line docs", "why": "Usage reference for the pygmentize command."}
+{"id": 65819, "keep": 0, "q": 1, "kind": "other", "topic": "python", "depth": "intro", "title": "Pyramid project about", "why": "Project homepage describing a web framework."}
+{"id": 65820, "keep": 0, "q": 1, "kind": "news", "topic": "payments", "depth": "intro", "title": "Visa non-compliant cash discount", "why": "Short news piece on card network surcharge rules."}
+{"id": 65821, "keep": 1, "q": 2, "kind": "docs", "topic": "web frameworks", "depth": "intermediate", "title": "Pynecone wrapping React", "why": "Guide to wrapping custom React components inside a Python web framework."}
+{"id": 65822, "keep": 1, "q": 2, "kind": "tutorial", "topic": "webassembly", "depth": "intro", "title": "Pyodide quickstart", "why": "Quickstart for running Python in the browser via WebAssembly."}
+{"id": 65823, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "PyPI terms of use", "why": "Legal terms of service."}
+{"id": 65824, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "ImageHash on PyPI", "why": "Package page for a perceptual image hashing library."}
+{"id": 65825, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "appdirs on PyPI", "why": "Package page for a cross-platform app directory library."}
+{"id": 65826, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "diskcache on PyPI", "why": "Package page for a disk-backed cache library."}
+{"id": 65827, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "django-stubs on PyPI", "why": "Package page for Django type stubs."}
+{"id": 65828, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "import-linter on PyPI", "why": "Package page for an import-layer linting tool."}
+{"id": 65829, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "keyring on PyPI", "why": "Package page for a credential storage library."}
+{"id": 65830, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "pandasql on PyPI", "why": "Package page for running SQL against pandas dataframes."}
+{"id": 65831, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "pipe on PyPI", "why": "Package page for a pipeline library."}
+{"id": 65832, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "pipx on PyPI", "why": "Package page for a CLI tool installer."}
+{"id": 65833, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "platformdirs on PyPI", "why": "Package page for platform-specific directory paths."}
+{"id": 65834, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "pq on PyPI", "why": "Package page for a database-backed queue library."}
+{"id": 65835, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "six on PyPI", "why": "Package page for a Python 2/3 compatibility library."}
+{"id": 65836, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "typeguard on PyPI", "why": "Package page for a runtime type checker."}
+{"id": 65837, "keep": 0, "q": 1, "kind": "tool", "topic": "zig", "depth": "intro", "title": "ziglang on PyPI", "why": "Package page distributing the Zig compiler."}
+{"id": 65838, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "future on PyPI", "why": "Package page for a Python 2/3 compatibility library."}
+{"id": 65839, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "pyquery on PyPI", "why": "Package page for jQuery-style HTML and XML querying."}
+{"id": 65840, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "vex on PyPI", "why": "Package page for a virtualenv wrapper."}
+{"id": 65841, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "virtualenv on PyPI", "why": "Package page for the virtualenv tool."}
+{"id": 65842, "keep": 0, "q": 1, "kind": "other", "topic": "python", "depth": "intro", "title": "PyPI simple index", "why": "Raw package index endpoint."}
+{"id": 65843, "keep": 0, "q": 1, "kind": "other", "topic": "python", "depth": "intro", "title": "PyPy NumPy donation page", "why": "Fundraising page for a PyPy project."}
+{"id": 65844, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "expert", "title": "PyPy-STM introduction", "why": "Docs for an experimental PyPy branch that removes the GIL; not yet production-ready."}
+{"id": 65845, "keep": 0, "q": 1, "kind": "other", "topic": "retro computing", "depth": "intro", "title": "StarCraft on ARM forum thread", "why": "Forum thread about porting a game to ARM."}
+{"id": 65846, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "Python 3.11 readiness", "why": "Package compatibility status dashboard."}
+{"id": 65847, "keep": 0, "q": 2, "kind": "other", "topic": "programming languages", "depth": "intro", "title": "Pyret language homepage", "why": "Homepage of a teaching-oriented programming language."}
+{"id": 65848, "keep": 0, "q": 1, "kind": "news", "topic": "drones", "depth": "intro", "title": "Xbox controller UAV blog", "why": "Short blog post about military drones flown with game controllers."}
+{"id": 65849, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "python-docx documentation", "why": "Library reference for generating Word files; mostly lookup material."}
+{"id": 65849, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "python-docx documentation", "why": "Library reference for generating Word files; mostly lookup material."}
+{"id": 65850, "keep": 1, "q": 3, "kind": "blog", "topic": "python", "depth": "intro", "title": "Brief timeline of Python", "why": "Short history of Python's development from its late-1980s origins through early releases."}
+{"id": 65851, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "Poetry pyproject docs", "why": "Reference for pyproject.toml fields in Poetry."}
+{"id": 65852, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intermediate", "title": "prompt_toolkit docs", "why": "Library documentation for building terminal interfaces."}
+{"id": 65853, "keep": 1, "q": 3, "kind": "reference", "topic": "web", "depth": "intermediate", "title": "SCGI protocol spec", "why": "Two-page protocol spec showing how a simple CGI replacement works on the wire."}
+{"id": 65854, "keep": 0, "q": 1, "kind": "other", "topic": "python", "depth": "intro", "title": "python.org about", "why": "Project homepage about Python."}
+{"id": 65855, "keep": 0, "q": 2, "kind": "reference", "topic": "python", "depth": "intermediate", "title": "PEP 285: adding a bool type", "why": "Proposal explaining why bool subclasses int; narrow interest."}
+{"id": 65856, "keep": 1, "q": 3, "kind": "docs", "topic": "python", "depth": "expert", "title": "PEP 302: new import hooks", "why": "Specification of Python's import hook protocol, the basis for custom importers."}
+{"id": 65857, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intro", "title": "PEP 405: virtual environments", "why": "Proposal for built-in virtual environments; mostly specification."}
+{"id": 65858, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 435: enums", "why": "Proposal introducing the enum module; reference material."}
+{"id": 65859, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 453: ensurepip", "why": "Proposal for bundling pip with Python; reference material."}
+{"id": 65860, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 479: StopIteration in generators", "why": "Proposal changing how StopIteration behaves inside generators."}
+{"id": 65861, "keep": 1, "q": 3, "kind": "docs", "topic": "python typing", "depth": "intermediate", "title": "PEP 483: type hints theory", "why": "Readable primer on gradual typing as Python's type system design."}
+{"id": 65862, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "expert", "title": "PEP 523: frame evaluation API", "why": "Proposal for a pluggable frame evaluation API; niche specification."}
+{"id": 65863, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 537: Python 3.7 release schedule", "why": "Release schedule document."}
+{"id": 65864, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 553: breakpoint()", "why": "Proposal for the built-in breakpoint function; reference material."}
+{"id": 65865, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 581: GitHub issues for CPython", "why": "Proposal about CPython's issue tracker; process document."}
+{"id": 65866, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 594: removing dead batteries", "why": "Proposal listing standard library modules to remove; process document."}
+{"id": 65867, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 3105: print as a function", "why": "Proposal making print a function; narrow historical interest."}
+{"id": 65868, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 3108: stdlib reorganization", "why": "Proposal reorganizing the standard library; reference material."}
+{"id": 65869, "keep": 1, "q": 4, "kind": "essay", "topic": "python", "depth": "intro", "title": "Comparing Python to other languages", "why": "Guido's essay on Python's design goals and dynamic semantics versus other languages."}
+{"id": 65870, "keep": 0, "q": 1, "kind": "news", "topic": "python", "depth": "intro", "title": "Python 3.12.0 release page", "why": "Release page for a Python version."}
+{"id": 65871, "keep": 0, "q": 1, "kind": "reference", "topic": "funding", "depth": "intro", "title": "PSF annual report 2020", "why": "Financial report of the Python Software Foundation."}
+{"id": 65872, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intermediate", "title": "Flask-Security docs", "why": "Library documentation for a Flask authentication extension."}
+{"id": 65873, "keep": 0, "q": 1, "kind": "tool", "topic": "optimization", "depth": "intermediate", "title": "PuLP linear programming", "why": "Documentation page for a linear programming library."}
+{"id": 65874, "keep": 1, "q": 4, "kind": "blog", "topic": "software engineering", "depth": "intermediate", "title": "How to lose $172,222 a second for 45 minutes", "why": "Postmortem of the Knight Capital trading failure and the development practices behind it."}
+{"id": 65875, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "PyTorch compromised nightly dependency", "why": "Incident writeup on a malicious dependency in a PyTorch nightly build and how it spread."}
+{"id": 65876, "keep": 1, "q": 2, "kind": "docs", "topic": "deep learning", "depth": "intermediate", "title": "PyTorch C++ frontend", "why": "Docs for the C++ frontend API and the design tradeoffs behind it."}
+{"id": 65877, "keep": 1, "q": 3, "kind": "talk", "topic": "programming tools", "depth": "intro", "title": "Using Python to code by voice", "why": "PyCon 2013 talk demoing programming by voice."}
+{"id": 65878, "keep": 1, "q": 5, "kind": "talk", "topic": "software design", "depth": "intermediate", "title": "Stop writing classes", "why": "PyCon talk arguing that extra classes and layers add complexity; widely cited."}
+{"id": 65879, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PyYAML documentation", "why": "Project wiki for a YAML parser; reference material."}
+{"id": 65880, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "qBittorrent download page", "why": "Software download page."}
+{"id": 65881, "keep": 0, "q": 1, "kind": "other", "topic": "social", "depth": "intro", "title": "Qbix platform", "why": "Product homepage for a social app platform."}
+{"id": 65882, "keep": 0, "q": 1, "kind": "docs", "topic": "vector databases", "depth": "intro", "title": "Qdrant quick start", "why": "Getting-started page for a vector database."}
+{"id": 65883, "keep": 0, "q": 2, "kind": "paper", "topic": "covid", "depth": "intermediate", "title": "COVID smoking study", "why": "Preprint on COVID infection among smokers, cited as evidence in an argument."}
+{"id": 65884, "keep": 0, "q": 1, "kind": "news", "topic": "news", "depth": "intro", "title": "Astoria bomb suspect charges", "why": "Local news article on a criminal case."}
+{"id": 65885, "keep": 0, "q": 1, "kind": "other", "topic": "podcast", "depth": "intro", "title": "QI podcast page", "why": "Podcast homepage."}
+{"id": 65886, "keep": 0, "q": 2, "kind": "reference", "topic": "china", "depth": "intermediate", "title": "Xinjiang education page", "why": "Advocacy-oriented page on Xinjiang, cited as evidence in an argument."}
+{"id": 65887, "keep": 1, "q": 3, "kind": "other", "topic": "fiction", "depth": "intro", "title": "The Difference", "why": "Short story by qntm about a subject trying to escape a simulated test."}
+{"id": 65888, "keep": 1, "q": 4, "kind": "other", "topic": "fiction", "depth": "intro", "title": "Ed stories", "why": "Collection of qntm short stories about an AI-driven ethical puzzle; engaging and thought-provoking."}
+{"id": 65889, "keep": 1, "q": 3, "kind": "other", "topic": "fiction", "depth": "intro", "title": "The Frame-by-Frame", "why": "Short qntm story exploring a grim, rewinding premise."}
+{"id": 65890, "keep": 1, "q": 4, "kind": "other", "topic": "fiction", "depth": "intro", "title": "Valuable Humans in Transit", "why": "Short qntm story about a powerful AI facing an existential task."}
+{"id": 65891, "keep": 0, "q": 1, "kind": "docs", "topic": "operating systems", "depth": "intermediate", "title": "QNX Photon user guide", "why": "Reference manual for a legacy real-time OS desktop."}
+{"id": 65892, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "QR code image generator", "why": "Utility page that generates a QR code image."}
+{"id": 65893, "keep": 0, "q": 1, "kind": "tool", "topic": "randomness", "depth": "intro", "title": "ANU quantum random number service", "why": "Random number service page."}
+{"id": 65894, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "Quicksilver app", "why": "Product homepage for a macOS launcher."}
+{"id": 65895, "keep": 0, "q": 1, "kind": "other", "topic": "software", "depth": "intro", "title": "Qt features", "why": "Product features marketing page."}
+{"id": 65896, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "Qt licensing", "why": "Licensing terms page."}
+{"id": 65897, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "Qt licensing products", "why": "Licensing terms page."}
+{"id": 65898, "keep": 0, "q": 2, "kind": "essay", "topic": "health", "depth": "intro", "title": "Quackwatch on Linus Pauling", "why": "Debunking essay on vitamin C claims, cited as evidence in an argument."}
+{"id": 65899, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "Quad9 sponsors", "why": "Sponsor listing page."}
+{"id": 65900, "keep": 0, "q": 2, "kind": "reference", "topic": "games", "depth": "intro", "title": "Bunny hopping wiki", "why": "Wiki entry on strafe-jumping; generic reference lookup."}
+{"id": 65901, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Qualys qmail remote code execution advisory", "why": "Security advisory explaining a qmail memory bug and its history."}
+{"id": 65902, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "OpenSSH forwarded agent RCE advisory", "why": "Advisory explaining how an OpenSSH agent forwarding flaw enabled code execution."}
+{"id": 65903, "keep": 1, "q": 4, "kind": "journalism", "topic": "math", "depth": "intermediate", "title": "A fluid new path in grand math challenge", "why": "Quanta piece on Navier-Stokes and whether fluid equations can support computation."}
+{"id": 65904, "keep": 1, "q": 4, "kind": "journalism", "topic": "philosophy", "depth": "intermediate", "title": "The evolutionary argument against reality", "why": "Quanta piece on whether perception evolved for fitness rather than truth."}
+{"id": 65905, "keep": 1, "q": 4, "kind": "journalism", "topic": "quantum physics", "depth": "intermediate", "title": "Pilot wave theory gains experimental support", "why": "Quanta report on experiments supporting the pilot wave interpretation of quantum mechanics."}
+{"id": 65906, "keep": 1, "q": 4, "kind": "journalism", "topic": "math", "depth": "intro", "title": "A path less taken to the peak of math", "why": "Quanta profile of a mathematician whose unusual route led to a major result."}
+{"id": 65907, "keep": 1, "q": 4, "kind": "journalism", "topic": "computability", "depth": "intermediate", "title": "Amateurs find fifth busy beaver", "why": "Quanta story on busy beaver functions and the limits of computation."}
+{"id": 65908, "keep": 1, "q": 4, "kind": "journalism", "topic": "algorithms", "depth": "intermediate", "title": "Fast algorithm for shortest paths on negative graphs", "why": "Quanta explanation of a faster shortest path algorithm that handles negative edge weights."}
+{"id": 65909, "keep": 1, "q": 3, "kind": "journalism", "topic": "quantum physics", "depth": "intermediate", "title": "First time crystal built on Google quantum computer", "why": "Quanta report on simulating a time crystal with a quantum processor."}
+{"id": 65910, "keep": 1, "q": 4, "kind": "journalism", "topic": "protein folding", "depth": "intermediate", "title": "How AI revolutionized protein science", "why": "Quanta long read on AlphaFold and what changed in structural biology."}
+{"id": 65911, "keep": 1, "q": 4, "kind": "journalism", "topic": "complexity theory", "depth": "expert", "title": "Landmark computer science proof cascades through physics and math", "why": "Quanta explanation of the MIP* = RE result and its ripple effects across fields."}
+{"id": 65912, "keep": 1, "q": 4, "kind": "journalism", "topic": "math", "depth": "intro", "title": "Mathematical thinking isn't what you think", "why": "Quanta piece on how mathematicians actually think, with logarithm examples."}
+{"id": 65913, "keep": 1, "q": 4, "kind": "journalism", "topic": "neuroscience", "depth": "intermediate", "title": "Neural dendrites reveal their computational power", "why": "Quanta explanation of how dendrites perform computation within a single neuron."}
+{"id": 65914, "keep": 1, "q": 3, "kind": "journalism", "topic": "cosmology", "depth": "intermediate", "title": "No dark energy, no chance, cosmologists contend", "why": "Quanta report on a cosmology reanalysis and the dispute over its conclusions."}
+{"id": 65915, "keep": 1, "q": 4, "kind": "journalism", "topic": "quantum physics", "depth": "intermediate", "title": "Quantum Darwinism passes first tests", "why": "Quanta explainer on how decoherence may explain objective classical reality."}
+{"id": 65916, "keep": 1, "q": 3, "kind": "journalism", "topic": "math", "depth": "expert", "title": "Statistician proves Gaussian correlation inequality", "why": "Quanta account of a surprising proof in probability and convex geometry."}
+{"id": 65917, "keep": 1, "q": 3, "kind": "journalism", "topic": "physics", "depth": "intermediate", "title": "The physicist who bets gravity can't be quantized", "why": "Quanta interview on alternatives to quantum gravity and why some reject quantized spacetime."}
+{"id": 65918, "keep": 1, "q": 4, "kind": "journalism", "topic": "math", "depth": "intermediate", "title": "Univalent foundations redefines mathematics", "why": "Quanta explainer on homotopy type theory as a new foundation for mathematics."}
+{"id": 65919, "keep": 0, "q": 1, "kind": "reference", "topic": "web traffic", "depth": "intro", "title": "Quantcast mahalo.com", "why": "Traffic statistics page."}
+{"id": 65920, "keep": 0, "q": 1, "kind": "reference", "topic": "web traffic", "depth": "intro", "title": "Quantcast top sites", "why": "Traffic ranking list."}
+{"id": 65921, "keep": 0, "q": 1, "kind": "reference", "topic": "web traffic", "depth": "intro", "title": "Quantcast yahoo.com", "why": "Traffic statistics page."}
+{"id": 65922, "keep": 0, "q": 1, "kind": "tool", "topic": "storage", "depth": "intro", "title": "Quantcast File System", "why": "Project page for a distributed file system."}
+{"id": 65923, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "Quantrix Modeler", "why": "Commercial spreadsheet product page."}
+{"id": 65924, "keep": 0, "q": 1, "kind": "tool", "topic": "quantum computing", "depth": "intro", "title": "IBM Quantum Experience editor", "why": "Online quantum circuit editor."}
+{"id": 65925, "keep": 0, "q": 2, "kind": "tool", "topic": "quantum computing", "depth": "intro", "title": "IBM Quantum Experience", "why": "Platform login page for a quantum computer playground."}
+{"id": 65926, "keep": 1, "q": 2, "kind": "docs", "topic": "java", "depth": "intermediate", "title": "Quarkus native image guide", "why": "How-to guide for compiling Java web apps into native executables with GraalVM."}
+{"id": 65927, "keep": 0, "q": 1, "kind": "docs", "topic": "web frameworks", "depth": "intro", "title": "Quasar introduction", "why": "Framework introduction page."}
+{"id": 65928, "keep": 1, "q": 2, "kind": "visual", "topic": "css", "depth": "intro", "title": "Pure CSS digital clock", "why": "Pure CSS clock demo with an explanation of how it works."}
+{"id": 65929, "keep": 0, "q": 1, "kind": "tool", "topic": "devops", "depth": "intro", "title": "Quay plans", "why": "Pricing page for a container registry."}
+{"id": 65930, "keep": 1, "q": 4, "kind": "paper", "topic": "security", "depth": "expert", "title": "Qubes architecture specification", "why": "Architecture spec explaining how Qubes isolates trust domains using Xen."}
+{"id": 65931, "keep": 1, "q": 3, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "Qubes split-GPG", "why": "How split-GPG keeps signing keys out of the VM exposed to the internet."}
+{"id": 65932, "keep": 0, "q": 2, "kind": "news", "topic": "security", "depth": "intermediate", "title": "Qubes Air roadmap", "why": "Roadmap announcement for a planned remote resource architecture."}
+{"id": 65933, "keep": 1, "q": 4, "kind": "journalism", "topic": "distributed systems", "depth": "intermediate", "title": "A conversation with Werner Vogels", "why": "Interview with Amazon's CTO on how its platform is structured."}
+{"id": 65934, "keep": 1, "q": 5, "kind": "essay", "topic": "time", "depth": "intermediate", "title": "The One-Second War", "why": "Kamp on leap seconds and how time bugs damage real systems."}
+{"id": 65935, "keep": 1, "q": 4, "kind": "essay", "topic": "programming languages", "depth": "intermediate", "title": "Lua: an extensible embedded language", "why": "Explains why Lua was designed to be embedded and how its C API works."}
+{"id": 65936, "keep": 1, "q": 5, "kind": "essay", "topic": "networking", "depth": "intermediate", "title": "Controlling Queue Delay", "why": "Explains bufferbloat and why queue management matters for latency."}
+{"id": 65937, "keep": 1, "q": 3, "kind": "journalism", "topic": "devops", "depth": "intermediate", "title": "Ultron automation at Slack", "why": "Account of an automation system that modifies cloud resources and the security concerns it raises."}
+{"id": 65938, "keep": 1, "q": 3, "kind": "essay", "topic": "crypto", "depth": "intermediate", "title": "Bitcoin as applied academic technology", "why": "Argues that Bitcoin's value lies in applying known academic ideas to a practical problem."}
+{"id": 65939, "keep": 1, "q": 4, "kind": "paper", "topic": "developer productivity", "depth": "intermediate", "title": "The SPACE of developer productivity", "why": "Multi-dimensional framework for measuring developer productivity beyond simple metrics."}
+{"id": 65940, "keep": 1, "q": 5, "kind": "essay", "topic": "search engines", "depth": "intermediate", "title": "Why writing your own search engine is hard", "why": "Anna Patterson on the practical challenges of building a web search engine."}
+{"id": 65941, "keep": 0, "q": 1, "kind": "reference", "topic": "statistics", "depth": "intro", "title": "Census QuickFacts California", "why": "Census statistics lookup page."}
+{"id": 65942, "keep": 0, "q": 1, "kind": "tool", "topic": "typescript", "depth": "intro", "title": "quicktype TypeScript", "why": "Code generation tool page."}
+{"id": 65943, "keep": 0, "q": 1, "kind": "tool", "topic": "writing", "depth": "intro", "title": "QuillBot grammar check", "why": "Grammar checker product page."}
+{"id": 65944, "keep": 0, "q": 2, "kind": "essay", "topic": "anthropology", "depth": "intermediate", "title": "Romanticizing hunter-gatherers", "why": "Opinion essay on hunter-gatherer myths; argumentative rather than explanatory."}
+{"id": 65945, "keep": 0, "q": 1, "kind": "essay", "topic": "biology", "depth": "intermediate", "title": "The new evolution deniers", "why": "Opinion piece in a culture-war debate."}
+{"id": 65946, "keep": 0, "q": 1, "kind": "essay", "topic": "politics", "depth": "intermediate", "title": "Twitter treats conservatives more harshly", "why": "Opinion piece on platform moderation politics."}
+{"id": 65947, "keep": 0, "q": 2, "kind": "essay", "topic": "energy", "depth": "intermediate", "title": "Why renewables can't save the planet", "why": "Opinion piece arguing against renewables; argument rather than learning."}
+{"id": 65948, "keep": 0, "q": 1, "kind": "essay", "topic": "neuroscience", "depth": "intermediate", "title": "Denying the neuroscience of sex differences", "why": "Opinion piece in a contested debate."}
+{"id": 65949, "keep": 1, "q": 4, "kind": "essay", "topic": "web", "depth": "intermediate", "title": "A pixel is not a pixel", "why": "Quirksmode essay on CSS pixels, device pixels and viewport scaling."}
+{"id": 65950, "keep": 0, "q": 2, "kind": "blog", "topic": "browsers", "depth": "intro", "title": "Flow browser", "why": "Post announcing a new browser project."}
+{"id": 65951, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "Quirksmode display property", "why": "Browser compatibility table for a CSS property."}
+{"id": 65952, "keep": 1, "q": 3, "kind": "blog", "topic": "web performance", "depth": "intermediate", "title": "innerHTML performance", "why": "Benchmarks comparing DOM manipulation methods and their tradeoffs."}
+{"id": 65953, "keep": 0, "q": 1, "kind": "tool", "topic": "politics", "depth": "intro", "title": "Congress net worth tracker", "why": "Statistics tracker page."}
+{"id": 65954, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Quizlet jobs", "why": "Job listings page."}
+{"id": 65955, "keep": 1, "q": 3, "kind": "blog", "topic": "math", "depth": "expert", "title": "Mochizuki on ABC", "why": "Mathematician's blog discussion of Mochizuki's abc conjecture proof and its reception."}
+{"id": 65956, "keep": 0, "q": 1, "kind": "other", "topic": "fintech", "depth": "intro", "title": "Quora: payments innovation", "why": "Personal Quora post about licensing battles."}
+{"id": 65957, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "Quora: how Apple keeps secrets", "why": "Quora answer with little substance."}
+{"id": 65958, "keep": 1, "q": 3, "kind": "other", "topic": "software products", "depth": "intro", "title": "Why Dropbox is more popular", "why": "Michael Wolfe on the sync problem and why Dropbox's solution stood out."}
+{"id": 65959, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "How Chris Putnam got hired at Facebook", "why": "Anecdote about a hacker's job story."}
+{"id": 65960, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "How Stripe got its name", "why": "Trivia about a company name."}
+{"id": 65961, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "Stripe name origin answer", "why": "Trivia about a company name."}
+{"id": 65962, "keep": 1, "q": 2, "kind": "explainer", "topic": "math", "depth": "intermediate", "title": "Positive integer solutions to a fraction equation", "why": "Math Q&A explaining a Diophantine equation and the elliptic curve connection."}
+{"id": 65963, "keep": 0, "q": 2, "kind": "other", "topic": "astronomy", "depth": "intro", "title": "How far radio signals travel", "why": "Q&A answer with a basic inverse-square explanation; generic lookup."}
+{"id": 65964, "keep": 0, "q": 2, "kind": "other", "topic": "agriculture", "depth": "intro", "title": "How China feeds its population", "why": "Q&A answer on Chinese food production."}
+{"id": 65965, "keep": 0, "q": 1, "kind": "other", "topic": "transport", "depth": "intro", "title": "NYC taxi mileage", "why": "Q&A answer on taxi fleet statistics."}
+{"id": 65966, "keep": 0, "q": 2, "kind": "reference", "topic": "machine learning", "depth": "intro", "title": "Machine learning resources", "why": "Resource list; generic lookup."}
+{"id": 65967, "keep": 0, "q": 1, "kind": "other", "topic": "parenting", "depth": "intro", "title": "Amy Chua on Chinese mothers", "why": "Culture-war parenting debate."}
+{"id": 65968, "keep": 0, "q": 1, "kind": "other", "topic": "product", "depth": "intro", "title": "How to delete a Quora account", "why": "Account support question."}
+{"id": 65969, "keep": 1, "q": 3, "kind": "explainer", "topic": "messaging", "depth": "intermediate", "title": "RabbitMQ vs Kafka for durable messaging", "why": "Compares queue and log-based messaging models with clear cursor and retention explanations."}
+{"id": 65970, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "Startup product demo videos", "why": "Quora list of video examples."}
+{"id": 65971, "keep": 0, "q": 2, "kind": "other", "topic": "career", "depth": "intro", "title": "Ousterhout life lessons", "why": "Quora quotes on math and education; anecdotal."}
+{"id": 65972, "keep": 0, "q": 1, "kind": "reference", "topic": "startups", "depth": "intro", "title": "Books for entrepreneurs", "why": "Book list; generic reference."}
+{"id": 65973, "keep": 0, "q": 2, "kind": "other", "topic": "gender and science", "depth": "intermediate", "title": "Scientists on the Damore memo", "why": "Q&A cited as evidence in a heated debate."}
+{"id": 65974, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "Choosing IBM", "why": "Quora thread about a common phrase."}
+{"id": 65975, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "Communism vs capitalism deaths", "why": "Ideological debate."}
+{"id": 65976, "keep": 1, "q": 2, "kind": "explainer", "topic": "product management", "depth": "intro", "title": "Amazon product development approach", "why": "Shows Amazon's practice of writing the press release first to clarify product goals."}
+{"id": 65977, "keep": 1, "q": 3, "kind": "explainer", "topic": "biotech", "depth": "intermediate", "title": "The Andy Grove fallacy", "why": "Explains why solving biology is harder than engineers expect, using drug discovery examples."}
+{"id": 65978, "keep": 1, "q": 2, "kind": "explainer", "topic": "science fiction", "depth": "intro", "title": "Dark Forest theory", "why": "Summarizes the Dark Forest answer to the Fermi paradox and why civilizations hide."}
+{"id": 65979, "keep": 1, "q": 3, "kind": "explainer", "topic": "security", "depth": "intermediate", "title": "Stuxnet and sophisticated software", "why": "Explains why Stuxnet was technically remarkable: zero-days, stolen keys and targeted sabotage."}
+{"id": 65980, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Engineers earning 500k", "why": "Speculative career Q&A."}
+{"id": 65981, "keep": 0, "q": 1, "kind": "other", "topic": "psychology", "depth": "intro", "title": "Psychopath prevalence", "why": "Debate thread with contested claims."}
+{"id": 65982, "keep": 1, "q": 4, "kind": "explainer", "topic": "computing history", "depth": "intro", "title": "Xerox PARC when Steve Jobs visited", "why": "Alan Kay and others describe the Smalltalk demo and how its ideas influenced Apple."}
+{"id": 65983, "keep": 1, "q": 3, "kind": "blog", "topic": "debugging", "depth": "intro", "title": "The hardest bug you've debugged", "why": "Collection of notable debugging stories showing nondeterministic and deep platform bugs."}
+{"id": 65984, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "NRA funding", "why": "Contested political question."}
+{"id": 65985, "keep": 0, "q": 2, "kind": "other", "topic": "programming languages", "depth": "intermediate", "title": "Swift features that overcomplicate it", "why": "Rant-style Q&A on language design; opinion rather than explanation."}
+{"id": 65986, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "Startups using Meteor", "why": "List of companies using a framework."}
+{"id": 65987, "keep": 1, "q": 3, "kind": "explainer", "topic": "software estimation", "depth": "intro", "title": "Why software estimates are off by 2-3x", "why": "Hiking analogy explaining why software estimates are systematically optimistic."}
+{"id": 65988, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "Why Yishan Wong resigned from Reddit", "why": "Personal news about a CEO's resignation."}
+{"id": 65989, "keep": 1, "q": 2, "kind": "explainer", "topic": "quantum foundations", "depth": "intermediate", "title": "Why do physicists not subscribe to pilot wave theory", "why": "Physicist's answer on Bell's theorem and why pilot wave theory is overlooked."}
+{"id": 65990, "keep": 0, "q": 1, "kind": "other", "topic": "programming languages", "depth": "intro", "title": "Facebook's PHP", "why": "Q&A with little new content."}
+{"id": 65991, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "Craigslist data products", "why": "Q&A about a business question."}
+{"id": 65992, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "Quora terms of service", "why": "Legal terms."}
+{"id": 65993, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Quorum careers", "why": "Job listings page."}
+{"id": 65994, "keep": 0, "q": 1, "kind": "other", "topic": "programming languages", "depth": "intro", "title": "Quorum language evidence", "why": "Language homepage evidence page cited in an argument."}
+{"id": 65995, "keep": 1, "q": 3, "kind": "essay", "topic": "history of quotes", "depth": "intro", "title": "Einstein and the finite universe quote", "why": "Traces a misattributed quote back to its real source with careful evidence."}
+{"id": 65996, "keep": 1, "q": 2, "kind": "essay", "topic": "history of quotes", "depth": "intro", "title": "Everything that counts, Einstein", "why": "Traces the 'not everything that can be counted counts' quote to its 1963 source."}
+{"id": 65997, "keep": 1, "q": 2, "kind": "essay", "topic": "history of quotes", "depth": "intro", "title": "The more you know, the more luck you have", "why": "Traces a popular luck quote to its origin and variants."}
+{"id": 65998, "keep": 1, "q": 2, "kind": "essay", "topic": "history of quotes", "depth": "intro", "title": "Evil needs only for good men to do nothing", "why": "Traces a famous misattributed quote to its origin and history."}

@@ -1,0 +1,200 @@
+{"id": 60200, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Maple microcontroller board", "why": "Product page for a hardware dev board; no learning content."}
+{"id": 60201, "keep": 1, "q": 2, "kind": "blog", "topic": "materials", "depth": "intro", "title": "Apple gold content", "why": "Shows the karat arithmetic behind Apple's gold alloys, with worked numbers."}
+{"id": 60202, "keep": 0, "q": 1, "kind": "tool", "topic": "webassembly", "depth": "intro", "title": "CheerpX", "why": "Product homepage for an x86-in-browser runtime; marketing rather than explanation."}
+{"id": 60203, "keep": 1, "q": 4, "kind": "blog", "topic": "formal verification", "depth": "expert", "title": "Liquid Tensor Experiment: final", "why": "Postmortem on formalizing a hard algebra proof in Lean; lessons on proof engineering."}
+{"id": 60204, "keep": 1, "q": 4, "kind": "book", "topic": "formal verification", "depth": "intro", "title": "Theorem Proving in Lean 4", "why": "Free book teaching theorem proving and dependent types in Lean from the ground up."}
+{"id": 60205, "keep": 1, "q": 3, "kind": "book", "topic": "software design", "depth": "intermediate", "title": "Algebra-Driven Design", "why": "Book sample on designing software around algebraic laws and properties."}
+{"id": 60206, "keep": 0, "q": 1, "kind": "tool", "topic": "publishing", "depth": "intro", "title": "Leanpub authors page", "why": "Publishing platform landing page for authors."}
+{"id": 60207, "keep": 1, "q": 3, "kind": "book", "topic": "software design", "depth": "intermediate", "title": "Elements of Clojure: naming", "why": "Sample chapter on naming, a general programming skill illustrated in Clojure."}
+{"id": 60208, "keep": 1, "q": 3, "kind": "book", "topic": "event sourcing", "depth": "intermediate", "title": "Event Sourcing: versioning", "why": "Book on evolving event schemas and handling versioning in event-sourced systems."}
+{"id": 60209, "keep": 1, "q": 3, "kind": "book", "topic": "functional programming", "depth": "intro", "title": "Functional Programming for OO Programmers", "why": "Introduces functional thinking to OO developers through integrated exercises."}
+{"id": 60210, "keep": 0, "q": 1, "kind": "book", "topic": "personal finance", "depth": "intro", "title": "The No Budget Budget", "why": "Sales pitch for a personal finance ebook; the content is not technical."}
+{"id": 60211, "keep": 1, "q": 3, "kind": "book", "topic": "career", "depth": "intro", "title": "Talking with Tech Leads", "why": "Practical guide to conversations and expectations when working with tech leads."}
+{"id": 60212, "keep": 1, "q": 5, "kind": "book", "topic": "software engineering", "depth": "intermediate", "title": "The Psychology of Computer Programming", "why": "Classic on the human side of programming, teams and how programmers think."}
+{"id": 60213, "keep": 0, "q": 1, "kind": "other", "topic": "publishing", "depth": "intro", "title": "Mark Watson on Leanpub", "why": "Author profile page, no content to learn from."}
+{"id": 60214, "keep": 0, "q": 1, "kind": "other", "topic": "publishing", "depth": "intro", "title": "raganwald on Leanpub", "why": "Author profile page, no content to learn from."}
+{"id": 60215, "keep": 0, "q": 1, "kind": "tool", "topic": "time", "depth": "intro", "title": "GPS clock", "why": "Interactive clock widget showing GPS time offset; a tool rather than a read."}
+{"id": 60216, "keep": 0, "q": 2, "kind": "other", "topic": "time", "depth": "intermediate", "title": "Leap Second: ten", "why": "Scattered timing notes; the page itself offers little standalone explanation."}
+{"id": 60217, "keep": 1, "q": 3, "kind": "tutorial", "topic": "ada", "depth": "intermediate", "title": "Interfacing Ada with C", "why": "Shows how Ada's C interop packages and import/export aspects work in both directions."}
+{"id": 60218, "keep": 1, "q": 3, "kind": "tutorial", "topic": "ada", "depth": "intro", "title": "Introduction to Ada", "why": "Course intro to Ada, its safety-critical niche and why its type system matters."}
+{"id": 60219, "keep": 1, "q": 3, "kind": "docs", "topic": "ada", "depth": "intro", "title": "Learn Ada and SPARK", "why": "Course hub for learning Ada and the SPARK formal verification subset."}
+{"id": 60220, "keep": 0, "q": 1, "kind": "tutorial", "topic": "hardware", "depth": "intro", "title": "Minty Boost iCharging", "why": "Product-specific wiring note for one board; little general learning."}
+{"id": 60221, "keep": 0, "q": 1, "kind": "tutorial", "topic": "security", "depth": "intro", "title": "Onion Pi overview", "why": "Hardware build guide for one device; mostly a product project."}
+{"id": 60222, "keep": 1, "q": 3, "kind": "tutorial", "topic": "git", "depth": "intro", "title": "GitHub Git Series: intro", "why": "Beginner series explaining git branching and merging concepts clearly."}
+{"id": 60223, "keep": 1, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "HashiCorp Vault tutorials", "why": "Tutorial hub covering secrets management concepts and Vault usage."}
+{"id": 60224, "keep": 0, "q": 1, "kind": "tool", "topic": "education", "depth": "intro", "title": "Khan Academy Kids", "why": "Children's learning app page, not an article to learn from."}
+{"id": 60225, "keep": 1, "q": 4, "kind": "blog", "topic": "operating systems", "depth": "expert", "title": "WSL pico process overview", "why": "Explains how WSL1 uses pico processes to run Linux on the Windows kernel."}
+{"id": 60226, "keep": 1, "q": 4, "kind": "explainer", "topic": "c#", "depth": "intermediate", "title": "C# All About Span", "why": "Explains Span<T> memory views and why they matter for performance in .NET."}
+{"id": 60227, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "Bicep overview", "why": "Product reference for Azure's infrastructure language."}
+{"id": 60228, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "Azure storage encryption", "why": "Service reference page for encryption settings, not an explanation."}
+{"id": 60229, "keep": 1, "q": 2, "kind": "docs", "topic": "c#", "depth": "intermediate", "title": "Using the dynamic type in C#", "why": "Explains runtime-bound dynamic typing inside a statically typed language."}
+{"id": 60230, "keep": 1, "q": 2, "kind": "tutorial", "topic": "c#", "depth": "intro", "title": "C# file-based programs", "why": "Shows running standalone C# scripts without a project file."}
+{"id": 60231, "keep": 1, "q": 2, "kind": "docs", "topic": "c#", "depth": "intermediate", "title": "What's new in C# 13", "why": "Release notes covering new language features and how the language is evolving."}
+{"id": 60232, "keep": 1, "q": 3, "kind": "docs", "topic": "performance", "depth": "intermediate", "title": "SIMD in .NET", "why": "Introduces SIMD hardware intrinsics available in C# for fast data processing."}
+{"id": 60233, "keep": 0, "q": 1, "kind": "reference", "topic": "windows", "depth": "intro", "title": "Windows 10 IoT LTSC lifecycle", "why": "Support dates table; a lookup, not an explanation."}
+{"id": 60234, "keep": 0, "q": 1, "kind": "reference", "topic": "networking", "depth": "intro", "title": "Microsoft 365 URLs and IP ranges", "why": "Lookup list of endpoints; reference data only."}
+{"id": 60235, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intro", "title": "Safe Links overview", "why": "Product documentation for one email security feature."}
+{"id": 60236, "keep": 0, "q": 1, "kind": "docs", "topic": "powershell", "depth": "intro", "title": "Installing PowerShell on Linux", "why": "Install instructions for one tool."}
+{"id": 60237, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "SQL Server temporal tables", "why": "Feature reference for a single database product."}
+{"id": 60238, "keep": 0, "q": 1, "kind": "reference", "topic": "hardware", "depth": "expert", "title": "USB4 interdomain connections", "why": "Driver and spec guideline for a specific hardware interface."}
+{"id": 60239, "keep": 1, "q": 2, "kind": "docs", "topic": "operating systems", "depth": "intermediate", "title": "Modern Standby vs S3 sleep", "why": "Explains how Windows low-power idle differs from classic S3 suspend."}
+{"id": 60240, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intro", "title": "Windows 11 highly secure OEM", "why": "Vendor-facing configuration guidance, not a learning resource."}
+{"id": 60241, "keep": 0, "q": 2, "kind": "reference", "topic": "operating systems", "depth": "expert", "title": "System sleeping states", "why": "Driver reference listing sleep state definitions."}
+{"id": 60242, "keep": 0, "q": 1, "kind": "reference", "topic": "windows", "depth": "intro", "title": "Robocopy command reference", "why": "Command-line flag reference for one tool."}
+{"id": 60243, "keep": 0, "q": 1, "kind": "reference", "topic": "windows", "depth": "intro", "title": "KMS client activation keys", "why": "Table of license keys; lookup data only."}
+{"id": 60244, "keep": 0, "q": 1, "kind": "reference", "topic": "filesystems", "depth": "intro", "title": "ReFS overview", "why": "Product feature overview for one filesystem."}
+{"id": 60245, "keep": 1, "q": 3, "kind": "docs", "topic": "compilers", "depth": "expert", "title": "ARM64EC application binary interface", "why": "Explains how ARM64EC binaries are built for efficient x64 interop."}
+{"id": 60246, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intro", "title": "Manage Windows Recall", "why": "Admin settings page for one product feature."}
+{"id": 60247, "keep": 0, "q": 1, "kind": "tool", "topic": "tools", "depth": "intro", "title": "Microsoft Edit", "why": "Project page for a text editor; a download, not a read."}
+{"id": 60248, "keep": 0, "q": 1, "kind": "tool", "topic": "windows", "depth": "intro", "title": "PowerToys Awake", "why": "Utility page for a small power tool."}
+{"id": 60249, "keep": 1, "q": 3, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "How User Account Control works", "why": "Explains UAC internals, the secure desktop, and why prompts resist spoofing."}
+{"id": 60250, "keep": 0, "q": 1, "kind": "docs", "topic": "windows", "depth": "intro", "title": "Windows sudo", "why": "Product docs for one command."}
+{"id": 60251, "keep": 0, "q": 1, "kind": "docs", "topic": "windows", "depth": "intro", "title": "Windows LTSC overview", "why": "Servicing channel policy page, not an explanation."}
+{"id": 60252, "keep": 0, "q": 1, "kind": "reference", "topic": "windows", "depth": "expert", "title": "CreateFileA API reference", "why": "API signature reference page."}
+{"id": 60253, "keep": 0, "q": 1, "kind": "reference", "topic": "windows", "depth": "expert", "title": "SetWindowDisplayAffinity API", "why": "API reference for one function."}
+{"id": 60254, "keep": 0, "q": 2, "kind": "docs", "topic": "graphics", "depth": "intermediate", "title": "Comparing Direct2D and GDI", "why": "Short product comparison; more positioning than learning."}
+{"id": 60255, "keep": 0, "q": 2, "kind": "docs", "topic": "graphics", "depth": "expert", "title": "DirectX WARP", "why": "Reference page for a software rasterizer API."}
+{"id": 60256, "keep": 0, "q": 1, "kind": "docs", "topic": "filesystems", "depth": "expert", "title": "About transactional NTFS", "why": "Reference for a deprecated feature."}
+{"id": 60257, "keep": 1, "q": 3, "kind": "tutorial", "topic": "windows programming", "depth": "intro", "title": "Your first Windows program", "why": "Walks through a basic Win32 app and its message loop structure."}
+{"id": 60258, "keep": 0, "q": 1, "kind": "docs", "topic": "windows", "depth": "intro", "title": "Mount disks in WSL2", "why": "How-to for one product task."}
+{"id": 60259, "keep": 1, "q": 3, "kind": "explainer", "topic": "gps", "depth": "intro", "title": "What is GPS RTK?", "why": "Explains how real-time kinematic GPS reaches centimeter accuracy."}
+{"id": 60260, "keep": 1, "q": 3, "kind": "tutorial", "topic": "math", "depth": "intro", "title": "Math from Scratch", "why": "Free workshop covering the math behind machine learning from the ground up."}
+{"id": 60261, "keep": 1, "q": 3, "kind": "tutorial", "topic": "computer science", "depth": "intro", "title": "Software from Scratch", "why": "Free accelerated intro to CS covering graph theory, compilers and testing."}
+{"id": 60262, "keep": 0, "q": 1, "kind": "other", "topic": "web", "depth": "intro", "title": "BCHS stack", "why": "Stack landing page with no explanatory content."}
+{"id": 60263, "keep": 0, "q": 1, "kind": "docs", "topic": "css", "depth": "intro", "title": "Stylus CSS preprocessor", "why": "Language docs for a CSS preprocessor; reference more than reading."}
+{"id": 60264, "keep": 1, "q": 3, "kind": "talk", "topic": "science education", "depth": "intermediate", "title": "Minds of Our Own", "why": "Video series on how scientists and students actually think and learn."}
+{"id": 60265, "keep": 1, "q": 5, "kind": "visual", "topic": "git", "depth": "intro", "title": "Learn Git Branching", "why": "Interactive visual walkthrough of git commits, branches and remotes."}
+{"id": 60266, "keep": 0, "q": 1, "kind": "other", "topic": "education", "depth": "intro", "title": "KA Lite map", "why": "Organization map page, no learning content."}
+{"id": 60267, "keep": 1, "q": 2, "kind": "essay", "topic": "law", "depth": "intro", "title": "Constitutional rights of noncitizens", "why": "Explains which constitutional protections extend to noncitizens, with case context."}
+{"id": 60268, "keep": 1, "q": 3, "kind": "book", "topic": "python", "depth": "intro", "title": "Learn Python 3 the Hard Way: intro", "why": "Opening chapter on learning to code by typing and practicing."}
+{"id": 60269, "keep": 1, "q": 3, "kind": "essay", "topic": "startups", "depth": "intro", "title": "Hackers and Hustlers", "why": "Argues why teams mixing hackers and hustlers outperform homogeneous ones."}
+{"id": 60270, "keep": 1, "q": 3, "kind": "reference", "topic": "shell scripting", "depth": "intro", "title": "Learn X in Y: Bash", "why": "Quick, example-driven tour of bash syntax and idioms."}
+{"id": 60271, "keep": 1, "q": 3, "kind": "reference", "topic": "c", "depth": "intro", "title": "Learn X in Y: C", "why": "Compact example-driven introduction to C syntax and core ideas."}
+{"id": 60272, "keep": 1, "q": 2, "kind": "reference", "topic": "clojure", "depth": "intro", "title": "Learn X in Y: Clojure", "why": "Quick syntax tour for Clojure with runnable examples."}
+{"id": 60273, "keep": 1, "q": 2, "kind": "reference", "topic": "lisp", "depth": "intro", "title": "Learn X in Y: Common Lisp", "why": "Short syntax overview of Common Lisp with examples."}
+{"id": 60274, "keep": 1, "q": 2, "kind": "reference", "topic": "ocaml", "depth": "intro", "title": "Learn X in Y: OCaml", "why": "Quick OCaml syntax tour with examples."}
+{"id": 60275, "keep": 1, "q": 2, "kind": "reference", "topic": "smalltalk", "depth": "intro", "title": "Learn X in Y: Smalltalk", "why": "Quick look at Smalltalk syntax and its object model."}
+{"id": 60276, "keep": 1, "q": 2, "kind": "reference", "topic": "blockchain", "depth": "intro", "title": "Learn X in Y: Solidity", "why": "Dated syntax overview of Solidity contracts; useful as a starting sketch."}
+{"id": 60277, "keep": 1, "q": 4, "kind": "book", "topic": "haskell", "depth": "intro", "title": "Learn You a Haskell: recursion", "why": "Teaches recursion in Haskell with quicksort and list examples."}
+{"id": 60278, "keep": 1, "q": 4, "kind": "book", "topic": "haskell", "depth": "intro", "title": "Learn You a Haskell: syntax in functions", "why": "Explains pattern matching, guards and where clauses in Haskell."}
+{"id": 60279, "keep": 1, "q": 4, "kind": "book", "topic": "haskell", "depth": "intro", "title": "Learn You a Haskell: types and typeclasses", "why": "Teaches Haskell's type system and typeclasses in approachable steps."}
+{"id": 60280, "keep": 1, "q": 4, "kind": "book", "topic": "erlang", "depth": "intro", "title": "Learn You Some Erlang: introduction", "why": "Friendly introduction to Erlang's philosophy and how it is used."}
+{"id": 60281, "keep": 1, "q": 4, "kind": "book", "topic": "erlang", "depth": "intro", "title": "Learn You Some Erlang: starting out", "why": "Walks through Erlang basics with clear, opinionated explanations."}
+{"id": 60282, "keep": 1, "q": 5, "kind": "book", "topic": "concurrency", "depth": "intermediate", "title": "Learn You Some Erlang: concurrency", "why": "Classic guide to processes, message passing and fault tolerance."}
+{"id": 60283, "keep": 1, "q": 3, "kind": "visual", "topic": "nuclear", "depth": "intro", "title": "Chernobyl photo essay", "why": "Visual essay on Chernobyl's aftermath and what the cleanup involved."}
+{"id": 60284, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Ledger firmware 1.4 security fixes", "why": "Deep dive into hardware wallet firmware vulnerabilities and how they were fixed."}
+{"id": 60285, "keep": 0, "q": 1, "kind": "tutorial", "topic": "social media", "depth": "intro", "title": "How to Twitter", "why": "Personal usage tips for one social platform."}
+{"id": 60286, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Inside the pro-Israel information campaign", "why": "Current-events journalism on a political topic."}
+{"id": 60287, "keep": 1, "q": 2, "kind": "essay", "topic": "rust", "depth": "intro", "title": "Rust opinion piece", "why": "Opinionated take on Rust's ecosystem growth and language bloat."}
+{"id": 60288, "keep": 0, "q": 1, "kind": "tool", "topic": "algorithms", "depth": "intro", "title": "LeetCode Two Sum", "why": "Problem page for interview practice; not an explanation."}
+{"id": 60289, "keep": 0, "q": 1, "kind": "tool", "topic": "algorithms", "depth": "intro", "title": "LeetCode problem set", "why": "Problem index page with no explanatory content."}
+{"id": 60290, "keep": 0, "q": 2, "kind": "tool", "topic": "testing", "depth": "intermediate", "title": "Canopy F# library", "why": "Library homepage for a Selenium wrapper."}
+{"id": 60291, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Montana environmental code section", "why": "Statute text; legal text rather than learning content."}
+{"id": 60292, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "intro", "title": "PEP 394: python command", "why": "Convention spec; a lookup of a naming rule."}
+{"id": 60293, "keep": 1, "q": 3, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 465: matrix multiplication operator", "why": "Explains the rationale for the @ operator and its use in numerical code."}
+{"id": 60294, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 466: network security backport", "why": "Release-planning proposal for a 2.7 backport."}
+{"id": 60295, "keep": 1, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "PEP 3113: tuple parameter unpacking", "why": "Explains why tuple parameter unpacking was removed and the trade-offs."}
+{"id": 60296, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Legal definition of fraud", "why": "Dictionary entry; generic reference lookup."}
+{"id": 60297, "keep": 1, "q": 2, "kind": "explainer", "topic": "patents", "depth": "intro", "title": "What can't be patented", "why": "Explains patent eligibility limits, including software and abstract ideas."}
+{"id": 60298, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "NSA ruling (Klayman v. Obama)", "why": "Court opinion text; legal document rather than explanation."}
+{"id": 60299, "keep": 0, "q": 1, "kind": "explainer", "topic": "law", "depth": "intro", "title": "Refusing service to customers", "why": "Consumer legal overview; law summary rather than learning content."}
+{"id": 60300, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "California business code section", "why": "Statute text."}
+{"id": 60301, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "California penal code section", "why": "Statute text."}
+{"id": 60302, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "California AB 2088 bill text", "why": "Bill text; legal document."}
+{"id": 60303, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "California SB 50 bill text", "why": "Bill text; legal document."}
+{"id": 60304, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "CCPA section 1798.140", "why": "Statute text defining data sale."}
+{"id": 60305, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "California Labor Code section 1102.5", "why": "Statute text."}
+{"id": 60306, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "California SB 1047 bill text", "why": "Bill text; legal document."}
+{"id": 60307, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Australian legislation C2018A00148", "why": "Statute text."}
+{"id": 60308, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "Magna Carta (legislation.gov.uk)", "why": "Legal text of the Magna Carta, not explanatory content."}
+{"id": 60309, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "EU decision 2008/616 annex", "why": "Legal text of an EU decision."}
+{"id": 60310, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "GDPR contents", "why": "Legal text of the regulation."}
+{"id": 60311, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "UK online safety regulations", "why": "Statutory instrument text."}
+{"id": 60312, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Theft Act 1968 definition of theft", "why": "Statute text."}
+{"id": 60313, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "CDPA 1988 section 107", "why": "Statute text on copyright offences."}
+{"id": 60314, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Computer Misuse Act 1990", "why": "Statute text."}
+{"id": 60315, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Terrorism Act 2000 schedule 7", "why": "Statute text."}
+{"id": 60316, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Terrorism Act 2000 section 58", "why": "Statute text."}
+{"id": 60317, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Regulation of Investigatory Powers Act 2000", "why": "Statute text."}
+{"id": 60318, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Equality Act 2010", "why": "Statute text."}
+{"id": 60319, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Data Protection Act 2018", "why": "Statute text."}
+{"id": 60320, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Digital Economy Act 2019 section 3", "why": "Statute text."}
+{"id": 60321, "keep": 0, "q": 1, "kind": "other", "topic": "trademark", "depth": "intro", "title": "LEGO fair play notice", "why": "Trademark usage legal notice."}
+{"id": 60322, "keep": 0, "q": 1, "kind": "other", "topic": "trademark", "depth": "intro", "title": "LEGO fair play policy", "why": "Trademark usage policy page."}
+{"id": 60323, "keep": 0, "q": 1, "kind": "tool", "topic": "toys", "depth": "intro", "title": "LEGO building instructions", "why": "Download page for set instructions."}
+{"id": 60324, "keep": 1, "q": 5, "kind": "essay", "topic": "philosophy of mind", "depth": "intermediate", "title": "Where Am I?", "why": "Dennett's classic thought experiment on identity and the self."}
+{"id": 60325, "keep": 1, "q": 4, "kind": "paper", "topic": "ai", "depth": "expert", "title": "Why Heideggerian AI Failed", "why": "Dreyfus-style critique of symbolic AI and what it misses about embodied skill."}
+{"id": 60326, "keep": 1, "q": 4, "kind": "tutorial", "topic": "game ai", "depth": "intermediate", "title": "Flow field pathfinding", "why": "Tutorial on flow fields for steering large groups of agents."}
+{"id": 60327, "keep": 1, "q": 4, "kind": "essay", "topic": "linguistics", "depth": "intro", "title": "The Great Eskimo Vocabulary Hoax", "why": "Debunks the 'Eskimo words for snow' myth and traces how it spread."}
+{"id": 60328, "keep": 1, "q": 2, "kind": "blog", "topic": "programming languages", "depth": "intro", "title": "HTML and CSS are Turing complete", "why": "Short demonstration that CSS can simulate computation."}
+{"id": 60329, "keep": 1, "q": 4, "kind": "essay", "topic": "compilers", "depth": "intermediate", "title": "The Surprising Cleverness of Modern Compilers", "why": "Shows how compilers rewrite loops and pattern-match code for speed."}
+{"id": 60330, "keep": 1, "q": 3, "kind": "blog", "topic": "floating point", "depth": "intermediate", "title": "Floating-point numbers in [0,1]", "why": "Shows how floats are densely packed near zero and in [-1,1]."}
+{"id": 60331, "keep": 1, "q": 3, "kind": "blog", "topic": "performance", "depth": "expert", "title": "AVX-512 throttling: myth or reality", "why": "Benchmarks whether AVX-512 instructions really slow down the CPU."}
+{"id": 60332, "keep": 1, "q": 3, "kind": "blog", "topic": "performance", "depth": "expert", "title": "AVX-512 throttling: heavy instructions", "why": "Follow-up examining when heavy AVX-512 instructions actually cause throttling."}
+{"id": 60333, "keep": 1, "q": 4, "kind": "essay", "topic": "software performance", "depth": "intermediate", "title": "Hotspot performance engineering fails", "why": "Argues that performance design is best done early, not after implementation."}
+{"id": 60334, "keep": 0, "q": 1, "kind": "tool", "topic": "social media", "depth": "intro", "title": "Lemmy communities listing", "why": "Index of communities on one instance."}
+{"id": 60335, "keep": 0, "q": 1, "kind": "docs", "topic": "programming languages", "depth": "intro", "title": "Lemon language documentation", "why": "Early-stage language docs with little to learn yet."}
+{"id": 60336, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "France lets police spy through phones", "why": "Current-events news on a policy change."}
+{"id": 60337, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "Revelations on the French big brother", "why": "Dated news coverage."}
+{"id": 60338, "keep": 0, "q": 1, "kind": "other", "topic": "economics", "depth": "intro", "title": "Auto debt statistics", "why": "Statistics tracker page."}
+{"id": 60339, "keep": 0, "q": 1, "kind": "other", "topic": "economics", "depth": "intro", "title": "Credit card debt statistics", "why": "Statistics tracker page."}
+{"id": 60340, "keep": 0, "q": 1, "kind": "other", "topic": "images", "depth": "intro", "title": "Lenna test image", "why": "Image page itself; not an explanation."}
+{"id": 60341, "keep": 1, "q": 3, "kind": "essay", "topic": "startups", "depth": "intro", "title": "Pulling back the curtain on YC odds", "why": "Gives rough data on startup outcomes and the odds of becoming a unicorn."}
+{"id": 60342, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Lenovo ThinkPad keyboard", "why": "Product listing page."}
+{"id": 60343, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "ThinkPad 25th anniversary edition", "why": "Product page for a laptop."}
+{"id": 60344, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "ThinkPad X1 Extreme", "why": "Product spec page for a laptop."}
+{"id": 60345, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Lenovo ThinkReality A3", "why": "Product page for AR glasses."}
+{"id": 60346, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Durov and Telegram location", "why": "News report on a contested claim about a person's whereabouts."}
+{"id": 60347, "keep": 0, "q": 1, "kind": "tool", "topic": "storage", "depth": "intermediate", "title": "LeoFS", "why": "Project homepage for a storage system."}
+{"id": 60348, "keep": 0, "q": 2, "kind": "tool", "topic": "terminals", "depth": "expert", "title": "libvterm", "why": "Library page for a terminal emulator library."}
+{"id": 60349, "keep": 0, "q": 2, "kind": "blog", "topic": "knowledge management", "depth": "intro", "title": "Introducing Lepiter", "why": "Launch post promoting a knowledge tool."}
+{"id": 60350, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "Lessig 2016 platform", "why": "Campaign platform page."}
+{"id": 60351, "keep": 1, "q": 4, "kind": "essay", "topic": "incentives", "depth": "intermediate", "title": "The Importance of Goodhart's Law", "why": "Explains how turning a measure into a target corrupts what it measures."}
+{"id": 60352, "keep": 1, "q": 2, "kind": "essay", "topic": "rationality", "depth": "intro", "title": "Self-improvement or shiny distraction", "why": "Argues online rationality communities can distract from instrumental improvement."}
+{"id": 60353, "keep": 1, "q": 4, "kind": "essay", "topic": "rationality", "depth": "intro", "title": "Cached Selves", "why": "Explains how people act from stored patterns rather than fresh judgment."}
+{"id": 60354, "keep": 1, "q": 3, "kind": "essay", "topic": "rationality", "depth": "intro", "title": "Levels of Action", "why": "Explores how alcohol disinhibits and what that says about behavior."}
+{"id": 60355, "keep": 1, "q": 3, "kind": "essay", "topic": "science", "depth": "intermediate", "title": "Diseased Disciplines", "why": "Critiques weak evidence behind claims that whole fields are broken."}
+{"id": 60356, "keep": 1, "q": 4, "kind": "essay", "topic": "bayesian reasoning", "depth": "intro", "title": "Religions Claim to be Non-Disprovable", "why": "Shows why unfalsifiable claims still carry evidential weight, using Bayesian reasoning."}
+{"id": 60357, "keep": 1, "q": 4, "kind": "essay", "topic": "rationality", "depth": "intro", "title": "Your Strength as a Rationalist", "why": "On holding beliefs in proportion to evidence and avoiding clever rationalization."}
+{"id": 60358, "keep": 1, "q": 4, "kind": "essay", "topic": "rationality", "depth": "intro", "title": "Semantic Stopsigns", "why": "Explains how labels like troll end thinking before the actual question is examined."}
+{"id": 60359, "keep": 1, "q": 5, "kind": "essay", "topic": "rationality", "depth": "intro", "title": "The Bottom Line", "why": "Shows why conclusions must follow from evidence, not the reverse."}
+{"id": 60360, "keep": 1, "q": 4, "kind": "essay", "topic": "decision theory", "depth": "intermediate", "title": "Pascal's Mugging", "why": "Explores why tiny probabilities of huge payoffs break naive expected-value reasoning."}
+{"id": 60361, "keep": 1, "q": 4, "kind": "essay", "topic": "evolution", "depth": "intermediate", "title": "The Tragedy of Group Selectionism", "why": "Explains why group-beneficial traits rarely spread by natural selection."}
+{"id": 60362, "keep": 1, "q": 5, "kind": "essay", "topic": "language", "depth": "intro", "title": "37 Ways That Words Can Be Wrong", "why": "Catalogs ways word disputes go wrong and how to avoid them."}
+{"id": 60363, "keep": 1, "q": 5, "kind": "essay", "topic": "philosophy", "depth": "intermediate", "title": "Dissolving the Question", "why": "Shows how some philosophical puzzles vanish once confusion is removed."}
+{"id": 60364, "keep": 1, "q": 4, "kind": "essay", "topic": "rationality", "depth": "intro", "title": "Joy in the Merely Real", "why": "Argues that understanding the real world is more wondrous than mystery."}
+{"id": 60365, "keep": 1, "q": 5, "kind": "essay", "topic": "physics", "depth": "intermediate", "title": "Quantum Explanations", "why": "Clear introduction to quantum mechanics without the mystique."}
+{"id": 60366, "keep": 1, "q": 4, "kind": "essay", "topic": "physics", "depth": "expert", "title": "Timeless Physics", "why": "Argues physics can be formulated without fundamental time, with clear reasoning."}
+{"id": 60367, "keep": 1, "q": 4, "kind": "essay", "topic": "physics", "depth": "expert", "title": "Timeless Causality", "why": "Explores how causation and time-ordering might work in a timeless universe."}
+{"id": 60368, "keep": 1, "q": 4, "kind": "essay", "topic": "ai", "depth": "intermediate", "title": "The Design Space of Minds in General", "why": "Argues minds can differ far more than humans assume, with clear analogies."}
+{"id": 60369, "keep": 1, "q": 4, "kind": "essay", "topic": "psychology", "depth": "intro", "title": "Existential Angst Factory", "why": "Explains why existential worry is produced by thinking patterns and how to reduce it."}
+{"id": 60370, "keep": 1, "q": 4, "kind": "essay", "topic": "game theory", "depth": "intermediate", "title": "The True Prisoner's Dilemma", "why": "Reframes the prisoner's dilemma around payoffs that differ from the standard setup."}
+{"id": 60371, "keep": 1, "q": 3, "kind": "essay", "topic": "ethics", "depth": "intro", "title": "Ends Don't Justify Means Among Humans", "why": "Argues why consequentialists should still avoid certain actions on principle."}
+{"id": 60372, "keep": 1, "q": 3, "kind": "essay", "topic": "ai", "depth": "expert", "title": "Efficient Cross-Domain Optimization", "why": "Defines intelligence as optimization power across domains and how to measure it."}
+{"id": 60373, "keep": 1, "q": 2, "kind": "essay", "topic": "cryonics", "depth": "intro", "title": "You Only Live Twice", "why": "Argues for cryonics as a bet on future medicine, with reasoning."}
+{"id": 60374, "keep": 1, "q": 3, "kind": "essay", "topic": "ethics", "depth": "intro", "title": "Building Weirdtopia", "why": "Shows that a utopia can still feel strange, illustrating how value conflicts persist."}
+{"id": 60375, "keep": 1, "q": 4, "kind": "essay", "topic": "ethics", "depth": "intro", "title": "The Baby-Eating Aliens", "why": "Thought experiment on moral disagreement and whether one's own values are universal."}
+{"id": 60376, "keep": 1, "q": 4, "kind": "essay", "topic": "llms", "depth": "intermediate", "title": "Cached Thoughts", "why": "Explains why LLMs can answer without reasoning, and what that implies."}
+{"id": 60377, "keep": 1, "q": 5, "kind": "essay", "topic": "rationality", "depth": "intro", "title": "The Bottom Line (Sequences)", "why": "Explains why conclusions must come after the evidence, not before."}
+{"id": 60378, "keep": 1, "q": 4, "kind": "essay", "topic": "ethics", "depth": "intermediate", "title": "Torture vs. Dust Specks", "why": "Examines how aggregating tiny harms against extreme harms breaks intuitions."}
+{"id": 60379, "keep": 1, "q": 4, "kind": "essay", "topic": "ai", "depth": "intermediate", "title": "Humans Who Are Not Concentrating", "why": "Argues people without focused thought are not fully general intelligences."}
+{"id": 60380, "keep": 1, "q": 4, "kind": "essay", "topic": "language", "depth": "intro", "title": "Disputing Definitions", "why": "Shows how arguments over word meanings can hide the real disagreement."}
+{"id": 60381, "keep": 1, "q": 4, "kind": "essay", "topic": "complexity", "depth": "intermediate", "title": "The Futility of Emergence", "why": "Argues that labeling a phenomenon emergent explains nothing without mechanism."}
+{"id": 60382, "keep": 1, "q": 3, "kind": "essay", "topic": "society", "depth": "intro", "title": "Competent Elites", "why": "Describes how elites differ from others in ways reporters often miss."}
+{"id": 60383, "keep": 1, "q": 4, "kind": "essay", "topic": "llms", "depth": "expert", "title": "The Waluigi Effect", "why": "Explains why prompted LLM personas can flip into opposite behavior."}
+{"id": 60384, "keep": 0, "q": 2, "kind": "blog", "topic": "community", "depth": "intro", "title": "Experience at and around MIRI and CFAR", "why": "Personal account of community allegations; not a technical read."}
+{"id": 60385, "keep": 1, "q": 3, "kind": "essay", "topic": "policy", "depth": "intro", "title": "Policy Debates Should Not Appear One-Sided", "why": "Argues contested policy questions have nuance that one-sided framing hides."}
+{"id": 60386, "keep": 1, "q": 4, "kind": "essay", "topic": "evolution", "depth": "intermediate", "title": "The Tragedy of Group Selectionism (2)", "why": "Explains why group-beneficial traits rarely spread by natural selection."}
+{"id": 60387, "keep": 1, "q": 3, "kind": "explainer", "topic": "happiness", "depth": "intro", "title": "How to Be Happy", "why": "Summarizes research on factors correlated with happiness."}
+{"id": 60388, "keep": 1, "q": 4, "kind": "essay", "topic": "llms", "depth": "intermediate", "title": "AI-induced psychosis: a shallow investigation", "why": "Tests how different models respond to users drifting into delusional thinking."}
+{"id": 60389, "keep": 1, "q": 4, "kind": "essay", "topic": "bayesian reasoning", "depth": "intro", "title": "Absence of Evidence Is Evidence of Absence", "why": "Shows with probability why missing evidence can count against a hypothesis."}
+{"id": 60390, "keep": 1, "q": 4, "kind": "essay", "topic": "ethics", "depth": "intro", "title": "The Baby-Eating Aliens (1/8)", "why": "Opening of the story on moral disagreement across alien cultures."}
+{"id": 60391, "keep": 1, "q": 3, "kind": "essay", "topic": "llms", "depth": "intermediate", "title": "Your LLM-assisted scientific breakthrough probably isn't", "why": "Explains why LLM-generated research claims usually fail, and how to check them."}
+{"id": 60392, "keep": 1, "q": 4, "kind": "essay", "topic": "rationality", "depth": "intro", "title": "Joy in the Merely Real", "why": "Argues that understanding the world takes nothing away from its beauty."}
+{"id": 60393, "keep": 1, "q": 3, "kind": "reference", "topic": "rationality", "depth": "intro", "title": "Arguments as soldiers", "why": "Wiki entry on treating opposing arguments as enemies to defeat."}
+{"id": 60394, "keep": 1, "q": 4, "kind": "reference", "topic": "rationality", "depth": "intro", "title": "The Sequences", "why": "Index of the Sequences, the core essay collection on rational thinking."}
+{"id": 60395, "keep": 1, "q": 3, "kind": "reference", "topic": "ai alignment", "depth": "intro", "title": "Squiggle maximizer", "why": "Wiki entry on a thought experiment about goal misspecification in AI."}
+{"id": 60396, "keep": 0, "q": 1, "kind": "other", "topic": "parenting", "depth": "intro", "title": "Free-range parenting states", "why": "Directory of state laws."}
+{"id": 60397, "keep": 1, "q": 4, "kind": "tutorial", "topic": "nix", "depth": "intro", "title": "Nix Pill 1: why give it a try", "why": "Introduces Nix's package model and why it is worth learning."}
+{"id": 60398, "keep": 1, "q": 4, "kind": "blog", "topic": "concurrency", "depth": "intermediate", "title": "50 million messages per second on one machine", "why": "Benchmark write-up on high-throughput messaging on the JVM."}
+{"id": 60399, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intro", "title": "Why 90 days for Let's Encrypt certificates", "why": "Explains the reasoning behind short certificate lifetimes and automation."}

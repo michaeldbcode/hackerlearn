@@ -1,0 +1,200 @@
+{"id": 64000, "keep": 1, "q": 3, "kind": "blog", "topic": "shells", "depth": "expert", "title": "Oil Shell blog 2018-03-04", "why": "Notes on making Oil's parser schema static and why PyPy's JIT can slow some workloads."}
+{"id": 64001, "keep": 1, "q": 4, "kind": "essay", "topic": "shells", "depth": "intermediate", "title": "Four Features That Justify a New Unix Shell", "why": "Argues concrete shell misfeatures like ad hoc splitting and quoting can be fixed, with design reasoning."}
+{"id": 64002, "keep": 1, "q": 3, "kind": "essay", "topic": "shells", "depth": "intro", "title": "Why Oil Shell", "why": "Motivation for a bash-compatible shell that fixes Unix shell misfeatures."}
+{"id": 64003, "keep": 0, "q": 1, "kind": "other", "topic": "graphics", "depth": "intro", "title": "Cloth demo", "why": "Physics toy demo with no explanation to learn from."}
+{"id": 64004, "keep": 0, "q": 1, "kind": "other", "topic": "graphics", "depth": "intro", "title": "Water3D demo", "why": "Interactive graphics toy, not an explainer."}
+{"id": 64005, "keep": 0, "q": 1, "kind": "reference", "topic": "crime statistics", "depth": "intro", "title": "UCR crime table", "why": "Statistics table cited as evidence in an argument."}
+{"id": 64006, "keep": 0, "q": 1, "kind": "paper", "topic": "crime statistics", "depth": "intro", "title": "Australian firearms buyback study abstract", "why": "Abstract cited only as evidence in a debate."}
+{"id": 64007, "keep": 0, "q": 1, "kind": "paper", "topic": "politics", "depth": "intro", "title": "Jewish-Zionist terrorism abstract", "why": "Abstract cited as evidence in a political argument."}
+{"id": 64008, "keep": 0, "q": 1, "kind": "news", "topic": "operating systems", "depth": "intro", "title": "OK Labs milestone release", "why": "Company press release."}
+{"id": 64009, "keep": 1, "q": 3, "kind": "blog", "topic": "programming languages", "depth": "intro", "title": "In Praise of Mandatory Indentation", "why": "Argues syntax rather than type inference drives beginner learning, citing a comparison study."}
+{"id": 64010, "keep": 1, "q": 3, "kind": "essay", "topic": "screenwriting", "depth": "intro", "title": "11 Laws of Showrunning", "why": "Practical, witty principles of running a TV writers' room and production."}
+{"id": 64011, "keep": 0, "q": 1, "kind": "other", "topic": "web", "depth": "intro", "title": "OkCupid technology page", "why": "Company about page with a single stack fact."}
+{"id": 64012, "keep": 1, "q": 3, "kind": "blog", "topic": "reverse engineering", "depth": "intermediate", "title": "Skype: Reverse Engineering the Long Journey", "why": "Account of reverse engineering the Skype protocol and building a fake client."}
+{"id": 64013, "keep": 1, "q": 4, "kind": "reference", "topic": "haskell", "depth": "expert", "title": "Extensible Effects and Open Unions", "why": "Survey of open unions and extensible effects across languages, with Haskell implementations."}
+{"id": 64014, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Okta careers", "why": "Job posting."}
+{"id": 64015, "keep": 0, "q": 2, "kind": "paper", "topic": "dns", "depth": "intro", "title": "DNSNMC overview whitepaper", "why": "Promotional white paper for a Namecoin-based DNS project."}
+{"id": 64016, "keep": 0, "q": 2, "kind": "essay", "topic": "licensing", "depth": "intro", "title": "A Better Qt Because of Open Source and KDE", "why": "Opinion on Qt's licensing guarantees."}
+{"id": 64017, "keep": 1, "q": 4, "kind": "tutorial", "topic": "interpreters", "depth": "intermediate", "title": "Picol: a Tcl interpreter in 500 lines", "why": "Walkthrough of a tiny readable interpreter implementation in C."}
+{"id": 64018, "keep": 1, "q": 3, "kind": "reference", "topic": "computing history", "depth": "intro", "title": "Grid Compass 1101", "why": "Historical reference on the Grid Compass laptop and early pointing devices."}
+{"id": 64019, "keep": 1, "q": 3, "kind": "reference", "topic": "computing history", "depth": "intro", "title": "ZX81", "why": "Overview of the Sinclair ZX81 hardware, software and its place in computing history."}
+{"id": 64020, "keep": 1, "q": 3, "kind": "tutorial", "topic": "statistics", "depth": "intro", "title": "CMU OLI Statistics course", "why": "Free open statistics course with structured lessons for self-study."}
+{"id": 64021, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "OLinuXino boards", "why": "Product page."}
+{"id": 64022, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Neo6502 product page", "why": "Product page."}
+{"id": 64023, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "RVPC product page", "why": "Product page."}
+{"id": 64024, "keep": 0, "q": 1, "kind": "tool", "topic": "llms", "depth": "intro", "title": "Ollama download page", "why": "Software download page."}
+{"id": 64025, "keep": 0, "q": 1, "kind": "reference", "topic": "llms", "depth": "intro", "title": "Ollama mixtral library page", "why": "Model registry page."}
+{"id": 64026, "keep": 1, "q": 3, "kind": "blog", "topic": "llms", "depth": "intermediate", "title": "Ollama Structured Outputs", "why": "Explains grammar-constrained decoding for reliable schema-shaped output from local models."}
+{"id": 64027, "keep": 0, "q": 1, "kind": "reference", "topic": "llms", "depth": "intro", "title": "Ollama deepseek-r1 tags", "why": "Model tag listing."}
+{"id": 64028, "keep": 0, "q": 1, "kind": "reference", "topic": "llms", "depth": "intro", "title": "Ollama gemma3 tags", "why": "Model tag listing."}
+{"id": 64029, "keep": 0, "q": 1, "kind": "reference", "topic": "llms", "depth": "intro", "title": "Ollama llama3 library", "why": "Model registry page."}
+{"id": 64030, "keep": 0, "q": 1, "kind": "reference", "topic": "llms", "depth": "intro", "title": "Ollama qwq library", "why": "Model registry page."}
+{"id": 64031, "keep": 0, "q": 1, "kind": "tool", "topic": "backups", "depth": "intro", "title": "PaperBack", "why": "Software page for printing data onto paper."}
+{"id": 64032, "keep": 0, "q": 1, "kind": "other", "topic": "tech industry", "depth": "intro", "title": "Dean Allen rest in peace", "why": "Personal remembrance post."}
+{"id": 64033, "keep": 1, "q": 5, "kind": "book", "topic": "probability", "depth": "expert", "title": "Probability Theory: The Logic of Science", "why": "Jaynes's foundational text presenting Bayesian probability as extended logic."}
+{"id": 64034, "keep": 1, "q": 3, "kind": "talk", "topic": "fusion", "depth": "intermediate", "title": "Omega Tau: Fusion at ITER", "why": "Podcast with engineers explaining the ITER fusion project and its challenges."}
+{"id": 64035, "keep": 1, "q": 3, "kind": "talk", "topic": "analog computing", "depth": "intermediate", "title": "Omega Tau: Analog Computers", "why": "Podcast explaining how analog computers worked and were programmed."}
+{"id": 64036, "keep": 1, "q": 3, "kind": "talk", "topic": "logistics", "depth": "intermediate", "title": "Omega Tau: Container Shipping", "why": "Podcast on container shipping logistics and how optimisation applies to it."}
+{"id": 64037, "keep": 1, "q": 3, "kind": "talk", "topic": "superconductivity", "depth": "expert", "title": "Omega Tau: Superconductivity", "why": "Expert interview on superconductivity physics and its engineering uses."}
+{"id": 64038, "keep": 1, "q": 4, "kind": "talk", "topic": "space", "depth": "intermediate", "title": "Omega Tau: How Apollo Flew to the Moon", "why": "Detailed interview on Apollo mission flight operations and hardware."}
+{"id": 64039, "keep": 1, "q": 2, "kind": "tutorial", "topic": "linux", "depth": "intro", "title": "Booting Linux on modern Lenovo ThinkPads", "why": "Steps for firmware settings needed to boot Linux with Secure Boot on Lenovo laptops."}
+{"id": 64040, "keep": 0, "q": 1, "kind": "news", "topic": "linux", "depth": "intro", "title": "GNOME thumbnails in the file picker", "why": "Short news item about a desktop feature."}
+{"id": 64041, "keep": 0, "q": 1, "kind": "news", "topic": "linux", "depth": "intro", "title": "Enable fractional scaling in GNOME", "why": "News about a desktop feature."}
+{"id": 64042, "keep": 0, "q": 2, "kind": "news", "topic": "linux", "depth": "intro", "title": "Why Ubuntu dropped Unity", "why": "News about a company's product decision."}
+{"id": 64043, "keep": 0, "q": 1, "kind": "tool", "topic": "physics", "depth": "intro", "title": "Omni space travel calculator", "why": "Calculator page."}
+{"id": 64044, "keep": 0, "q": 1, "kind": "tool", "topic": "cryptocurrency", "depth": "intro", "title": "Omnichest address lookup", "why": "Blockchain address lookup page."}
+{"id": 64045, "keep": 0, "q": 1, "kind": "tool", "topic": "cryptocurrency", "depth": "intro", "title": "Omniexplorer address lookup", "why": "Blockchain address lookup page."}
+{"id": 64046, "keep": 0, "q": 1, "kind": "tool", "topic": "productivity", "depth": "intro", "title": "OmniFocus", "why": "Product page."}
+{"id": 64047, "keep": 0, "q": 1, "kind": "tool", "topic": "design", "depth": "intro", "title": "OmniGraffle", "why": "Product page."}
+{"id": 64048, "keep": 0, "q": 1, "kind": "reference", "topic": "transit", "depth": "intro", "title": "NYC OMNY fares", "why": "Fare table page."}
+{"id": 64049, "keep": 1, "q": 3, "kind": "visual", "topic": "generative design", "depth": "intermediate", "title": "G9 gallery", "why": "Interactive gallery of constraint-solved generative renderings showing the approach in action."}
+{"id": 64050, "keep": 0, "q": 1, "kind": "other", "topic": "education", "depth": "intro", "title": "OMSCS cost and payment schedule", "why": "Tuition schedule page."}
+{"id": 64051, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "Once license", "why": "Software license text."}
+{"id": 64052, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "wwwsqldesigner demo", "why": "Tool demo page."}
+{"id": 64053, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Phonebloks project", "why": "Project page for a concept product."}
+{"id": 64054, "keep": 0, "q": 2, "kind": "other", "topic": "climate", "depth": "intro", "title": "Methane vs carbon dioxide: a greenhouse gas showdown", "why": "Advocacy article cited only as evidence."}
+{"id": 64055, "keep": 0, "q": 1, "kind": "tool", "topic": "language", "depth": "intro", "title": "OneLook thesaurus", "why": "Search tool page."}
+{"id": 64056, "keep": 0, "q": 2, "kind": "other", "topic": "finance", "depth": "intro", "title": "Why I No Longer Recommend Google Fi", "why": "Product review."}
+{"id": 64057, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "DOL employment test guidance", "why": "Legal guidance cited as evidence."}
+{"id": 64058, "keep": 0, "q": 1, "kind": "reference", "topic": "careers", "depth": "intro", "title": "O*NET software developers summary", "why": "Occupational data lookup page."}
+{"id": 64059, "keep": 0, "q": 2, "kind": "other", "topic": "climate", "depth": "intro", "title": "How much CO2 does a tree absorb", "why": "Figure cited as evidence in a debate."}
+{"id": 64060, "keep": 1, "q": 4, "kind": "journalism", "topic": "inequality", "depth": "intermediate", "title": "Survival of the Richest", "why": "Long-form piece on tech billionaires' escape plans and what drives them."}
+{"id": 64061, "keep": 1, "q": 4, "kind": "journalism", "topic": "investigative journalism", "depth": "intermediate", "title": "The Influencer and the Hit Man", "why": "Investigative long-form story on a murder-for-hire plot and how it unfolded."}
+{"id": 64062, "keep": 1, "q": 4, "kind": "journalism", "topic": "software", "depth": "intermediate", "title": "The Largely Untold Story of How One Guy in California Keeps the World's Computers on the Right Time", "why": "Profile of Paul Eggert and the timezone database that most software depends on."}
+{"id": 64063, "keep": 1, "q": 4, "kind": "book", "topic": "literature", "depth": "intro", "title": "How Much Land Does a Man Need?", "why": "Tolstoy's short story on greed and land, a classic parable."}
+{"id": 64064, "keep": 0, "q": 1, "kind": "tool", "topic": "hosting", "depth": "intro", "title": "Online.net C14 cold storage", "why": "Product page."}
+{"id": 64065, "keep": 0, "q": 1, "kind": "tool", "topic": "hosting", "depth": "intro", "title": "Online.net dedibox", "why": "Hosting product page."}
+{"id": 64066, "keep": 1, "q": 4, "kind": "tutorial", "topic": "statistics", "depth": "intermediate", "title": "Statistical Learning (Stanford)", "why": "Free Stanford course built around the Elements of Statistical Learning book."}
+{"id": 64067, "keep": 1, "q": 4, "kind": "talk", "topic": "algorithms", "depth": "expert", "title": "Donald Knuth Lectures", "why": "Recorded Knuth lectures on algorithms and computing."}
+{"id": 64068, "keep": 1, "q": 3, "kind": "journalism", "topic": "privacy", "depth": "intermediate", "title": "Your Apps Are Watching You", "why": "Investigation into apps sending personal data to third parties, with technical detail."}
+{"id": 64069, "keep": 0, "q": 1, "kind": "news", "topic": "education", "depth": "intro", "title": "Why Chinese Mothers Are Superior", "why": "Opinion column cited in a debate."}
+{"id": 64070, "keep": 0, "q": 1, "kind": "news", "topic": "education", "depth": "intro", "title": "WSJ schools article", "why": "News article cited as evidence."}
+{"id": 64071, "keep": 0, "q": 2, "kind": "news", "topic": "finance", "depth": "intro", "title": "WSJ high-speed trading queue article", "why": "News article on exchange speed advantages."}
+{"id": 64072, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Tom Perkins editorial", "why": "Opinion editorial on a news story."}
+{"id": 64073, "keep": 0, "q": 1, "kind": "news", "topic": "career", "depth": "intro", "title": "WSJ failure article", "why": "Pop-career column."}
+{"id": 64074, "keep": 0, "q": 2, "kind": "news", "topic": "law", "depth": "intro", "title": "Over-criminalization in federal law", "why": "News article on vague federal crimes."}
+{"id": 64075, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "ACLU memo", "why": "Leaked document cited as evidence."}
+{"id": 64076, "keep": 0, "q": 2, "kind": "reference", "topic": "business", "depth": "intro", "title": "CEO performance data", "why": "Data document cited as evidence."}
+{"id": 64077, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Congress ages chart", "why": "Interactive statistics chart."}
+{"id": 64078, "keep": 1, "q": 2, "kind": "paper", "topic": "optics", "depth": "expert", "title": "Enhanced Infrared Vision by Nonlinear Up-Conversion in Nonlocal Metasurfaces", "why": "Research paper on metasurfaces that upconvert infrared light for imaging."}
+{"id": 64079, "keep": 1, "q": 3, "kind": "paper", "topic": "archaeology", "depth": "intermediate", "title": "Radar and core-sample study of a hill site", "why": "Paper on ground-penetrating radar, cores and radiocarbon dating of stratified layers."}
+{"id": 64080, "keep": 0, "q": 1, "kind": "paper", "topic": "covid", "depth": "intro", "title": "COVID AMI study", "why": "Epidemiology study cited as evidence."}
+{"id": 64081, "keep": 0, "q": 1, "kind": "paper", "topic": "covid", "depth": "intro", "title": "COVID infection fatality rate paper", "why": "Study cited as evidence."}
+{"id": 64082, "keep": 0, "q": 1, "kind": "paper", "topic": "politics", "depth": "intro", "title": "Diversity and social trust paper", "why": "Paper cited in a political debate."}
+{"id": 64083, "keep": 1, "q": 5, "kind": "paper", "topic": "economics", "depth": "intermediate", "title": "The Nature of the Firm", "why": "Coase's foundational paper on transaction costs and why firms exist."}
+{"id": 64084, "keep": 0, "q": 1, "kind": "paper", "topic": "health", "depth": "intro", "title": "Sun exposure and mortality study", "why": "Study cited as evidence."}
+{"id": 64085, "keep": 0, "q": 1, "kind": "paper", "topic": "psychology", "depth": "intro", "title": "IAT predictive validity meta-analysis", "why": "Meta-analysis cited as evidence."}
+{"id": 64086, "keep": 0, "q": 1, "kind": "paper", "topic": "politics", "depth": "intro", "title": "Diversity and social capital", "why": "Paper cited in a debate."}
+{"id": 64087, "keep": 0, "q": 1, "kind": "paper", "topic": "psychology", "depth": "intro", "title": "Gender differences study", "why": "Study cited as evidence."}
+{"id": 64088, "keep": 0, "q": 1, "kind": "paper", "topic": "medicine", "depth": "intro", "title": "Surgery study", "why": "Study cited as evidence."}
+{"id": 64089, "keep": 0, "q": 1, "kind": "paper", "topic": "work", "depth": "intro", "title": "Leisure and retirement savings paper", "why": "Study cited as evidence."}
+{"id": 64090, "keep": 0, "q": 1, "kind": "news", "topic": "law", "depth": "intro", "title": "Online Safety Act in memoriam", "why": "Advocacy list of sites that closed."}
+{"id": 64091, "keep": 0, "q": 1, "kind": "tool", "topic": "finance", "depth": "intro", "title": "OnlyCoin FAQ", "why": "Product FAQ."}
+{"id": 64092, "keep": 0, "q": 1, "kind": "news", "topic": "licensing", "depth": "intro", "title": "OnlyOffice flags license violations", "why": "Corporate license dispute news."}
+{"id": 64093, "keep": 1, "q": 4, "kind": "visual", "topic": "git", "depth": "intro", "title": "Explain Git with D3", "why": "Interactive visual explainer of git commits, branches and rebase history."}
+{"id": 64094, "keep": 0, "q": 2, "kind": "docs", "topic": "machine learning", "depth": "intermediate", "title": "ONNX Runtime execution providers", "why": "Product documentation for hardware backends."}
+{"id": 64095, "keep": 0, "q": 1, "kind": "reference", "topic": "statistics", "depth": "intro", "title": "UK national life tables", "why": "Statistical tables."}
+{"id": 64096, "keep": 0, "q": 1, "kind": "reference", "topic": "statistics", "depth": "intro", "title": "ONS life expectancy calculator", "why": "Statistics calculator."}
+{"id": 64097, "keep": 0, "q": 1, "kind": "reference", "topic": "statistics", "depth": "intro", "title": "ONS census housing bulletin", "why": "Statistics bulletin."}
+{"id": 64098, "keep": 0, "q": 1, "kind": "reference", "topic": "statistics", "depth": "intro", "title": "ONS household income bulletin", "why": "Statistics bulletin."}
+{"id": 64099, "keep": 0, "q": 1, "kind": "reference", "topic": "statistics", "depth": "intro", "title": "ONS income inequality bulletin", "why": "Statistics bulletin."}
+{"id": 64100, "keep": 0, "q": 1, "kind": "tool", "topic": "cad", "depth": "intro", "title": "Onshape free plan", "why": "Signup page."}
+{"id": 64101, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Ontario apology statute", "why": "Statute text."}
+{"id": 64102, "keep": 0, "q": 1, "kind": "news", "topic": "energy", "depth": "intro", "title": "Ontario end coal", "why": "Government policy page."}
+{"id": 64103, "keep": 1, "q": 4, "kind": "talk", "topic": "django", "depth": "intermediate", "title": "Django Deployment Workshop", "why": "Jacob Kaplan-Moss on deploying and scaling Django apps in production."}
+{"id": 64104, "keep": 0, "q": 1, "kind": "reference", "topic": "video", "depth": "intro", "title": "ONVIF conformant products", "why": "Certification database."}
+{"id": 64105, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "onX careers", "why": "Careers page."}
+{"id": 64106, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "onX join our team", "why": "Job listing."}
+{"id": 64107, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Boox MaxLumi", "why": "Product page."}
+{"id": 64108, "keep": 0, "q": 1, "kind": "tool", "topic": "windows", "depth": "intro", "title": "O&O AppBuster", "why": "Software download page."}
+{"id": 64109, "keep": 0, "q": 1, "kind": "tool", "topic": "physics", "depth": "intro", "title": "CERN vistars dashboard", "why": "Live dashboard."}
+{"id": 64110, "keep": 0, "q": 1, "kind": "reference", "topic": "education", "depth": "intro", "title": "Berkeley enrollment data", "why": "Statistics table."}
+{"id": 64111, "keep": 0, "q": 1, "kind": "other", "topic": "networking", "depth": "intro", "title": "Open-mesh wiki", "why": "Project home page."}
+{"id": 64112, "keep": 0, "q": 1, "kind": "tool", "topic": "weather", "depth": "intro", "title": "Open-Meteo API docs", "why": "API reference for a commercial-adjacent service."}
+{"id": 64113, "keep": 0, "q": 1, "kind": "tool", "topic": "career", "depth": "intro", "title": "Open-Resume parser", "why": "Tool page."}
+{"id": 64114, "keep": 1, "q": 3, "kind": "paper", "topic": "c language", "depth": "expert", "title": "Why undefined behavior for infinite loops?", "why": "WG14 proposal explaining why side-effect-free infinite loops are undefined in C."}
+{"id": 64115, "keep": 1, "q": 2, "kind": "paper", "topic": "c language", "depth": "expert", "title": "WG14 N3017", "why": "Committee paper on integer types for array literals and related design points."}
+{"id": 64116, "keep": 0, "q": 1, "kind": "reference", "topic": "c language", "depth": "expert", "title": "C23 draft standard", "why": "Standard text used as a lookup, not a learning piece."}
+{"id": 64117, "keep": 1, "q": 2, "kind": "paper", "topic": "c language", "depth": "expert", "title": "WG14 N3199: defer for C", "why": "Proposal on adding defer to C and how cleanup would be injected."}
+{"id": 64118, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "expert", "title": "CWG defect reports", "why": "Issue tracker listing."}
+{"id": 64119, "keep": 1, "q": 2, "kind": "talk", "topic": "c++", "depth": "expert", "title": "N3347: LLVM implementation of C++ modules", "why": "Slides on LLVM's implementation of a C++ modules proposal."}
+{"id": 64120, "keep": 1, "q": 3, "kind": "paper", "topic": "c++", "depth": "expert", "title": "Signed Integers Are Two's Complement", "why": "Proposal arguing for removing non two's complement signed integer representations, with examples."}
+{"id": 64121, "keep": 1, "q": 2, "kind": "paper", "topic": "c++", "depth": "expert", "title": "P2327R1: volatile compound assignment", "why": "Committee paper on deprecations in C++20 and why some were reverted."}
+{"id": 64122, "keep": 1, "q": 3, "kind": "paper", "topic": "c++", "depth": "expert", "title": "Performance of std::expected", "why": "Proposal with measurements of error-handling costs on exceptional and common paths."}
+{"id": 64123, "keep": 0, "q": 1, "kind": "other", "topic": "filesystems", "depth": "intro", "title": "OpenZFS companies", "why": "List of companies."}
+{"id": 64124, "keep": 1, "q": 2, "kind": "reference", "topic": "filesystems", "depth": "intermediate", "title": "OpenZFS feature flags", "why": "Explains ZFS pool feature flags and compatibility across platforms."}
+{"id": 64125, "keep": 1, "q": 4, "kind": "blog", "topic": "cloud computing", "depth": "intermediate", "title": "Self-Service, Prorated Super-Computing Fun", "why": "NYT engineer's account of running a large batch conversion on Hadoop and Amazon EC2."}
+{"id": 64126, "keep": 1, "q": 4, "kind": "blog", "topic": "text editors", "depth": "intermediate", "title": "Building a Text Editor for a Digital-First Newsroom", "why": "How the NYT built a custom editor on ProseMirror and what the requirements demanded."}
+{"id": 64127, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "Sentry licensing", "why": "Licensing policy page."}
+{"id": 64128, "keep": 0, "q": 1, "kind": "reference", "topic": "open data", "depth": "intro", "title": "White House open data browse", "why": "Data portal page."}
+{"id": 64129, "keep": 1, "q": 4, "kind": "blog", "topic": "ai", "depth": "intermediate", "title": "AI and Efficiency", "why": "OpenAI analysis showing algorithmic efficiency gains in neural network training over time."}
+{"id": 64130, "keep": 1, "q": 4, "kind": "blog", "topic": "reinforcement learning", "depth": "intermediate", "title": "Deep Reinforcement Learning from Human Preferences", "why": "Explains training a reward model from human comparisons, the basis of RLHF."}
+{"id": 64131, "keep": 1, "q": 5, "kind": "blog", "topic": "generative models", "depth": "intermediate", "title": "Generative Models", "why": "Clear overview of generative model families such as autoregressive models, VAEs and GANs."}
+{"id": 64132, "keep": 1, "q": 4, "kind": "blog", "topic": "machine learning", "depth": "intermediate", "title": "Image GPT", "why": "Shows a transformer trained to model pixels, with results on image completion."}
+{"id": 64133, "keep": 0, "q": 2, "kind": "news", "topic": "embeddings", "depth": "intro", "title": "Introducing text and code embeddings", "why": "Product launch announcement."}
+{"id": 64134, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "OpenAI and Microsoft", "why": "Partnership announcement."}
+{"id": 64135, "keep": 0, "q": 2, "kind": "news", "topic": "llms", "depth": "intro", "title": "New embedding models and API updates", "why": "Product announcement."}
+{"id": 64136, "keep": 0, "q": 2, "kind": "news", "topic": "llms", "depth": "intro", "title": "DevDay announcements", "why": "Product announcements."}
+{"id": 64137, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "New ways to manage your data in ChatGPT", "why": "Product policy announcement."}
+{"id": 64138, "keep": 0, "q": 2, "kind": "news", "topic": "business", "depth": "intro", "title": "OpenAI and Elon Musk emails", "why": "Corporate dispute documents."}
+{"id": 64139, "keep": 0, "q": 2, "kind": "news", "topic": "ai safety", "depth": "intro", "title": "Reducing bias in DALL-E 2", "why": "Safety announcement."}
+{"id": 64140, "keep": 0, "q": 1, "kind": "other", "topic": "llms", "depth": "intro", "title": "GPT-4 contributors", "why": "Credits page."}
+{"id": 64141, "keep": 0, "q": 1, "kind": "other", "topic": "accessibility", "depth": "intro", "title": "Be My Eyes customer story", "why": "Marketing case study."}
+{"id": 64142, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Accelerating the next phase of AI", "why": "Company funding announcement."}
+{"id": 64143, "keep": 0, "q": 1, "kind": "news", "topic": "infrastructure", "depth": "intro", "title": "Stargate project", "why": "Corporate announcement."}
+{"id": 64144, "keep": 0, "q": 1, "kind": "other", "topic": "business", "depth": "intro", "title": "Built to Benefit Everyone", "why": "Corporate governance statement."}
+{"id": 64145, "keep": 0, "q": 1, "kind": "news", "topic": "education", "depth": "intro", "title": "ChatGPT study mode", "why": "Product announcement."}
+{"id": 64146, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Disrupting covert influence operations", "why": "Threat report news."}
+{"id": 64147, "keep": 0, "q": 1, "kind": "news", "topic": "safety", "depth": "intro", "title": "Helping people when they need it most", "why": "Policy announcement."}
+{"id": 64148, "keep": 1, "q": 4, "kind": "blog", "topic": "data agents", "depth": "intermediate", "title": "Inside Our In-House Data Agent", "why": "Engineering account of an agent with persistent memory for querying company data."}
+{"id": 64149, "keep": 0, "q": 1, "kind": "news", "topic": "coding agents", "depth": "intro", "title": "Introducing Codex", "why": "Product launch."}
+{"id": 64150, "keep": 0, "q": 1, "kind": "news", "topic": "research agents", "depth": "intro", "title": "Introducing deep research", "why": "Product launch."}
+{"id": 64151, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "Introducing GPT-5.2", "why": "Model launch."}
+{"id": 64152, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "GPT-5.3-Codex-Spark", "why": "Model launch."}
+{"id": 64153, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "Introducing GPT-5.5", "why": "Model launch."}
+{"id": 64154, "keep": 0, "q": 1, "kind": "news", "topic": "audio models", "depth": "intro", "title": "Next-generation audio models", "why": "Product launch."}
+{"id": 64155, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "Introducing the Realtime API", "why": "API launch."}
+{"id": 64156, "keep": 0, "q": 1, "kind": "news", "topic": "coding agents", "depth": "intro", "title": "Introducing upgrades to Codex", "why": "Product launch."}
+{"id": 64157, "keep": 1, "q": 3, "kind": "blog", "topic": "engineering", "depth": "intermediate", "title": "March 20 ChatGPT Outage", "why": "Postmortem explaining a caching bug that exposed chat titles to other users."}
+{"id": 64158, "keep": 0, "q": 1, "kind": "news", "topic": "ai detection", "depth": "intro", "title": "New AI classifier for AI-written text", "why": "Withdrawn product announcement."}
+{"id": 64159, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "New embedding models", "why": "Product announcement."}
+{"id": 64160, "keep": 0, "q": 1, "kind": "news", "topic": "ai safety", "depth": "intro", "title": "Safety and security committee", "why": "Governance announcement."}
+{"id": 64161, "keep": 1, "q": 3, "kind": "essay", "topic": "agi", "depth": "intro", "title": "Planning for AGI and Beyond", "why": "Altman's essay on staged deployment and governance of advanced AI systems."}
+{"id": 64162, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "Previewing GPT-5.6 Sol", "why": "Model preview."}
+{"id": 64163, "keep": 1, "q": 4, "kind": "blog", "topic": "kubernetes", "depth": "intermediate", "title": "Scaling Kubernetes to 7,500 Nodes", "why": "Engineering account of scaling a Kubernetes cluster to run large MPI-style jobs."}
+{"id": 64164, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Scaling trusted access for cyber defense", "why": "Corporate access program announcement."}
+{"id": 64165, "keep": 0, "q": 1, "kind": "news", "topic": "safety", "depth": "intro", "title": "Strengthening ChatGPT responses in sensitive conversations", "why": "Policy announcement."}
+{"id": 64166, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Testing ads in ChatGPT", "why": "Product announcement."}
+{"id": 64167, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Trusted Access for Cyber", "why": "Program announcement."}
+{"id": 64168, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "OpenAI jobs", "why": "Careers page."}
+{"id": 64169, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "OpenAI business terms", "why": "Legal terms."}
+{"id": 64170, "keep": 0, "q": 1, "kind": "other", "topic": "research", "depth": "intro", "title": "OpenAI requests for research", "why": "Project list page."}
+{"id": 64171, "keep": 1, "q": 4, "kind": "blog", "topic": "kubernetes", "depth": "intermediate", "title": "Scaling Kubernetes to 7,500 Nodes", "why": "Same engineering post as the index version; MPI jobs on Kubernetes."}
+{"id": 64172, "keep": 0, "q": 1, "kind": "tool", "topic": "video", "depth": "intro", "title": "Sora", "why": "Product page."}
+{"id": 64173, "keep": 1, "q": 3, "kind": "visual", "topic": "interpretability", "depth": "expert", "title": "Sparse Autoencoder Viewer", "why": "Interactive viewer for browsing sparse autoencoder features in a language model."}
+{"id": 64174, "keep": 0, "q": 1, "kind": "reference", "topic": "image generation", "depth": "intro", "title": "Stable Diffusion prompt book", "why": "Prompt collection."}
+{"id": 64175, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "Linux kernel build benchmark", "why": "Benchmark page."}
+{"id": 64176, "keep": 0, "q": 1, "kind": "other", "topic": "openbsd", "depth": "intro", "title": "OpenBSD Amsterdam setup", "why": "Provider setup file."}
+{"id": 64177, "keep": 1, "q": 2, "kind": "docs", "topic": "operating systems", "depth": "intermediate", "title": "OpenBSD 6.0 release notes", "why": "Release notes on ARM boot and randomised libc relinking as a defence."}
+{"id": 64178, "keep": 1, "q": 2, "kind": "docs", "topic": "operating systems", "depth": "intermediate", "title": "OpenBSD 7.2 release notes", "why": "Release notes covering new hardware support and security changes."}
+{"id": 64179, "keep": 0, "q": 1, "kind": "docs", "topic": "openbsd", "depth": "intro", "title": "OpenBSD anoncvs", "why": "Source checkout instructions."}
+{"id": 64180, "keep": 1, "q": 4, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "pledge(2) man page", "why": "Reference for restricting process system calls on OpenBSD, with the design rationale."}
+{"id": 64181, "keep": 1, "q": 4, "kind": "reference", "topic": "memory allocation", "depth": "intermediate", "title": "malloc(3) man page", "why": "OpenBSD malloc manual explaining its hardening options and how to use allocation safely."}
+{"id": 64182, "keep": 0, "q": 1, "kind": "docs", "topic": "openbsd", "depth": "intro", "title": "OpenBSD errata", "why": "Errata list."}
+{"id": 64183, "keep": 0, "q": 1, "kind": "docs", "topic": "openbsd", "depth": "intro", "title": "OpenBSD 5.9 errata", "why": "Errata list."}
+{"id": 64184, "keep": 0, "q": 1, "kind": "docs", "topic": "openbsd", "depth": "intro", "title": "OpenBSD FAQ 1", "why": "Project FAQ."}
+{"id": 64185, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intro", "title": "OpenBSD FAQ 8", "why": "FAQ on physical access and passwords."}
+{"id": 64186, "keep": 1, "q": 4, "kind": "docs", "topic": "networking", "depth": "intermediate", "title": "OpenBSD PF User's Guide", "why": "Packet filter guide with configuration recipes and explanations."}
+{"id": 64187, "keep": 0, "q": 1, "kind": "docs", "topic": "openbsd", "depth": "intro", "title": "OpenBSD upgrade guide", "why": "Upgrade instructions."}
+{"id": 64188, "keep": 0, "q": 1, "kind": "docs", "topic": "openbsd", "depth": "intro", "title": "OpenCVS", "why": "Project page."}
+{"id": 64189, "keep": 0, "q": 1, "kind": "reference", "topic": "openbsd", "depth": "intro", "title": "OpenBSD papers index", "why": "Index page."}
+{"id": 64190, "keep": 1, "q": 4, "kind": "talk", "topic": "security", "depth": "intermediate", "title": "Pledge and Unveil", "why": "Slides on OpenBSD's pledge and unveil mechanisms for hardening software."}
+{"id": 64191, "keep": 1, "q": 4, "kind": "paper", "topic": "cryptography", "depth": "intermediate", "title": "LibreSSL", "why": "BSDCan paper on LibreSSL's goals and what cleaning up OpenSSL required."}
+{"id": 64192, "keep": 1, "q": 3, "kind": "talk", "topic": "security", "depth": "intermediate", "title": "ruBSD 2013 talk", "why": "Theo de Raadt's talk slides on OpenBSD security work."}
+{"id": 64193, "keep": 0, "q": 1, "kind": "other", "topic": "openbsd", "depth": "intro", "title": "OpenBSD support", "why": "Support page."}
+{"id": 64194, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "OpenBSD on Zaurus", "why": "Hardware support page."}
+{"id": 64195, "keep": 0, "q": 1, "kind": "tool", "topic": "eda", "depth": "intro", "title": "Magic VLSI", "why": "Tool download page."}
+{"id": 64196, "keep": 1, "q": 4, "kind": "tutorial", "topic": "algorithms", "depth": "intermediate", "title": "Stanford CS161: Introduction to Algorithms", "why": "Recorded Stanford algorithms course covering sorting, graphs and more."}
+{"id": 64197, "keep": 0, "q": 1, "kind": "other", "topic": "education", "depth": "intro", "title": "Stanford OpenClassroom", "why": "Course portal."}
+{"id": 64198, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "Introducing OpenClaw", "why": "Product launch."}
+{"id": 64199, "keep": 0, "q": 1, "kind": "other", "topic": "funding", "depth": "intro", "title": "Asahi Linux OpenCollective", "why": "Donation page."}

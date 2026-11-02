@@ -1,0 +1,200 @@
+{"id": 60000, "keep": 0, "q": 1, "kind": "other", "topic": "agriculture", "depth": "intro", "title": "Roundup Pro SDS", "why": "Safety data sheet for a glyphosate herbicide; a hazard document, not something to learn from."}
+{"id": 60001, "keep": 0, "q": 1, "kind": "tool", "topic": "web", "depth": "intro", "title": "Flash Player 10 beta", "why": "Download page for an old Adobe Flash Player beta release."}
+{"id": 60002, "keep": 0, "q": 1, "kind": "docs", "topic": "music", "depth": "intro", "title": "Echo Nest Uploader FAQ", "why": "Support FAQ for a discontinued music-analysis upload tool."}
+{"id": 60003, "keep": 0, "q": 2, "kind": "tool", "topic": "generative ai", "depth": "intro", "title": "Google Whisk", "why": "Product page for an image remixing tool; no explanation of how it works."}
+{"id": 60004, "keep": 0, "q": 2, "kind": "tool", "topic": "color", "depth": "intro", "title": "Multicolr", "why": "Color-based image search utility; a search tool rather than something to read."}
+{"id": 60005, "keep": 1, "q": 3, "kind": "essay", "topic": "programming languages", "depth": "intermediate", "title": "The Static Typing Promise", "why": "Argues about what static typing does and does not deliver for safety and productivity."}
+{"id": 60006, "keep": 0, "q": 1, "kind": "tool", "topic": "ai", "depth": "intro", "title": "OpenAI Labs waitlist", "why": "Waitlist signup page with no content."}
+{"id": 60007, "keep": 0, "q": 1, "kind": "other", "topic": "cloud", "depth": "intro", "title": "Scaleway EM-RV1 RISC-V", "why": "Product page for a RISC-V cloud server offering."}
+{"id": 60008, "keep": 0, "q": 2, "kind": "tool", "topic": "image search", "depth": "intro", "title": "Retrievr", "why": "Sketch-based Flickr image search demo; a toy tool."}
+{"id": 60009, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "VMware microcode driver", "why": "Download page for a CPU microcode update driver tool."}
+{"id": 60010, "keep": 1, "q": 4, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "PostgreSQL on ZFS", "why": "Practical experience tuning and backing up PostgreSQL on ZFS storage."}
+{"id": 60011, "keep": 0, "q": 2, "kind": "other", "topic": "hardware", "depth": "intro", "title": "x0xb0x project", "why": "Personal DIY synth build page; a project showcase, not a guide."}
+{"id": 60012, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Swedish Copyright Act 1960:729", "why": "Swedish copyright statute text; legal text."}
+{"id": 60013, "keep": 0, "q": 2, "kind": "tool", "topic": "displays", "depth": "intro", "title": "Lagom LCD test", "why": "Monitor test-pattern tool; a utility rather than a read."}
+{"id": 60014, "keep": 0, "q": 2, "kind": "tool", "topic": "displays", "depth": "intro", "title": "Lagom gamma calibration", "why": "Gamma calibration utility page; a tool to run, not an explainer."}
+{"id": 60015, "keep": 1, "q": 4, "kind": "tutorial", "topic": "statistics", "depth": "intermediate", "title": "Statistical Learning (Stanford)", "why": "Free Stanford course on statistical learning methods, built on the ISL textbook."}
+{"id": 60016, "keep": 0, "q": 2, "kind": "reference", "topic": "homelessness", "depth": "intro", "title": "LA homeless count 2018", "why": "Government homeless count slides with statistics; a data report."}
+{"id": 60017, "keep": 0, "q": 2, "kind": "news", "topic": "ai", "depth": "intro", "title": "Eliza chatbot widow story", "why": "Paywalled Belgian news story about a chatbot-linked death."}
+{"id": 60018, "keep": 0, "q": 1, "kind": "tool", "topic": "drawing", "depth": "intro", "title": "Lalo.li LSD drawing toy", "why": "Interactive drawing toy with no lasting explanatory content."}
+{"id": 60019, "keep": 1, "q": 4, "kind": "essay", "topic": "hardware", "depth": "intermediate", "title": "ECC memory", "why": "Analysis of DRAM bit-flip rates and why ECC memory matters for reliability."}
+{"id": 60020, "keep": 1, "q": 3, "kind": "essay", "topic": "hardware", "depth": "intermediate", "title": "ECC memory part 2", "why": "Follow-up on memory error rates and how manufacturing defects skew DRAM failure odds."}
+{"id": 60021, "keep": 1, "q": 3, "kind": "blog", "topic": "programming languages", "depth": "intermediate", "title": "LtU: type-directed synthesis", "why": "Discussion thread on generating functions from type signatures, with practical program-synthesis pointers."}
+{"id": 60022, "keep": 1, "q": 3, "kind": "blog", "topic": "type systems", "depth": "intermediate", "title": "LtU: types as a library", "why": "Thread on effect-tracking type systems and why explicit monads help reason about impurity."}
+{"id": 60023, "keep": 1, "q": 3, "kind": "blog", "topic": "compilers", "depth": "intermediate", "title": "LtU: compilers in Scheme", "why": "Thread pointing to tutorials for writing a Scheme-to-x86 compiler."}
+{"id": 60024, "keep": 1, "q": 3, "kind": "blog", "topic": "garbage collection", "depth": "expert", "title": "LtU: reference counting vs GC", "why": "Discussion of a paper comparing reference counting with tracing garbage collection."}
+{"id": 60025, "keep": 0, "q": 2, "kind": "blog", "topic": "lisp", "depth": "intermediate", "title": "LtU: newLISP", "why": "Old forum thread debating newLISP and its macro hygiene; niche."}
+{"id": 60026, "keep": 0, "q": 2, "kind": "blog", "topic": "programming languages", "depth": "intermediate", "title": "LtU: objects and state", "why": "Forum thread on modelling objects versus state; mostly commentary."}
+{"id": 60027, "keep": 0, "q": 2, "kind": "blog", "topic": "statistics", "depth": "intermediate", "title": "LtU: R on Lisp", "why": "Forum thread on an R-like language built on Lisp; niche."}
+{"id": 60028, "keep": 0, "q": 2, "kind": "blog", "topic": "css", "depth": "intro", "title": "LtU: CSS is Turing complete", "why": "Forum thread linking the CSS Turing-completeness trick; a link only."}
+{"id": 60029, "keep": 0, "q": 2, "kind": "blog", "topic": "programming languages", "depth": "intermediate", "title": "LtU: subtyping List", "why": "Forum thread on subtyping generics; mostly commentary."}
+{"id": 60030, "keep": 0, "q": 2, "kind": "blog", "topic": "predictions", "depth": "intro", "title": "LtU: 2020 predictions", "why": "Forum thread of 2012 predictions about programming; dated commentary."}
+{"id": 60031, "keep": 0, "q": 2, "kind": "blog", "topic": "software configuration", "depth": "intro", "title": "LtU: configurability", "why": "Forum thread on configurability and learning curves in tooling."}
+{"id": 60032, "keep": 1, "q": 2, "kind": "blog", "topic": "programming languages", "depth": "intro", "title": "LtU: where to start with PL", "why": "Thread recommending resources for learning parsing and type theory."}
+{"id": 60033, "keep": 1, "q": 3, "kind": "blog", "topic": "gpus", "depth": "intermediate", "title": "2080 Ti deep learning benchmarks", "why": "Benchmarks comparing GPUs for deep learning price and performance."}
+{"id": 60034, "keep": 0, "q": 1, "kind": "other", "topic": "cloud", "depth": "intro", "title": "Lambda reserved H100 cloud", "why": "Pricing page for a GPU cloud reservation."}
+{"id": 60035, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Lambda School careers", "why": "Job listings page for a coding school."}
+{"id": 60036, "keep": 0, "q": 1, "kind": "other", "topic": "education", "depth": "intro", "title": "Lambda School CS", "why": "Marketing page for an online coding school program."}
+{"id": 60037, "keep": 0, "q": 1, "kind": "other", "topic": "education", "depth": "intro", "title": "Lambda full-stack course", "why": "Course marketing page for a bootcamp."}
+{"id": 60038, "keep": 0, "q": 1, "kind": "other", "topic": "education", "depth": "intro", "title": "Lambda School EU", "why": "Regional availability notice for a bootcamp."}
+{"id": 60039, "keep": 0, "q": 1, "kind": "other", "topic": "education", "depth": "intro", "title": "Lambda School FAQ", "why": "Bootcamp FAQ on income-share agreements and pricing."}
+{"id": 60040, "keep": 1, "q": 3, "kind": "blog", "topic": "surveillance", "depth": "intermediate", "title": "Capenhurst listening station", "why": "Investigation of a secret British tower used to intercept phone lines to Ireland."}
+{"id": 60041, "keep": 1, "q": 5, "kind": "paper", "topic": "distributed systems", "depth": "expert", "title": "The Byzantine Generals Problem", "why": "Classic paper formalizing Byzantine fault tolerance and the conditions for agreement."}
+{"id": 60042, "keep": 1, "q": 3, "kind": "essay", "topic": "distributed systems", "depth": "intermediate", "title": "Lamport: distributed system", "why": "Short Lamport note defining a distributed system through its failure modes."}
+{"id": 60043, "keep": 1, "q": 5, "kind": "book", "topic": "formal methods", "depth": "intermediate", "title": "Specifying Systems (TLA+)", "why": "Lamport's book on TLA+ for specifying and model-checking concurrent and distributed systems."}
+{"id": 60044, "keep": 1, "q": 3, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "Lance format docs", "why": "Specification and documentation of the Lance columnar format for ML datasets."}
+{"id": 60045, "keep": 0, "q": 2, "kind": "tool", "topic": "linux", "depth": "intro", "title": "Aboriginal Linux", "why": "Project page for an ARM Linux build environment; a tool."}
+{"id": 60046, "keep": 1, "q": 3, "kind": "reference", "topic": "windows history", "depth": "intro", "title": "Windows NT edition differences", "why": "Historical comparison of Windows NT editions and how Microsoft's licensing differed."}
+{"id": 60047, "keep": 0, "q": 2, "kind": "blog", "topic": "linux", "depth": "intermediate", "title": "Landley notes", "why": "Personal notes and changelog page on systemd and embedded Linux."}
+{"id": 60048, "keep": 0, "q": 2, "kind": "tool", "topic": "compilers", "depth": "intermediate", "title": "QCC compiler", "why": "Project page for a tcc-based code generator; a tool."}
+{"id": 60049, "keep": 0, "q": 2, "kind": "reference", "topic": "housing", "depth": "intro", "title": "Rent control by state", "why": "Table of rent control laws by state; a reference lookup."}
+{"id": 60050, "keep": 0, "q": 2, "kind": "other", "topic": "land", "depth": "intro", "title": "Largest US landowners", "why": "Ranked list of large landowners; a statistics list."}
+{"id": 60051, "keep": 1, "q": 2, "kind": "reference", "topic": "retro computing", "depth": "intro", "title": "Apple II command reference", "why": "Reference listing of Apple II BASIC commands for retro programming."}
+{"id": 60052, "keep": 1, "q": 3, "kind": "essay", "topic": "economics", "depth": "intermediate", "title": "Churchill on land value", "why": "Historical essay on rents, land and taxation using Churchill's words."}
+{"id": 60053, "keep": 1, "q": 3, "kind": "essay", "topic": "ethics", "depth": "intermediate", "title": "Copenhagen interpretation of ethics", "why": "Essay on how responsibility is divided when outcomes are uncertain, sparking debate."}
+{"id": 60054, "keep": 1, "q": 2, "kind": "docs", "topic": "llms", "depth": "intermediate", "title": "LangChain agents docs", "why": "Older LangChain documentation explaining agent planning and tool use."}
+{"id": 60055, "keep": 1, "q": 4, "kind": "blog", "topic": "linguistics", "depth": "intermediate", "title": "Pinker vs Chomsky at MIT", "why": "Language Log transcript of a debate on statistics versus universal grammar."}
+{"id": 60056, "keep": 0, "q": 2, "kind": "other", "topic": "linguistics", "depth": "intro", "title": "Language Log category index", "why": "Category index page listing posts; not content itself."}
+{"id": 60057, "keep": 1, "q": 3, "kind": "blog", "topic": "writing", "depth": "intro", "title": "Language Log on prose", "why": "Advice on writing natural prose and avoiding wordy phrases."}
+{"id": 60058, "keep": 1, "q": 3, "kind": "blog", "topic": "linguistics", "depth": "intermediate", "title": "Handwriting Japanese", "why": "Post on how handwriting Japanese differs and the risk of character amnesia."}
+{"id": 60059, "keep": 0, "q": 2, "kind": "blog", "topic": "linguistics", "depth": "intermediate", "title": "Language Log post 3626", "why": "Language Log post on a debated linguistic claim; unclear value."}
+{"id": 60060, "keep": 1, "q": 4, "kind": "paper", "topic": "nuclear", "depth": "intermediate", "title": "Fogbank: lost knowledge regained", "why": "Report on how Los Alamos rediscovered a lost manufacturing process for a warhead material."}
+{"id": 60061, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Apple OCSP privacy", "why": "Explains how Apple's certificate checks leak user activity and broke privacy promises."}
+{"id": 60062, "keep": 1, "q": 4, "kind": "essay", "topic": "classics", "depth": "intro", "title": "A Winelike Sea", "why": "Essay on Homer's 'wine-dark sea' and what the colour phrase meant in Greek."}
+{"id": 60063, "keep": 1, "q": 5, "kind": "blog", "topic": "signal processing", "depth": "intermediate", "title": "How Shazam works", "why": "Explains the spectrogram peak-fingerprinting technique behind Shazam's recognition."}
+{"id": 60064, "keep": 0, "q": 2, "kind": "paper", "topic": "energy", "depth": "intermediate", "title": "Pumped hydro coursework", "why": "Student coursework on pumped storage costs; cited as evidence."}
+{"id": 60065, "keep": 0, "q": 2, "kind": "paper", "topic": "nuclear", "depth": "expert", "title": "Seawater uranium paper", "why": "Old reference paper cited as evidence in a debate."}
+{"id": 60066, "keep": 1, "q": 3, "kind": "paper", "topic": "programming environments", "depth": "intermediate", "title": "Interlisp environment", "why": "Describes Interlisp's file-based development environment and how it tracked changes."}
+{"id": 60067, "keep": 1, "q": 3, "kind": "essay", "topic": "wikipedia", "depth": "intermediate", "title": "Nine Theses (Sanger)", "why": "Sanger's proposals for reforming Wikipedia's sourcing, neutrality and governance."}
+{"id": 60068, "keep": 0, "q": 2, "kind": "news", "topic": "email", "depth": "intro", "title": "The end of Gmane", "why": "Notice that the Gmane mailing-list archive is closing; a community announcement."}
+{"id": 60069, "keep": 1, "q": 4, "kind": "blog", "topic": "machine learning", "depth": "intermediate", "title": "Clickbait with RNNs", "why": "Walkthrough of training a word-level recurrent network to generate clickbait headlines."}
+{"id": 60070, "keep": 0, "q": 2, "kind": "other", "topic": "nft", "depth": "intro", "title": "Autoglyphs", "why": "NFT project page; a collectible rather than something to learn from."}
+{"id": 60071, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "LastPass username generator", "why": "Product page for a username generator tool."}
+{"id": 60072, "keep": 1, "q": 3, "kind": "blog", "topic": "career", "depth": "intro", "title": "AWS compensation explained", "why": "Breakdown of how Amazon pay, equity and levels work for engineers."}
+{"id": 60073, "keep": 0, "q": 1, "kind": "other", "topic": "government", "depth": "intro", "title": "La Suite Numerique", "why": "Government office suite landing page."}
+{"id": 60074, "keep": 1, "q": 3, "kind": "journalism", "topic": "magic", "depth": "intro", "title": "Teller's invisible thread trick", "why": "Profile of Teller's years of work perfecting a trick with invisible thread."}
+{"id": 60075, "keep": 1, "q": 4, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "The SOC, starting", "why": "Practical advice on building a security operations function from scratch."}
+{"id": 60076, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "A Child's Garden (Latacora)", "why": "Advice on authentication and crypto building blocks, and why to avoid JWT pitfalls."}
+{"id": 60077, "keep": 1, "q": 4, "kind": "blog", "topic": "performance", "depth": "intermediate", "title": "Latency: most page loads", "why": "Shows how tail latency compounds across many requests in a single page load."}
+{"id": 60078, "keep": 0, "q": 1, "kind": "reference", "topic": "tv ratings", "depth": "intro", "title": "Late-night ratings Q2 2025", "why": "Ratings tracker table; a statistics page."}
+{"id": 60079, "keep": 0, "q": 2, "kind": "news", "topic": "ai", "depth": "intro", "title": "Clippy vs Anton", "why": "Newsletter follow-up on OpenAI coverage; news commentary."}
+{"id": 60080, "keep": 1, "q": 2, "kind": "talk", "topic": "ai", "depth": "intermediate", "title": "Latent Space: George Hotz", "why": "Long interview on tinygrad, tinybox and AI hardware, plus the GPT-4 rumour."}
+{"id": 60081, "keep": 1, "q": 3, "kind": "explainer", "topic": "chemistry", "depth": "intro", "title": "Fluorine", "why": "Explainer on fluorine's extreme reactivity and the history of isolating it."}
+{"id": 60082, "keep": 1, "q": 3, "kind": "docs", "topic": "typesetting", "depth": "intro", "title": "About LaTeX", "why": "Official explanation of LaTeX's design philosophy and where it fits."}
+{"id": 60083, "keep": 0, "q": 2, "kind": "news", "topic": "japan export", "depth": "intro", "title": "LA Times 2000 supercomputer", "why": "Old news story about a Sony export controversy."}
+{"id": 60084, "keep": 0, "q": 2, "kind": "news", "topic": "japan", "depth": "intro", "title": "LA Times 2007 Japan crime", "why": "Old news story about Japanese society; news."}
+{"id": 60085, "keep": 0, "q": 2, "kind": "news", "topic": "cars", "depth": "intro", "title": "LA Times car age 2014", "why": "News story about the average age of cars on the road."}
+{"id": 60086, "keep": 0, "q": 1, "kind": "news", "topic": "cars", "depth": "intro", "title": "LA Times car age 2015", "why": "News story on car ages; dated."}
+{"id": 60087, "keep": 0, "q": 2, "kind": "news", "topic": "gambling", "depth": "intro", "title": "LA Times Buffett bet", "why": "News story about a basketball bracket bet."}
+{"id": 60088, "keep": 0, "q": 2, "kind": "news", "topic": "arbitration", "depth": "intro", "title": "LA Times Uber arbitration", "why": "News story about Uber's arbitration costs."}
+{"id": 60089, "keep": 0, "q": 2, "kind": "news", "topic": "tesla", "depth": "intro", "title": "LA Times Tesla racism", "why": "News story about a lawsuit over racism at Tesla."}
+{"id": 60090, "keep": 0, "q": 2, "kind": "news", "topic": "tesla", "depth": "intro", "title": "LA Times Tesla autopilot stats", "why": "News story about Tesla ceasing Autopilot safety reports."}
+{"id": 60091, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intermediate", "title": "Retail lobby shoplifting claims", "why": "Column tracing how an industry shoplifting statistic was exaggerated and later retracted."}
+{"id": 60092, "keep": 0, "q": 2, "kind": "news", "topic": "education", "depth": "intro", "title": "LA Times grades vs SAT", "why": "News coverage of a study on grades versus SAT."}
+{"id": 60093, "keep": 0, "q": 2, "kind": "news", "topic": "law enforcement", "depth": "intro", "title": "LA Times safe-deposit raid", "why": "News story about an FBI raid on a safe-deposit company."}
+{"id": 60094, "keep": 0, "q": 2, "kind": "news", "topic": "microplastics", "depth": "intro", "title": "LA Times microplastics", "why": "News story on microplastics in California waters."}
+{"id": 60095, "keep": 0, "q": 2, "kind": "news", "topic": "education", "depth": "intro", "title": "LA Times Asian tutoring", "why": "News feature on tutoring and admissions; topical."}
+{"id": 60096, "keep": 0, "q": 2, "kind": "news", "topic": "property", "depth": "intro", "title": "Martin's Beach", "why": "News story about a land access dispute."}
+{"id": 60097, "keep": 0, "q": 2, "kind": "news", "topic": "nuclear waste", "depth": "intro", "title": "New Mexico nuclear dump", "why": "News story about a waste accident at a repository."}
+{"id": 60098, "keep": 0, "q": 2, "kind": "news", "topic": "immigration", "depth": "intro", "title": "Obama deportations", "why": "News story on deportation policy."}
+{"id": 60099, "keep": 0, "q": 2, "kind": "other", "topic": "russia", "depth": "intro", "title": "Shifrinson on NATO", "why": "Op-ed debating NATO and Russia; opinion."}
+{"id": 60100, "keep": 1, "q": 4, "kind": "essay", "topic": "psychology", "depth": "intro", "title": "The Ring Theory of Grief", "why": "Essay on how to support people in grief by comforting those further from the loss."}
+{"id": 60101, "keep": 1, "q": 3, "kind": "essay", "topic": "history", "depth": "intermediate", "title": "Hiroshima and surrender", "why": "Op-ed arguing the US did not need atomic bombs to end the war with Japan."}
+{"id": 60102, "keep": 0, "q": 2, "kind": "news", "topic": "politics", "depth": "intro", "title": "California income tax migration", "why": "News story on California migration and taxes."}
+{"id": 60103, "keep": 1, "q": 2, "kind": "journalism", "topic": "race", "depth": "intro", "title": "MENA census category", "why": "Feature on how Middle Eastern and North African Americans are classified in census data."}
+{"id": 60104, "keep": 1, "q": 4, "kind": "journalism", "topic": "drone warfare", "depth": "intermediate", "title": "Obama at War", "why": "Investigative project on civilian deaths and drone strikes under Obama."}
+{"id": 60105, "keep": 1, "q": 3, "kind": "journalism", "topic": "politics", "depth": "intermediate", "title": "Newsom and San Francisco money", "why": "Investigation of donor and dynastic wealth behind Newsom's political career."}
+{"id": 60106, "keep": 1, "q": 4, "kind": "journalism", "topic": "nuclear testing", "depth": "intermediate", "title": "Marshall Islands nuclear legacy", "why": "Long-form investigation of nuclear testing harm and sea-level threats to the Marshall Islands."}
+{"id": 60107, "keep": 0, "q": 2, "kind": "news", "topic": "drugs", "depth": "intro", "title": "Mexico cartels avocados", "why": "News story on cartel violence and avocado trade."}
+{"id": 60108, "keep": 0, "q": 2, "kind": "news", "topic": "covid", "depth": "intro", "title": "Coronavirus reinfection", "why": "News story on patients testing positive again."}
+{"id": 60109, "keep": 1, "q": 3, "kind": "blog", "topic": "hardware", "depth": "intermediate", "title": "One-bit computer", "why": "Hobbyist write-up of a computer built around a single-bit datapath."}
+{"id": 60110, "keep": 0, "q": 2, "kind": "tool", "topic": "bioinformatics", "depth": "intro", "title": "GNUClad", "why": "Project page for a cladogram tool."}
+{"id": 60111, "keep": 0, "q": 2, "kind": "tool", "topic": "shell", "depth": "intro", "title": "safe-rm", "why": "Project page for a safer rm wrapper; a tool."}
+{"id": 60112, "keep": 0, "q": 1, "kind": "other", "topic": "ubuntu", "depth": "intro", "title": "Ubuntu mirror list", "why": "Mirror list page for Ubuntu packages."}
+{"id": 60113, "keep": 0, "q": 1, "kind": "other", "topic": "linux", "depth": "intro", "title": "Sputnik kernel PPA", "why": "Package archive page for a custom kernel."}
+{"id": 60114, "keep": 0, "q": 1, "kind": "other", "topic": "node.js", "depth": "intro", "title": "Node.js PPA", "why": "Package archive page for Node.js packages."}
+{"id": 60115, "keep": 0, "q": 1, "kind": "other", "topic": "python", "depth": "intro", "title": "Deadsnakes PPA", "why": "Package archive page for newer Python versions."}
+{"id": 60116, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intro", "title": "Firefox next PPA", "why": "Package archive page for Firefox beta."}
+{"id": 60117, "keep": 1, "q": 4, "kind": "blog", "topic": "typesetting", "depth": "expert", "title": "Layout models", "why": "Compares how TeX and modern engines approach paragraph and page layout."}
+{"id": 60118, "keep": 0, "q": 2, "kind": "news", "topic": "copyright", "depth": "intro", "title": "Obama Hope poster lawsuit", "why": "Legal case news on a copyright settlement."}
+{"id": 60119, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation", "depth": "intro", "title": "14 CFR 25.203", "why": "Aviation regulation text; legal text."}
+{"id": 60120, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation", "depth": "intro", "title": "14 CFR 91.113", "why": "Aviation regulation text; legal text."}
+{"id": 60121, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation", "depth": "intro", "title": "14 CFR 91.3", "why": "Aviation regulation text; legal text."}
+{"id": 60122, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "25th Amendment", "why": "Constitutional amendment text; legal text."}
+{"id": 60123, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Article II", "why": "Constitution text; legal text."}
+{"id": 60124, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Federal Rules of Evidence", "why": "Court rules text; legal text."}
+{"id": 60125, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "FRE 801", "why": "Court rule text; legal text."}
+{"id": 60126, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Supreme Court 90-1912", "why": "Court opinion text; legal text."}
+{"id": 60127, "keep": 0, "q": 1, "kind": "reference", "topic": "privacy law", "depth": "intro", "title": "Katz v. United States", "why": "Court opinion text; legal text."}
+{"id": 60128, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Supreme Court 410 U.S. 113", "why": "Court opinion text; legal text."}
+{"id": 60129, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "1 USC 1", "why": "Statute definition text; legal text."}
+{"id": 60130, "keep": 0, "q": 1, "kind": "reference", "topic": "bankruptcy", "depth": "intro", "title": "11 USC 507", "why": "Bankruptcy statute text; legal text."}
+{"id": 60131, "keep": 0, "q": 1, "kind": "reference", "topic": "bankruptcy", "depth": "intro", "title": "11 USC 523", "why": "Bankruptcy statute text; legal text."}
+{"id": 60132, "keep": 0, "q": 1, "kind": "reference", "topic": "antitrust", "depth": "intro", "title": "15 USC 2", "why": "Antitrust statute text; legal text."}
+{"id": 60133, "keep": 0, "q": 1, "kind": "reference", "topic": "consumer law", "depth": "intro", "title": "15 USC 45", "why": "FTC statute text; legal text."}
+{"id": 60134, "keep": 0, "q": 1, "kind": "reference", "topic": "securities", "depth": "intro", "title": "15 USC 77b", "why": "Securities statute text; legal text."}
+{"id": 60135, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "18 USC 1038", "why": "Criminal statute text; legal text."}
+{"id": 60136, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "18 USC 111", "why": "Criminal statute text; legal text."}
+{"id": 60137, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "18 USC 119", "why": "Criminal statute text; legal text."}
+{"id": 60138, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "18 USC 16", "why": "Definition statute text; legal text."}
+{"id": 60139, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "18 USC 1702", "why": "Criminal statute text; legal text."}
+{"id": 60140, "keep": 0, "q": 1, "kind": "reference", "topic": "crypto law", "depth": "intro", "title": "18 USC 1960", "why": "Money transmission statute text; legal text."}
+{"id": 60141, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "18 USC 208", "why": "Ethics statute text; legal text."}
+{"id": 60142, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "18 USC 2256", "why": "Criminal statute text; legal text."}
+{"id": 60143, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "18 USC 2339A", "why": "Terrorism statute text; legal text."}
+{"id": 60144, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "18 USC 7", "why": "Jurisdiction statute text; legal text."}
+{"id": 60145, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "18 USC 873", "why": "Criminal statute text; legal text."}
+{"id": 60146, "keep": 0, "q": 1, "kind": "reference", "topic": "tax", "depth": "intro", "title": "26 USC 988", "why": "Tax statute text; legal text."}
+{"id": 60147, "keep": 0, "q": 1, "kind": "reference", "topic": "labor", "depth": "intro", "title": "29 USC 157", "why": "Labor statute text; legal text."}
+{"id": 60148, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "31 USC 5330", "why": "Financial statute text; legal text."}
+{"id": 60149, "keep": 0, "q": 1, "kind": "reference", "topic": "patents", "depth": "intro", "title": "35 USC 102", "why": "Patent statute text; legal text."}
+{"id": 60150, "keep": 0, "q": 1, "kind": "reference", "topic": "disability", "depth": "intro", "title": "42 USC 12181", "why": "Disability statute text; legal text."}
+{"id": 60151, "keep": 0, "q": 1, "kind": "reference", "topic": "health", "depth": "intro", "title": "42 USC 264", "why": "Public health statute text; legal text."}
+{"id": 60152, "keep": 0, "q": 1, "kind": "reference", "topic": "telecom", "depth": "intro", "title": "47 USC 333", "why": "Telecom statute text; legal text."}
+{"id": 60153, "keep": 0, "q": 1, "kind": "reference", "topic": "telecom", "depth": "intro", "title": "47 USC chapter 5", "why": "Telecom statute text; legal text."}
+{"id": 60154, "keep": 0, "q": 1, "kind": "reference", "topic": "rail", "depth": "intro", "title": "49 USC 24308", "why": "Rail statute text; legal text."}
+{"id": 60155, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation", "depth": "intro", "title": "49 USC 40103", "why": "Aviation statute text; legal text."}
+{"id": 60156, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "5 USC 3331", "why": "Oath of office text; legal text."}
+{"id": 60157, "keep": 0, "q": 1, "kind": "reference", "topic": "administrative law", "depth": "intro", "title": "5 USC 706", "why": "Administrative procedure text; legal text."}
+{"id": 60158, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "50 USC 1701", "why": "Emergency powers statute text; legal text."}
+{"id": 60159, "keep": 0, "q": 1, "kind": "reference", "topic": "surveillance law", "depth": "intro", "title": "50 USC 1801", "why": "FISA definitions; legal text."}
+{"id": 60160, "keep": 0, "q": 1, "kind": "reference", "topic": "surveillance law", "depth": "intro", "title": "50 USC 1881a", "why": "FISA section 702 text; legal text."}
+{"id": 60161, "keep": 0, "q": 1, "kind": "reference", "topic": "immigration law", "depth": "intro", "title": "8 USC 1481", "why": "Citizenship statute text; legal text."}
+{"id": 60162, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intro", "title": "Chevron deference", "why": "Legal dictionary entry on a doctrine; a reference lookup."}
+{"id": 60163, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intro", "title": "Consideration (legal)", "why": "Legal dictionary entry; a reference lookup."}
+{"id": 60164, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intro", "title": "Fraud (legal)", "why": "Legal dictionary entry; a reference lookup."}
+{"id": 60165, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intro", "title": "Good faith exception", "why": "Legal dictionary entry; a reference lookup."}
+{"id": 60166, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intro", "title": "Nondelegation doctrine", "why": "Legal dictionary entry; a reference lookup."}
+{"id": 60167, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intro", "title": "Preponderance of evidence", "why": "Legal dictionary entry; a reference lookup."}
+{"id": 60168, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intro", "title": "Qualified immunity", "why": "Legal dictionary entry; a reference lookup."}
+{"id": 60169, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intro", "title": "Second Amendment", "why": "Legal dictionary entry; a reference lookup."}
+{"id": 60170, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intro", "title": "Unconscionability", "why": "Legal dictionary entry; a reference lookup."}
+{"id": 60171, "keep": 1, "q": 2, "kind": "paper", "topic": "law and economics", "depth": "intermediate", "title": "Ramseyer litigation paper", "why": "Working paper on litigation rates across countries and the American litigiousness claim."}
+{"id": 60172, "keep": 0, "q": 2, "kind": "paper", "topic": "guns", "depth": "intermediate", "title": "Kates and Mause gun paper", "why": "Law review article cited as evidence in a gun-control argument."}
+{"id": 60173, "keep": 1, "q": 5, "kind": "talk", "topic": "decision making", "depth": "intro", "title": "Psychology of Human Misjudgment", "why": "Munger's classic speech on the cognitive biases that distort judgment."}
+{"id": 60174, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Midler v. Ford", "why": "Court opinion text; legal text."}
+{"id": 60175, "keep": 0, "q": 2, "kind": "reference", "topic": "antitrust", "depth": "intro", "title": "Microsoft antitrust opinion", "why": "Court opinion text; legal text."}
+{"id": 60176, "keep": 0, "q": 1, "kind": "reference", "topic": "fraud", "depth": "intro", "title": "OfficeMax fraud appeal", "why": "Court opinion text; legal text."}
+{"id": 60177, "keep": 0, "q": 1, "kind": "reference", "topic": "criminal law", "depth": "intro", "title": "Missouri supreme court case", "why": "Court opinion text; legal text."}
+{"id": 60178, "keep": 0, "q": 2, "kind": "blog", "topic": "race", "depth": "intro", "title": "Volokh on Asian Americans", "why": "Law blog page cited as evidence in a race-and-admissions argument."}
+{"id": 60179, "keep": 1, "q": 3, "kind": "paper", "topic": "economics", "depth": "intermediate", "title": "Paradox of declining female happiness", "why": "Economics paper showing women's self-reported well-being fell relative to men's."}
+{"id": 60180, "keep": 0, "q": 2, "kind": "other", "topic": "israel", "depth": "intro", "title": "Law for Palestine database", "why": "Database of statements presented to the ICJ; a case-evidence collection."}
+{"id": 60181, "keep": 0, "q": 2, "kind": "news", "topic": "ticketing", "depth": "intro", "title": "LA Weekly Ticketmaster fees", "why": "News feature on ticket service fees."}
+{"id": 60182, "keep": 1, "q": 4, "kind": "essay", "topic": "history", "depth": "intro", "title": "What Ben Franklin really said", "why": "Traces the origin of the 'liberty and security' quote and what Franklin meant."}
+{"id": 60183, "keep": 1, "q": 3, "kind": "journalism", "topic": "social media", "depth": "intermediate", "title": "Facebook and Myanmar", "why": "Analysis of reporting on Facebook's role in Myanmar violence and the narrative around it."}
+{"id": 60184, "keep": 1, "q": 3, "kind": "book", "topic": "propaganda", "depth": "intro", "title": "Silent Weapons for Quiet Wars", "why": "Classic text on how public perception is shaped and manipulated."}
+{"id": 60185, "keep": 0, "q": 2, "kind": "other", "topic": "first amendment", "depth": "intermediate", "title": "First Amendment and advertising", "why": "Legal explainer on commercial speech; niche."}
+{"id": 60186, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Canada Criminal Code 342.1", "why": "Canadian statute text; legal text."}
+{"id": 60187, "keep": 0, "q": 2, "kind": "reference", "topic": "software", "depth": "intro", "title": "Zawinski's law", "why": "Short quote page on a software law; too brief to learn much."}
+{"id": 60188, "keep": 1, "q": 3, "kind": "tutorial", "topic": "nix", "depth": "intermediate", "title": "Download a specific package version with Nix", "why": "How to fetch old package versions in Nix and the tools that help."}
+{"id": 60189, "keep": 0, "q": 2, "kind": "reference", "topic": "energy", "depth": "intermediate", "title": "Lazard LCOE 2022", "why": "Industry cost report; a data reference cited in debates."}
+{"id": 60190, "keep": 0, "q": 2, "kind": "reference", "topic": "energy", "depth": "intermediate", "title": "Lazard LCOE+ 2025", "why": "Industry cost report; a data reference cited in debates."}
+{"id": 60191, "keep": 0, "q": 2, "kind": "reference", "topic": "energy", "depth": "intermediate", "title": "Lazard LCOE+ 2024", "why": "Industry cost report; a data reference cited in debates."}
+{"id": 60192, "keep": 0, "q": 2, "kind": "reference", "topic": "energy", "depth": "intermediate", "title": "Lazard LCOE+ 2025 (alt)", "why": "Industry cost report; a data reference cited in debates."}
+{"id": 60193, "keep": 1, "q": 3, "kind": "tutorial", "topic": "graphics", "depth": "intro", "title": "Lazy Foo SDL tutorials", "why": "Step-by-step SDL tutorials covering windows, input, images and rendering in C++."}
+{"id": 60194, "keep": 0, "q": 2, "kind": "comic", "topic": "webcomic", "depth": "intro", "title": "My first webcomic", "why": "Personal post about a webcomic; a short piece, not a learning resource."}
+{"id": 60195, "keep": 1, "q": 5, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Bash bug: how we cracked it", "why": "Zalewski's account of analysing Shellshock and the follow-on CVEs."}
+{"id": 60196, "keep": 1, "q": 3, "kind": "blog", "topic": "preparedness", "depth": "intro", "title": "Prepping guide", "why": "Low-hype guide to emergency preparedness written by a security researcher."}
+{"id": 60197, "keep": 0, "q": 2, "kind": "other", "topic": "longevity", "depth": "intro", "title": "Longevity FAQ", "why": "Company FAQ on aging research and hiring; mostly promotional."}
+{"id": 60198, "keep": 1, "q": 4, "kind": "explainer", "topic": "color", "depth": "intermediate", "title": "LCH colors in CSS", "why": "Explains why LCH and wide-gamut color spaces matter and how to use them in CSS."}
+{"id": 60199, "keep": 0, "q": 2, "kind": "other", "topic": "operating systems", "depth": "intermediate", "title": "DragonFlyBSD vs FreeBSD benchmarks", "why": "Undated benchmark slides comparing DragonFly and FreeBSD; a data deck."}

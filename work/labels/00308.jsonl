@@ -1,0 +1,200 @@
+{"id": 61600, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "So-called (Merriam-Webster)", "why": "Dictionary entry listing senses of a word; a generic lookup."}
+{"id": 61601, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Spell (Merriam-Webster)", "why": "Dictionary entry listing senses of a word; a generic lookup."}
+{"id": 61602, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Start-up (Merriam-Webster)", "why": "Dictionary entry listing senses of a word; a generic lookup."}
+{"id": 61603, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Subsidy (Merriam-Webster)", "why": "Dictionary entry listing senses of a word; a generic lookup."}
+{"id": 61604, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Table (Merriam-Webster)", "why": "Dictionary entry listing senses of a word; a generic lookup."}
+{"id": 61605, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Theft (Merriam-Webster)", "why": "Dictionary entry listing senses of a word; a generic lookup."}
+{"id": 61606, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Vehicle (Merriam-Webster)", "why": "Dictionary entry listing senses of a word; a generic lookup."}
+{"id": 61607, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Woke (Merriam-Webster)", "why": "Dictionary entry listing senses of a word; a generic lookup."}
+{"id": 61608, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Xenophobia (Merriam-Webster)", "why": "Dictionary entry listing senses of a word; a generic lookup."}
+{"id": 61609, "keep": 1, "q": 2, "kind": "explainer", "topic": "language", "depth": "intro", "title": "Could care less vs couldn't care less", "why": "Explains the origin and usage debate behind a common idiom."}
+{"id": 61610, "keep": 1, "q": 3, "kind": "explainer", "topic": "language", "depth": "intro", "title": "Descriptive vs prescriptive lexicography", "why": "Explains why dictionaries record usage rather than prescribe it."}
+{"id": 61611, "keep": 0, "q": 1, "kind": "reference", "topic": "software", "depth": "intro", "title": "Anatomy of credit card numbers", "why": "Quick lookup of card prefixes and format; trivial reference."}
+{"id": 61612, "keep": 0, "q": 1, "kind": "tool", "topic": "math", "depth": "intro", "title": "PrimeNet", "why": "Project page for distributed Mersenne prime search; a tool, not a read."}
+{"id": 61613, "keep": 0, "q": 2, "kind": "other", "topic": "hardware", "depth": "expert", "title": "Mersenneforum Zen 4 AVX-512 thread", "why": "Forum thread on CPU register widths; discussion, not a teaching piece."}
+{"id": 61614, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Liverpool man jailed in Encrochat operation", "why": "Police press release about a single court case."}
+{"id": 61615, "keep": 0, "q": 1, "kind": "other", "topic": "social media", "depth": "intro", "title": "Mastodon profile of neauoire", "why": "Personal profile page."}
+{"id": 61616, "keep": 0, "q": 2, "kind": "docs", "topic": "graphics", "depth": "expert", "title": "LLVMpipe software rasterizer", "why": "Project page for Mesa's software GL driver; reference, not a lesson."}
+{"id": 61617, "keep": 0, "q": 2, "kind": "docs", "topic": "radio", "depth": "intermediate", "title": "Meshtastic LoRa radio configuration", "why": "Product configuration docs for radio settings."}
+{"id": 61618, "keep": 1, "q": 2, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Meshtastic mesh algorithm", "why": "Explains how LoRa mesh nodes relay messages hop by hop to a destination."}
+{"id": 61619, "keep": 0, "q": 2, "kind": "docs", "topic": "radio", "depth": "intermediate", "title": "Meshtastic radio settings", "why": "Product settings reference with link-budget numbers for one preset."}
+{"id": 61620, "keep": 1, "q": 3, "kind": "blog", "topic": "clojure", "depth": "intermediate", "title": "Widefinder 2 with Clojure", "why": "Shows Clojure can compile to bytecode as tight as hand-written Java."}
+{"id": 61621, "keep": 1, "q": 3, "kind": "blog", "topic": "distributed systems", "depth": "intermediate", "title": "Apple's J.A.R.V.I.S., the Mesos framework behind Siri", "why": "How Apple ran Siri on a large Mesos cluster with a custom scheduler."}
+{"id": 61622, "keep": 0, "q": 1, "kind": "docs", "topic": "distributed systems", "depth": "intro", "title": "Marathon", "why": "Project docs for a container orchestrator; reference, not a lesson."}
+{"id": 61623, "keep": 0, "q": 1, "kind": "tool", "topic": "emulation", "depth": "intermediate", "title": "Apollo DN3500 emulator how-to", "why": "Setup steps for one emulator; narrow utility."}
+{"id": 61624, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "Messari careers", "why": "Job posting."}
+{"id": 61625, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Met Police photography advice", "why": "Official legal guidance on photography rights."}
+{"id": 61626, "keep": 0, "q": 1, "kind": "reference", "topic": "software", "depth": "intro", "title": "Stack Exchange clones and alternatives", "why": "List of alternative Q&A sites; a lookup list."}
+{"id": 61627, "keep": 0, "q": 1, "kind": "news", "topic": "licensing", "depth": "intro", "title": "Stack Exchange MIT-with-attribution license proposal", "why": "Community meta post about a license change."}
+{"id": 61628, "keep": 0, "q": 1, "kind": "news", "topic": "community", "depth": "intro", "title": "Stack Exchange update and apology", "why": "Company statement in a community dispute."}
+{"id": 61629, "keep": 0, "q": 1, "kind": "news", "topic": "community", "depth": "intro", "title": "Stack Exchange moderator agreement update", "why": "Community governance dispute; news of the moment."}
+{"id": 61630, "keep": 0, "q": 1, "kind": "news", "topic": "seo", "depth": "intro", "title": "Remove nofollow on reputable links (Stack Overflow)", "why": "Meta post about one site's link policy."}
+{"id": 61631, "keep": 0, "q": 1, "kind": "news", "topic": "monetization", "depth": "intro", "title": "Stack Overflow affiliate links", "why": "Meta post about one site's ad policy."}
+{"id": 61632, "keep": 0, "q": 1, "kind": "other", "topic": "wikipedia", "depth": "intro", "title": "Wikimedia grants", "why": "Organisational grant program page."}
+{"id": 61633, "keep": 0, "q": 2, "kind": "reference", "topic": "wikipedia", "depth": "intermediate", "title": "Mirroring Wikimedia XML dumps", "why": "Operational reference on dump mirrors."}
+{"id": 61634, "keep": 0, "q": 2, "kind": "tool", "topic": "wikipedia", "depth": "intermediate", "title": "Wikimedia telnet gateway", "why": "Service page for a telnet gateway."}
+{"id": 61635, "keep": 0, "q": 1, "kind": "other", "topic": "data", "depth": "intro", "title": "MetaBrainz datasets", "why": "Dataset catalogue page."}
+{"id": 61636, "keep": 1, "q": 3, "kind": "blog", "topic": "infrastructure", "depth": "intermediate", "title": "How we use IRC at Last.fm", "why": "Shows IRC pub-sub channels and bots powering internal notifications."}
+{"id": 61637, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "Metacomputing ARM AI PC listing", "why": "Product listing for a computer."}
+{"id": 61638, "keep": 0, "q": 2, "kind": "docs", "topic": "kubernetes", "depth": "intermediate", "title": "Metacontroller intro", "why": "Project intro docs for a Kubernetes controller framework."}
+{"id": 61639, "keep": 0, "q": 1, "kind": "reference", "topic": "perl", "depth": "intermediate", "title": "Moose (CPAN)", "why": "Module reference page."}
+{"id": 61640, "keep": 0, "q": 1, "kind": "tool", "topic": "perl", "depth": "intro", "title": "Acme::EyeDrops", "why": "Module page for a joke ASCII-art module."}
+{"id": 61641, "keep": 0, "q": 1, "kind": "reference", "topic": "perl", "depth": "intermediate", "title": "Coro (CPAN)", "why": "Module reference page."}
+{"id": 61642, "keep": 0, "q": 1, "kind": "reference", "topic": "perl", "depth": "intermediate", "title": "DBD::CSV (CPAN)", "why": "Module reference page."}
+{"id": 61643, "keep": 0, "q": 1, "kind": "reference", "topic": "perl", "depth": "intermediate", "title": "Function::Parameters (CPAN)", "why": "Module reference page."}
+{"id": 61644, "keep": 0, "q": 1, "kind": "reference", "topic": "perl", "depth": "intermediate", "title": "JSON::XS (CPAN)", "why": "Module reference page."}
+{"id": 61645, "keep": 0, "q": 1, "kind": "other", "topic": "perl", "depth": "intro", "title": "Lingua::tlhInganHol::yIghun", "why": "Novelty module page."}
+{"id": 61646, "keep": 0, "q": 1, "kind": "tool", "topic": "perl", "depth": "intro", "title": "Quantum::Superpositions", "why": "Module page for a toy quantum simulator."}
+{"id": 61647, "keep": 0, "q": 1, "kind": "reference", "topic": "perl", "depth": "intermediate", "title": "Type::Tiny (CPAN)", "why": "Module reference page."}
+{"id": 61648, "keep": 0, "q": 1, "kind": "other", "topic": "games", "depth": "intro", "title": "Metacritic game browse page", "why": "Score-browsing search page."}
+{"id": 61649, "keep": 0, "q": 1, "kind": "other", "topic": "community", "depth": "intro", "title": "MetaFilter thread: California Dreamin", "why": "Forum thread."}
+{"id": 61650, "keep": 0, "q": 1, "kind": "other", "topic": "community", "depth": "intro", "title": "MetaFilter thread: please unsubscribe me", "why": "Forum thread."}
+{"id": 61651, "keep": 0, "q": 1, "kind": "other", "topic": "community", "depth": "intro", "title": "MetaFilter about page", "why": "Site about page."}
+{"id": 61652, "keep": 1, "q": 3, "kind": "book", "topic": "prolog", "depth": "intermediate", "title": "Prolog Business Cases", "why": "Real industrial uses of Prolog, from airline ticketing to scheduling."}
+{"id": 61653, "keep": 1, "q": 3, "kind": "book", "topic": "prolog", "depth": "intermediate", "title": "CLP(Z): constraint logic over integers", "why": "Introduces constraint logic programming over integers in Prolog."}
+{"id": 61654, "keep": 0, "q": 1, "kind": "tool", "topic": "lua", "depth": "intermediate", "title": "strict.lua", "why": "Small script for catching global variable use."}
+{"id": 61655, "keep": 1, "q": 3, "kind": "blog", "topic": "machine learning", "depth": "intro", "title": "Hacking Hacker News headlines", "why": "Walks through modelling Hacker News rank from headline features."}
+{"id": 61656, "keep": 0, "q": 1, "kind": "tool", "topic": "macos", "depth": "intro", "title": "AppFresh", "why": "Project page for a macOS update tool."}
+{"id": 61657, "keep": 0, "q": 1, "kind": "docs", "topic": "meteor", "depth": "intermediate", "title": "Meteor LiveQuery", "why": "Project page for a Meteor subproject."}
+{"id": 61658, "keep": 0, "q": 1, "kind": "reference", "topic": "meteor", "depth": "intermediate", "title": "DDP clients", "why": "List of client libraries; a lookup."}
+{"id": 61659, "keep": 0, "q": 1, "kind": "docs", "topic": "markup", "depth": "intro", "title": "AsciiDoc", "why": "Project home for a markup language."}
+{"id": 61660, "keep": 1, "q": 3, "kind": "blog", "topic": "llms", "depth": "intermediate", "title": "METR AI usage survey", "why": "Evidence that developers overestimate productivity gains from AI agents."}
+{"id": 61661, "keep": 0, "q": 1, "kind": "reference", "topic": "tor", "depth": "intro", "title": "Tor onion service metrics", "why": "Statistics tracker."}
+{"id": 61662, "keep": 0, "q": 1, "kind": "reference", "topic": "tor", "depth": "intro", "title": "Tor direct users graph", "why": "Statistics tracker."}
+{"id": 61663, "keep": 0, "q": 1, "kind": "reference", "topic": "tor", "depth": "intro", "title": "Tor relay user stats", "why": "Statistics tracker."}
+{"id": 61664, "keep": 1, "q": 4, "kind": "paper", "topic": "cryptocurrency", "depth": "intermediate", "title": "Satoshi's Bitcoin posts on the cryptography list (2008)", "why": "Original Bitcoin announcement and early discussion, from primary sources."}
+{"id": 61665, "keep": 1, "q": 3, "kind": "essay", "topic": "security", "depth": "expert", "title": "Gutmann on cryptographic code quality (2016)", "why": "Critique of crypto library quality and the move toward DJB-style designs."}
+{"id": 61666, "keep": 1, "q": 4, "kind": "blog", "topic": "css", "depth": "intro", "title": "Reset Reloaded", "why": "Eric Meyer's CSS reset explained, with the rationale for each rule."}
+{"id": 61667, "keep": 0, "q": 1, "kind": "tool", "topic": "css", "depth": "intro", "title": "Color Blender", "why": "Interactive colour tool."}
+{"id": 61668, "keep": 0, "q": 1, "kind": "tool", "topic": "presentations", "depth": "intro", "title": "S5 slide show", "why": "Tool page for an HTML slide framework."}
+{"id": 61669, "keep": 0, "q": 1, "kind": "other", "topic": "css", "depth": "intro", "title": "CSS Zen Garden designs", "why": "Gallery of designs."}
+{"id": 61670, "keep": 0, "q": 1, "kind": "news", "topic": "patents", "depth": "intro", "title": "Blackboard patent claims invalidated", "why": "News about a patent ruling."}
+{"id": 61671, "keep": 0, "q": 1, "kind": "news", "topic": "apple", "depth": "intro", "title": "Apple's bungled battery feature", "why": "News about an iOS 11 bug."}
+{"id": 61672, "keep": 1, "q": 2, "kind": "blog", "topic": "productivity", "depth": "intro", "title": "Supine computing", "why": "Playful series on working lying down, with ergonomic reasoning."}
+{"id": 61673, "keep": 0, "q": 1, "kind": "tool", "topic": "go", "depth": "intro", "title": "curl-to-Go", "why": "Converter tool page."}
+{"id": 61674, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Mi TV product page", "why": "Product page."}
+{"id": 61675, "keep": 1, "q": 3, "kind": "journalism", "topic": "criminal justice", "depth": "intro", "title": "What Sweden does for its prisoners that the U.S. won't", "why": "Explains Swedish prison policy and the recidivism reasoning behind it."}
+{"id": 61676, "keep": 1, "q": 2, "kind": "blog", "topic": "keyboards", "depth": "intermediate", "title": "Kinesis custom controller", "why": "Hands-on notes on modifying a keyboard controller and its firmware."}
+{"id": 61677, "keep": 1, "q": 2, "kind": "blog", "topic": "networking", "depth": "intermediate", "title": "Fiber link to my home network", "why": "Practical account of running fiber into a home network."}
+{"id": 61678, "keep": 1, "q": 3, "kind": "tutorial", "topic": "networking", "depth": "intermediate", "title": "25Gbit internet with a PC router", "why": "Build guide for a 25Gbit home router, covering hardware and UEFI tuning."}
+{"id": 61679, "keep": 1, "q": 3, "kind": "paper", "topic": "entrepreneurship", "depth": "intermediate", "title": "Are entrepreneurs touched with fire?", "why": "Study comparing mental health rates of founders and non-founders."}
+{"id": 61680, "keep": 1, "q": 3, "kind": "visual", "topic": "perception", "depth": "intro", "title": "Michael Bach's optical illusions", "why": "Gallery explaining visual illusions and what they reveal about perception."}
+{"id": 61681, "keep": 1, "q": 2, "kind": "explainer", "topic": "energy", "depth": "intro", "title": "How much electricity do refrigerators use", "why": "Back-of-envelope energy and cost estimates for home appliances."}
+{"id": 61682, "keep": 1, "q": 4, "kind": "essay", "topic": "journalism", "depth": "intro", "title": "Why Speculate?", "why": "Crichton's speech on speculation in media and the Gell-Mann amnesia effect."}
+{"id": 61683, "keep": 1, "q": 3, "kind": "blog", "topic": "rust", "depth": "intermediate", "title": "I made a game in Rust", "why": "Postmortem of shipping a commercial game in Rust, including compile-time pain."}
+{"id": 61684, "keep": 0, "q": 1, "kind": "tool", "topic": "ios", "depth": "intro", "title": "Hacker News iPhone app", "why": "Product page for an app."}
+{"id": 61685, "keep": 1, "q": 4, "kind": "essay", "topic": "quantum computing", "depth": "intro", "title": "Quantum Computing for Everyone", "why": "Intuitive, non-technical explanation of the core ideas of quantum computing."}
+{"id": 61686, "keep": 1, "q": 3, "kind": "essay", "topic": "career", "depth": "intermediate", "title": "The trajectory of a software engineer", "why": "Career model of engineers and how pay and impact can diverge."}
+{"id": 61687, "keep": 1, "q": 2, "kind": "essay", "topic": "software design", "depth": "intro", "title": "What is spaghetti code?", "why": "Short essay defining spaghetti code and how it arises."}
+{"id": 61688, "keep": 1, "q": 2, "kind": "essay", "topic": "economics", "depth": "intro", "title": "The 3-ladder system of social class", "why": "Model of how social and economic class overlap in the US."}
+{"id": 61689, "keep": 1, "q": 4, "kind": "blog", "topic": "garbage collection", "depth": "expert", "title": "Real-time garbage collection is real", "why": "Explains real-time GC techniques and their memory and timing tradeoffs."}
+{"id": 61690, "keep": 0, "q": 1, "kind": "tutorial", "topic": "rails", "depth": "intermediate", "title": "Concurrency on a single Heroku dyno", "why": "Dated deployment how-to for one platform."}
+{"id": 61691, "keep": 0, "q": 1, "kind": "tool", "topic": "comics", "depth": "intro", "title": "Calvin and Hobbes search", "why": "Search tool for comic strips."}
+{"id": 61692, "keep": 1, "q": 2, "kind": "essay", "topic": "privacy", "depth": "intro", "title": "Zuckerberg on having two identities", "why": "Critique of Facebook's single-identity stance and its privacy implications."}
+{"id": 61693, "keep": 1, "q": 4, "kind": "tutorial", "topic": "scheme", "depth": "intermediate", "title": "Scheme from Scratch", "why": "Walks through building a Scheme implementation step by step."}
+{"id": 61694, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "muLinux", "why": "Software distribution page."}
+{"id": 61695, "keep": 0, "q": 2, "kind": "other", "topic": "traffic safety", "depth": "intro", "title": "Crash, not accident (Michigan DOT)", "why": "Government terminology page; policy, not a lesson."}
+{"id": 61696, "keep": 0, "q": 1, "kind": "other", "topic": "social media", "depth": "intro", "title": "Micro.blog discover feed", "why": "Feed page."}
+{"id": 61697, "keep": 1, "q": 2, "kind": "talk", "topic": "virology", "depth": "expert", "title": "This Week in Virology episode 591", "why": "Expert discussion of lab-origin debates and virology methods."}
+{"id": 61698, "keep": 0, "q": 1, "kind": "tool", "topic": "education", "depth": "intro", "title": "micro:bit Create code", "why": "Online editor page."}
+{"id": 61699, "keep": 0, "q": 1, "kind": "reference", "topic": "web standards", "depth": "intro", "title": "Microformats", "why": "Spec index page."}
+{"id": 61700, "keep": 0, "q": 1, "kind": "reference", "topic": "web standards", "depth": "intro", "title": "hResume microformat", "why": "Spec page for a resume format."}
+{"id": 61701, "keep": 0, "q": 1, "kind": "reference", "topic": "web standards", "depth": "intermediate", "title": "rel=nofollow microformat", "why": "Spec page for a link attribute."}
+{"id": 61702, "keep": 0, "q": 1, "kind": "reference", "topic": "web standards", "depth": "intro", "title": "Resume formats (microformats)", "why": "List of resume formats."}
+{"id": 61703, "keep": 1, "q": 3, "kind": "blog", "topic": "formal verification", "depth": "intermediate", "title": "Verified software can be cheaper than buggy software", "why": "Argues formal verification pays off, citing seL4's verified infrastructure."}
+{"id": 61704, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "PolarFire SoC FPGA", "why": "Product announcement page."}
+{"id": 61705, "keep": 1, "q": 3, "kind": "reference", "topic": "microservices", "depth": "intermediate", "title": "CQRS pattern", "why": "Concise reference on separating read and write models in distributed systems."}
+{"id": 61706, "keep": 0, "q": 1, "kind": "tool", "topic": "computer vision", "depth": "intro", "title": "Microsoft Face API", "why": "Product page for a cloud API."}
+{"id": 61707, "keep": 0, "q": 1, "kind": "other", "topic": "retro computing", "depth": "intro", "title": "IE6 testing VM and doom build notes", "why": "Download links for an old VM and a project build."}
+{"id": 61708, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intro", "title": "IE testing virtual machines", "why": "Download page for old browser VMs."}
+{"id": 61709, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Microsoft FY2016 Q4 earnings", "why": "Financial results page."}
+{"id": 61710, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "Microsoft GDPR trust center", "why": "Corporate compliance page."}
+{"id": 61711, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "Microsoft open-weight AI commitments", "why": "Corporate statement about a current news letter."}
+{"id": 61712, "keep": 0, "q": 1, "kind": "tool", "topic": "browsers", "depth": "intro", "title": "Microsoft Edge", "why": "Browser download page."}
+{"id": 61713, "keep": 0, "q": 1, "kind": "news", "topic": "education", "depth": "intro", "title": "Microsoft 365 education storage limits", "why": "Product policy page."}
+{"id": 61714, "keep": 0, "q": 1, "kind": "tool", "topic": "virtualization", "depth": "intermediate", "title": "Hyper-V Server 2019 evaluation", "why": "Download page for a server product."}
+{"id": 61715, "keep": 0, "q": 1, "kind": "tool", "topic": "windows", "depth": "intro", "title": "Windows 10 Enterprise evaluation", "why": "Download page for an evaluation build."}
+{"id": 61716, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "Exchange ActiveSync protocol licensing", "why": "Legal licensing page."}
+{"id": 61717, "keep": 0, "q": 1, "kind": "tool", "topic": "productivity", "depth": "intro", "title": "Microsoft Lists", "why": "Product page for a Microsoft app."}
+{"id": 61718, "keep": 0, "q": 1, "kind": "other", "topic": "software", "depth": "intro", "title": "Office Home 2024 purchase page", "why": "Product sales page."}
+{"id": 61719, "keep": 1, "q": 4, "kind": "blog", "topic": "memory safety", "depth": "intermediate", "title": "We need a safer systems programming language", "why": "Microsoft's case for memory-safe languages in systems code, backed by vulnerability data."}
+{"id": 61720, "keep": 0, "q": 1, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "Windows security servicing criteria", "why": "Vendor policy document."}
+{"id": 61721, "keep": 0, "q": 1, "kind": "tool", "topic": "terminals", "depth": "intro", "title": "Windows Terminal Preview", "why": "Store page for a terminal app."}
+{"id": 61722, "keep": 0, "q": 2, "kind": "news", "topic": "databases", "depth": "intermediate", "title": "Garnet cache store announcement", "why": "Product announcement for a cache store."}
+{"id": 61723, "keep": 1, "q": 3, "kind": "blog", "topic": "programming languages", "depth": "expert", "title": "P: programming with asynchrony", "why": "Explains the P language for testing asynchronous systems and its reliability payoff."}
+{"id": 61724, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "Turing-NLG announcement", "why": "Product announcement with benchmark claims."}
+{"id": 61725, "keep": 0, "q": 1, "kind": "other", "topic": "robotics", "depth": "intro", "title": "ChatGPT for robotics (Microsoft Research)", "why": "Research group page for a project."}
+{"id": 61726, "keep": 0, "q": 1, "kind": "tool", "topic": "photography", "depth": "intro", "title": "Image Composite Editor", "why": "Product page for a stitching tool."}
+{"id": 61727, "keep": 0, "q": 1, "kind": "other", "topic": "programming languages", "depth": "intro", "title": "Bosque programming language project", "why": "Research project page."}
+{"id": 61728, "keep": 0, "q": 1, "kind": "other", "topic": "biology", "depth": "intro", "title": "Microsoft CRISPR project", "why": "Research project page."}
+{"id": 61729, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "EMIPS research project", "why": "Research project page."}
+{"id": 61730, "keep": 0, "q": 1, "kind": "other", "topic": "games", "depth": "intro", "title": "TrueSkill ranking system", "why": "Project page for a rating system."}
+{"id": 61731, "keep": 0, "q": 1, "kind": "other", "topic": "ai", "depth": "intro", "title": "VASA-1 project", "why": "Research demo page."}
+{"id": 61732, "keep": 1, "q": 5, "kind": "paper", "topic": "build systems", "depth": "expert", "title": "Build Systems a la Carte", "why": "Unifying framework for build systems, comparing scheduling and rebuilding strategies."}
+{"id": 61733, "keep": 1, "q": 5, "kind": "paper", "topic": "distributed systems", "depth": "intermediate", "title": "The Byzantine Generals Problem", "why": "Foundational paper framing consensus under arbitrary faults."}
+{"id": 61734, "keep": 1, "q": 4, "kind": "paper", "topic": "formal verification", "depth": "expert", "title": "Coq: the world's best macro assembler?", "why": "Shows proof assistants can verify low-level code with precise assembly semantics."}
+{"id": 61735, "keep": 1, "q": 4, "kind": "book", "topic": "compilers", "depth": "intermediate", "title": "Implementing Functional Languages: a tutorial", "why": "Tutorial on compiling functional languages, from lambda calculus to abstract machines."}
+{"id": 61736, "keep": 1, "q": 4, "kind": "paper", "topic": "distributed systems", "depth": "expert", "title": "IronFleet: proving practical distributed systems correct", "why": "Shows how to verify a real distributed system implementation end to end."}
+{"id": 61737, "keep": 1, "q": 4, "kind": "paper", "topic": "distributed systems", "depth": "intermediate", "title": "Orleans: distributed virtual actors", "why": "Explains the virtual actor model and how it fixes classic actor-system problems."}
+{"id": 61738, "keep": 1, "q": 3, "kind": "paper", "topic": "databases", "depth": "expert", "title": "FASTER: a concurrent key-value store", "why": "Describes a high-performance key-value store design and its benchmark choices."}
+{"id": 61739, "keep": 1, "q": 4, "kind": "paper", "topic": "haskell", "depth": "expert", "title": "Lazy Functional State Threads", "why": "Explains how ST encapsulates mutable state inside pure Haskell code."}
+{"id": 61740, "keep": 1, "q": 3, "kind": "paper", "topic": "security", "depth": "intermediate", "title": "Microsoft password guidance", "why": "Evidence-based case against password rotation and complexity rules."}
+{"id": 61741, "keep": 1, "q": 2, "kind": "paper", "topic": "functional programming", "depth": "intermediate", "title": "Functional programming paper (mark.pdf)", "why": "Argues typed functional languages model programs through data and rich types."}
+{"id": 61742, "keep": 1, "q": 3, "kind": "paper", "topic": "program synthesis", "depth": "intermediate", "title": "Programming by example", "why": "Overview of programming by example and its role in automating repetitive tasks."}
+{"id": 61743, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "20 years of trustworthy computing", "why": "Corporate retrospective."}
+{"id": 61744, "keep": 0, "q": 1, "kind": "news", "topic": "databases", "depth": "intro", "title": "SQL Server on Linux", "why": "Product announcement page."}
+{"id": 61745, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "Enterprise Source Licensing Program", "why": "Licensing program page."}
+{"id": 61746, "keep": 0, "q": 1, "kind": "tool", "topic": "windows", "depth": "intro", "title": "Windows 7 software download", "why": "Download page."}
+{"id": 61747, "keep": 0, "q": 1, "kind": "other", "topic": "databases", "depth": "intro", "title": "SQL Server 2016 pricing", "why": "Pricing page."}
+{"id": 61748, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Microsoft Surface", "why": "Product page."}
+{"id": 61749, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Surface Hub 2", "why": "Product page."}
+{"id": 61750, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Surface Book 2", "why": "Product page."}
+{"id": 61751, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Surface Laptop", "why": "Product page."}
+{"id": 61752, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Surface Studio", "why": "Product page."}
+{"id": 61753, "keep": 0, "q": 1, "kind": "other", "topic": "windows", "depth": "intro", "title": "Windows Continuum", "why": "Product feature page."}
+{"id": 61754, "keep": 0, "q": 1, "kind": "news", "topic": "windows", "depth": "intro", "title": "Windows 7 end of support", "why": "Support lifecycle notice."}
+{"id": 61755, "keep": 0, "q": 1, "kind": "other", "topic": "windows", "depth": "intro", "title": "Windows 10 FAQ", "why": "Support FAQ."}
+{"id": 61756, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Nokia 215 specifications", "why": "Spec sheet for a phone."}
+{"id": 61757, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Microsoft ergonomic keyboard", "why": "Product page."}
+{"id": 61758, "keep": 0, "q": 1, "kind": "other", "topic": "open source", "depth": "intro", "title": "Microsoft open source", "why": "Corporate landing page."}
+{"id": 61759, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "expert", "title": "From alert to driver vulnerability", "why": "Walks through a security investigation that uncovered a privilege escalation flaw."}
+{"id": 61760, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Surface 3 product page", "why": "Product page."}
+{"id": 61761, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Microsoft Surface about page", "why": "Product page."}
+{"id": 61762, "keep": 1, "q": 4, "kind": "paper", "topic": "typography", "depth": "intro", "title": "The Science of Word Recognition", "why": "Summarises reading research on serif vs sans fonts and word shape."}
+{"id": 61763, "keep": 0, "q": 1, "kind": "tool", "topic": "web development", "depth": "intro", "title": "Web Platform Installer", "why": "Download page for an installer."}
+{"id": 61764, "keep": 0, "q": 1, "kind": "tool", "topic": "web development", "depth": "intro", "title": "WebMatrix", "why": "Product page for an IDE."}
+{"id": 61765, "keep": 0, "q": 1, "kind": "other", "topic": "cloud", "depth": "intro", "title": "Windows Azure", "why": "Product page."}
+{"id": 61766, "keep": 0, "q": 1, "kind": "docs", "topic": "editors", "depth": "intermediate", "title": "Monaco editor", "why": "Project docs for an editor component."}
+{"id": 61767, "keep": 0, "q": 1, "kind": "news", "topic": "browsers", "depth": "intro", "title": "Microsoft Edge Insider", "why": "Browser preview page."}
+{"id": 61768, "keep": 1, "q": 4, "kind": "book", "topic": "computing fundamentals", "depth": "intro", "title": "Code: The Hidden Language of Computer Hardware and Software", "why": "Builds from bits and logic gates up to how a computer runs software."}
+{"id": 61769, "keep": 0, "q": 1, "kind": "other", "topic": "windows", "depth": "intro", "title": "Microsoft Store PC bundles page", "why": "Store page."}
+{"id": 61770, "keep": 0, "q": 1, "kind": "news", "topic": "bitcoin", "depth": "intro", "title": "MicroStrategy Bitcoin page", "why": "Corporate treasury statement."}
+{"id": 61771, "keep": 1, "q": 2, "kind": "explainer", "topic": "audio", "depth": "intermediate", "title": "Details about MIDI 2.0", "why": "Overview of MIDI 2.0 profiles and property exchange."}
+{"id": 61772, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "Midjourney medical announcement", "why": "Product announcement."}
+{"id": 61773, "keep": 0, "q": 1, "kind": "visual", "topic": "ai art", "depth": "intro", "title": "Midjourney showcase gallery", "why": "Image gallery, not an explainer."}
+{"id": 61774, "keep": 1, "q": 2, "kind": "reference", "topic": "television", "depth": "intro", "title": "The Lurker's Guide to Babylon 5", "why": "Fan reference with newsgroup excerpts on the show's production."}
+{"id": 61775, "keep": 1, "q": 4, "kind": "book", "topic": "go", "depth": "intro", "title": "Learning Go", "why": "Short, free introduction to Go's types, interfaces and concurrency."}
+{"id": 61776, "keep": 0, "q": 1, "kind": "other", "topic": "email", "depth": "intro", "title": "Migadu pricing", "why": "Pricing page."}
+{"id": 61777, "keep": 0, "q": 1, "kind": "docs", "topic": "email", "depth": "intro", "title": "Migadu Thunderbird guide", "why": "Setup guide for one client."}
+{"id": 61778, "keep": 0, "q": 1, "kind": "reference", "topic": "immigration", "depth": "intro", "title": "Migrants in the UK: an overview", "why": "Statistics briefing."}
+{"id": 61779, "keep": 0, "q": 1, "kind": "reference", "topic": "immigration", "depth": "intro", "title": "Migrants in the UK labour market", "why": "Statistics briefing."}
+{"id": 61780, "keep": 0, "q": 1, "kind": "reference", "topic": "immigration", "depth": "intro", "title": "Frequently requested US immigration statistics (2024)", "why": "Statistics page."}
+{"id": 61781, "keep": 0, "q": 1, "kind": "reference", "topic": "immigration", "depth": "intro", "title": "International students in the United States", "why": "Statistics page."}
+{"id": 61782, "keep": 0, "q": 1, "kind": "reference", "topic": "immigration", "depth": "intro", "title": "Annual US legal permanent residents", "why": "Statistics chart."}
+{"id": 61783, "keep": 0, "q": 1, "kind": "other", "topic": "education", "depth": "intro", "title": "Personal CS degree account", "why": "Personal account, not a teaching piece."}
+{"id": 61784, "keep": 1, "q": 2, "kind": "tutorial", "topic": "search", "depth": "intermediate", "title": "How to implement search by color", "why": "Practical walkthrough of colour-based search over image features."}
+{"id": 61785, "keep": 1, "q": 4, "kind": "blog", "topic": "memory management", "depth": "expert", "title": "Ring buffers and mirrored memory, part I", "why": "Shows how vm_remap creates a contiguous ring buffer without copying."}
+{"id": 61786, "keep": 1, "q": 4, "kind": "blog", "topic": "objective-c", "depth": "expert", "title": "Let's build tagged pointers", "why": "Explains how Objective-C packs data into pointer bits for speed."}
+{"id": 61787, "keep": 1, "q": 4, "kind": "blog", "topic": "swift", "depth": "intermediate", "title": "Why is Swift's string API so hard?", "why": "Explains why string length is ill-defined once Unicode grapheme clusters are involved."}
+{"id": 61788, "keep": 1, "q": 3, "kind": "blog", "topic": "objective-c", "depth": "expert", "title": "objc_msgSend's new prototype", "why": "Explains how objc_msgSend dispatch and calling convention work at the ABI level."}
+{"id": 61789, "keep": 0, "q": 1, "kind": "other", "topic": "audio", "depth": "intro", "title": "Sennheiser HD 555 to 595 mod", "why": "Hardware modding note for one headphone model."}
+{"id": 61790, "keep": 1, "q": 2, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "Database as queue anti-pattern", "why": "Explains why using a database table as a queue causes locking problems."}
+{"id": 61791, "keep": 0, "q": 1, "kind": "other", "topic": "domains", "depth": "intro", "title": "How to snatch an expiring domain", "why": "Dated how-to about domain drop-catching."}
+{"id": 61792, "keep": 1, "q": 2, "kind": "reference", "topic": "transportation", "depth": "intro", "title": "Numbers every traffic engineer should know", "why": "Core rules of thumb for road capacity and lane space."}
+{"id": 61793, "keep": 1, "q": 4, "kind": "book", "topic": "category theory", "depth": "expert", "title": "Categorical logic notes (catlog)", "why": "Lecture notes linking category theory to logic and type systems."}
+{"id": 61794, "keep": 1, "q": 3, "kind": "blog", "topic": "serverless", "depth": "intermediate", "title": "AWS Lambda cold starts by language", "why": "Measures cold-start latency per Lambda runtime and what drives it."}
+{"id": 61795, "keep": 0, "q": 1, "kind": "other", "topic": "networking", "depth": "intro", "title": "MikroTik download terms", "why": "Licence and download terms page."}
+{"id": 61796, "keep": 0, "q": 1, "kind": "other", "topic": "networking", "depth": "intro", "title": "MikroTik CCR2004 product page", "why": "Product page."}
+{"id": 61797, "keep": 0, "q": 1, "kind": "other", "topic": "networking", "depth": "intro", "title": "MikroTik CCR2216 product page", "why": "Product page."}
+{"id": 61798, "keep": 0, "q": 1, "kind": "other", "topic": "networking", "depth": "intro", "title": "MikroTik hEX S product page", "why": "Product page."}
+{"id": 61799, "keep": 1, "q": 3, "kind": "blog", "topic": "ai", "depth": "intermediate", "title": "AlphaGo and AI progress", "why": "Assesses how significant AlphaGo was as an AI milestone, cutting through the hype."}

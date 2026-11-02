@@ -1,0 +1,200 @@
+{"id": 60400, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Let's Encrypt client new home", "why": "Announcement that the ACME client was renamed and moved to EFF; no lasting lesson."}
+{"id": 60401, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Defending our brand", "why": "Brand dispute post about a rival certificate authority; news-style, not instructive."}
+{"id": 60402, "keep": 0, "q": 2, "kind": "news", "topic": "security", "depth": "intermediate", "title": "Cross-sign expiration", "why": "Incident notice about an expiring root cross-sign and trust store impact."}
+{"id": 60403, "keep": 0, "q": 2, "kind": "news", "topic": "security", "depth": "intermediate", "title": "From 90 to 45 days", "why": "Policy announcement shortening certificate lifetimes; a change notice."}
+{"id": 60404, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "About Let's Encrypt", "why": "Organisation homepage with no substantive content to learn from."}
+{"id": 60405, "keep": 0, "q": 2, "kind": "news", "topic": "security", "depth": "intermediate", "title": "DST Root CA X3 expiration", "why": "Incident-specific notice about an expired root and compatibility fallout."}
+{"id": 60406, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "ISRG", "why": "Organisation about page; governance details only."}
+{"id": 60407, "keep": 0, "q": 1, "kind": "other", "topic": "career", "depth": "intro", "title": "Jobs at ISRG", "why": "Job listings page."}
+{"id": 60408, "keep": 0, "q": 1, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "Let's Encrypt repository", "why": "Legal agreements and audit documents repository."}
+{"id": 60409, "keep": 1, "q": 3, "kind": "other", "topic": "law", "depth": "intro", "title": "Regarding your stupid complaint", "why": "Witty real letter responding to a trademark complaint; a fun, sharp read."}
+{"id": 60410, "keep": 1, "q": 3, "kind": "other", "topic": "strategy", "depth": "intro", "title": "The internet tidal wave", "why": "Famous internal memo on a company missing the internet and why disruption makes fates volatile."}
+{"id": 60411, "keep": 0, "q": 1, "kind": "other", "topic": "history", "depth": "intro", "title": "Iorz feixfuli m j yilz", "why": "Joke letter about attribution of a quip; marginal."}
+{"id": 60412, "keep": 1, "q": 4, "kind": "other", "topic": "space", "depth": "intro", "title": "Why explore space", "why": "NASA director's letter giving a lucid, enduring answer to why we explore space."}
+{"id": 60413, "keep": 1, "q": 2, "kind": "other", "topic": "law", "depth": "intro", "title": "Arkell v Pressdram", "why": "Witty letter reply to a cease-and-desist; light and entertaining."}
+{"id": 60414, "keep": 1, "q": 3, "kind": "blog", "topic": "career", "depth": "intro", "title": "Software engineer level framework", "why": "Explains how scope and responsibility change across software engineering levels."}
+{"id": 60415, "keep": 0, "q": 1, "kind": "reference", "topic": "career", "depth": "intro", "title": "Google L7 software engineer salaries", "why": "Salary data page, not something to learn from."}
+{"id": 60416, "keep": 0, "q": 2, "kind": "visual", "topic": "career", "depth": "intro", "title": "Levels.fyi pay heatmap", "why": "Interactive salary choropleth; a data tool rather than something to read."}
+{"id": 60417, "keep": 0, "q": 1, "kind": "reference", "topic": "career", "depth": "intro", "title": "Google salary bands", "why": "Salary band lookup page."}
+{"id": 60418, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "Hoodmaps", "why": "Personal product page with an opinion on Twitter's valuation; no lasting lesson."}
+{"id": 60419, "keep": 1, "q": 2, "kind": "blog", "topic": "startups", "depth": "intro", "title": "Product Hunt and Hacker News number one", "why": "Founder writeup of how a side project grew from a shared spreadsheet into a business."}
+{"id": 60420, "keep": 1, "q": 2, "kind": "essay", "topic": "minimalism", "depth": "intro", "title": "The 100-thing challenge", "why": "Personal essay on owning only 100 things and the privilege behind it."}
+{"id": 60421, "keep": 1, "q": 4, "kind": "tutorial", "topic": "trust systems", "depth": "expert", "title": "Attack-resistant trust metrics HOWTO", "why": "Explains how to build trust metrics that resist Sybil attacks, with design reasoning."}
+{"id": 60422, "keep": 1, "q": 3, "kind": "paper", "topic": "economics", "depth": "expert", "title": "Intellectual property and pharmaceuticals", "why": "Economics paper on whether patents actually drive pharmaceutical innovation."}
+{"id": 60423, "keep": 1, "q": 4, "kind": "paper", "topic": "economics", "depth": "expert", "title": "The Financial Instability Hypothesis", "why": "Minsky's working paper on how credit cycles make financial systems fragile."}
+{"id": 60424, "keep": 1, "q": 4, "kind": "essay", "topic": "social dynamics", "depth": "intro", "title": "The Inner Ring", "why": "C.S. Lewis essay on the hidden social hierarchies inside institutions."}
+{"id": 60425, "keep": 1, "q": 4, "kind": "essay", "topic": "haskell", "depth": "intermediate", "title": "An opinionated guide to Haskell in 2018", "why": "Opinionated guide to managing extensions, libraries and footguns in real Haskell projects."}
+{"id": 60426, "keep": 0, "q": 1, "kind": "other", "topic": "products", "depth": "intro", "title": "LG gWatch", "why": "Product marketing page."}
+{"id": 60427, "keep": 0, "q": 1, "kind": "other", "topic": "products", "depth": "intro", "title": "LG 28MQ780 monitor", "why": "Product page for a monitor."}
+{"id": 60428, "keep": 0, "q": 1, "kind": "tool", "topic": "public health", "depth": "intro", "title": "Bavaria coronavirus map", "why": "Statistics dashboard for regional case counts."}
+{"id": 60429, "keep": 1, "q": 3, "kind": "blog", "topic": "programming languages", "depth": "intermediate", "title": "Fast high-level programming languages", "why": "Benchmarks showing high-level languages such as Julia can approach C performance."}
+{"id": 60430, "keep": 0, "q": 1, "kind": "tool", "topic": "programming languages", "depth": "intro", "title": "ArnoldC", "why": "Joke esoteric language homepage; amusing but not instructive."}
+{"id": 60431, "keep": 0, "q": 1, "kind": "reference", "topic": "rust", "depth": "intro", "title": "lib.rs command-line utilities", "why": "Crate index page for lookup."}
+{"id": 60432, "keep": 0, "q": 1, "kind": "reference", "topic": "rust", "depth": "intro", "title": "lib.rs stats", "why": "Adoption statistics tracker."}
+{"id": 60433, "keep": 0, "q": 1, "kind": "reference", "topic": "open source", "depth": "intro", "title": "Libera Chat bylaws", "why": "Legal governance document."}
+{"id": 60434, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "Libgen dweb", "why": "Describes a distributed access tool; no learning content."}
+{"id": 60435, "keep": 1, "q": 3, "kind": "paper", "topic": "social psychology", "depth": "expert", "title": "White Fragility", "why": "Academic paper on how defensiveness arises when race is discussed; for social-psych readers."}
+{"id": 60436, "keep": 1, "q": 4, "kind": "docs", "topic": "file formats", "depth": "intermediate", "title": "PNG rationale", "why": "Explains the design reasons behind PNG's format choices, from the spec's rationale."}
+{"id": 60437, "keep": 0, "q": 1, "kind": "other", "topic": "crypto", "depth": "intro", "title": "Libra currency reserve", "why": "Corporate marketing about a reserve; not a learning resource."}
+{"id": 60438, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Technically legal sign", "why": "Single-sign legal trick; no depth."}
+{"id": 60439, "keep": 1, "q": 3, "kind": "book", "topic": "management", "depth": "intro", "title": "How Google sets goals: OKRs", "why": "Book excerpt on setting goals with OKRs and how Google adopted them."}
+{"id": 60440, "keep": 1, "q": 5, "kind": "essay", "topic": "science policy", "depth": "intro", "title": "The usefulness of useless knowledge", "why": "Classic Flexner essay on why curiosity-driven research pays off in the long run."}
+{"id": 60441, "keep": 0, "q": 1, "kind": "other", "topic": "history", "depth": "intro", "title": "Pogo quote background", "why": "Short background on a comic quote; marginal."}
+{"id": 60442, "keep": 1, "q": 3, "kind": "reference", "topic": "programming languages", "depth": "expert", "title": "Scheme library papers", "why": "Curated list of Scheme compiler and research papers for deeper reading."}
+{"id": 60443, "keep": 1, "q": 4, "kind": "explainer", "topic": "algorithms", "depth": "intermediate", "title": "Library of Babel: theory", "why": "Explains how the Library of Babel generates deterministic pseudo-random pages."}
+{"id": 60444, "keep": 0, "q": 1, "kind": "tool", "topic": "products", "depth": "intro", "title": "LibraryThing CueCat", "why": "Store product page for a barcode scanner."}
+{"id": 60445, "keep": 1, "q": 2, "kind": "journalism", "topic": "computing history", "depth": "intro", "title": "Librazette LGP-30 article", "why": "Period newsletter piece on early computing and the LGP-30 machine."}
+{"id": 60446, "keep": 0, "q": 1, "kind": "reference", "topic": "licensing", "depth": "intro", "title": "GNAT GPL edition FAQ", "why": "Licensing FAQ for a compiler edition."}
+{"id": 60447, "keep": 0, "q": 1, "kind": "reference", "topic": "hardware", "depth": "intro", "title": "Libreboot hardware compatibility list", "why": "Hardware compatibility lookup table."}
+{"id": 60448, "keep": 0, "q": 1, "kind": "reference", "topic": "hardware", "depth": "intro", "title": "Libreboot on Chromebook C201", "why": "Hardware-specific compatibility page."}
+{"id": 60449, "keep": 0, "q": 1, "kind": "other", "topic": "open source", "depth": "intro", "title": "LibreOffice donate", "why": "Donation page."}
+{"id": 60450, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "LibrePCB comparison", "why": "Product comparison marketing page."}
+{"id": 60451, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "LibreWolf features", "why": "Browser feature list."}
+{"id": 60452, "keep": 0, "q": 2, "kind": "reference", "topic": "cryptography", "depth": "intermediate", "title": "Libsodium language bindings", "why": "Directory of bindings; a lookup rather than something to read."}
+{"id": 60453, "keep": 1, "q": 3, "kind": "docs", "topic": "p2p networks", "depth": "expert", "title": "DHT arbitrary data storage", "why": "Explains the BitTorrent DHT extension for storing mutable arbitrary data, per BEP-44."}
+{"id": 60454, "keep": 0, "q": 1, "kind": "docs", "topic": "containers", "depth": "intro", "title": "libvirt LXC driver", "why": "Driver setup reference."}
+{"id": 60455, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "Prosperity license", "why": "Software license text."}
+{"id": 60456, "keep": 0, "q": 1, "kind": "other", "topic": "space", "depth": "intro", "title": "FCC satellite filing", "why": "Regulatory filing."}
+{"id": 60457, "keep": 1, "q": 3, "kind": "blog", "topic": "jvm performance", "depth": "expert", "title": "Lichess on Scala 3", "why": "Production war story on debugging JVM CPU spikes after a Scala 3 migration."}
+{"id": 60458, "keep": 0, "q": 1, "kind": "tool", "topic": "chess", "depth": "intro", "title": "Lichess learn", "why": "Product learning page."}
+{"id": 60459, "keep": 1, "q": 3, "kind": "explainer", "topic": "rating systems", "depth": "intermediate", "title": "Rating systems", "why": "Compares rating systems like Glicko-2 and Elo on how well they predict game outcomes."}
+{"id": 60460, "keep": 1, "q": 2, "kind": "paper", "topic": "materials", "depth": "expert", "title": "3D printed concrete patterns", "why": "Paper on printing patterns that raise concrete strength and reduce directional weakness."}
+{"id": 60461, "keep": 1, "q": 3, "kind": "essay", "topic": "economics", "depth": "intro", "title": "The Worgl experiment", "why": "Explains the Worgl local currency experiment and why circulating money mattered."}
+{"id": 60462, "keep": 0, "q": 1, "kind": "other", "topic": "career", "depth": "intro", "title": "Life360 jobs", "why": "Job listings."}
+{"id": 60463, "keep": 1, "q": 3, "kind": "reference", "topic": "llms", "depth": "intermediate", "title": "What's in my AI?", "why": "Catalogues and analyses the datasets used to train large language models."}
+{"id": 60464, "keep": 0, "q": 1, "kind": "news", "topic": "travel", "depth": "intro", "title": "Pack a gun to protect valuables", "why": "Lifehacker tip about airline baggage loopholes; not instructive."}
+{"id": 60465, "keep": 0, "q": 1, "kind": "blog", "topic": "productivity", "depth": "intro", "title": "Seinfeld productivity secret", "why": "Short lifehacker-style productivity tip."}
+{"id": 60466, "keep": 0, "q": 1, "kind": "blog", "topic": "startups", "depth": "intro", "title": "Razor subscription alternatives", "why": "Consumer shopping tip."}
+{"id": 60467, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "How retail stores track you", "why": "Consumer news about phone tracking in stores."}
+{"id": 60468, "keep": 0, "q": 1, "kind": "news", "topic": "food", "depth": "intro", "title": "Most and least fake olive oil", "why": "Consumer product-ranking list."}
+{"id": 60469, "keep": 1, "q": 3, "kind": "reference", "topic": "aging biology", "depth": "intermediate", "title": "The rejuvenation roadmap", "why": "Surveys therapies aimed at reversing aging and where each stands in human trials."}
+{"id": 60470, "keep": 0, "q": 2, "kind": "explainer", "topic": "networking", "depth": "intro", "title": "Skype P2P to client-server", "why": "Short explainer on Skype's architecture change; thin."}
+{"id": 60471, "keep": 1, "q": 2, "kind": "explainer", "topic": "operating systems", "depth": "intro", "title": "Understanding compressed memory", "why": "Explains macOS RAM compression and the tradeoff against CPU cost."}
+{"id": 60472, "keep": 0, "q": 1, "kind": "explainer", "topic": "manufacturing", "depth": "intro", "title": "Where is the iPhone made", "why": "Journalistic overview of supply chains; topical rather than lasting."}
+{"id": 60473, "keep": 1, "q": 3, "kind": "book", "topic": "email", "depth": "intermediate", "title": "Life with qmail", "why": "Free book guiding a complete qmail mail server setup and configuration."}
+{"id": 60474, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Contact tracing in the real world", "why": "Security researchers' analysis of contact tracing's practical failure modes."}
+{"id": 60475, "keep": 1, "q": 3, "kind": "journalism", "topic": "surveillance", "depth": "intro", "title": "Surveillance secrets explainer", "why": "Investigative methodology explainer showing how surveillance tools were uncovered."}
+{"id": 60476, "keep": 0, "q": 2, "kind": "blog", "topic": "bitcoin", "depth": "intermediate", "title": "LSAT: HTTP 402 payments", "why": "Product announcement for a Lightning payments protocol."}
+{"id": 60477, "keep": 0, "q": 1, "kind": "tool", "topic": "radio", "depth": "intro", "title": "Lightning maps", "why": "Live map tool."}
+{"id": 60478, "keep": 0, "q": 1, "kind": "tool", "topic": "desktop", "depth": "intro", "title": "Mosaic window tiling", "why": "Window manager tool page."}
+{"id": 60479, "keep": 1, "q": 3, "kind": "other", "topic": "fiction", "depth": "intro", "title": "The Perfect Match", "why": "Short science fiction story about free will and destiny; enjoyable."}
+{"id": 60480, "keep": 1, "q": 3, "kind": "essay", "topic": "developer tools", "depth": "intro", "title": "The pain we forgot", "why": "Essay on how developer tools make simple tasks needlessly hard."}
+{"id": 60481, "keep": 1, "q": 2, "kind": "reference", "topic": "physics", "depth": "intro", "title": "LIGO facts", "why": "Factual overview of LIGO's sensitivity and scope."}
+{"id": 60482, "keep": 0, "q": 1, "kind": "news", "topic": "physics", "depth": "intro", "title": "GW170817 press release", "why": "Press release about one detection event."}
+{"id": 60483, "keep": 1, "q": 3, "kind": "explainer", "topic": "physics", "depth": "intro", "title": "What is LIGO?", "why": "Clear explainer of how LIGO detects gravitational waves with laser interferometry."}
+{"id": 60484, "keep": 1, "q": 3, "kind": "blog", "topic": "performance", "depth": "intermediate", "title": "Benchmarking Scala collections", "why": "Shows why collection benchmarks can mislead, using Scala vector and array timings."}
+{"id": 60485, "keep": 1, "q": 3, "kind": "essay", "topic": "urbanism", "depth": "intro", "title": "Why suburbia sucks", "why": "Argues against suburban design on economic and social grounds."}
+{"id": 60486, "keep": 1, "q": 5, "kind": "explainer", "topic": "llms", "depth": "intermediate", "title": "Attention? Attention!", "why": "Clear walkthrough of attention mechanisms, from additive to scaled dot-product, for deep learning readers."}
+{"id": 60487, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "Liliputing mini PC tag", "why": "News index page."}
+{"id": 60488, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "LilyGO T-Deck", "why": "Product page for a device."}
+{"id": 60489, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "Linaro Snapdragon support", "why": "Company news about hardware enablement."}
+{"id": 60490, "keep": 1, "q": 2, "kind": "docs", "topic": "web history", "depth": "intro", "title": "The WWW project", "why": "The original CERN page describing the World Wide Web project; historical."}
+{"id": 60491, "keep": 0, "q": 1, "kind": "tool", "topic": "android", "depth": "intro", "title": "LineageOS changelog", "why": "Release changelog."}
+{"id": 60492, "keep": 0, "q": 1, "kind": "other", "topic": "career", "depth": "intro", "title": "Linear readme", "why": "Company philosophy and hiring page."}
+{"id": 60493, "keep": 1, "q": 4, "kind": "book", "topic": "linear algebra", "depth": "intermediate", "title": "Linear Algebra Done Right (abridged)", "why": "Open abridged edition of a standard linear algebra text, proof-focused."}
+{"id": 60494, "keep": 0, "q": 1, "kind": "tool", "topic": "electronics", "depth": "intro", "title": "Linear Technology design tools", "why": "Software download page."}
+{"id": 60495, "keep": 1, "q": 3, "kind": "other", "topic": "linguistics", "depth": "intro", "title": "Uncleftish Beholding", "why": "Describes quantum mechanics using only Anglo-Saxon-derived words; a linguistic curiosity."}
+{"id": 60496, "keep": 0, "q": 1, "kind": "comic", "topic": "humor", "depth": "intro", "title": "Clinton deploys vowels", "why": "Satirical humour piece."}
+{"id": 60497, "keep": 0, "q": 1, "kind": "comic", "topic": "humor", "depth": "intro", "title": "How I met my wife", "why": "Humour piece."}
+{"id": 60498, "keep": 1, "q": 5, "kind": "essay", "topic": "academia", "depth": "intro", "title": "Transgressing the boundaries (Sokal hoax)", "why": "The Sokal hoax article; essential reading on how and why academic journals get fooled."}
+{"id": 60499, "keep": 0, "q": 1, "kind": "paper", "topic": "blockchain", "depth": "intermediate", "title": "Springer article 10.1007/BF00196791", "why": "Unclear from URL and snippets what it covers."}
+{"id": 60500, "keep": 1, "q": 2, "kind": "paper", "topic": "rail transport", "depth": "expert", "title": "Rail acceleration and braking requirements", "why": "Engineering paper on train acceleration limits set by passenger comfort."}
+{"id": 60501, "keep": 1, "q": 4, "kind": "book", "topic": "data visualization", "depth": "intermediate", "title": "The Grammar of Graphics", "why": "Wilkinson's book on a formal grammar for statistical graphics, which underpins ggplot2."}
+{"id": 60502, "keep": 1, "q": 5, "kind": "book", "topic": "cryptography", "depth": "intermediate", "title": "Understanding Cryptography", "why": "Clear, rigorous textbook on modern cryptography, with a free online edition."}
+{"id": 60503, "keep": 0, "q": 1, "kind": "tool", "topic": "browsers", "depth": "intro", "title": "Links browser features", "why": "Software feature listing."}
+{"id": 60504, "keep": 0, "q": 1, "kind": "other", "topic": "hosting", "depth": "intro", "title": "Linode homepage", "why": "Hosting provider homepage."}
+{"id": 60505, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "Linode key file", "why": "Incident artifact with no lesson."}
+{"id": 60506, "keep": 0, "q": 2, "kind": "reference", "topic": "linux", "depth": "intermediate", "title": "TLP FAQ", "why": "Tool FAQ used as a lookup."}
+{"id": 60507, "keep": 1, "q": 4, "kind": "essay", "topic": "programming", "depth": "intro", "title": "Kernighan's lever", "why": "Argues that debugging code you wrote yourself forces you to improve; a thoughtful essay."}
+{"id": 60508, "keep": 1, "q": 3, "kind": "essay", "topic": "computing", "depth": "intermediate", "title": "Pipelogic", "why": "Interactive essay showing how computing logic can be built from Unix pipes."}
+{"id": 60509, "keep": 1, "q": 3, "kind": "essay", "topic": "programming tools", "depth": "intro", "title": "Syntax highlighting considered harmful", "why": "Essay arguing syntax highlighting hurts reading and thinking, with a clear case."}
+{"id": 60510, "keep": 1, "q": 3, "kind": "visual", "topic": "demoscene", "depth": "expert", "title": "A Mind Is Born", "why": "Explains a 256-byte C64 demo and the assembly craft behind it."}
+{"id": 60511, "keep": 1, "q": 2, "kind": "reference", "topic": "linux", "depth": "intermediate", "title": "Drop caches", "why": "Explains the kernel drop_caches interface and what it frees."}
+{"id": 60512, "keep": 0, "q": 2, "kind": "reference", "topic": "hardware", "depth": "intermediate", "title": "Allwinner SoC family", "why": "Hardware reference table for lookup."}
+{"id": 60513, "keep": 1, "q": 3, "kind": "blog", "topic": "open source", "depth": "intro", "title": "Counting contributions: who wrote Linux", "why": "Estimates the effort behind the Linux kernel and who contributes it."}
+{"id": 60514, "keep": 0, "q": 1, "kind": "reference", "topic": "shell", "depth": "intermediate", "title": "checkbashisms man page", "why": "Man page lookup."}
+{"id": 60515, "keep": 0, "q": 1, "kind": "reference", "topic": "shell", "depth": "intro", "title": "expect man page", "why": "Man page lookup."}
+{"id": 60516, "keep": 0, "q": 1, "kind": "reference", "topic": "linux", "depth": "intro", "title": "finger man page", "why": "Man page lookup."}
+{"id": 60517, "keep": 0, "q": 1, "kind": "reference", "topic": "shell", "depth": "intro", "title": "grep man page", "why": "Man page lookup."}
+{"id": 60518, "keep": 0, "q": 1, "kind": "reference", "topic": "images", "depth": "intro", "title": "jpegtran man page", "why": "Man page lookup."}
+{"id": 60519, "keep": 0, "q": 1, "kind": "reference", "topic": "shell", "depth": "intro", "title": "most man page", "why": "Man page lookup."}
+{"id": 60520, "keep": 0, "q": 1, "kind": "reference", "topic": "shell", "depth": "intro", "title": "pssh man page", "why": "Man page lookup."}
+{"id": 60521, "keep": 0, "q": 1, "kind": "reference", "topic": "networking", "depth": "intro", "title": "ssh man page", "why": "Man page lookup."}
+{"id": 60522, "keep": 0, "q": 1, "kind": "reference", "topic": "linux", "depth": "intro", "title": "taskset man page", "why": "Man page lookup."}
+{"id": 60523, "keep": 0, "q": 1, "kind": "reference", "topic": "linux", "depth": "intro", "title": "fork man page", "why": "Man page lookup."}
+{"id": 60524, "keep": 0, "q": 1, "kind": "reference", "topic": "c", "depth": "intro", "title": "qsort man page", "why": "Man page lookup."}
+{"id": 60525, "keep": 0, "q": 1, "kind": "reference", "topic": "shell", "depth": "intro", "title": "readline man page", "why": "Man page lookup."}
+{"id": 60526, "keep": 0, "q": 1, "kind": "reference", "topic": "c", "depth": "intro", "title": "strlcpy man page", "why": "Man page lookup."}
+{"id": 60527, "keep": 0, "q": 1, "kind": "reference", "topic": "networking", "depth": "intro", "title": "ssh_config man page", "why": "Man page lookup."}
+{"id": 60528, "keep": 0, "q": 1, "kind": "reference", "topic": "networking", "depth": "intro", "title": "ip man page", "why": "Man page lookup."}
+{"id": 60529, "keep": 0, "q": 1, "kind": "reference", "topic": "networking", "depth": "intro", "title": "ping man page", "why": "Man page lookup."}
+{"id": 60530, "keep": 1, "q": 3, "kind": "journalism", "topic": "linux", "depth": "intro", "title": "Linus Torvalds answers your questions", "why": "Interview with Linus Torvalds on Linux, open source and maintainership."}
+{"id": 60531, "keep": 1, "q": 2, "kind": "tutorial", "topic": "containers", "depth": "intro", "title": "LXD getting started (CLI)", "why": "Tutorial on managing containers with the LXD command line."}
+{"id": 60532, "keep": 0, "q": 1, "kind": "reference", "topic": "linux", "depth": "intro", "title": "Linux kernel size statistics", "why": "Statistics tracker of kernel lines of code."}
+{"id": 60533, "keep": 1, "q": 4, "kind": "journalism", "topic": "git", "depth": "intro", "title": "10 years of Git: interview with Linus Torvalds", "why": "Interview on how and why Torvalds created Git and its design choices."}
+{"id": 60534, "keep": 1, "q": 4, "kind": "tutorial", "topic": "linux", "depth": "intermediate", "title": "Linux From Scratch", "why": "Free guide to building a Linux system from source, teaching how the pieces fit."}
+{"id": 60535, "keep": 1, "q": 2, "kind": "essay", "topic": "programming languages", "depth": "intro", "title": "The C language and Unix history", "why": "Essay on C's niche and its place in Unix history."}
+{"id": 60536, "keep": 1, "q": 2, "kind": "essay", "topic": "power management", "depth": "intermediate", "title": "ACPI and suspend", "why": "Linus Torvalds' critique of ACPI standby design and why power management is hard."}
+{"id": 60537, "keep": 1, "q": 3, "kind": "journalism", "topic": "linux", "depth": "intro", "title": "25 years later: interview with Linus Torvalds", "why": "Retrospective interview on Linux's first 25 years and Torvalds' views."}
+{"id": 60538, "keep": 0, "q": 1, "kind": "essay", "topic": "gender", "depth": "intro", "title": "Girls and software", "why": "Polemical opinion piece; not a clear learning resource."}
+{"id": 60539, "keep": 0, "q": 1, "kind": "news", "topic": "publishing", "depth": "intro", "title": "Linux Journal ceases publication", "why": "Shutdown news."}
+{"id": 60540, "keep": 0, "q": 1, "kind": "news", "topic": "publishing", "depth": "intro", "title": "Linux Journal awkward goodbye", "why": "Shutdown news."}
+{"id": 60541, "keep": 0, "q": 1, "kind": "other", "topic": "linux", "depth": "intro", "title": "Linux Questions Slackware forum", "why": "Forum index page."}
+{"id": 60542, "keep": 1, "q": 3, "kind": "journalism", "topic": "linux init", "depth": "intro", "title": "Interview with Lennart Poettering", "why": "Interview on Unix philosophy and the reasoning behind systemd."}
+{"id": 60543, "keep": 1, "q": 4, "kind": "blog", "topic": "mathematics", "depth": "intermediate", "title": "The two cultures of mathematics and biology", "why": "Essay on how mathematicians and biologists differ in standards of proof and modelling."}
+{"id": 60544, "keep": 0, "q": 1, "kind": "tool", "topic": "clocks", "depth": "intro", "title": "Clayton orrery plans", "why": "Sales page for DIY plans."}
+{"id": 60545, "keep": 0, "q": 1, "kind": "reference", "topic": "history", "depth": "intro", "title": "MOO resources", "why": "Resource link list."}
+{"id": 60546, "keep": 0, "q": 1, "kind": "tool", "topic": "economics", "depth": "intro", "title": "Functional unemployment tracker", "why": "Statistics tracker."}
+{"id": 60547, "keep": 1, "q": 3, "kind": "reference", "topic": "common lisp", "depth": "intermediate", "title": "Editor support (Common Lisp Cookbook)", "why": "Guide to editor setups for Common Lisp development, from the cookbook."}
+{"id": 60548, "keep": 1, "q": 3, "kind": "reference", "topic": "common lisp", "depth": "intro", "title": "Strings (Common Lisp Cookbook)", "why": "Explains Common Lisp string types and operations with examples."}
+{"id": 60549, "keep": 0, "q": 2, "kind": "tutorial", "topic": "common lisp", "depth": "intermediate", "title": "Alive for VS Code", "why": "Editor plugin setup page."}
+{"id": 60550, "keep": 0, "q": 1, "kind": "other", "topic": "lisp", "depth": "intro", "title": "Lisperati logo", "why": "Logo page with a joke."}
+{"id": 60551, "keep": 1, "q": 4, "kind": "essay", "topic": "lisp machines", "depth": "intermediate", "title": "Symbolics Lisp Machine ergonomics", "why": "Explains the design philosophy behind Symbolics Lisp Machine developer environments."}
+{"id": 60552, "keep": 0, "q": 1, "kind": "other", "topic": "products", "depth": "intro", "title": "LispWorks prices", "why": "Pricing page."}
+{"id": 60553, "keep": 0, "q": 1, "kind": "reference", "topic": "common lisp", "depth": "expert", "title": "HyperSpec: 2.2 reader", "why": "Standard reference lookup."}
+{"id": 60554, "keep": 0, "q": 1, "kind": "reference", "topic": "common lisp", "depth": "expert", "title": "HyperSpec: car", "why": "Standard reference lookup."}
+{"id": 60555, "keep": 0, "q": 1, "kind": "reference", "topic": "common lisp", "depth": "expert", "title": "HyperSpec: update-instance-for-redefined-class", "why": "Standard reference lookup."}
+{"id": 60556, "keep": 0, "q": 1, "kind": "other", "topic": "products", "depth": "intro", "title": "LispWorks for Mobile", "why": "Product page."}
+{"id": 60557, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "AUR malware thread", "why": "Mailing list thread about a security incident."}
+{"id": 60558, "keep": 0, "q": 1, "kind": "other", "topic": "compilers", "depth": "intro", "title": "LLVM mailing list 2014", "why": "Mailing list post on licensing."}
+{"id": 60559, "keep": 0, "q": 1, "kind": "news", "topic": "debian", "depth": "intro", "title": "Debian Rust requirement", "why": "Mailing list discussion on policy."}
+{"id": 60560, "keep": 0, "q": 1, "kind": "news", "topic": "freebsd", "depth": "intro", "title": "FreeBSD release announcement", "why": "Release announcement."}
+{"id": 60561, "keep": 0, "q": 1, "kind": "news", "topic": "freebsd", "depth": "intro", "title": "DragonFly BSD fork announcement", "why": "Mailing list announcement."}
+{"id": 60562, "keep": 0, "q": 1, "kind": "news", "topic": "freebsd", "depth": "intro", "title": "FreeBSD switching to ZFS on Linux", "why": "Mailing list news."}
+{"id": 60563, "keep": 0, "q": 2, "kind": "other", "topic": "compilers", "depth": "intermediate", "title": "Emacs and GCC AST", "why": "Mailing list debate on exposing compiler internals."}
+{"id": 60564, "keep": 0, "q": 1, "kind": "other", "topic": "compilers", "depth": "intermediate", "title": "Emacs GCC thread", "why": "Long mailing list flame war."}
+{"id": 60565, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "GNU microcode announcement", "why": "Mailing list post about firmware updates."}
+{"id": 60566, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "GnuPG key issue response", "why": "Mailing list response to an incident."}
+{"id": 60567, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "GnuPG follow-up", "why": "Mailing list response to an incident."}
+{"id": 60568, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "LLVM license patents thread", "why": "Mailing list licensing debate."}
+{"id": 60569, "keep": 0, "q": 1, "kind": "other", "topic": "risc-v", "depth": "intro", "title": "LLVM RISC-V port", "why": "Mailing list proposal."}
+{"id": 60570, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "OpenSSH release notes", "why": "Release notice."}
+{"id": 60571, "keep": 0, "q": 1, "kind": "other", "topic": "compilers", "depth": "intro", "title": "TinyCC mailing list", "why": "Mailing list index."}
+{"id": 60572, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "SSPL license review", "why": "Licensing debate."}
+{"id": 60573, "keep": 0, "q": 1, "kind": "news", "topic": "linux", "depth": "intro", "title": "PowerPC kernel patch thread", "why": "Patch discussion."}
+{"id": 60574, "keep": 0, "q": 1, "kind": "paper", "topic": "risc-v", "depth": "expert", "title": "RISC-V code size extension proposal", "why": "Niche ISA proposal document."}
+{"id": 60575, "keep": 0, "q": 2, "kind": "other", "topic": "programming languages", "depth": "intermediate", "title": "Swift evolution: reference counting", "why": "Mailing list post on memory management; narrow."}
+{"id": 60576, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "Tor mailing list on Facebook onion", "why": "Mailing list thread on an onion address."}
+{"id": 60577, "keep": 0, "q": 1, "kind": "other", "topic": "web standards", "depth": "intermediate", "title": "W3C payments working group", "why": "Mailing list post."}
+{"id": 60578, "keep": 0, "q": 2, "kind": "other", "topic": "web standards", "depth": "intermediate", "title": "W3C webkit prefixes", "why": "Mailing list minutes on CSS vendor prefixes."}
+{"id": 60579, "keep": 1, "q": 3, "kind": "docs", "topic": "web components", "depth": "intro", "title": "Lit components overview", "why": "Explains the component model and rendering approach of the Lit library."}
+{"id": 60580, "keep": 0, "q": 1, "kind": "docs", "topic": "web components", "depth": "intro", "title": "Lit getting started", "why": "Setup instructions."}
+{"id": 60581, "keep": 1, "q": 2, "kind": "docs", "topic": "web components", "depth": "intermediate", "title": "Lit templates overview", "why": "Explains how tagged template literals and targeted updates make Lit rendering efficient."}
+{"id": 60582, "keep": 0, "q": 1, "kind": "tool", "topic": "web components", "depth": "intro", "title": "Lit playground", "why": "Interactive sandbox."}
+{"id": 60583, "keep": 1, "q": 4, "kind": "docs", "topic": "serialization", "depth": "expert", "title": "Lite^3 design and limitations", "why": "Design doc on a mutable, in-place serialization format and its tradeoffs."}
+{"id": 60584, "keep": 0, "q": 1, "kind": "tool", "topic": "ipv6", "depth": "intro", "title": "Tayga NAT64", "why": "Tool homepage."}
+{"id": 60585, "keep": 0, "q": 1, "kind": "other", "topic": "crypto", "depth": "intro", "title": "Litecoin vs Bitcoin", "why": "Crypto comparison page."}
+{"id": 60586, "keep": 1, "q": 4, "kind": "essay", "topic": "java", "depth": "intermediate", "title": "Checked exceptions: Java's biggest mistake", "why": "Argues checked exceptions harm error handling, with a clear case for alternatives."}
+{"id": 60587, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "Litestream getting started", "why": "Tool setup docs."}
+{"id": 60588, "keep": 0, "q": 1, "kind": "news", "topic": "publishing", "depth": "intro", "title": "Pratchett German soup ad", "why": "Anecdote and news."}
+{"id": 60589, "keep": 0, "q": 1, "kind": "essay", "topic": "literature", "depth": "intro", "title": "Themes in Piers Anthony works", "why": "Contested critical column with unverified claims."}
+{"id": 60590, "keep": 0, "q": 1, "kind": "tool", "topic": "music", "depth": "intro", "title": "Little Sound DJ", "why": "Software product page."}
+{"id": 60591, "keep": 1, "q": 2, "kind": "visual", "topic": "image formats", "depth": "intro", "title": "GIF, APNG, WebP comparison", "why": "Visual size comparison of animated image formats with practical tradeoffs."}
+{"id": 60592, "keep": 1, "q": 2, "kind": "docs", "topic": "ui design", "depth": "intro", "title": "GNOME Shell design", "why": "Design overview explaining the principles behind GNOME Shell's interface."}
+{"id": 60593, "keep": 0, "q": 2, "kind": "docs", "topic": "programming languages", "depth": "intro", "title": "Vala documentation", "why": "Language documentation hub; lookup-oriented."}
+{"id": 60594, "keep": 0, "q": 1, "kind": "tool", "topic": "aviation", "depth": "intro", "title": "LiveATC recordings", "why": "Live audio archive."}
+{"id": 60595, "keep": 0, "q": 1, "kind": "tool", "topic": "llms", "depth": "intermediate", "title": "LiveCodeBench leaderboard", "why": "Leaderboard dashboard."}
+{"id": 60596, "keep": 0, "q": 1, "kind": "other", "topic": "streaming", "depth": "intro", "title": "Livecoding.tv", "why": "Streaming site."}
+{"id": 60597, "keep": 1, "q": 3, "kind": "visual", "topic": "smalltalk", "depth": "intro", "title": "Alto Smalltalk-72 emulator", "why": "Runs an early Smalltalk environment in the browser, letting you explore the original system."}
+{"id": 60598, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "LivePerson experts", "why": "Company marketing page."}
+{"id": 60599, "keep": 0, "q": 2, "kind": "news", "topic": "science", "depth": "intro", "title": "Obesity rise in animals", "why": "Popular science news article."}
