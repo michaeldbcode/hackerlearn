@@ -23,9 +23,15 @@ def reflow(t):
         t = re.sub(r"(?<![.!?:])\n(?!\n)", " ", t)
     return re.sub(r"\n{2,}", "\n\n", t).strip()
 
+TM = json.load(open("work/topic_map.json")) if os.path.exists("work/topic_map.json") else None
+
 def norm_topic(t):
-    t = (t or "other").lower().strip()
-    return re.sub(r"\s+", " ", t)[:40]
+    t = re.sub(r"\s+", " ", (t or "other").lower().strip())
+    if not TM: return t[:40]
+    if t in TM["map"]: return TM["map"][t]
+    for tp in TM["topics"]:
+        if any(k in t for k in tp["keywords"]): return tp["name"]
+    return "misc"
 
 os.makedirs("docs/data/ex", exist_ok=True)
 pages = {p["url"]: p for p in jl("work/pages.jsonl")} if os.path.exists("work/pages.jsonl") else {}
@@ -76,4 +82,4 @@ def emit(name, items):
 
 emit("links", links); emit("comments", comments); emit("stories", stories)
 topics = collections.Counter(x["p"] for x in links + comments + stories)
-json.dump([t for t, n in topics.most_common() if n >= 8][:120], open("docs/data/topics.json", "w"))
+json.dump(sorted(t for t, n in topics.items() if n >= 8) if TM else [t for t, n in topics.most_common() if n >= 8][:120], open("docs/data/topics.json", "w"))
