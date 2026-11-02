@@ -1,0 +1,200 @@
+{"id": 16800, "keep": 1, "q": 4, "kind": "tutorial", "topic": "rust", "depth": "intro", "title": "Rust by Example", "why": "Short runnable programs that teach Rust syntax, ownership and the standard library by example."}
+{"id": 16801, "keep": 0, "q": 2, "kind": "reference", "topic": "rust", "depth": "intermediate", "title": "Default trait docs", "why": "API reference entry for the Default trait; a lookup page, not a lesson."}
+{"id": 16802, "keep": 0, "q": 1, "kind": "reference", "topic": "rust", "depth": "intro", "title": "Rust std index", "why": "Index page of the standard library docs; navigation rather than teaching."}
+{"id": 16803, "keep": 0, "q": 1, "kind": "reference", "topic": "rust", "depth": "intro", "title": "std::mem::drop", "why": "Single function reference entry for drop and move semantics."}
+{"id": 16804, "keep": 0, "q": 1, "kind": "reference", "topic": "rust", "depth": "intermediate", "title": "RwLock docs", "why": "API reference for the read-write lock type; lookup material."}
+{"id": 16805, "keep": 0, "q": 1, "kind": "other", "topic": "containers", "depth": "intro", "title": "Docker learn more", "why": "Product marketing landing page for Docker."}
+{"id": 16806, "keep": 1, "q": 3, "kind": "docs", "topic": "javascript", "depth": "intermediate", "title": "AngularJS developer guide: concepts", "why": "Explains the digest cycle and how Angular's core runtime works under the hood."}
+{"id": 16807, "keep": 0, "q": 1, "kind": "docs", "topic": "devops", "depth": "intermediate", "title": "ansible-pull", "why": "CLI reference for pull-mode configuration management."}
+{"id": 16808, "keep": 0, "q": 1, "kind": "docs", "topic": "llms", "depth": "intro", "title": "Claude Code overview", "why": "Product overview page for a tool; mostly feature marketing."}
+{"id": 16809, "keep": 1, "q": 3, "kind": "docs", "topic": "llms", "depth": "intro", "title": "Use XML tags to structure prompts", "why": "Shows how wrapping prompt sections in XML tags improves structure and results with Claude."}
+{"id": 16810, "keep": 0, "q": 2, "kind": "docs", "topic": "cloud", "depth": "intermediate", "title": "EC2 network bandwidth", "why": "Cloud provider spec page on instance network limits; reference data."}
+{"id": 16811, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "RDS PostgreSQL", "why": "Vendor docs listing supported PostgreSQL extensions and versions."}
+{"id": 16812, "keep": 0, "q": 1, "kind": "reference", "topic": "cloud", "depth": "intro", "title": "AWS service limits", "why": "Reference table of default quotas per AWS service."}
+{"id": 16813, "keep": 0, "q": 1, "kind": "docs", "topic": "tools", "depth": "intro", "title": "Blink Shell code editing", "why": "Product docs for an iPad terminal app's coding features."}
+{"id": 16814, "keep": 0, "q": 2, "kind": "docs", "topic": "open source", "depth": "intermediate", "title": "Django release process", "why": "Internal project release schedule; process notes rather than learning material."}
+{"id": 16815, "keep": 1, "q": 3, "kind": "docs", "topic": "web development", "depth": "intermediate", "title": "Django authentication topic guide", "why": "Official guide to user auth, passwords and custom auth backends in Django."}
+{"id": 16816, "keep": 0, "q": 1, "kind": "reference", "topic": "devops", "depth": "intermediate", "title": "Compose file v3 reference", "why": "Schema reference for Docker Compose v3 files."}
+{"id": 16817, "keep": 0, "q": 1, "kind": "docs", "topic": "devops", "depth": "intermediate", "title": "Docker for Mac osxfs caching", "why": "Settings reference for tuning macOS file-sharing performance."}
+{"id": 16818, "keep": 0, "q": 1, "kind": "docs", "topic": "devops", "depth": "intro", "title": "Install Docker Engine", "why": "Installation instructions for Docker on Linux."}
+{"id": 16819, "keep": 0, "q": 2, "kind": "docs", "topic": "flutter", "depth": "intermediate", "title": "Flutter WebAssembly", "why": "Platform docs on Flutter's WASM web build status."}
+{"id": 16820, "keep": 0, "q": 1, "kind": "docs", "topic": "virtualization", "depth": "intro", "title": "UTM on iOS", "why": "Installation instructions for a virtualization app on iOS."}
+{"id": 16821, "keep": 1, "q": 3, "kind": "docs", "topic": "git", "depth": "intro", "title": "Removing sensitive data from a repository", "why": "Step-by-step guidance for purging leaked secrets from git history."}
+{"id": 16822, "keep": 0, "q": 1, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "Secret scanning patterns", "why": "List of token patterns GitHub scans for; lookup material."}
+{"id": 16823, "keep": 0, "q": 1, "kind": "docs", "topic": "git", "depth": "intermediate", "title": "Managing a merge queue", "why": "Product docs for configuring GitHub's merge queue feature."}
+{"id": 16824, "keep": 0, "q": 1, "kind": "docs", "topic": "ci", "depth": "intro", "title": "GitLab CI docs", "why": "Vendor docs index for GitLab CI/CD setup."}
+{"id": 16825, "keep": 1, "q": 3, "kind": "docs", "topic": "software architecture", "depth": "intermediate", "title": "GitLab architecture", "why": "Explains how a large Rails application is split into components and where Go is used."}
+{"id": 16826, "keep": 0, "q": 1, "kind": "docs", "topic": "devops", "depth": "intro", "title": "GitLab container registry", "why": "Vendor docs for GitLab's built-in container registry."}
+{"id": 16827, "keep": 0, "q": 1, "kind": "docs", "topic": "social media", "depth": "intro", "title": "Run your own Mastodon", "why": "Hosting how-to for a Mastodon server; setup steps, no deeper lesson."}
+{"id": 16828, "keep": 1, "q": 3, "kind": "docs", "topic": "julia", "depth": "intro", "title": "Julia manual", "why": "The official Julia language manual, which commenters praise as a clear way to learn the language."}
+{"id": 16829, "keep": 1, "q": 4, "kind": "docs", "topic": "metaprogramming", "depth": "intermediate", "title": "Julia metaprogramming manual", "why": "Explains expressions, macros and code generation in Julia, with s-expression views."}
+{"id": 16830, "keep": 0, "q": 1, "kind": "other", "topic": "search", "depth": "intro", "title": "Meilisearch comparison", "why": "Vendor comparison chart against competing search engines."}
+{"id": 16831, "keep": 0, "q": 1, "kind": "docs", "topic": "graphics", "depth": "expert", "title": "Mesa zink driver", "why": "Driver documentation for an OpenGL-on-Vulkan layer; reference."}
+{"id": 16832, "keep": 0, "q": 1, "kind": "docs", "topic": "dotnet", "depth": "intro", "title": ".NET deployment", "why": "Build and publish options for .NET apps; reference."}
+{"id": 16833, "keep": 0, "q": 2, "kind": "reference", "topic": "dotnet", "depth": "intermediate", "title": "What's new in C# 9", "why": "Release notes listing C# 9 features; feature list rather than a lesson."}
+{"id": 16834, "keep": 0, "q": 1, "kind": "docs", "topic": "dotnet", "depth": "intermediate", "title": "Code contracts", "why": "Legacy .NET Framework docs for code contracts."}
+{"id": 16835, "keep": 0, "q": 1, "kind": "reference", "topic": "dotnet", "depth": "intermediate", "title": ".NET Standard", "why": "Specification page on the .NET Standard API surface."}
+{"id": 16836, "keep": 0, "q": 1, "kind": "tool", "topic": "windows", "depth": "intro", "title": "Sysinternals Autoruns", "why": "Download page for a Windows startup-inspection tool."}
+{"id": 16837, "keep": 0, "q": 1, "kind": "docs", "topic": "windows", "depth": "intermediate", "title": "Driver code signing certificate", "why": "Vendor steps for obtaining a driver signing certificate."}
+{"id": 16838, "keep": 0, "q": 1, "kind": "docs", "topic": "windows", "depth": "intermediate", "title": "Windows update servicing overview", "why": "Vendor overview of Windows servicing channels."}
+{"id": 16839, "keep": 0, "q": 1, "kind": "docs", "topic": "windows", "depth": "intro", "title": "PowerToys Run", "why": "Feature docs for a Windows launcher utility."}
+{"id": 16840, "keep": 0, "q": 2, "kind": "docs", "topic": "windows", "depth": "intermediate", "title": "Apps on ARM with x86 emulation", "why": "Vendor docs on running x86 apps under Windows on ARM."}
+{"id": 16841, "keep": 0, "q": 2, "kind": "docs", "topic": "programming languages", "depth": "intro", "title": "Mojo FAQ", "why": "Vendor FAQ on Mojo's goals and how it relates to Python and Julia."}
+{"id": 16842, "keep": 0, "q": 2, "kind": "docs", "topic": "programming languages", "depth": "intro", "title": "Why Mojo", "why": "Vendor pitch for Mojo's design goals."}
+{"id": 16843, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "npm package provenance", "why": "Vendor docs on generating provenance statements for npm packages."}
+{"id": 16844, "keep": 0, "q": 2, "kind": "reference", "topic": "gpu", "depth": "expert", "title": "PTX ISA reference", "why": "Instruction set reference for NVIDIA's PTX intermediate language."}
+{"id": 16845, "keep": 0, "q": 1, "kind": "reference", "topic": "java", "depth": "expert", "title": "Java Language Specification ch. 15", "why": "Formal language spec section on expressions; a spec, not a lesson."}
+{"id": 16846, "keep": 1, "q": 3, "kind": "docs", "topic": "parsing", "depth": "intermediate", "title": "Raku grammars", "why": "Explains how to write parsers with grammars, rules and tokens in Raku."}
+{"id": 16847, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Pi-hole with cloudflared", "why": "Setup guide for DNS-over-HTTPS on a Pi-hole."}
+{"id": 16848, "keep": 0, "q": 1, "kind": "docs", "topic": "graphics", "depth": "intro", "title": "React Three Fiber examples", "why": "Example gallery index for a 3D React library."}
+{"id": 16849, "keep": 0, "q": 1, "kind": "reference", "topic": "containers", "depth": "intermediate", "title": "podman run manual", "why": "Man page for the podman run command."}
+{"id": 16850, "keep": 0, "q": 2, "kind": "reference", "topic": "python", "depth": "intermediate", "title": "What's new in Python 3.10", "why": "Release notes; feature list including pattern matching and better errors."}
+{"id": 16851, "keep": 0, "q": 1, "kind": "reference", "topic": "python", "depth": "intermediate", "title": "What's new in Python 3.9", "why": "Release notes for Python 3.9."}
+{"id": 16852, "keep": 1, "q": 3, "kind": "docs", "topic": "python", "depth": "expert", "title": "Embedding Python in an application", "why": "Explains calling the CPython interpreter from C, the standard way to script apps with Python."}
+{"id": 16853, "keep": 1, "q": 3, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "asyncio development guide", "why": "Covers common asyncio pitfalls and debug mode for finding unawaited coroutines."}
+{"id": 16854, "keep": 0, "q": 1, "kind": "reference", "topic": "python", "depth": "intermediate", "title": "operator module", "why": "Library reference for the operator module."}
+{"id": 16855, "keep": 0, "q": 1, "kind": "reference", "topic": "python", "depth": "intermediate", "title": "struct module", "why": "Library reference for binary packing format strings."}
+{"id": 16856, "keep": 1, "q": 4, "kind": "explainer", "topic": "floating point", "depth": "intermediate", "title": "Floating Point Arithmetic: Issues and Limitations", "why": "Explains why binary floats round the way they do and why results look slightly off."}
+{"id": 16857, "keep": 1, "q": 3, "kind": "tutorial", "topic": "web development", "depth": "intermediate", "title": "Racket web tutorial (More)", "why": "Walks through building a small web app and session handling with continuations in Racket."}
+{"id": 16858, "keep": 0, "q": 1, "kind": "tool", "topic": "racket", "depth": "intro", "title": "raco exe", "why": "Tool docs for building standalone executables."}
+{"id": 16859, "keep": 0, "q": 1, "kind": "docs", "topic": "racket", "depth": "intermediate", "title": "Rhombus docs", "why": "Language docs for a work-in-progress Racket dialect."}
+{"id": 16860, "keep": 0, "q": 1, "kind": "reference", "topic": "racket", "depth": "intermediate", "title": "threading library", "why": "Library reference for threading macros."}
+{"id": 16861, "keep": 0, "q": 1, "kind": "reference", "topic": "rust", "depth": "expert", "title": "bumpalo docs", "why": "Library API docs for an arena allocator crate."}
+{"id": 16862, "keep": 1, "q": 3, "kind": "tutorial", "topic": "databases", "depth": "intermediate", "title": "SQLAlchemy Core tutorial", "why": "Shows building SQL queries programmatically with SQLAlchemy Core, without the ORM."}
+{"id": 16863, "keep": 0, "q": 2, "kind": "docs", "topic": "sync", "depth": "intermediate", "title": "Syncthing untrusted devices", "why": "Feature docs for Syncthing's encrypted-only peer mode."}
+{"id": 16864, "keep": 0, "q": 1, "kind": "docs", "topic": "privacy", "depth": "intro", "title": "Warp privacy", "why": "Vendor page listing telemetry events collected by a terminal app."}
+{"id": 16865, "keep": 0, "q": 1, "kind": "docs", "topic": "llms", "depth": "intro", "title": "GLM with Claude Code setup", "why": "Setup instructions for pointing Claude Code at another provider."}
+{"id": 16866, "keep": 0, "q": 1, "kind": "reference", "topic": "personal finance", "depth": "intro", "title": "High-interest savings list", "why": "Rate table of savings accounts; a tracker, not a lesson."}
+{"id": 16867, "keep": 1, "q": 3, "kind": "essay", "topic": "copyright", "depth": "intro", "title": "A bug in early Creative Commons licenses", "why": "Explains how a loophole in CC 1.0-3.0 share-alike terms enabled copyleft trolling."}
+{"id": 16868, "keep": 0, "q": 2, "kind": "other", "topic": "virology", "depth": "intermediate", "title": "DEFUSE proposal", "why": "Grant proposal cited as evidence in a contested origins debate."}
+{"id": 16869, "keep": 0, "q": 2, "kind": "reference", "topic": "documentation", "depth": "intermediate", "title": "reStructuredText spec", "why": "Markup specification reference."}
+{"id": 16870, "keep": 1, "q": 3, "kind": "blog", "topic": "game development", "depth": "intermediate", "title": "Coding tricks of game developers", "why": "Collection of practical memory and performance tricks used by game programmers."}
+{"id": 16871, "keep": 0, "q": 1, "kind": "other", "topic": "web history", "depth": "intro", "title": "Dole Kemp '96 site", "why": "Joke campaign site; nostalgia, nothing to learn."}
+{"id": 16872, "keep": 1, "q": 2, "kind": "blog", "topic": "graphics", "depth": "intermediate", "title": "Dolphin and OpenGL drivers", "why": "Emulator team's write-up of which GPU drivers work and why, with concrete bug reports."}
+{"id": 16873, "keep": 1, "q": 3, "kind": "essay", "topic": "computing history", "depth": "intro", "title": "The Story of Sun Microsystems PizzaTool", "why": "History of one of the earliest online ordering apps, built in NeWS with fax integration."}
+{"id": 16874, "keep": 0, "q": 1, "kind": "tool", "topic": "graphics", "depth": "intro", "title": "Dither me this", "why": "Interactive dithering tool; a toy rather than a lesson."}
+{"id": 16875, "keep": 1, "q": 4, "kind": "reference", "topic": "cpu microarchitecture", "depth": "expert", "title": "Apple Firestorm microarchitecture", "why": "Measured latencies, port usage and throughput of Apple's M1 performance cores."}
+{"id": 16876, "keep": 0, "q": 1, "kind": "tool", "topic": "internet outages", "depth": "intro", "title": "Downdetector Instagram", "why": "Live outage tracker page."}
+{"id": 16877, "keep": 1, "q": 4, "kind": "paper", "topic": "machine learning", "depth": "intermediate", "title": "TensorFlow whitepaper", "why": "Describes TensorFlow's dataflow graph design, execution model and tradeoffs."}
+{"id": 16878, "keep": 0, "q": 1, "kind": "tool", "topic": "economics", "depth": "intro", "title": "Income percentiles calculator", "why": "Data lookup page with income percentile figures."}
+{"id": 16879, "keep": 0, "q": 1, "kind": "tool", "topic": "investing", "depth": "intro", "title": "Nikkei return calculator", "why": "Interactive calculator for Nikkei returns."}
+{"id": 16880, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "Media Queries Level 5 draft", "why": "Working draft of a CSS spec."}
+{"id": 16881, "keep": 0, "q": 1, "kind": "tool", "topic": "lisp", "depth": "intro", "title": "Wisp project page", "why": "Project page for a Lisp syntax implementation."}
+{"id": 16882, "keep": 0, "q": 2, "kind": "other", "topic": "climate", "depth": "intro", "title": "Project Drawdown: refrigerant management", "why": "Solution summary page; commenters question its data."}
+{"id": 16883, "keep": 1, "q": 2, "kind": "comic", "topic": "tech culture", "depth": "intro", "title": "Fabulous Prizes", "why": "Dresden Codak webcomic; a short, offbeat take on technology and society."}
+{"id": 16884, "keep": 1, "q": 3, "kind": "blog", "topic": "hacker news", "depth": "intermediate", "title": "Analyzing HN", "why": "Analysis of how Hacker News ranks and flags stories, with the moderation effects measured."}
+{"id": 16885, "keep": 1, "q": 3, "kind": "essay", "topic": "git", "depth": "intermediate", "title": "Email-driven git", "why": "Explains the email-based patch workflow that large projects use and why it works."}
+{"id": 16886, "keep": 0, "q": 1, "kind": "news", "topic": "software", "depth": "intro", "title": "sr.ht general availability", "why": "Product launch announcement."}
+{"id": 16887, "keep": 1, "q": 3, "kind": "essay", "topic": "open source licensing", "depth": "intro", "title": "Don't sign a CLA (2)", "why": "Argues contributor license agreements let companies relicense projects, and why DCOs are safer."}
+{"id": 16888, "keep": 0, "q": 1, "kind": "blog", "topic": "open source", "depth": "intro", "title": "Hyprland toxicity", "why": "Feud post between project maintainers; drama, not learning."}
+{"id": 16889, "keep": 0, "q": 1, "kind": "tool", "topic": "cms", "depth": "intro", "title": "Drupal usage stats", "why": "Live usage counter page for Drupal installs."}
+{"id": 16890, "keep": 1, "q": 3, "kind": "visual", "topic": "urban history", "depth": "intro", "title": "Mapping Inequality: redlining maps", "why": "Interactive maps of 1930s HOLC redlining that show how lending policy shaped US cities."}
+{"id": 16891, "keep": 1, "q": 5, "kind": "paper", "topic": "programming languages", "depth": "expert", "title": "Lambda: The Ultimate GOTO", "why": "Classic paper on how lambda and tail calls express control flow without gotos."}
+{"id": 16892, "keep": 0, "q": 2, "kind": "tool", "topic": "probabilistic programming", "depth": "intermediate", "title": "ProbLog", "why": "Project homepage for a probabilistic logic language."}
+{"id": 16893, "keep": 1, "q": 3, "kind": "blog", "topic": "filesystems", "depth": "intermediate", "title": "APFS part 5", "why": "Critiques APFS for lacking data checksums and explains silent corruption tradeoffs."}
+{"id": 16894, "keep": 1, "q": 4, "kind": "blog", "topic": "virtualization", "depth": "intermediate", "title": "Virtualization performance: zones, KVM, Xen", "why": "Benchmarks OS-level zones against hardware virtualization and explains where overhead comes from."}
+{"id": 16895, "keep": 0, "q": 1, "kind": "reference", "topic": "search", "depth": "intro", "title": "DuckDuckGo syntax", "why": "Search operator help page."}
+{"id": 16896, "keep": 0, "q": 1, "kind": "tool", "topic": "search", "depth": "intro", "title": "DuckDuckGo bangs", "why": "Search redirect list of shortcut commands."}
+{"id": 16897, "keep": 0, "q": 1, "kind": "other", "topic": "search", "depth": "intro", "title": "DuckDuckBot", "why": "Crawler info page."}
+{"id": 16898, "keep": 1, "q": 2, "kind": "blog", "topic": "lisp", "depth": "intermediate", "title": "Wisp: a Lisp alternative", "why": "Argues for indentation-based Lisp syntax and surveys earlier attempts."}
+{"id": 16899, "keep": 1, "q": 3, "kind": "essay", "topic": "software history", "depth": "intro", "title": "Software innovation", "why": "Catalogues important software innovations and argues software is where innovation compounds."}
+{"id": 16900, "keep": 0, "q": 1, "kind": "tool", "topic": "software metrics", "depth": "intro", "title": "SLOCCount", "why": "Download page for a lines-of-code counting tool."}
+{"id": 16901, "keep": 1, "q": 5, "kind": "paper", "topic": "security", "depth": "expert", "title": "Fully Countering Trusting Trust through Diverse Double-Compiling", "why": "Dissertation showing how to detect compiler backdoors by comparing independently built compilers."}
+{"id": 16902, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "Tomb", "why": "Project page for an encrypted-file tool."}
+{"id": 16903, "keep": 1, "q": 2, "kind": "blog", "topic": "health", "depth": "intro", "title": "Humidifiers", "why": "Long-form review of evidence on humidifier types and their effects on health."}
+{"id": 16904, "keep": 1, "q": 2, "kind": "journalism", "topic": "energy", "depth": "intro", "title": "China's coal spree", "why": "Feature on China's continued coal plant buildout despite climate pledges."}
+{"id": 16905, "keep": 0, "q": 1, "kind": "blog", "topic": "personal finance", "depth": "intro", "title": "How I live on $7,000 a year", "why": "Personal budget anecdote; a profile, not technical learning."}
+{"id": 16906, "keep": 0, "q": 1, "kind": "news", "topic": "antitrust", "depth": "intro", "title": "EU Commission Facebook WhatsApp press release", "why": "Press release on a merger decision."}
+{"id": 16907, "keep": 0, "q": 1, "kind": "reference", "topic": "finance regulation", "depth": "expert", "title": "eCFR securities rule", "why": "Regulatory text."}
+{"id": 16908, "keep": 0, "q": 1, "kind": "reference", "topic": "agriculture regulation", "depth": "expert", "title": "eCFR organic rules", "why": "Regulatory text on organic farming rules."}
+{"id": 16909, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation regulation", "depth": "expert", "title": "eCFR balloon rules", "why": "Regulatory text on aviation rules."}
+{"id": 16910, "keep": 0, "q": 1, "kind": "tool", "topic": "charts", "depth": "intro", "title": "Apache ECharts", "why": "Software project homepage."}
+{"id": 16911, "keep": 0, "q": 1, "kind": "tool", "topic": "ides", "depth": "intro", "title": "Eclipse downloads", "why": "Software download page."}
+{"id": 16912, "keep": 0, "q": 2, "kind": "reference", "topic": "json", "depth": "intermediate", "title": "ECMA-404 JSON standard", "why": "Formal standard for JSON syntax."}
+{"id": 16913, "keep": 1, "q": 3, "kind": "blog", "topic": "argument", "depth": "intro", "title": "The Ideological Turing Test", "why": "Introduces the test of stating opponents' views well enough to pass as one of them."}
+{"id": 16914, "keep": 1, "q": 2, "kind": "blog", "topic": "economics", "depth": "intro", "title": "Land value tax", "why": "Explains why economists favor taxing land value over buildings and where the idea comes from."}
+{"id": 16915, "keep": 1, "q": 3, "kind": "essay", "topic": "ai consciousness", "depth": "intro", "title": "Artificial neural networks today are not conscious", "why": "Douglas Hofstadter's argument on why current language models are not conscious."}
+{"id": 16916, "keep": 1, "q": 2, "kind": "journalism", "topic": "startups", "depth": "intro", "title": "Business failure and the stigma", "why": "Explains how a failed startup can hurt later funding chances."}
+{"id": 16917, "keep": 1, "q": 2, "kind": "journalism", "topic": "education", "depth": "intro", "title": "SAT scores and family income", "why": "Shows how closely SAT scores track parental income using large-sample data."}
+{"id": 16918, "keep": 1, "q": 3, "kind": "talk", "topic": "economics", "depth": "intro", "title": "More from Less (EconTalk)", "why": "Conversation on dematerialization: how economies produce more while using fewer resources."}
+{"id": 16919, "keep": 0, "q": 1, "kind": "tool", "topic": "urban planning", "depth": "intro", "title": "NYC car ownership", "why": "Statistics page on household car ownership."}
+{"id": 16920, "keep": 1, "q": 4, "kind": "essay", "topic": "epistemics", "depth": "intro", "title": "Russell Conjugations", "why": "Explains how people's stated beliefs depend on the social consequences of accepting facts."}
+{"id": 16921, "keep": 0, "q": 1, "kind": "other", "topic": "hosting", "depth": "intro", "title": "Free Raspberry Pi colocation", "why": "Hosting offer page."}
+{"id": 16922, "keep": 0, "q": 1, "kind": "news", "topic": "space", "depth": "intro", "title": "CNN Mars metric story", "why": "Old news story about a spacecraft crash."}
+{"id": 16923, "keep": 0, "q": 1, "kind": "reference", "topic": "privacy law", "depth": "expert", "title": "EDPB consent guidelines", "why": "Regulatory guidance text."}
+{"id": 16924, "keep": 1, "q": 4, "kind": "essay", "topic": "presentations", "depth": "intro", "title": "The Cognitive Style of PowerPoint", "why": "Argues slide bullets hide reasoning and ties PowerPoint to the Columbia disaster."}
+{"id": 16925, "keep": 0, "q": 1, "kind": "tool", "topic": "data visualization", "depth": "intro", "title": "Tufte posters", "why": "Shop page for posters and grid paper."}
+{"id": 16926, "keep": 0, "q": 1, "kind": "docs", "topic": "ai", "depth": "intro", "title": "edX Berkeley AI course", "why": "Course listing page."}
+{"id": 16927, "keep": 1, "q": 5, "kind": "paper", "topic": "networking", "depth": "expert", "title": "Congestion Avoidance and Control", "why": "Van Jacobson's 1988 paper introducing TCP congestion control, slow start and AIMD."}
+{"id": 16928, "keep": 1, "q": 2, "kind": "other", "topic": "sustainability", "depth": "intermediate", "title": "Decoupling debunked", "why": "Report arguing that economic growth cannot fully decouple from resource use, with evidence."}
+{"id": 16929, "keep": 1, "q": 3, "kind": "explainer", "topic": "latency", "depth": "intermediate", "title": "Interactive latency research", "why": "Research overview on how response delay affects users and what budgets matter."}
+{"id": 16930, "keep": 1, "q": 2, "kind": "blog", "topic": "c++", "depth": "intermediate", "title": "Analog literals in C++", "why": "Shows how operator overloading can build geometric literal syntax, and where it goes too far."}
+{"id": 16931, "keep": 0, "q": 1, "kind": "reference", "topic": "employment law", "depth": "intro", "title": "EEOC small business guidance", "why": "Legal guidance page on protected classes."}
+{"id": 16932, "keep": 0, "q": 1, "kind": "reference", "topic": "employment law", "depth": "expert", "title": "Title VII of the Civil Rights Act", "why": "Statute text."}
+{"id": 16933, "keep": 1, "q": 4, "kind": "explainer", "topic": "music theory", "depth": "intro", "title": "Music theory for nerds", "why": "Connects sound perception to music theory concepts, aimed at programmers."}
+{"id": 16934, "keep": 0, "q": 2, "kind": "other", "topic": "copyright", "depth": "intermediate", "title": "EFF Oracle v. Google case page", "why": "Case background page for a legal dispute."}
+{"id": 16935, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "EFF on secret FISA opinion", "why": "Advocacy news post about a 2013 court ruling."}
+{"id": 16936, "keep": 1, "q": 3, "kind": "blog", "topic": "privacy", "depth": "intermediate", "title": "Windows 10 privacy deep dive", "why": "Technical breakdown of what Windows 10 sends to Microsoft and how to limit it."}
+{"id": 16937, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "EFF on Obama surveillance", "why": "Political news commentary."}
+{"id": 16938, "keep": 1, "q": 3, "kind": "essay", "topic": "interoperability", "depth": "intro", "title": "Adversarial interoperability", "why": "Explains reverse-engineering compatibility to break vendor lock-in, and its legal angles."}
+{"id": 16939, "keep": 0, "q": 1, "kind": "news", "topic": "web security", "depth": "intro", "title": "HTTPS Everywhere deprecation", "why": "Announcement that a browser extension is being retired."}
+{"id": 16940, "keep": 0, "q": 2, "kind": "journalism", "topic": "privacy", "depth": "intro", "title": "How government buys location data", "why": "Advocacy article on data brokers and warrantless purchases."}
+{"id": 16941, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "Flock cameras and abortion case", "why": "News about a specific case."}
+{"id": 16942, "keep": 0, "q": 1, "kind": "other", "topic": "donations", "depth": "intro", "title": "EFF help out", "why": "Donation page."}
+{"id": 16943, "keep": 1, "q": 3, "kind": "explainer", "topic": "internet law", "depth": "intro", "title": "CDA 230 legislative history", "why": "Traces how the Cox-Wyden amendment became Section 230 and why it shields platforms."}
+{"id": 16944, "keep": 1, "q": 2, "kind": "docs", "topic": "security", "depth": "intro", "title": "Vulnerability reporting FAQ", "why": "Practical guidance on disclosing bugs and the legal risks researchers face."}
+{"id": 16945, "keep": 1, "q": 2, "kind": "explainer", "topic": "copyright", "depth": "intro", "title": "Guide to YouTube removals", "why": "Explains Content ID versus DMCA takedowns and how each removes videos."}
+{"id": 16946, "keep": 0, "q": 1, "kind": "other", "topic": "patents", "depth": "intro", "title": "Stupid Patent of the Month", "why": "Blog index for a patent-critique column."}
+{"id": 16947, "keep": 1, "q": 3, "kind": "journalism", "topic": "copyright", "depth": "intermediate", "title": "Unintended consequences of fifteen years under the DMCA", "why": "Survey of how the DMCA has been used beyond piracy, with case examples."}
+{"id": 16948, "keep": 1, "q": 3, "kind": "docs", "topic": "privacy", "depth": "intro", "title": "Defending privacy at the US border", "why": "Practical guide to what border agents can search and how to protect devices."}
+{"id": 16949, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "Postico 2", "why": "Product page for a Postgres client app."}
+{"id": 16950, "keep": 1, "q": 3, "kind": "tutorial", "topic": "javascript", "depth": "intro", "title": "Getting Started with Redux", "why": "Video course that builds a mini Redux from scratch so the internals are clear."}
+{"id": 16951, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "Where US uranium comes from", "why": "Statistics fact page."}
+{"id": 16952, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "EIA oil import FAQ", "why": "Statistics FAQ page."}
+{"id": 16953, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "EIA CO2 per kWh FAQ", "why": "Statistics FAQ page."}
+{"id": 16954, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "EIA carbon FAQ", "why": "Statistics FAQ page on emissions."}
+{"id": 16955, "keep": 1, "q": 4, "kind": "blog", "topic": "algorithms", "depth": "intermediate", "title": "Writing Down Every UUID", "why": "Explains how a site computes and renders every UUID on demand, using virtual lists."}
+{"id": 16956, "keep": 1, "q": 3, "kind": "paper", "topic": "programming education", "depth": "intermediate", "title": "The Camel Has Two Humps (retraction)", "why": "Retraction and clarification of a famous claim about how novices build mental models of assignment."}
+{"id": 16957, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "EIZO EV2730Q monitor", "why": "Product page for a monitor."}
+{"id": 16958, "keep": 0, "q": 1, "kind": "blog", "topic": "consumer dispute", "depth": "intro", "title": "Airbnb nightmare", "why": "Personal dispute account."}
+{"id": 16959, "keep": 1, "q": 3, "kind": "essay", "topic": "accessibility", "depth": "intro", "title": "Command line programs for the blind", "why": "Argues for accessible text interfaces and explains the design of edbrowse."}
+{"id": 16960, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Elastic careers", "why": "Job post."}
+{"id": 16961, "keep": 0, "q": 2, "kind": "news", "topic": "licensing", "depth": "intro", "title": "Elastic licensing change", "why": "Company announcement of a license change."}
+{"id": 16962, "keep": 0, "q": 1, "kind": "reference", "topic": "licensing", "depth": "intermediate", "title": "Elastic License", "why": "Legal license text."}
+{"id": 16963, "keep": 0, "q": 1, "kind": "tool", "topic": "ui", "depth": "intro", "title": "Elastic EUI", "why": "Component library homepage."}
+{"id": 16964, "keep": 0, "q": 2, "kind": "reference", "topic": "policy", "depth": "intro", "title": "Norwegian EV policy", "why": "Policy fact list."}
+{"id": 16965, "keep": 1, "q": 4, "kind": "explainer", "topic": "voting systems", "depth": "intermediate", "title": "Approval voting versus IRV", "why": "Simulation comparison showing where IRV fails to beat plurality and why approval voting is simpler."}
+{"id": 16966, "keep": 0, "q": 1, "kind": "reference", "topic": "elections", "depth": "intro", "title": "2016 US turnout", "why": "Turnout statistics page."}
+{"id": 16967, "keep": 0, "q": 1, "kind": "tool", "topic": "energy", "depth": "intro", "title": "Electricity Map Germany", "why": "Live dashboard of grid mix."}
+{"id": 16968, "keep": 1, "q": 2, "kind": "other", "topic": "hardware", "depth": "intermediate", "title": "Cost of a custom ASIC", "why": "Explains why mask costs make custom chips viable only at scale, with run-cost examples."}
+{"id": 16969, "keep": 0, "q": 1, "kind": "news", "topic": "chat", "depth": "intro", "title": "Welcome to Element", "why": "Rebrand announcement."}
+{"id": 16970, "keep": 1, "q": 4, "kind": "blog", "topic": "programming languages", "depth": "intermediate", "title": "The expression problem and its solutions", "why": "Walks through visitor pattern, multimethods and other ways to extend code in both directions."}
+{"id": 16971, "keep": 1, "q": 2, "kind": "paper", "topic": "psychedelics", "depth": "expert", "title": "Microdosing field study", "why": "Observational study of microdosing with its limitations, including unverified substances."}
+{"id": 16972, "keep": 0, "q": 1, "kind": "other", "topic": "elixir", "depth": "intro", "title": "Elixir cases", "why": "Company testimonial page."}
+{"id": 16973, "keep": 1, "q": 2, "kind": "visual", "topic": "elm", "depth": "intro", "title": "Elm examples", "why": "Interactive examples showing Elm's reactive style directly in the browser."}
+{"id": 16974, "keep": 1, "q": 3, "kind": "blog", "topic": "functional programming", "depth": "intermediate", "title": "Farewell to FRP", "why": "Explains why Elm dropped signals for the Elm Architecture and what that trades off."}
+{"id": 16975, "keep": 1, "q": 2, "kind": "blog", "topic": "c#", "depth": "expert", "title": "csborrow", "why": "Describes a borrow-checker-like scheme for local references in C#."}
+{"id": 16976, "keep": 0, "q": 1, "kind": "reference", "topic": "emacs", "depth": "intro", "title": "Emacs artist-mode", "why": "Wiki page for a drawing mode."}
+{"id": 16977, "keep": 0, "q": 1, "kind": "reference", "topic": "emacs", "depth": "intro", "title": "EmacsClient", "why": "Wiki page on running Emacs as a server."}
+{"id": 16978, "keep": 0, "q": 1, "kind": "reference", "topic": "emacs", "depth": "intro", "title": "KeyChord", "why": "Wiki page for an Emacs package."}
+{"id": 16979, "keep": 0, "q": 1, "kind": "reference", "topic": "emacs", "depth": "intro", "title": "MiniMap", "why": "Wiki page for an Emacs package."}
+{"id": 16980, "keep": 0, "q": 1, "kind": "reference", "topic": "email", "depth": "intro", "title": "Email statistics", "why": "Dated statistics page on webmail users."}
+{"id": 16981, "keep": 0, "q": 1, "kind": "other", "topic": "embedded systems", "depth": "intro", "title": "NetBSD on a toaster", "why": "Product page for a board running NetBSD."}
+{"id": 16982, "keep": 0, "q": 1, "kind": "other", "topic": "frameworks", "depth": "intro", "title": "Ember users", "why": "List of companies using Ember."}
+{"id": 16983, "keep": 0, "q": 2, "kind": "news", "topic": "pollution", "depth": "intro", "title": "Tyre wear pollution", "why": "Company news on tyre particulate measurements."}
+{"id": 16984, "keep": 1, "q": 4, "kind": "book", "topic": "education", "depth": "intro", "title": "Profession", "why": "Asimov short story imagining knowledge loaded directly into the brain; a sharp take on learning."}
+{"id": 16985, "keep": 1, "q": 5, "kind": "book", "topic": "performance", "depth": "expert", "title": "Algorithms for Modern Hardware", "why": "Teaches CPU-level optimization: pipelining, caches, SIMD, with worked speedups of classic algorithms."}
+{"id": 16986, "keep": 0, "q": 1, "kind": "reference", "topic": "cryptocurrency", "depth": "intro", "title": "Bitcoin cold storage", "why": "Wiki page listing storage methods."}
+{"id": 16987, "keep": 0, "q": 1, "kind": "reference", "topic": "cryptocurrency", "depth": "intermediate", "title": "Colored coins", "why": "Wiki page on asset tokens on Bitcoin."}
+{"id": 16988, "keep": 0, "q": 2, "kind": "reference", "topic": "cryptocurrency", "depth": "intermediate", "title": "Bitcoin contracts", "why": "Wiki page with contract examples."}
+{"id": 16989, "keep": 0, "q": 1, "kind": "reference", "topic": "cryptocurrency", "depth": "intro", "title": "Controlled currency supply", "why": "Wiki page on bitcoin supply."}
+{"id": 16990, "keep": 1, "q": 3, "kind": "explainer", "topic": "cryptocurrency", "depth": "intermediate", "title": "Double-spending", "why": "Explains double-spend attacks, including 51% and Finney attacks, and why confirmations matter."}
+{"id": 16991, "keep": 1, "q": 3, "kind": "explainer", "topic": "cryptocurrency", "depth": "intro", "title": "Proof of work", "why": "Explains proof-of-work hashing with leading zeros and how difficulty adjusts."}
+{"id": 16992, "keep": 0, "q": 1, "kind": "reference", "topic": "tax", "depth": "intro", "title": "Bitcoin tax compliance", "why": "Wiki page on reporting requirements."}
+{"id": 16993, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "C++20 compiler support", "why": "Compiler feature support table."}
+{"id": 16994, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intro", "title": "std::vector", "why": "API reference for vector."}
+{"id": 16995, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "constexpr", "why": "Language reference for constexpr."}
+{"id": 16996, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "expert", "title": "Evaluation order", "why": "Language reference for evaluation order."}
+{"id": 16997, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "std::unique_ptr", "why": "API reference for unique_ptr."}
+{"id": 16998, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "C++ thread library", "why": "Library reference for the thread facilities."}
+{"id": 16999, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "std::format", "why": "API reference for std::format."}
