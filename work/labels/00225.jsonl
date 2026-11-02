@@ -1,0 +1,200 @@
+{"id": 45000, "keep": 0, "q": 1, "kind": "docs", "topic": "browsers", "depth": "intro", "title": "Enable and disable cookies (Firefox)", "why": "Vendor help page on managing cookie permissions per website."}
+{"id": 45001, "keep": 0, "q": 1, "kind": "docs", "topic": "browsers", "depth": "intro", "title": "Extensions in private browsing (Firefox)", "why": "Vendor help page on allowing extensions in private windows."}
+{"id": 45002, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intro", "title": "Firefox Monitor FAQ", "why": "Product FAQ about breach data sources and opting out."}
+{"id": 45003, "keep": 0, "q": 1, "kind": "docs", "topic": "browsers", "depth": "intro", "title": "Font size and zoom (Firefox)", "why": "Vendor help page on text size and zoom settings."}
+{"id": 45004, "keep": 1, "q": 3, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "How Firefox Sync keeps data safe even if TLS fails", "why": "Explains client-side encryption so synced data stays private even if transport security breaks."}
+{"id": 45005, "keep": 0, "q": 1, "kind": "docs", "topic": "email", "depth": "intro", "title": "Maildir in Thunderbird", "why": "Vendor help page on Maildir support and its experimental status."}
+{"id": 45006, "keep": 0, "q": 1, "kind": "docs", "topic": "browsers", "depth": "intro", "title": "Quarantined domains (Firefox)", "why": "Help page on extensions being restricted on certain websites."}
+{"id": 45007, "keep": 0, "q": 2, "kind": "docs", "topic": "browsers", "depth": "intermediate", "title": "Resist fingerprinting (Firefox)", "why": "Settings reference for anti-fingerprinting features and their side effects."}
+{"id": 45008, "keep": 0, "q": 1, "kind": "docs", "topic": "browsers", "depth": "intro", "title": "Search open tabs (Firefox)", "why": "Help page on searching open tabs from the address bar."}
+{"id": 45009, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intro", "title": "Setting certificate authorities (Firefox)", "why": "Vendor help page on configuring CA certificates."}
+{"id": 45010, "keep": 0, "q": 1, "kind": "docs", "topic": "browsers", "depth": "intro", "title": "Tab groups (Firefox)", "why": "Feature help page for a progressively rolled-out tab feature."}
+{"id": 45011, "keep": 0, "q": 1, "kind": "docs", "topic": "browsers", "depth": "intro", "title": "Website translation (Firefox)", "why": "Help page on on-device webpage translation."}
+{"id": 45012, "keep": 0, "q": 1, "kind": "news", "topic": "crypto", "depth": "intro", "title": "Mt. Gox sell-off after account compromise", "why": "Exchange statement about a 2011 account compromise and rollback."}
+{"id": 45013, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Plex local network authentication", "why": "Support article on skipping login for local network access."}
+{"id": 45014, "keep": 0, "q": 1, "kind": "docs", "topic": "hardware", "depth": "intro", "title": "Using reMarkable without a subscription", "why": "Vendor page listing offline features without a cloud subscription."}
+{"id": 45015, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "Signal support request form", "why": "Contact form for reaching Signal support."}
+{"id": 45016, "keep": 0, "q": 1, "kind": "docs", "topic": "music", "depth": "intro", "title": "Spotify local files", "why": "Support article on syncing local files to playlists."}
+{"id": 45017, "keep": 0, "q": 1, "kind": "docs", "topic": "payments", "depth": "intro", "title": "Stripe PCI compliance FAQ", "why": "Support FAQ on what PCI compliance requires for card payments."}
+{"id": 45018, "keep": 0, "q": 1, "kind": "docs", "topic": "payments", "depth": "intro", "title": "Stripe supported countries", "why": "Support page listing countries where Stripe operates."}
+{"id": 45019, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "Pop Shell", "why": "Install and usage page for a GNOME tiling extension."}
+{"id": 45020, "keep": 0, "q": 1, "kind": "docs", "topic": "hardware", "depth": "intro", "title": "Wyze Cam RTSP firmware", "why": "Vendor article on enabling RTSP streaming on Wyze cameras."}
+{"id": 45021, "keep": 0, "q": 1, "kind": "docs", "topic": "privacy", "depth": "intro", "title": "Zoom attendee attention tracking", "why": "Support article on an attention tracking feature later removed."}
+{"id": 45022, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "EFF supporter shop", "why": "Merchandise store page."}
+{"id": 45023, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "EFF laptop camera cover set", "why": "Product page for removable webcam covers."}
+{"id": 45024, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 11-393 (NFIB v. Sebelius)", "why": "Court opinion text on the ACA mandate; legal text."}
+{"id": 45025, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 11-796 (Bowman v. Monsanto)", "why": "Court opinion text on patent exhaustion for seeds; legal text."}
+{"id": 45026, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 13-461 (Aereo)", "why": "Court opinion text on retransmission of broadcast TV; legal text."}
+{"id": 45027, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 13-433 (Integrity Staffing v. Busk)", "why": "Court opinion text on unpaid security screening time; legal text."}
+{"id": 45028, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 15-1256 (Nelson v. Colorado)", "why": "Court opinion text on refunds of exonerated convictions' fees; legal text."}
+{"id": 45029, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 16-476 (Murphy v. NCAA)", "why": "Court opinion text on sports betting and anti-commandeering; legal text."}
+{"id": 45030, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 17-1091 (Timbs v. Indiana)", "why": "Court opinion text on incorporating the Excessive Fines Clause; legal text."}
+{"id": 45031, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 17-204", "why": "Court opinion text; legal text."}
+{"id": 45032, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court order 21A23", "why": "Court order text on a 2025 emergency matter; legal text."}
+{"id": 45033, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 21-454 (Sackett v. EPA)", "why": "Court opinion text on wetlands jurisdiction; legal text."}
+{"id": 45034, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 23-108 (Snyder v. United States)", "why": "Court opinion text on gratuities under a federal bribery statute; legal text."}
+{"id": 45035, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court opinion 24-1287", "why": "Court opinion text; legal text."}
+{"id": 45036, "keep": 1, "q": 4, "kind": "explainer", "topic": "graphics", "depth": "intro", "title": "WebGPU introduction", "why": "A first in-depth introduction to rendering with WebGPU from a Chrome developer's perspective."}
+{"id": 45037, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "SurrealDB features", "why": "Product features page for a database."}
+{"id": 45038, "keep": 0, "q": 2, "kind": "blog", "topic": "security", "depth": "intro", "title": "Fact-checking the Tor Project's government ties", "why": "Polemical blog about Tor's funding sources and government links."}
+{"id": 45039, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "1Password self-hosting survey", "why": "Survey gauging interest in a self-hosted password manager."}
+{"id": 45040, "keep": 0, "q": 1, "kind": "reference", "topic": "careers", "depth": "intro", "title": "Stack Overflow Developer Survey 2024 (work)", "why": "Survey statistics on developer work and compensation."}
+{"id": 45041, "keep": 0, "q": 2, "kind": "tool", "topic": "graphics", "depth": "intro", "title": "fxyt formula grid", "why": "Interactive tool that colours a grid from a formula string."}
+{"id": 45042, "keep": 1, "q": 3, "kind": "blog", "topic": "climate", "depth": "intermediate", "title": "What's the carbon footprint of using ChatGPT?", "why": "Estimates the energy and carbon cost of ChatGPT use with sourced figures."}
+{"id": 45043, "keep": 0, "q": 1, "kind": "other", "topic": "frontend", "depth": "intro", "title": "Svelte chat", "why": "Community chat invite page."}
+{"id": 45044, "keep": 0, "q": 1, "kind": "tool", "topic": "frontend", "depth": "intro", "title": "Svelte REPL", "why": "Online playground for trying Svelte code."}
+{"id": 45045, "keep": 1, "q": 3, "kind": "tutorial", "topic": "frontend", "depth": "intro", "title": "Svelte tutorial: writable stores", "why": "Interactive lesson on sharing state across components with Svelte stores."}
+{"id": 45046, "keep": 1, "q": 4, "kind": "paper", "topic": "collaborative editing", "depth": "expert", "title": "Operational Transformation (Google Wave whitepaper)", "why": "Describes operational transformation for real-time collaborative editing with server-side conflict resolution."}
+{"id": 45047, "keep": 0, "q": 1, "kind": "tool", "topic": "productivity", "depth": "intro", "title": "SelfControl", "why": "Project page for a site-blocking app."}
+{"id": 45048, "keep": 0, "q": 2, "kind": "tool", "topic": "computing history", "depth": "intro", "title": "Apollo guidance computer simulator (JavaScript)", "why": "Browser port of an Apollo AGC simulator."}
+{"id": 45049, "keep": 0, "q": 2, "kind": "reference", "topic": "terminals", "depth": "intermediate", "title": "kitty configuration reference", "why": "Option-by-option configuration reference for the kitty terminal."}
+{"id": 45050, "keep": 1, "q": 4, "kind": "book", "topic": "python", "depth": "intro", "title": "A Byte of Python", "why": "Free introductory Python book covering the language from basics to practical programs."}
+{"id": 45051, "keep": 1, "q": 3, "kind": "book", "topic": "vim", "depth": "intro", "title": "A Byte of Vim", "why": "Free practical introduction to Vim modes and editing commands."}
+{"id": 45052, "keep": 1, "q": 3, "kind": "reference", "topic": "prolog", "depth": "intermediate", "title": "SWI-Prolog CLP(FD) manual", "why": "Manual for finite-domain constraint programming with modelling examples."}
+{"id": 45053, "keep": 0, "q": 2, "kind": "news", "topic": "swift", "depth": "intro", "title": "Swift on Windows", "why": "Announcement that Swift runs on Windows."}
+{"id": 45054, "keep": 0, "q": 1, "kind": "blog", "topic": "swift", "depth": "intro", "title": "Swift VS Code extension", "why": "Announcement post for the official Swift VS Code extension."}
+{"id": 45055, "keep": 0, "q": 1, "kind": "other", "topic": "swift", "depth": "intro", "title": "Swift community", "why": "Community governance and communication guidelines page."}
+{"id": 45056, "keep": 0, "q": 1, "kind": "docs", "topic": "swift", "depth": "intro", "title": "Swift documentation", "why": "Landing page linking Swift documentation and resources."}
+{"id": 45057, "keep": 0, "q": 1, "kind": "docs", "topic": "swift", "depth": "intro", "title": "Swift getting started", "why": "Installation and first-steps landing page for Swift."}
+{"id": 45058, "keep": 0, "q": 1, "kind": "tool", "topic": "swift", "depth": "intro", "title": "Swift Package Manager", "why": "Landing page announcing the Swift package manager."}
+{"id": 45059, "keep": 0, "q": 1, "kind": "other", "topic": "llms", "depth": "intro", "title": "Apertus (Swiss AI)", "why": "Project page for an open Swiss language model."}
+{"id": 45060, "keep": 1, "q": 3, "kind": "tutorial", "topic": "maps", "depth": "intermediate", "title": "Serving map tiles (switch2osm)", "why": "Practical guide to serving OpenStreetMap tiles, covering infrastructure and usage policy."}
+{"id": 45061, "keep": 1, "q": 3, "kind": "explainer", "topic": "space", "depth": "intro", "title": "Satellite drag (NOAA SWPC)", "why": "Explains how solar activity increases atmospheric drag on low Earth orbit satellites."}
+{"id": 45062, "keep": 0, "q": 1, "kind": "news", "topic": "go", "depth": "intro", "title": "Go 1.1 release burn-down", "why": "Issue tracker burn-down for a Go release."}
+{"id": 45063, "keep": 0, "q": 1, "kind": "news", "topic": "climate", "depth": "intro", "title": "Sydney University bushfire animal loss statement", "why": "University statement on estimated animal deaths in the 2019-20 bushfires."}
+{"id": 45064, "keep": 0, "q": 2, "kind": "tool", "topic": "git", "depth": "intro", "title": "Simple Defects (sd)", "why": "Project page for an offline, git-friendly bug tracker."}
+{"id": 45065, "keep": 0, "q": 1, "kind": "tool", "topic": "photos", "depth": "intro", "title": "Synology Moments", "why": "Product page for a NAS photo app."}
+{"id": 45066, "keep": 0, "q": 2, "kind": "docs", "topic": "regular expressions", "depth": "intermediate", "title": "irregex (Scheme regex library)", "why": "Library documentation for a regex engine with named groups and whitespace handling."}
+{"id": 45067, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Sysdig jobs", "why": "Job listings page."}
+{"id": 45068, "keep": 1, "q": 3, "kind": "reference", "topic": "linux", "depth": "expert", "title": "systemd journal file format", "why": "Specifies the binary on-disk format of systemd's journal logs and the reasoning behind it."}
+{"id": 45069, "keep": 1, "q": 3, "kind": "docs", "topic": "linux", "depth": "expert", "title": "systemd random seeds", "why": "Explains how systemd seeds the kernel random pool early at boot to avoid weak randomness."}
+{"id": 45070, "keep": 0, "q": 1, "kind": "other", "topic": "telecom", "depth": "intro", "title": "T-Mobile satellite phone service", "why": "Carrier promotional page for a satellite texting beta."}
+{"id": 45071, "keep": 0, "q": 1, "kind": "other", "topic": "net neutrality", "depth": "intro", "title": "T-Mobile Binge On", "why": "Carrier offer page for zero-rated streaming."}
+{"id": 45072, "keep": 0, "q": 1, "kind": "other", "topic": "telecom", "depth": "intro", "title": "T-Mobile call protection", "why": "Carrier page on spam call blocking."}
+{"id": 45073, "keep": 0, "q": 1, "kind": "other", "topic": "telecom", "depth": "intro", "title": "T-Mobile cell phone plans", "why": "Historical carrier plan details page."}
+{"id": 45074, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Telegram posts blocked by filter", "why": "Telegram post about links being filtered on iOS."}
+{"id": 45075, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "Telegram transparency report", "why": "Telegram page on data disclosure reporting."}
+{"id": 45076, "keep": 1, "q": 3, "kind": "book", "topic": "array languages", "depth": "intermediate", "title": "Klong book", "why": "Free book introducing the Klong array language with idioms and examples."}
+{"id": 45077, "keep": 0, "q": 1, "kind": "journalism", "topic": "politics", "depth": "intro", "title": "How the Gaza health ministry fakes casualty numbers", "why": "Politically contested polemic about casualty figures."}
+{"id": 45078, "keep": 0, "q": 2, "kind": "docs", "topic": "programming languages", "depth": "expert", "title": "Clay programming language", "why": "Language homepage for a generic-programming systems language."}
+{"id": 45079, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "expert", "title": "TACK draft specification", "why": "Draft spec for TLS key pinning with key rotation."}
+{"id": 45080, "keep": 0, "q": 2, "kind": "essay", "topic": "politics", "depth": "intro", "title": "On White Fragility", "why": "Opinion column critiquing a bestselling book on race."}
+{"id": 45081, "keep": 0, "q": 2, "kind": "blog", "topic": "networking", "depth": "intermediate", "title": "Tailscale custom OIDC", "why": "Vendor post on using custom identity providers with Tailscale."}
+{"id": 45082, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Tailnet lock", "why": "Explains how signing keys let a network reject unauthorised nodes without trusting the coordinator."}
+{"id": 45083, "keep": 1, "q": 4, "kind": "blog", "topic": "networking", "depth": "intermediate", "title": "The Two Internets, Both Flakey", "why": "Argues the internet has two networks with different failure modes, and what that means for reliability."}
+{"id": 45084, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Tailscale mesh traffic logging", "why": "Vendor docs on logging mesh traffic."}
+{"id": 45085, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Tailscale key expiry", "why": "Vendor docs on node key expiration settings."}
+{"id": 45086, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Tailscale DNS", "why": "Vendor docs on DNS configuration."}
+{"id": 45087, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Tailscale MagicDNS", "why": "Vendor docs on automatic device naming."}
+{"id": 45088, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Tailscale userspace networking", "why": "Vendor docs on running Tailscale without kernel networking."}
+{"id": 45089, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Tailscale custom DERP servers", "why": "Vendor docs on self-hosting relay servers."}
+{"id": 45090, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Tailscale SSO, SAML and OIDC", "why": "Vendor docs on identity provider integration."}
+{"id": 45091, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Tailscale on Apple TV", "why": "Vendor setup instructions for Apple TV."}
+{"id": 45092, "keep": 0, "q": 2, "kind": "docs", "topic": "css", "depth": "intro", "title": "Tailwind controlling file size", "why": "Docs on purging unused CSS to shrink Tailwind builds."}
+{"id": 45093, "keep": 0, "q": 1, "kind": "other", "topic": "css", "depth": "intro", "title": "Tailwind sponsor page", "why": "Sponsorship and subscription page."}
+{"id": 45094, "keep": 0, "q": 1, "kind": "other", "topic": "css", "depth": "intro", "title": "Tailwind UI license", "why": "License terms for a paid component kit."}
+{"id": 45095, "keep": 0, "q": 1, "kind": "other", "topic": "css", "depth": "intro", "title": "Tailwind UI templates", "why": "Storefront page for paid templates."}
+{"id": 45096, "keep": 0, "q": 1, "kind": "other", "topic": "internet freedom", "depth": "intro", "title": "The Internet's Own Boy", "why": "Official site for a documentary about Aaron Swartz."}
+{"id": 45097, "keep": 1, "q": 4, "kind": "blog", "topic": "linux performance", "depth": "expert", "title": "Extreme HTTP performance tuning", "why": "Step-by-step kernel and network tuning that pushes one server past a million HTTP requests per second."}
+{"id": 45098, "keep": 0, "q": 2, "kind": "journalism", "topic": "tech companies", "depth": "intro", "title": "A serf on Google's farm", "why": "Account of a business losing service after a Google account suspension."}
+{"id": 45099, "keep": 1, "q": 3, "kind": "reference", "topic": "evolution", "depth": "intermediate", "title": "Index of Creationist Claims", "why": "Catalogue of common creationist arguments with scientific rebuttals and sources."}
+{"id": 45100, "keep": 1, "q": 5, "kind": "talk", "topic": "concurrency", "depth": "intermediate", "title": "Concurrency is not parallelism", "why": "Rob Pike's talk clarifying concurrency versus parallelism with clear examples."}
+{"id": 45101, "keep": 1, "q": 3, "kind": "talk", "topic": "go", "depth": "intermediate", "title": "Gocon Tokyo 2014 talk", "why": "Talk on how Go blends high-level and low-level programming and its design tradeoffs."}
+{"id": 45102, "keep": 1, "q": 3, "kind": "talk", "topic": "go", "depth": "intermediate", "title": "Go readability talk", "why": "Talk on idiomatic Go style, error handling and interface patterns for readable code."}
+{"id": 45103, "keep": 1, "q": 3, "kind": "talk", "topic": "compilers", "depth": "expert", "title": "Go compiler in Go (2015 talk)", "why": "Explains why the Go team rewrote its compiler in Go and the performance tradeoffs."}
+{"id": 45104, "keep": 1, "q": 4, "kind": "essay", "topic": "science incentives", "depth": "intro", "title": "No, it's not the incentives, it's you", "why": "Argues scientists are personally responsible for misconduct despite bad incentives."}
+{"id": 45105, "keep": 1, "q": 3, "kind": "journalism", "topic": "food", "depth": "intro", "title": "Farm to Fable", "why": "Investigation into misleading local-food claims at farmers' markets."}
+{"id": 45106, "keep": 1, "q": 3, "kind": "blog", "topic": "llms", "depth": "intro", "title": "OpenAI and Anthropic revenue breakdown", "why": "Estimates how revenue splits between API and consumer chat at both labs."}
+{"id": 45107, "keep": 1, "q": 5, "kind": "paper", "topic": "statistics", "depth": "intermediate", "title": "Moving to a world beyond p<0.05", "why": "Argues against binary significance testing and outlines practical alternatives."}
+{"id": 45108, "keep": 0, "q": 2, "kind": "paper", "topic": "nuclear", "depth": "expert", "title": "Chernobyl explosion analysis", "why": "Technical paper cited as evidence in a debate about the Chernobyl accident."}
+{"id": 45109, "keep": 0, "q": 2, "kind": "paper", "topic": "nutrition", "depth": "expert", "title": "Sucralose toxicity review", "why": "Review paper cited as evidence in a sucralose argument."}
+{"id": 45110, "keep": 0, "q": 2, "kind": "paper", "topic": "energy policy", "depth": "expert", "title": "German energy transition paper", "why": "Academic paper cited as evidence in a policy argument."}
+{"id": 45111, "keep": 0, "q": 1, "kind": "tool", "topic": "browsers", "depth": "intro", "title": "Herp Derp YouTube Comments", "why": "Browser extension page that hides comments."}
+{"id": 45112, "keep": 0, "q": 2, "kind": "docs", "topic": "frontend", "depth": "intermediate", "title": "TanStack Query", "why": "Library homepage for a data-fetching and caching library."}
+{"id": 45113, "keep": 0, "q": 1, "kind": "news", "topic": "apps", "depth": "intro", "title": "Tweetbot for Mac pricing", "why": "Launch post explaining limited seat pricing for a Mac app."}
+{"id": 45114, "keep": 0, "q": 1, "kind": "tool", "topic": "astrophysics", "depth": "expert", "title": "GIZMO simulation code", "why": "Project page for a cosmological simulation code."}
+{"id": 45115, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "Tarsnap bounty winners", "why": "Listing of bug bounty winners for a backup service."}
+{"id": 45116, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "expert", "title": "Tarsnap crypto design", "why": "Vendor description of a backup service's encryption design."}
+{"id": 45117, "keep": 0, "q": 2, "kind": "blog", "topic": "pricing", "depth": "intro", "title": "Why Tarsnap prices in picodollars", "why": "Short explanation of a pricing unit choice, mostly a service rationale."}
+{"id": 45118, "keep": 0, "q": 1, "kind": "news", "topic": "military ai", "depth": "intro", "title": "Marines AI and camouflage", "why": "News article reporting on military AI, likely blogspam."}
+{"id": 45119, "keep": 1, "q": 2, "kind": "explainer", "topic": "law", "depth": "intro", "title": "History of student loan bankruptcy law", "why": "Traces how Congress made student loans hard to discharge in bankruptcy."}
+{"id": 45120, "keep": 0, "q": 2, "kind": "tool", "topic": "postgres", "depth": "intermediate", "title": "Postgres query plan visualization", "why": "Tool for visualising EXPLAIN output as a plan tree."}
+{"id": 45121, "keep": 1, "q": 3, "kind": "paper", "topic": "security", "depth": "expert", "title": "Hands Off: power analysis side channels", "why": "Shows power side-channel attacks on laptops running a normal OS."}
+{"id": 45122, "keep": 0, "q": 2, "kind": "reference", "topic": "demographics", "depth": "intermediate", "title": "Israel's exceptional fertility", "why": "Think-tank report cited as evidence in a demographic argument."}
+{"id": 45123, "keep": 0, "q": 1, "kind": "reference", "topic": "taxes", "depth": "intro", "title": "Property tax by state", "why": "Statistics table of property tax by state."}
+{"id": 45124, "keep": 0, "q": 1, "kind": "other", "topic": "climate policy", "depth": "intro", "title": "EU carbon border adjustment mechanism", "why": "Official policy page for a carbon import levy."}
+{"id": 45125, "keep": 0, "q": 1, "kind": "reference", "topic": "taxes", "depth": "intro", "title": "Federal income tax data 2024", "why": "Statistics on federal income tax distribution."}
+{"id": 45126, "keep": 1, "q": 3, "kind": "explainer", "topic": "economics", "depth": "intro", "title": "How Scandinavian countries pay for government spending", "why": "Compares Nordic tax structures and revenue sources with the US."}
+{"id": 45127, "keep": 0, "q": 2, "kind": "explainer", "topic": "taxes", "depth": "intro", "title": "Standard deduction vs itemized deductions", "why": "Explains deduction choice with current-law figures, mostly statistics."}
+{"id": 45128, "keep": 0, "q": 2, "kind": "reference", "topic": "taxes", "depth": "intermediate", "title": "Taxes on the rich in 1950", "why": "Chart-based analysis of effective rates, cited in an argument."}
+{"id": 45129, "keep": 0, "q": 1, "kind": "reference", "topic": "taxes", "depth": "intro", "title": "Federal receipts and outlays summary", "why": "Statistics table of federal receipts and outlays."}
+{"id": 45130, "keep": 0, "q": 1, "kind": "reference", "topic": "taxes", "depth": "intro", "title": "Federal tax receipts as share of GDP", "why": "Statistics on tax receipts as a share of GDP."}
+{"id": 45131, "keep": 1, "q": 2, "kind": "essay", "topic": "career", "depth": "intro", "title": "The 10x Engineer", "why": "Argues that technical excellence and communication matter more than hustle posturing."}
+{"id": 45132, "keep": 0, "q": 2, "kind": "docs", "topic": "tor", "depth": "intermediate", "title": "Tor bridges", "why": "User manual section on Tor bridges."}
+{"id": 45133, "keep": 0, "q": 1, "kind": "reference", "topic": "ai benchmarks", "depth": "intro", "title": "TBench leaderboard", "why": "Leaderboard of model scores."}
+{"id": 45134, "keep": 0, "q": 2, "kind": "docs", "topic": "javascript", "depth": "intermediate", "title": "ES6 arrow functions (TC39 wiki)", "why": "Feature reference page for ES6 arrow functions."}
+{"id": 45135, "keep": 0, "q": 1, "kind": "journalism", "topic": "labor", "depth": "intro", "title": "Wage theft vs other forms of theft", "why": "Advocacy article on wage theft and labour abuse."}
+{"id": 45136, "keep": 1, "q": 2, "kind": "explainer", "topic": "history", "depth": "intro", "title": "Progressive tax rates in history (Ask a Historian)", "why": "Historian's answer on how US progressive tax rates changed over time."}
+{"id": 45137, "keep": 0, "q": 1, "kind": "news", "topic": "gaming", "depth": "intro", "title": "Team Fortress 2 macOS 64-bit update", "why": "Game update announcement."}
+{"id": 45138, "keep": 1, "q": 3, "kind": "essay", "topic": "meaning", "depth": "intro", "title": "Norris numbers", "why": "Personal essay on finding meaning and perspective when life is hard."}
+{"id": 45139, "keep": 1, "q": 4, "kind": "paper", "topic": "video", "depth": "intermediate", "title": "Rec. 601 history (Wood)", "why": "History and rationale behind digital video resolutions and sampling standards."}
+{"id": 45140, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Groupon IPO and Eric Lefkofsky", "why": "Business news about an IPO and a shareholder's background."}
+{"id": 45141, "keep": 0, "q": 1, "kind": "news", "topic": "free software", "depth": "intro", "title": "Stallman's income from speaking and prizes", "why": "Student newspaper report on a public figure's income."}
+{"id": 45142, "keep": 0, "q": 1, "kind": "news", "topic": "civil liberties", "depth": "intro", "title": "Star Simpson at Logan Airport", "why": "News report on an airport incident involving a circuit-board shirt."}
+{"id": 45143, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "NoRedInk: welcome Evan", "why": "Company blog announcing a hire, with job-listing content."}
+{"id": 45144, "keep": 1, "q": 3, "kind": "blog", "topic": "databases", "depth": "expert", "title": "Benchmarking high-performance I/O with SSD", "why": "Benchmarks cloud storage options for Cassandra and the throughput tradeoffs."}
+{"id": 45145, "keep": 0, "q": 1, "kind": "reference", "topic": "web", "depth": "intro", "title": "Most common user agents", "why": "List of most common browser user-agent strings."}
+{"id": 45146, "keep": 1, "q": 3, "kind": "explainer", "topic": "semiconductors", "depth": "intermediate", "title": "7nm, 10nm, 14nm fabrication", "why": "Explains why process node names do not map to transistor density and compares MTr/mm²."}
+{"id": 45147, "keep": 0, "q": 1, "kind": "news", "topic": "excel", "depth": "intro", "title": "LAMBDA: Excel formulas as custom functions", "why": "Product announcement for an Excel feature."}
+{"id": 45148, "keep": 0, "q": 1, "kind": "news", "topic": "excel", "depth": "intro", "title": "Python in Excel", "why": "Product announcement for Python in Excel."}
+{"id": 45149, "keep": 0, "q": 2, "kind": "news", "topic": "identity", "depth": "intro", "title": "ION: we have liftoff", "why": "Announcement of a decentralised identity network."}
+{"id": 45150, "keep": 0, "q": 2, "kind": "blog", "topic": "desktop apps", "depth": "intro", "title": "Microsoft Teams new architecture", "why": "Vendor blog on moving Teams to WebView2."}
+{"id": 45151, "keep": 0, "q": 2, "kind": "news", "topic": "privacy", "depth": "intro", "title": "AOL releases search data", "why": "News report on the 2006 AOL search data release."}
+{"id": 45152, "keep": 0, "q": 1, "kind": "news", "topic": "hacker news", "depth": "intro", "title": "Little-known Hacker News", "why": "Early TechCrunch piece about Hacker News."}
+{"id": 45153, "keep": 0, "q": 1, "kind": "news", "topic": "browsers", "depth": "intro", "title": "Mozilla extends Google deal", "why": "News on Mozilla's revenue deal with Google."}
+{"id": 45154, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Did Last.fm hand data to the RIAA?", "why": "News story on a music service data dispute."}
+{"id": 45155, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Deny this, Last.fm", "why": "Follow-up news story on the same dispute."}
+{"id": 45156, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "CrunchPad launch prototype", "why": "News about a tablet prototype."}
+{"id": 45157, "keep": 0, "q": 1, "kind": "news", "topic": "mobile", "depth": "intro", "title": "Joe Hewitt quits Facebook iPhone app", "why": "News about a developer leaving a project."}
+{"id": 45158, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "CrunchPad end", "why": "News about a failed tablet project."}
+{"id": 45159, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "So a blogger walks into a bar", "why": "Opinion piece about early-stage investing."}
+{"id": 45160, "keep": 0, "q": 2, "kind": "news", "topic": "startups", "depth": "intro", "title": "Google and Excite", "why": "News on the Excite deal history."}
+{"id": 45161, "keep": 0, "q": 1, "kind": "news", "topic": "cloud", "depth": "intro", "title": "Salesforce buys Heroku", "why": "Acquisition news."}
+{"id": 45162, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Color.com domain acquired", "why": "Acquisition news."}
+{"id": 45163, "keep": 0, "q": 2, "kind": "news", "topic": "social media", "depth": "intro", "title": "Real-name policies and comment quality", "why": "News report on research cited in a debate."}
+{"id": 45164, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "Facebook Poke app", "why": "Product launch news."}
+{"id": 45165, "keep": 0, "q": 2, "kind": "journalism", "topic": "law", "depth": "intro", "title": "Aaron Swartz asking for help", "why": "News report on a legal case."}
+{"id": 45166, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "Google DeepMind acquisition", "why": "Acquisition news."}
+{"id": 45167, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Yo raises funding", "why": "Funding news."}
+{"id": 45168, "keep": 0, "q": 1, "kind": "news", "topic": "energy", "depth": "intro", "title": "Y Combinator invests in Helion", "why": "Funding news."}
+{"id": 45169, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "CurrentC mobile payments", "why": "News about a payments app and its privacy policy."}
+{"id": 45170, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Pigeon.ly", "why": "Startup news about prison mail."}
+{"id": 45171, "keep": 0, "q": 1, "kind": "news", "topic": "programming languages", "depth": "intro", "title": "Google will not integrate Dart into Chrome", "why": "News on a language plan change."}
+{"id": 45172, "keep": 0, "q": 2, "kind": "journalism", "topic": "startups", "depth": "intro", "title": "Why Homejoy failed", "why": "Journalism on a company failure and labour lawsuits."}
+{"id": 45173, "keep": 1, "q": 4, "kind": "essay", "topic": "startups", "depth": "intro", "title": "The Stack Fallacy", "why": "Explains why big companies underestimate adjacent markets and fail to enter them."}
+{"id": 45174, "keep": 0, "q": 1, "kind": "news", "topic": "self-driving", "depth": "intro", "title": "Uber self-driving car red light", "why": "News on a self-driving incident."}
+{"id": 45175, "keep": 0, "q": 1, "kind": "news", "topic": "apple", "depth": "intro", "title": "Apple Pro Macs interview transcript", "why": "Press interview transcript on product plans."}
+{"id": 45176, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "Facebook reaches 2 billion users", "why": "News on user numbers."}
+{"id": 45177, "keep": 0, "q": 2, "kind": "news", "topic": "mobile", "depth": "intro", "title": "Most US consumers download zero apps per month", "why": "News on a market statistic."}
+{"id": 45178, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Equifax breach: are you affected", "why": "News on a data breach lookup."}
+{"id": 45179, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "Robert Scoble allegations", "why": "News on allegations against a public figure."}
+{"id": 45180, "keep": 0, "q": 1, "kind": "news", "topic": "apps", "depth": "intro", "title": "App Store hits 20M developers", "why": "Statistics news on developer numbers."}
+{"id": 45181, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "NSA and AT&T interception", "why": "News on surveillance reporting."}
+{"id": 45182, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Apple iCloud data in China", "why": "News on data hosting arrangements."}
+{"id": 45183, "keep": 0, "q": 1, "kind": "news", "topic": "apps", "depth": "intro", "title": "Sneaky subscriptions on the App Store", "why": "News on subscription scam apps."}
+{"id": 45184, "keep": 0, "q": 1, "kind": "news", "topic": "apps", "depth": "intro", "title": "Netflix stops paying Apple tax", "why": "Business news on in-app payment fees."}
+{"id": 45185, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "US carriers still selling location data", "why": "News on location data sales."}
+{"id": 45186, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Google also peddling a data collector on iOS", "why": "News on app tracking."}
+{"id": 45187, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "OpenAI text generator too dangerous to release", "why": "News on the GPT-2 release decision."}
+{"id": 45188, "keep": 0, "q": 1, "kind": "news", "topic": "licensing", "depth": "intro", "title": "Redis changes its open source license", "why": "News on a license change."}
+{"id": 45189, "keep": 0, "q": 1, "kind": "news", "topic": "free software", "depth": "intro", "title": "Stallman resigns from MIT and FSF", "why": "News on a resignation."}
+{"id": 45190, "keep": 0, "q": 1, "kind": "news", "topic": "docker", "depth": "intro", "title": "Mirantis acquires Docker Enterprise", "why": "Acquisition news."}
+{"id": 45191, "keep": 0, "q": 1, "kind": "news", "topic": "crypto", "depth": "intro", "title": "The debate about cryptocurrency and energy", "why": "Opinion piece on crypto energy use."}
+{"id": 45192, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Stack Overflow acquired by Prosus", "why": "Acquisition news."}
+{"id": 45193, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Google geofence warrants", "why": "News on law enforcement requests."}
+{"id": 45194, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "Instagram shuts down Threads app", "why": "Product news."}
+{"id": 45195, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "John Carmack's AGI company raises $20M", "why": "Funding news."}
+{"id": 45196, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "Microsoft CEO says up to 30% of code is AI-written", "why": "News quoting an executive."}
+{"id": 45197, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "Threads nears X daily users", "why": "Usage statistics news."}
+{"id": 45198, "keep": 0, "q": 1, "kind": "reference", "topic": "startups", "depth": "intro", "title": "TechCrunch unicorn leaderboard", "why": "Leaderboard data of startup valuations."}
+{"id": 45199, "keep": 0, "q": 1, "kind": "news", "topic": "patents", "depth": "intro", "title": "Techdirt on Paul Allen and Nathan Myhrvold", "why": "Commentary on a patent-related news item."}

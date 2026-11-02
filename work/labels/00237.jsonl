@@ -1,0 +1,5 @@
+{"id": 47400, "keep": 0, "q": 2, "kind": "tool", "topic": "email design", "depth": "intermediate", "title": "ZURB Responsive Email Templates", "why": "Downloadable responsive HTML email templates; a practical starting kit, not an explanation."}
+{"id": 47401, "keep": 0, "q": 1, "kind": "tool", "topic": "retro computing", "depth": "intro", "title": "ZX81 web emulator", "why": "Browser emulator for the ZX81 that reproduces display wobble; a tool, not something to read."}
+{"id": 47402, "keep": 1, "q": 4, "kind": "book", "topic": "hardware design", "depth": "expert", "title": "The ZX Spectrum ULA: How to Design a Microcomputer", "why": "Detailed book on designing the Spectrum's custom chip and its production; rich hardware insight."}
+{"id": 47403, "keep": 0, "q": 1, "kind": "tool", "topic": "qr codes", "depth": "intro", "title": "ZXing QR code generator", "why": "Web tool for generating QR codes; a utility page, not reading material."}
+{"id": 47404, "keep": 0, "q": 1, "kind": "tool", "topic": "qr codes", "depth": "intro", "title": "ZXing QR code decoder", "why": "Web tool for decoding QR images; a utility page, not reading material."}

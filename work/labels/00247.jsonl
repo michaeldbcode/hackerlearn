@@ -1,0 +1,200 @@
+{"id": 49400, "keep": 0, "q": 1, "kind": "tool", "topic": "cloud services", "depth": "intro", "title": "Azure Text to Speech", "why": "Microsoft product page for a text-to-speech API; marketing, not learning material."}
+{"id": 49401, "keep": 0, "q": 1, "kind": "tool", "topic": "cloud services", "depth": "intro", "title": "Azure Linux Virtual Machines", "why": "Product marketing page for Azure Linux VMs; cited only for a usage statistic."}
+{"id": 49402, "keep": 0, "q": 1, "kind": "reference", "topic": "cloud services", "depth": "intro", "title": "Azure Regions", "why": "Datacenter region list; a lookup page rather than something to read."}
+{"id": 49403, "keep": 0, "q": 1, "kind": "tool", "topic": "web", "depth": "intro", "title": "Azure Static Web Apps", "why": "Product landing page for static site hosting."}
+{"id": 49404, "keep": 0, "q": 1, "kind": "tool", "topic": "machine learning", "depth": "intro", "title": "Azure Custom Vision", "why": "Product page for training custom image classifiers; not a learning resource."}
+{"id": 49405, "keep": 0, "q": 1, "kind": "tool", "topic": "speech recognition", "depth": "intro", "title": "Azure Speech to Text", "why": "Product page for a speech transcription API; a tool listing."}
+{"id": 49406, "keep": 0, "q": 1, "kind": "tool", "topic": "containers", "depth": "intro", "title": "Azure Container Instances", "why": "Product page for serverless containers; marketing copy."}
+{"id": 49407, "keep": 0, "q": 1, "kind": "tool", "topic": "distributed systems", "depth": "intro", "title": "Azure Service Fabric", "why": "Product page for a microservices platform; no teaching content."}
+{"id": 49408, "keep": 0, "q": 1, "kind": "dashboard", "topic": "cloud services", "depth": "intro", "title": "Azure Status History", "why": "Live incident status page; not content to read."}
+{"id": 49409, "keep": 1, "q": 4, "kind": "blog", "topic": "django", "depth": "intermediate", "title": "No Service", "why": "Argues against service-layer patterns in Django and for fat models instead."}
+{"id": 49410, "keep": 1, "q": 4, "kind": "blog", "topic": "c++", "depth": "expert", "title": "Constexpr Counter", "why": "Shows how to build a compile-time counter in C++ without relying on compiler bugs."}
+{"id": 49411, "keep": 0, "q": 2, "kind": "reference", "topic": "aviation", "depth": "intermediate", "title": "Runaway Stabilizer Checklist", "why": "Aircraft checklist for runaway trim; procedural reference, not an explainer."}
+{"id": 49412, "keep": 0, "q": 2, "kind": "docs", "topic": "javascript", "depth": "intro", "title": "Babel Class Properties Plugin", "why": "Plugin reference page for class property syntax; a tool doc."}
+{"id": 49413, "keep": 0, "q": 2, "kind": "docs", "topic": "javascript", "depth": "intro", "title": "Babel Do Expressions Plugin", "why": "Plugin reference page for do-expressions; a tool doc."}
+{"id": 49414, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Babylist Jobs", "why": "Job listings page."}
+{"id": 49415, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "Backblaze B2 Docs", "why": "API documentation index; reference lookup for a cloud storage product."}
+{"id": 49416, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "B2 S3 Compatible API", "why": "API compatibility reference for a storage service."}
+{"id": 49417, "keep": 0, "q": 2, "kind": "reference", "topic": "storage", "depth": "intermediate", "title": "Backblaze Drive Stats Q2 2023", "why": "Quarterly hard drive failure statistics; a statistics tracker."}
+{"id": 49418, "keep": 0, "q": 2, "kind": "reference", "topic": "storage", "depth": "intermediate", "title": "Backblaze Drive Stats Q3 2023", "why": "Quarterly drive failure statistics; a statistics tracker."}
+{"id": 49419, "keep": 0, "q": 2, "kind": "reference", "topic": "storage", "depth": "intermediate", "title": "Backblaze Drive Stats Q3 2025", "why": "Quarterly drive failure statistics; a statistics tracker."}
+{"id": 49420, "keep": 0, "q": 2, "kind": "reference", "topic": "storage", "depth": "intermediate", "title": "Backblaze Hard Drive Stats 2020", "why": "Annual drive failure statistics summary."}
+{"id": 49421, "keep": 1, "q": 4, "kind": "blog", "topic": "storage", "depth": "intermediate", "title": "Enterprise Drive Reliability", "why": "Compares enterprise and consumer drive failure rates using fleet data and cost trade-offs."}
+{"id": 49422, "keep": 1, "q": 3, "kind": "blog", "topic": "storage", "depth": "intro", "title": "Farming Hard Drives: 2 Years and 1M Later", "why": "Account of buying and running cheap consumer drives at scale, with the cost lessons."}
+{"id": 49423, "keep": 0, "q": 2, "kind": "reference", "topic": "storage", "depth": "intermediate", "title": "Hard Drive Benchmark Stats 2016", "why": "Annual drive statistics report; a data summary rather than an explainer."}
+{"id": 49424, "keep": 1, "q": 3, "kind": "blog", "topic": "storage", "depth": "intermediate", "title": "How Backblaze Buys Hard Drives", "why": "Explains how a large storage operator evaluates drive models, prices and vendors."}
+{"id": 49425, "keep": 0, "q": 2, "kind": "reference", "topic": "storage", "depth": "intermediate", "title": "SSD Drive Stats Mid-2022", "why": "SSD failure statistics report; a statistics tracker."}
+{"id": 49426, "keep": 0, "q": 2, "kind": "reference", "topic": "storage", "depth": "intermediate", "title": "SSD Edition 2022 Drive Stats", "why": "SSD failure statistics report; a statistics tracker."}
+{"id": 49427, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Backblaze Jobs", "why": "Job listings page."}
+{"id": 49428, "keep": 1, "q": 5, "kind": "blog", "topic": "storage", "depth": "intermediate", "title": "Petabytes on a Budget", "why": "Classic build log for a cheap petabyte storage pod, with hardware and cost details."}
+{"id": 49429, "keep": 0, "q": 1, "kind": "other", "topic": "web", "depth": "intro", "title": "Backblaze Scheduled Maintenance", "why": "Status notice page."}
+{"id": 49430, "keep": 0, "q": 1, "kind": "reference", "topic": "statistics", "depth": "intro", "title": "iPhone vs Android Statistics", "why": "Compilation of market statistics; a statistics page."}
+{"id": 49431, "keep": 1, "q": 3, "kind": "blog", "topic": "physics", "depth": "intermediate", "title": "What's Up With LIGO?", "why": "Hossenfelder's skeptical look at whether LIGO's gravitational-wave signals are robust."}
+{"id": 49432, "keep": 0, "q": 2, "kind": "tool", "topic": "ad blocking", "depth": "intro", "title": "Block YouTube Ads in Safari", "why": "Product how-to for one ad blocker; a tool tutorial with little general value."}
+{"id": 49433, "keep": 0, "q": 1, "kind": "reference", "topic": "pop culture", "depth": "intro", "title": "Mr. Fusion", "why": "Fandom wiki entry for a fictional device."}
+{"id": 49434, "keep": 0, "q": 2, "kind": "other", "topic": "aquaponics", "depth": "intro", "title": "Backyard Aquaponics Forum", "why": "Forum index; discussion rather than a readable explainer."}
+{"id": 49435, "keep": 0, "q": 2, "kind": "blog", "topic": "javascript", "depth": "intermediate", "title": "Qt Ported to JavaScript", "why": "Link post about Qt compiled to JavaScript; little explained in the snippets."}
+{"id": 49436, "keep": 1, "q": 4, "kind": "essay", "topic": "science", "depth": "intro", "title": "The Media's MMR Hoax", "why": "Goldacre on how media coverage of the MMR vaccine scare misled the public."}
+{"id": 49437, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "intermediate", "title": "EWPCC 2012 1 Ruling", "why": "Court ruling; legal text, so excluded."}
+{"id": 49438, "keep": 1, "q": 4, "kind": "paper", "topic": "databases", "depth": "expert", "title": "Feral Concurrency Control", "why": "Paper on how ad hoc application code bypasses database isolation guarantees."}
+{"id": 49439, "keep": 0, "q": 2, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Living on Pennies with a Million Dollar View", "why": "AP feature about low-cost living; snippets show no clear learning value."}
+{"id": 49440, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Balena Fin", "why": "Product page for a Raspberry Pi carrier board."}
+{"id": 49441, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "California Proposition 47", "why": "Ballot measure reference page; a lookup."}
+{"id": 49442, "keep": 0, "q": 2, "kind": "reference", "topic": "energy", "depth": "intro", "title": "Crude Oil Export Ban", "why": "Reference entry on the US crude export ban."}
+{"id": 49443, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Journalist Donations Fact Check", "why": "Fact-check reference page on a political claim."}
+{"id": 49444, "keep": 0, "q": 2, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Legislative Alteration", "why": "Reference entry on how California ballot laws can be amended."}
+{"id": 49445, "keep": 0, "q": 2, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Maine Ranked Choice Voting", "why": "Reference entry on a ballot initiative."}
+{"id": 49446, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Party Affiliation of Big-City Mayors", "why": "Reference data page on mayors' party affiliation."}
+{"id": 49447, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "State Government Expenditures", "why": "Data reference page on state spending."}
+{"id": 49448, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Voter Turnout in US Elections", "why": "Reference data page on turnout figures."}
+{"id": 49449, "keep": 0, "q": 2, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Washington Initiative 1631", "why": "Reference entry on a carbon fee ballot measure."}
+{"id": 49450, "keep": 0, "q": 2, "kind": "blog", "topic": "startups", "depth": "intro", "title": "Balsamiq Blog", "why": "Company blog index; the snippets point to founder writing but this is a homepage."}
+{"id": 49451, "keep": 0, "q": 1, "kind": "tool", "topic": "design", "depth": "intro", "title": "myBalsamiq", "why": "Product page for a mockup tool."}
+{"id": 49452, "keep": 0, "q": 2, "kind": "news", "topic": "crime", "depth": "intro", "title": "Gun Trace Task Force Testimony", "why": "News coverage of a police testimony; news of the moment."}
+{"id": 49453, "keep": 1, "q": 4, "kind": "blog", "topic": "accounting", "depth": "intermediate", "title": "Accounting for SaaS and Swords", "why": "Patio11's explainer on revenue recognition for subscription and mobile game businesses."}
+{"id": 49454, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Banana Pi R1", "why": "Hardware product page."}
+{"id": 49455, "keep": 0, "q": 1, "kind": "other", "topic": "music", "depth": "intro", "title": "Bandcamp About", "why": "Company about page with revenue-share figures."}
+{"id": 49456, "keep": 0, "q": 1, "kind": "docs", "topic": "music", "depth": "intro", "title": "Bandcamp FAQ", "why": "Terms and FAQ for a music platform."}
+{"id": 49457, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Bandcamp Jobs", "why": "Job listings page."}
+{"id": 49458, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Bandwidth Careers", "why": "Job listings page."}
+{"id": 49459, "keep": 0, "q": 1, "kind": "tool", "topic": "identity", "depth": "intro", "title": "BankID", "why": "Company page for a national electronic ID service."}
+{"id": 49460, "keep": 1, "q": 4, "kind": "paper", "topic": "economics", "depth": "expert", "title": "Eight Centuries of Global Real Interest Rates", "why": "Bank of England working paper showing a long-run decline in real interest rates."}
+{"id": 49461, "keep": 0, "q": 1, "kind": "other", "topic": "currency", "depth": "intro", "title": "Banknote Names", "why": "Consultation document listing proposed banknote names."}
+{"id": 49462, "keep": 0, "q": 1, "kind": "reference", "topic": "currency", "depth": "intro", "title": "Withdrawn Banknotes", "why": "List of withdrawn UK notes; a reference page."}
+{"id": 49463, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Banknote Statistics", "why": "Statistics page on notes in circulation."}
+{"id": 49464, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Historical CD Rates", "why": "Data table of historical certificate of deposit rates."}
+{"id": 49465, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Savings Rates", "why": "Rate comparison page."}
+{"id": 49466, "keep": 0, "q": 1, "kind": "tool", "topic": "finance", "depth": "intro", "title": "Annuity Calculator", "why": "Calculator page."}
+{"id": 49467, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Historical Mortgage Rates", "why": "Data table of historical mortgage rates."}
+{"id": 49468, "keep": 0, "q": 2, "kind": "reference", "topic": "finance", "depth": "intro", "title": "FDIC Historical Bank Data", "why": "Interactive data explorer of bank counts; a statistics tracker."}
+{"id": 49469, "keep": 1, "q": 3, "kind": "talk", "topic": "social media", "depth": "intermediate", "title": "Remarks on Disinformation at Stanford", "why": "Obama's speech on disinformation and whether engagement-driven platforms can be fixed."}
+{"id": 49470, "keep": 0, "q": 2, "kind": "blog", "topic": "law", "depth": "intro", "title": "Police Not Required to Protect", "why": "Law firm blog post; legal commentary and marketing."}
+{"id": 49471, "keep": 0, "q": 2, "kind": "news", "topic": "transit", "depth": "intro", "title": "BART Voices History", "why": "Transit agency news item on station announcement voices."}
+{"id": 49472, "keep": 0, "q": 1, "kind": "news", "topic": "transit", "depth": "intro", "title": "BART News 2022", "why": "Transit news item."}
+{"id": 49473, "keep": 1, "q": 3, "kind": "blog", "topic": "aviation", "depth": "intro", "title": "SR-71 Breakup Accounts", "why": "Collected accounts of an SR-71 breaking up in flight at Mach 3."}
+{"id": 49474, "keep": 1, "q": 4, "kind": "book", "topic": "politics", "depth": "intermediate", "title": "On Liberty", "why": "Mill's classic essay on the limits of social and state power over the individual."}
+{"id": 49475, "keep": 1, "q": 4, "kind": "blog", "topic": "programming theory", "depth": "expert", "title": "Parametricity: Money for Nothing and Theorems for Free", "why": "Explains free theorems that follow from parametric polymorphism in typed code."}
+{"id": 49476, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "NYC Median Household Income", "why": "Census data table."}
+{"id": 49477, "keep": 1, "q": 3, "kind": "blog", "topic": "software history", "depth": "intermediate", "title": "Macintosh Common Lisp", "why": "Retro-computing history of Lisp on the Macintosh and its development environment."}
+{"id": 49478, "keep": 1, "q": 3, "kind": "blog", "topic": "software history", "depth": "intermediate", "title": "Building Photoshop", "why": "Retro-computing look at what it took to compile early Photoshop from source."}
+{"id": 49479, "keep": 0, "q": 1, "kind": "reference", "topic": "sports", "depth": "intro", "title": "MLB Miscellaneous Stats", "why": "Statistics page on league-wide numbers."}
+{"id": 49480, "keep": 0, "q": 1, "kind": "other", "topic": "company", "depth": "intro", "title": "Basecamp Office", "why": "Company office page."}
+{"id": 49481, "keep": 0, "q": 1, "kind": "other", "topic": "company", "depth": "intro", "title": "Basecamp Team", "why": "Company team page with pay philosophy."}
+{"id": 49482, "keep": 1, "q": 4, "kind": "blog", "topic": "infrastructure", "depth": "intermediate", "title": "Basecamp Cloud Exit", "why": "Account of moving off the cloud to owned hardware, with the cost reasoning."}
+{"id": 49483, "keep": 1, "q": 4, "kind": "explainer", "topic": "project management", "depth": "intro", "title": "Hill Charts", "why": "Explains the hill-shaped progress chart for tracking work that is still uncertain."}
+{"id": 49484, "keep": 1, "q": 3, "kind": "essay", "topic": "product design", "depth": "intro", "title": "Getting Real: Have an Enemy", "why": "Chapter arguing that a product needs a clear enemy to define what it stands for."}
+{"id": 49485, "keep": 1, "q": 4, "kind": "book", "topic": "product development", "depth": "intermediate", "title": "Shape Up: Breadboarding", "why": "Explains breadboarding, a pen-and-paper method for sketching UX flows before design."}
+{"id": 49486, "keep": 1, "q": 4, "kind": "book", "topic": "product development", "depth": "intermediate", "title": "Shape Up: Cool-down", "why": "Explains the cool-down period after six-week cycles and why it helps teams."}
+{"id": 49487, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "BasedCon", "why": "Conference philosophy page; not content to learn from."}
+{"id": 49488, "keep": 0, "q": 1, "kind": "other", "topic": "humor", "depth": "intro", "title": "Bash.org Quote", "why": "Quote-archive joke."}
+{"id": 49489, "keep": 0, "q": 1, "kind": "other", "topic": "humor", "depth": "intro", "title": "Bash.org Quote", "why": "Quote-archive joke."}
+{"id": 49490, "keep": 0, "q": 1, "kind": "other", "topic": "humor", "depth": "intro", "title": "Bash.org Quote", "why": "Quote-archive joke."}
+{"id": 49491, "keep": 0, "q": 2, "kind": "tool", "topic": "build systems", "depth": "intermediate", "title": "Remake", "why": "Tool page for a GNU Make debugger."}
+{"id": 49492, "keep": 0, "q": 1, "kind": "tool", "topic": "toys", "depth": "intro", "title": "K'Nex", "why": "Toy product page."}
+{"id": 49493, "keep": 1, "q": 3, "kind": "essay", "topic": "programming history", "depth": "intermediate", "title": "The Tcl Wars", "why": "Insider account of the Tcl language wars and the Guile project's view of them."}
+{"id": 49494, "keep": 1, "q": 3, "kind": "visual", "topic": "audio art", "depth": "intro", "title": "Aphex Twin Spectrogram Images", "why": "Shows images hidden in the spectrograms of Aphex Twin's music."}
+{"id": 49495, "keep": 1, "q": 3, "kind": "reference", "topic": "batteries", "depth": "intro", "title": "How to Prolong Lithium-based Batteries", "why": "Practical charging habits that extend lithium battery life."}
+{"id": 49496, "keep": 1, "q": 3, "kind": "reference", "topic": "batteries", "depth": "intermediate", "title": "Lithium-ion Safety Concerns", "why": "Explains why lithium-ion cells resist thermal runaway and where risks remain."}
+{"id": 49497, "keep": 1, "q": 4, "kind": "reference", "topic": "history", "depth": "intro", "title": "Cornerstone Speech", "why": "Primary-source 1861 speech by the Confederate vice president on slavery and the new constitution."}
+{"id": 49498, "keep": 1, "q": 3, "kind": "blog", "topic": "game dev", "depth": "intermediate", "title": "Dwarf Fortress Devlog", "why": "Developer notes on procedural world generation and why generated stories are hard."}
+{"id": 49499, "keep": 0, "q": 1, "kind": "reference", "topic": "housing", "depth": "intro", "title": "SF Home Prices", "why": "Market statistics page on housing prices."}
+{"id": 49499, "keep": 0, "q": 1, "kind": "reference", "topic": "housing", "depth": "intro", "title": "SF Home Prices", "why": "Market statistics page on housing prices."}
+{"id": 49500, "keep": 1, "q": 5, "kind": "book", "topic": "causality", "depth": "expert", "title": "Causality", "why": "Judea Pearl's foundational book on causal inference and counterfactuals."}
+{"id": 49501, "keep": 1, "q": 4, "kind": "book", "topic": "physics", "depth": "expert", "title": "E.T. Jaynes Unpublished Papers", "why": "Jaynes's papers on statistical mechanics and probability, showing how to think about entropy."}
+{"id": 49502, "keep": 0, "q": 2, "kind": "docs", "topic": "build systems", "depth": "intermediate", "title": "Bazel User Manual", "why": "Reference manual for a build tool."}
+{"id": 49503, "keep": 0, "q": 2, "kind": "docs", "topic": "build systems", "depth": "intro", "title": "Bazel FAQ", "why": "Product FAQ for a build system."}
+{"id": 49504, "keep": 0, "q": 2, "kind": "reference", "topic": "build systems", "depth": "intermediate", "title": "Bazel Build Encyclopedia", "why": "Rule reference for a build tool."}
+{"id": 49505, "keep": 0, "q": 2, "kind": "docs", "topic": "build systems", "depth": "intermediate", "title": "Skylark Concepts", "why": "Developer docs for a build language's rule system."}
+{"id": 49506, "keep": 0, "q": 1, "kind": "other", "topic": "business", "depth": "intro", "title": "BBB File a Complaint", "why": "Complaint form page."}
+{"id": 49507, "keep": 0, "q": 1, "kind": "other", "topic": "radio", "depth": "intro", "title": "BBC 6 Music", "why": "Radio station page."}
+{"id": 49508, "keep": 0, "q": 2, "kind": "reference", "topic": "journalism", "depth": "intro", "title": "BBC Style Guide: Abbreviations", "why": "Style-guide rule on acronyms; a lookup, not an explainer."}
+{"id": 49509, "keep": 0, "q": 2, "kind": "reference", "topic": "journalism", "depth": "intro", "title": "BBC Style Guide: Abbreviations", "why": "Style-guide rule on acronyms; a lookup, not an explainer."}
+{"id": 49510, "keep": 0, "q": 1, "kind": "other", "topic": "web", "depth": "intro", "title": "BBC Internet Blog Post", "why": "Blog link with no content in the snippets."}
+{"id": 49511, "keep": 1, "q": 3, "kind": "blog", "topic": "web", "depth": "intermediate", "title": "BBC HTTPS Migration", "why": "BBC engineering blog on moving its sites to HTTPS in stages."}
+{"id": 49512, "keep": 0, "q": 1, "kind": "other", "topic": "news", "depth": "intro", "title": "BBC Corrections", "why": "Corrections page."}
+{"id": 49513, "keep": 0, "q": 1, "kind": "other", "topic": "video", "depth": "intro", "title": "BBC HTML5", "why": "Service page for video playback."}
+{"id": 49514, "keep": 0, "q": 2, "kind": "visual", "topic": "health", "depth": "intro", "title": "Horizon: Eat Fast and Live Longer", "why": "TV programme page; video, not text."}
+{"id": 49515, "keep": 0, "q": 2, "kind": "visual", "topic": "computing", "depth": "intro", "title": "Horizon: Now the Chips Are Down", "why": "TV programme page; video, not text."}
+{"id": 49516, "keep": 0, "q": 2, "kind": "visual", "topic": "politics", "depth": "intro", "title": "Bitter Lake", "why": "Documentary page; video."}
+{"id": 49517, "keep": 0, "q": 2, "kind": "visual", "topic": "politics", "depth": "intro", "title": "HyperNormalisation", "why": "Documentary page; video."}
+{"id": 49518, "keep": 0, "q": 1, "kind": "news", "topic": "news", "depth": "intro", "title": "The Papers", "why": "Press review blog."}
+{"id": 49519, "keep": 0, "q": 1, "kind": "news", "topic": "finance", "depth": "intro", "title": "Cash Withdrawal Limits", "why": "News item."}
+{"id": 49520, "keep": 0, "q": 1, "kind": "news", "topic": "finance", "depth": "intro", "title": "Deliveroo IPO", "why": "News item."}
+{"id": 49521, "keep": 0, "q": 2, "kind": "news", "topic": "software", "depth": "intro", "title": "Post Office Horizon Scandal", "why": "News story on faulty accounting software; news of the moment."}
+{"id": 49522, "keep": 0, "q": 2, "kind": "news", "topic": "politics", "depth": "intro", "title": "Faces of Uyghur Detention", "why": "News feature on detention camps."}
+{"id": 49523, "keep": 0, "q": 1, "kind": "news", "topic": "health", "depth": "intro", "title": "NHS Cost per Life", "why": "News item."}
+{"id": 49524, "keep": 0, "q": 1, "kind": "news", "topic": "demographics", "depth": "intro", "title": "French in London", "why": "Magazine item on population figures."}
+{"id": 49525, "keep": 0, "q": 1, "kind": "news", "topic": "science", "depth": "intro", "title": "Science Environment News", "why": "News item."}
+{"id": 49526, "keep": 0, "q": 1, "kind": "news", "topic": "tech", "depth": "intro", "title": "Tech News Item", "why": "News item."}
+{"id": 49527, "keep": 0, "q": 1, "kind": "news", "topic": "environment", "depth": "intro", "title": "Britain Built-Up Area", "why": "News item citing a land-use statistic."}
+{"id": 49528, "keep": 0, "q": 1, "kind": "news", "topic": "health", "depth": "intro", "title": "Healthcare Spending", "why": "News item."}
+{"id": 49529, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Sexuality Identity News", "why": "News item."}
+{"id": 49530, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Tower Hamlets Mayor", "why": "News item on election fraud."}
+{"id": 49531, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "UK Politics News", "why": "News item."}
+{"id": 49532, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "EU Budget Contributions", "why": "News item."}
+{"id": 49533, "keep": 0, "q": 1, "kind": "news", "topic": "law", "depth": "intro", "title": "Assange Warrant", "why": "News item."}
+{"id": 49534, "keep": 0, "q": 2, "kind": "news", "topic": "culture", "depth": "intro", "title": "Cultural Politeness", "why": "Short news item on cross-cultural greetings."}
+{"id": 49535, "keep": 0, "q": 1, "kind": "news", "topic": "tech", "depth": "intro", "title": "Obama Faraday Tent", "why": "News item."}
+{"id": 49536, "keep": 0, "q": 2, "kind": "news", "topic": "games", "depth": "intro", "title": "Hitchhiker's Guide Game", "why": "Anniversary feature on a game; little depth."}
+{"id": 49537, "keep": 0, "q": 2, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "In Our Time Archive", "why": "Podcast archive index."}
+{"id": 49538, "keep": 0, "q": 1, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "The Infinite Monkey Cage", "why": "Podcast page."}
+{"id": 49539, "keep": 0, "q": 2, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "A Brief History of Mathematics", "why": "Podcast page; audio only."}
+{"id": 49540, "keep": 0, "q": 1, "kind": "visual", "topic": "health", "depth": "intro", "title": "Horizon Diet Programme", "why": "TV programme page."}
+{"id": 49541, "keep": 0, "q": 2, "kind": "other", "topic": "podcasts", "depth": "intermediate", "title": "P vs NP", "why": "Radio programme page; audio."}
+{"id": 49542, "keep": 0, "q": 2, "kind": "other", "topic": "podcasts", "depth": "intermediate", "title": "Paleocene-Eocene Thermal Maximum", "why": "Podcast page; audio."}
+{"id": 49543, "keep": 0, "q": 2, "kind": "visual", "topic": "software", "depth": "intro", "title": "The Post Office Programme", "why": "Programme page; video."}
+{"id": 49544, "keep": 0, "q": 2, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "The Great Gatsby", "why": "Podcast page; audio."}
+{"id": 49545, "keep": 0, "q": 2, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "Evolution of Crocodiles", "why": "Podcast page; audio."}
+{"id": 49546, "keep": 0, "q": 1, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "Podcast Downloads", "why": "Podcast index."}
+{"id": 49547, "keep": 0, "q": 1, "kind": "other", "topic": "games", "depth": "intro", "title": "Hitchhiker's Guide Game", "why": "Game page."}
+{"id": 49548, "keep": 0, "q": 1, "kind": "other", "topic": "tech", "depth": "intro", "title": "BBC R&D", "why": "Team blog index."}
+{"id": 49549, "keep": 0, "q": 1, "kind": "reference", "topic": "media", "depth": "intro", "title": "BBC Licence Fee", "why": "Organisation page."}
+{"id": 49550, "keep": 0, "q": 1, "kind": "other", "topic": "media", "depth": "intro", "title": "BBC Mission", "why": "Organisation page."}
+{"id": 49551, "keep": 1, "q": 2, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Why Dubai Imports Sand", "why": "Feature explaining why a desert city imports sand and how that trade works."}
+{"id": 49552, "keep": 1, "q": 3, "kind": "journalism", "topic": "biology", "depth": "intro", "title": "The Biggest Organism in the World", "why": "Feature on Pando and Armillaria, huge clonal organisms spanning vast areas."}
+{"id": 49553, "keep": 1, "q": 2, "kind": "journalism", "topic": "biology", "depth": "intro", "title": "Plants Can See, Hear and Smell", "why": "Summarises research showing plants sense and respond to their surroundings."}
+{"id": 49554, "keep": 1, "q": 3, "kind": "explainer", "topic": "climate", "depth": "intro", "title": "Cutting Carbon When Flying", "why": "Compares flight emissions and practical ways to fly less."}
+{"id": 49555, "keep": 1, "q": 2, "kind": "journalism", "topic": "energy", "depth": "intro", "title": "Solar Canals in India", "why": "Feature on solar panels over irrigation canals, saving water and energy."}
+{"id": 49556, "keep": 1, "q": 2, "kind": "journalism", "topic": "energy", "depth": "intro", "title": "Commercial Hydrogen Plane", "why": "Explains hydrogen aircraft design and the bulk problem of liquid hydrogen."}
+{"id": 49557, "keep": 1, "q": 3, "kind": "explainer", "topic": "architecture", "depth": "intro", "title": "Ancient Persian Cooling", "why": "How windcatchers and malqaf cooled buildings without power."}
+{"id": 49558, "keep": 1, "q": 3, "kind": "explainer", "topic": "immunology", "depth": "intro", "title": "People with Immune Amnesia", "why": "Explains how immune memory can be erased and why it matters."}
+{"id": 49559, "keep": 1, "q": 2, "kind": "journalism", "topic": "batteries", "depth": "intro", "title": "Lithium Batteries Big Question", "why": "Overview of open questions about battery mining, supply and recycling."}
+{"id": 49560, "keep": 1, "q": 2, "kind": "explainer", "topic": "environment", "depth": "intro", "title": "Glass or Plastic", "why": "Compares environmental tradeoffs of glass and plastic packaging."}
+{"id": 49561, "keep": 1, "q": 3, "kind": "journalism", "topic": "software", "depth": "intro", "title": "Names That Break Computer Systems", "why": "Why naive name handling breaks databases and forms."}
+{"id": 49562, "keep": 0, "q": 1, "kind": "news", "topic": "finance", "depth": "intro", "title": "Jane Street Trading Probe", "why": "News of the moment on a regulatory investigation."}
+{"id": 49563, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Musk on DOGE Rehiring", "why": "News item."}
+{"id": 49564, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Bot Accounts on X", "why": "News item."}
+{"id": 49565, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Arrests for Online Posts", "why": "News item."}
+{"id": 49566, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Lawsuit News", "why": "News item."}
+{"id": 49567, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "California Secession", "why": "News explainer of the moment."}
+{"id": 49568, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "BBC Business News", "why": "News item with no content in the snippets."}
+{"id": 49569, "keep": 0, "q": 2, "kind": "journalism", "topic": "education", "depth": "intro", "title": "Women in Engineering", "why": "News feature on gender and STEM choices; thin on method."}
+{"id": 49570, "keep": 1, "q": 3, "kind": "journalism", "topic": "chemistry", "depth": "intro", "title": "Thomas Midgley and Leaded Petrol", "why": "Story of leaded petrol and the inventor's public denials of its danger."}
+{"id": 49571, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "EU Airbus Subsidies", "why": "News item."}
+{"id": 49572, "keep": 0, "q": 1, "kind": "news", "topic": "automotive", "depth": "intro", "title": "Cheap Chinese EVs", "why": "News item."}
+{"id": 49573, "keep": 1, "q": 2, "kind": "journalism", "topic": "batteries", "depth": "intro", "title": "Recycling Lithium-ion Batteries", "why": "Explains why battery recycling recovers little and what pilots are trying."}
+{"id": 49574, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Ghosn Escape", "why": "News item."}
+{"id": 49575, "keep": 0, "q": 1, "kind": "news", "topic": "energy", "depth": "intro", "title": "China Coal Shortage", "why": "News item."}
+{"id": 49576, "keep": 0, "q": 2, "kind": "news", "topic": "finance", "depth": "intro", "title": "Crypto Adoption Crises", "why": "Topical news feature on crypto use during crises."}
+{"id": 49577, "keep": 0, "q": 2, "kind": "visual", "topic": "disability", "depth": "intro", "title": "Ibelin Documentary", "why": "Documentary feature; video."}
+{"id": 49578, "keep": 0, "q": 1, "kind": "news", "topic": "health", "depth": "intro", "title": "Exercise Health News", "why": "News item."}
+{"id": 49579, "keep": 0, "q": 2, "kind": "news", "topic": "health", "depth": "intro", "title": "Alcohol Risks", "why": "News item on alcohol risk."}
+{"id": 49580, "keep": 0, "q": 1, "kind": "news", "topic": "health", "depth": "intro", "title": "Vaccine Prices", "why": "News item."}
+{"id": 49581, "keep": 0, "q": 1, "kind": "news", "topic": "health", "depth": "intro", "title": "Covid in Children", "why": "News item."}
+{"id": 49582, "keep": 0, "q": 1, "kind": "news", "topic": "health", "depth": "intro", "title": "Vaccinated Transmission", "why": "News item."}
+{"id": 49583, "keep": 1, "q": 2, "kind": "journalism", "topic": "nutrition", "depth": "intro", "title": "The Origins of Breakfast", "why": "Explains how the three-meals-a-day habit arose with industrialisation."}
+{"id": 49584, "keep": 1, "q": 2, "kind": "journalism", "topic": "policy", "depth": "intro", "title": "Finland's Baby Box", "why": "How Finland's baby box scheme started and spread worldwide."}
+{"id": 49585, "keep": 0, "q": 1, "kind": "news", "topic": "news", "depth": "intro", "title": "Magazine Feature", "why": "Magazine feature with no content in the snippets."}
+{"id": 49586, "keep": 1, "q": 2, "kind": "journalism", "topic": "architecture", "depth": "intro", "title": "The Walkie-Talkie Solar Death Ray", "why": "Explains how a curved glass tower focused sunlight and damaged cars."}
+{"id": 49587, "keep": 0, "q": 2, "kind": "news", "topic": "telecom", "depth": "intro", "title": "Internet Cable Fees", "why": "News item on broadband pricing."}
+{"id": 49588, "keep": 1, "q": 3, "kind": "journalism", "topic": "statistics", "depth": "intro", "title": "Doctors and Statistics", "why": "Covers studies showing doctors often misread medical statistics."}
+{"id": 49589, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Vietnamese Nail Salons", "why": "News feature."}
+{"id": 49590, "keep": 0, "q": 1, "kind": "news", "topic": "environment", "depth": "intro", "title": "CFC Rise", "why": "News item."}
+{"id": 49591, "keep": 1, "q": 2, "kind": "journalism", "topic": "archaeology", "depth": "intro", "title": "Stonehenge's Ancestors", "why": "Ancient DNA evidence on who built Stonehenge and where they came from."}
+{"id": 49592, "keep": 0, "q": 1, "kind": "news", "topic": "environment", "depth": "intro", "title": "Fossil Fuel Reform", "why": "News item."}
+{"id": 49593, "keep": 0, "q": 2, "kind": "news", "topic": "environment", "depth": "intro", "title": "Oil Industry Climate Cover-up", "why": "Single news piece summarising oil company climate research."}
+{"id": 49594, "keep": 0, "q": 1, "kind": "news", "topic": "telecom", "depth": "intro", "title": "Robocall Refunds", "why": "News item."}
+{"id": 49595, "keep": 0, "q": 2, "kind": "news", "topic": "AI", "depth": "intro", "title": "Turing Test Claims", "why": "News item on chatbot milestones."}
+{"id": 49596, "keep": 0, "q": 2, "kind": "news", "topic": "tech", "depth": "intro", "title": "Facebook Emotion Experiment", "why": "News item."}
+{"id": 49597, "keep": 0, "q": 1, "kind": "news", "topic": "automotive", "depth": "intro", "title": "Car Hacking", "why": "News item."}
+{"id": 49598, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Dating Site Data Leak", "why": "News item."}

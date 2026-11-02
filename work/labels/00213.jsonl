@@ -1,0 +1,200 @@
+{"id": 42600, "keep": 0, "q": 2, "kind": "docs", "topic": "ai coding agents", "depth": "intermediate", "title": "OpenCode agents docs", "why": "Configuration reference for custom OpenCode agents: prompts, models and permissions."}
+{"id": 42601, "keep": 0, "q": 1, "kind": "docs", "topic": "ai tools", "depth": "intro", "title": "OpenCode providers docs", "why": "List of model providers supported by OpenCode, with custom provider setup."}
+{"id": 42602, "keep": 0, "q": 1, "kind": "other", "topic": "open source funding", "depth": "intro", "title": "curl Open Collective page", "why": "Donation and budget page for the curl project."}
+{"id": 42603, "keep": 0, "q": 1, "kind": "other", "topic": "open source funding", "depth": "intro", "title": "Open Collective Foundation", "why": "Fiscal hosting page for charitable organisations, not software."}
+{"id": 42604, "keep": 0, "q": 1, "kind": "other", "topic": "open source funding", "depth": "intro", "title": "OBS Open Collective", "why": "Donation and budget page for the OBS project."}
+{"id": 42605, "keep": 0, "q": 1, "kind": "other", "topic": "open source funding", "depth": "intro", "title": "Open Source Collective", "why": "Fiscal hosting platform for open source project funding."}
+{"id": 42606, "keep": 0, "q": 2, "kind": "reference", "topic": "hardware", "depth": "intermediate", "title": "Netflix Open Connect hardware", "why": "Specs of Netflix's deployed content caching appliances."}
+{"id": 42607, "keep": 0, "q": 2, "kind": "reference", "topic": "networking", "depth": "intermediate", "title": "Netflix Open Connect peering", "why": "Netflix peering policy and cache locations for ISPs."}
+{"id": 42608, "keep": 0, "q": 1, "kind": "reference", "topic": "fpga", "depth": "intro", "title": "OpenCores projects index", "why": "Index of open hardware IP projects; a catalog with no narrative."}
+{"id": 42609, "keep": 0, "q": 2, "kind": "tool", "topic": "cpu design", "depth": "expert", "title": "ao486 x86 FPGA core", "why": "Open-source x86-compatible CPU core that can be synthesized to an FPGA."}
+{"id": 42610, "keep": 1, "q": 2, "kind": "journalism", "topic": "history", "depth": "intro", "title": "Einstein's marriage demands", "why": "Reproduces Einstein's written conditions for his wife, a historical primary source."}
+{"id": 42611, "keep": 0, "q": 1, "kind": "dashboard", "topic": "covid", "depth": "intro", "title": "Lombardy COVID dashboard", "why": "Live government case dashboard from 2020, not an explanation."}
+{"id": 42612, "keep": 0, "q": 2, "kind": "journalism", "topic": "media", "depth": "intro", "title": "Peter Oborne resignation statement", "why": "Columnist's account of leaving the Telegraph over its HSBC coverage."}
+{"id": 42613, "keep": 0, "q": 1, "kind": "tool", "topic": "typography", "depth": "intro", "title": "OpenDyslexic about page", "why": "About page for a font; little to learn beyond the font itself."}
+{"id": 42614, "keep": 0, "q": 1, "kind": "docs", "topic": "eeg", "depth": "intro", "title": "OpenEEG documentation", "why": "Hardware project docs for an open-source EEG device."}
+{"id": 42615, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "EuroLLM launch press release", "why": "Press release announcing a European language model project."}
+{"id": 42616, "keep": 0, "q": 2, "kind": "reference", "topic": "firmware", "depth": "intermediate", "title": "Open Firmware project page", "why": "Project page for Open Firmware, the Forth-based boot firmware."}
+{"id": 42617, "keep": 0, "q": 2, "kind": "tool", "topic": "finite state transducers", "depth": "expert", "title": "OpenFst library homepage", "why": "Homepage of the OpenFst finite-state transducer library."}
+{"id": 42618, "keep": 0, "q": 1, "kind": "other", "topic": "unix", "depth": "intro", "title": "Open Group UNIX brand register", "why": "Trademark registry entry for macOS's UNIX certification."}
+{"id": 42619, "keep": 0, "q": 2, "kind": "docs", "topic": "auth", "depth": "expert", "title": "OpenID Connect registration spec", "why": "Formal spec for dynamic client registration in OpenID Connect."}
+{"id": 42620, "keep": 0, "q": 1, "kind": "other", "topic": "java", "depth": "intro", "title": "OpenJDK TCK access page", "why": "Licensing and access page for the Java compatibility test kit."}
+{"id": 42621, "keep": 0, "q": 2, "kind": "docs", "topic": "java", "depth": "expert", "title": "JEP 218 generics specialization", "why": "Proposal for specialised generics in Java; a spec, not a tutorial."}
+{"id": 42622, "keep": 0, "q": 2, "kind": "docs", "topic": "java", "depth": "intermediate", "title": "JEP 305 pattern matching", "why": "Early proposal for pattern matching in instanceof for Java; a spec."}
+{"id": 42623, "keep": 0, "q": 2, "kind": "docs", "topic": "developer tools", "depth": "intermediate", "title": "JEP 357 Git migration", "why": "OpenJDK proposal to migrate source control to Git; a spec."}
+{"id": 42624, "keep": 0, "q": 2, "kind": "docs", "topic": "java", "depth": "intermediate", "title": "JEP 359 records", "why": "Early proposal for records in Java; a spec, not a tutorial."}
+{"id": 42625, "keep": 0, "q": 2, "kind": "docs", "topic": "java", "depth": "expert", "title": "JEP 405 record patterns", "why": "Java proposal for record patterns in preview; a spec, not a tutorial."}
+{"id": 42626, "keep": 0, "q": 2, "kind": "docs", "topic": "java", "depth": "intro", "title": "Project Lambda page", "why": "Project page for the Java 8 lambda expressions work."}
+{"id": 42627, "keep": 0, "q": 2, "kind": "docs", "topic": "java", "depth": "intermediate", "title": "JEP 484 Class-File API", "why": "Spec for the standard Java class-file API released in JDK 24."}
+{"id": 42628, "keep": 0, "q": 2, "kind": "docs", "topic": "java", "depth": "expert", "title": "Project Leyden", "why": "Project page for ahead-of-time startup work in the JVM."}
+{"id": 42629, "keep": 0, "q": 2, "kind": "docs", "topic": "java", "depth": "expert", "title": "Project Panama", "why": "Project page for JVM foreign function and memory access."}
+{"id": 42630, "keep": 1, "q": 4, "kind": "book", "topic": "go", "depth": "intro", "title": "The Little Go Book", "why": "Short free introduction to Go's core language features."}
+{"id": 42631, "keep": 0, "q": 2, "kind": "docs", "topic": "policy as code", "depth": "intermediate", "title": "Open Policy Agent docs", "why": "Documentation for OPA's policy language and deployment model."}
+{"id": 42632, "keep": 0, "q": 1, "kind": "tool", "topic": "games", "depth": "intro", "title": "OpenRA download page", "why": "Download page for an open-source Red Alert engine."}
+{"id": 42633, "keep": 0, "q": 1, "kind": "docs", "topic": "llms", "depth": "intermediate", "title": "OpenRouter provider selection", "why": "Settings for routing requests by price, latency and data policy."}
+{"id": 42634, "keep": 0, "q": 1, "kind": "tool", "topic": "llms", "depth": "intro", "title": "OpenRouter Kimi K2 model page", "why": "Model listing page with pricing and hosting providers."}
+{"id": 42635, "keep": 0, "q": 1, "kind": "dashboard", "topic": "llms", "depth": "intro", "title": "OpenRouter model rankings", "why": "Monthly usage leaderboard of language models; a statistics page."}
+{"id": 42636, "keep": 0, "q": 1, "kind": "tool", "topic": "postgresql", "depth": "intro", "title": "pgAdmin 3 LTS by OpenSCG", "why": "Product page for a supported pgAdmin 3 build."}
+{"id": 42637, "keep": 0, "q": 1, "kind": "other", "topic": "search", "depth": "intro", "title": "OpenSearch homepage", "why": "Homepage for the OpenSearch description format."}
+{"id": 42638, "keep": 0, "q": 1, "kind": "dashboard", "topic": "politics", "depth": "intro", "title": "OpenSecrets 2024 presidential race", "why": "Campaign finance data dashboard for the 2024 race."}
+{"id": 42639, "keep": 0, "q": 1, "kind": "dashboard", "topic": "politics", "depth": "intro", "title": "OpenSecrets biggest donors", "why": "Ranking of political donors; a data lookup."}
+{"id": 42640, "keep": 0, "q": 1, "kind": "dashboard", "topic": "politics", "depth": "intro", "title": "OpenSecrets lobbying", "why": "Lobbying expenditure database landing page."}
+{"id": 42641, "keep": 0, "q": 1, "kind": "dashboard", "topic": "politics", "depth": "intro", "title": "OpenSecrets organization list", "why": "Ranked list of organizations by political donations."}
+{"id": 42642, "keep": 0, "q": 1, "kind": "dashboard", "topic": "politics", "depth": "intro", "title": "OpenSecrets PAC lookup", "why": "Single PAC donation profile; a data lookup."}
+{"id": 42643, "keep": 0, "q": 1, "kind": "dashboard", "topic": "politics", "depth": "intro", "title": "OpenSecrets PAC lookup (Correct the Record)", "why": "Single PAC donation profile; a data lookup."}
+{"id": 42644, "keep": 1, "q": 3, "kind": "tutorial", "topic": "x86 assembly", "depth": "intro", "title": "Intro to x86 (OpenSecurityTraining)", "why": "Free course introducing x86 assembly for reverse engineering beginners."}
+{"id": 42645, "keep": 0, "q": 2, "kind": "reference", "topic": "security", "depth": "intro", "title": "OpenSecurityTraining course index", "why": "Index of free security courses; a hub, not a lesson."}
+{"id": 42646, "keep": 0, "q": 2, "kind": "dashboard", "topic": "android", "depth": "intro", "title": "OpenSignal fragmentation report", "why": "Survey statistics on Android device fragmentation from 2012."}
+{"id": 42647, "keep": 1, "q": 2, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Docker security and SELinux", "why": "Explains how SELinux confines containers and what Docker isolates."}
+{"id": 42648, "keep": 1, "q": 2, "kind": "explainer", "topic": "open source", "depth": "intro", "title": "What is open source?", "why": "Plain-language explanation of open source and its principles."}
+{"id": 42649, "keep": 0, "q": 2, "kind": "docs", "topic": "software engineering", "depth": "intermediate", "title": "Google third-party code guide", "why": "Internal-style rules for managing third-party dependencies in a monorepo."}
+{"id": 42650, "keep": 1, "q": 2, "kind": "explainer", "topic": "software engineering", "depth": "intermediate", "title": "One version policy", "why": "Explains Google's single-version dependency policy and its migration steps."}
+{"id": 42651, "keep": 0, "q": 1, "kind": "docs", "topic": "open source", "depth": "intro", "title": "Google open source releasing guide", "why": "Process rules for releasing code as open source inside a company."}
+{"id": 42652, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "Microsoft contribution license agreement", "why": "Legal contributor license text for Microsoft projects."}
+{"id": 42653, "keep": 0, "q": 2, "kind": "reference", "topic": "open source ai", "depth": "intermediate", "title": "Open Source AI Definition", "why": "Normative definition page for open-source AI; a spec, not a lesson."}
+{"id": 42654, "keep": 1, "q": 3, "kind": "essay", "topic": "open source ai", "depth": "intermediate", "title": "Meta's Llama 2 license is not open source", "why": "Argues Llama 2's license fails open source criteria, citing specific clauses."}
+{"id": 42655, "keep": 0, "q": 2, "kind": "other", "topic": "open source ai", "depth": "intro", "title": "OSI deep dive", "why": "Process summary of the OSI's AI definition discussions."}
+{"id": 42656, "keep": 0, "q": 3, "kind": "reference", "topic": "open source", "depth": "intermediate", "title": "Open Source Definition annotated", "why": "Annotated definition with commentary; normative text rather than a tutorial."}
+{"id": 42657, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "Free Public License 1.0.0", "why": "Text of a permissive software license; legal text."}
+{"id": 42658, "keep": 1, "q": 3, "kind": "reference", "topic": "api design", "depth": "intermediate", "title": "Zalando RESTful API guidelines", "why": "Detailed REST API design rules, each with its rationale."}
+{"id": 42659, "keep": 0, "q": 2, "kind": "tutorial", "topic": "open hardware", "depth": "intro", "title": "LifeTrac build instructions", "why": "Build documentation for one open-source tractor design."}
+{"id": 42660, "keep": 0, "q": 2, "kind": "reference", "topic": "open hardware", "depth": "intro", "title": "Open Source Ecology machine index", "why": "Catalog of planned open-source farm machines, mostly unbuilt."}
+{"id": 42661, "keep": 1, "q": 3, "kind": "essay", "topic": "open source", "depth": "intermediate", "title": "Open source is one person", "why": "Data on how most packages rely on one or two maintainers."}
+{"id": 42662, "keep": 0, "q": 2, "kind": "other", "topic": "security", "depth": "intermediate", "title": "OpenSSH 10.3 release notes", "why": "Release notes listing changes, including scp behaviour."}
+{"id": 42663, "keep": 0, "q": 2, "kind": "other", "topic": "security", "depth": "intermediate", "title": "OpenSSL email address overflow advisory", "why": "Advisory on an X.509 email-address overflow in OpenSSL 3.0."}
+{"id": 42664, "keep": 0, "q": 1, "kind": "reference", "topic": "security", "depth": "intro", "title": "OpenSSL changelog", "why": "Changelog listing; a lookup, not a lesson."}
+{"id": 42665, "keep": 0, "q": 1, "kind": "tool", "topic": "cloud", "depth": "intro", "title": "OpenStack public clouds marketplace", "why": "Directory of providers running OpenStack."}
+{"id": 42666, "keep": 0, "q": 1, "kind": "dashboard", "topic": "restaurants", "depth": "intro", "title": "OpenTable state of industry", "why": "Booking trends dashboard from the early pandemic."}
+{"id": 42667, "keep": 1, "q": 2, "kind": "docs", "topic": "observability", "depth": "intro", "title": "OpenTelemetry traces concepts", "why": "Explains spans, traces and events in OpenTelemetry's data model."}
+{"id": 42668, "keep": 0, "q": 1, "kind": "dashboard", "topic": "trains", "depth": "intro", "title": "Open Train Times maps", "why": "Live train movement map."}
+{"id": 42669, "keep": 0, "q": 1, "kind": "news", "topic": "vms", "depth": "intro", "title": "OpenVMS hobbyist news", "why": "News page about OpenVMS hobbyist licensing."}
+{"id": 42670, "keep": 0, "q": 2, "kind": "reference", "topic": "routers", "depth": "intermediate", "title": "OpenWrt UCI configuration", "why": "Reference for OpenWrt's UCI config system and file layout."}
+{"id": 42671, "keep": 1, "q": 2, "kind": "tutorial", "topic": "networking", "depth": "intermediate", "title": "OpenWrt IPv6 NAT guide", "why": "Explains running IPv6 NAT on a home router and when it is needed."}
+{"id": 42672, "keep": 0, "q": 2, "kind": "news", "topic": "routers", "depth": "intermediate", "title": "OpenWrt device drop warning", "why": "Notice explaining why older routers lost support, with memory and flash limits."}
+{"id": 42673, "keep": 0, "q": 1, "kind": "dashboard", "topic": "wifi", "depth": "intro", "title": "OpenWrt 802.11ax device list", "why": "Hardware compatibility table for Wi-Fi 6 routers."}
+{"id": 42674, "keep": 0, "q": 1, "kind": "tool", "topic": "smart contracts", "depth": "intro", "title": "OpenZeppelin contracts", "why": "Library homepage for audited smart contract components."}
+{"id": 42675, "keep": 1, "q": 3, "kind": "docs", "topic": "filesystems", "depth": "intermediate", "title": "ZFS dRAID howto", "why": "Explains distributed RAID layout in ZFS, its spares and rebuilds."}
+{"id": 42676, "keep": 1, "q": 3, "kind": "docs", "topic": "filesystems", "depth": "intermediate", "title": "ZFS workload tuning", "why": "Practical tuning for record size, caching and pool fill levels."}
+{"id": 42677, "keep": 0, "q": 2, "kind": "docs", "topic": "browsers", "depth": "intermediate", "title": "Opera Browser.js", "why": "Documentation for Opera's site-patching script system."}
+{"id": 42678, "keep": 0, "q": 1, "kind": "news", "topic": "browsers", "depth": "intro", "title": "Opera Unite press release", "why": "Launch announcement for Opera's browser-hosted web server."}
+{"id": 42679, "keep": 1, "q": 3, "kind": "essay", "topic": "productivity", "depth": "intro", "title": "The Busy Trap", "why": "Essay on how busyness shields people from questions of meaning."}
+{"id": 42680, "keep": 0, "q": 1, "kind": "dashboard", "topic": "government", "depth": "intro", "title": "OPM federal employment tables", "why": "Historical statistics table of government employment."}
+{"id": 42681, "keep": 0, "q": 1, "kind": "reference", "topic": "government", "depth": "intro", "title": "OPM 2018 General Schedule pay", "why": "Official federal pay scale table; a lookup."}
+{"id": 42682, "keep": 1, "q": 3, "kind": "journalism", "topic": "aviation", "depth": "intro", "title": "Favorite SR-71 story", "why": "Reader anecdotes about flying the SR-71 Blackbird, including the speed check."}
+{"id": 42683, "keep": 0, "q": 2, "kind": "dashboard", "topic": "lighting", "depth": "intro", "title": "Light bulb database", "why": "Searchable database of bulbs by flicker and spectrum."}
+{"id": 42684, "keep": 1, "q": 3, "kind": "visual", "topic": "audio codecs", "depth": "intermediate", "title": "Opus 1.5 demo", "why": "Audio demos and explanation of Opus 1.5's ML-based improvements."}
+{"id": 42685, "keep": 0, "q": 1, "kind": "tool", "topic": "java", "depth": "intro", "title": "Oracle Java downloads", "why": "Download page for Java builds."}
+{"id": 42686, "keep": 0, "q": 2, "kind": "other", "topic": "java licensing", "depth": "intro", "title": "Oracle JDK FAQ", "why": "Licensing FAQ comparing Oracle JDK and OpenJDK; legal terms."}
+{"id": 42687, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "OpenSPARC project page", "why": "Project page for Sun's open SPARC processor designs."}
+{"id": 42688, "keep": 1, "q": 3, "kind": "tutorial", "topic": "java", "depth": "intermediate", "title": "Java 8 Optional", "why": "Explains Optional's purpose and idiomatic use to avoid null checks."}
+{"id": 42689, "keep": 0, "q": 1, "kind": "news", "topic": "databases", "depth": "intro", "title": "Oracle NoSQL overview", "why": "Product overview page for a database."}
+{"id": 42690, "keep": 0, "q": 2, "kind": "reference", "topic": "java", "depth": "intermediate", "title": "Java compatibility notes", "why": "List of source incompatibilities between JDK releases; a lookup."}
+{"id": 42691, "keep": 1, "q": 3, "kind": "essay", "topic": "java", "depth": "intro", "title": "The history of Java", "why": "Oracle's history of Java: design goals, early devices and origins."}
+{"id": 42692, "keep": 1, "q": 4, "kind": "paper", "topic": "nuclear safety", "depth": "expert", "title": "A Review of Criticality Accidents", "why": "Catalogs criticality accidents in fissile material handling and their causes."}
+{"id": 42693, "keep": 1, "q": 3, "kind": "journalism", "topic": "environment", "depth": "intro", "title": "Plus Plastic", "why": "Investigation finding microplastics in bottled water brands, with methods."}
+{"id": 42694, "keep": 1, "q": 4, "kind": "essay", "topic": "energy", "depth": "intermediate", "title": "The Trouble With Fusion", "why": "1983 analysis of why fusion costs more than fission per unit of power."}
+{"id": 42695, "keep": 0, "q": 2, "kind": "blog", "topic": "gis", "depth": "intermediate", "title": "Ordnance Survey Minecraft Britain", "why": "Project page on converting Britain's map data into Minecraft blocks."}
+{"id": 42696, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Oregon contractor test", "why": "Official checklist for contractor classification; legal guidance."}
+{"id": 42697, "keep": 0, "q": 1, "kind": "news", "topic": "education", "depth": "intro", "title": "Oregon graduation requirements news", "why": "News about Oregon dropping graduation test requirements."}
+{"id": 42698, "keep": 0, "q": 1, "kind": "journalism", "topic": "government", "depth": "intro", "title": "Oregon Oracle contract story", "why": "News story about a state's costly software contract."}
+{"id": 42699, "keep": 0, "q": 1, "kind": "other", "topic": "programming", "depth": "intro", "title": "O'Reilly animals", "why": "Page listing O'Reilly's book animals; trivia, not a lesson."}
+{"id": 42699, "keep": 0, "q": 1, "kind": "other", "topic": "programming", "depth": "intro", "title": "O'Reilly animals", "why": "Page listing O'Reilly's book animals; trivia, not a lesson."}
+{"id": 42700, "keep": 1, "q": 3, "kind": "book", "topic": "c", "depth": "intermediate", "title": "21st Century C", "why": "Modern C project setup, toolchains and practices."}
+{"id": 42701, "keep": 1, "q": 3, "kind": "book", "topic": "software engineering", "depth": "intermediate", "title": "Software Engineering at Google", "why": "Describes Google's engineering practices, tooling and culture at scale."}
+{"id": 42702, "keep": 1, "q": 5, "kind": "book", "topic": "legacy code", "depth": "intermediate", "title": "Working Effectively with Legacy Code", "why": "Techniques for adding tests and changing untested legacy code safely."}
+{"id": 42703, "keep": 0, "q": 2, "kind": "reference", "topic": "books", "depth": "intro", "title": "O'Reilly open books", "why": "Index of freely readable O'Reilly books; a hub page."}
+{"id": 42704, "keep": 1, "q": 3, "kind": "book", "topic": "free software", "depth": "intro", "title": "Free as in Freedom, chapter 9", "why": "Chapter on Stallman's life and the origins of the GNU movement."}
+{"id": 42705, "keep": 1, "q": 3, "kind": "book", "topic": "dune", "depth": "intro", "title": "Frank Herbert by Tim O'Reilly", "why": "Free book on Frank Herbert's life, writing and the making of Dune."}
+{"id": 42706, "keep": 0, "q": 1, "kind": "tool", "topic": "maps", "depth": "intro", "title": "Organic Maps donate page", "why": "Donation page for an offline maps app."}
+{"id": 42707, "keep": 1, "q": 3, "kind": "reference", "topic": "emacs", "depth": "intermediate", "title": "Org Mode: Tables", "why": "Manual on Org tables: formulas, editing and calculation."}
+{"id": 42708, "keep": 1, "q": 2, "kind": "reference", "topic": "emacs", "depth": "intermediate", "title": "Org Mode spreadsheets", "why": "Manual section on Org's spreadsheet formulas and cell references."}
+{"id": 42709, "keep": 0, "q": 2, "kind": "reference", "topic": "emacs", "depth": "intro", "title": "Worg hub", "why": "Index page for community Org Mode documentation."}
+{"id": 42710, "keep": 1, "q": 3, "kind": "reference", "topic": "markup", "depth": "intermediate", "title": "Org syntax specification", "why": "Formal spec of Org markup, the canonical reference for the format."}
+{"id": 42711, "keep": 1, "q": 3, "kind": "tutorial", "topic": "emacs", "depth": "intro", "title": "Org Mode tutorials", "why": "Index of beginner Org tutorials for notes, tasks and planning."}
+{"id": 42712, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "OrientDB homepage", "why": "Product homepage for a graph and document database."}
+{"id": 42713, "keep": 0, "q": 2, "kind": "docs", "topic": "postgresql", "depth": "intermediate", "title": "OrioleDB docs", "why": "Docs for a PostgreSQL storage engine extension; product-specific."}
+{"id": 42714, "keep": 1, "q": 4, "kind": "essay", "topic": "animal cognition", "depth": "intro", "title": "Deep Intellect", "why": "Essay on octopus intelligence and their surprising behaviour."}
+{"id": 42715, "keep": 0, "q": 1, "kind": "other", "topic": "fiction", "depth": "intro", "title": "Orville wiki: Majority Rule", "why": "Fan wiki entry about a fictional plot device."}
+{"id": 42716, "keep": 1, "q": 4, "kind": "essay", "topic": "education", "depth": "intro", "title": "Such, Such Were the Joys", "why": "Orwell's essay on school, class and the values of his childhood."}
+{"id": 42717, "keep": 1, "q": 5, "kind": "essay", "topic": "writing", "depth": "intro", "title": "Why I Write", "why": "Orwell on his motives for writing and principles of clear prose."}
+{"id": 42718, "keep": 0, "q": 1, "kind": "tool", "topic": "auth", "depth": "intro", "title": "Ory Hydra homepage", "why": "Product homepage for an OAuth2 server."}
+{"id": 42719, "keep": 1, "q": 3, "kind": "blog", "topic": "windows", "depth": "intermediate", "title": "Why Win9x crashes on fast machines", "why": "Explains a timing bug in Windows 9x that breaks on fast CPUs."}
+{"id": 42720, "keep": 0, "q": 1, "kind": "tool", "topic": "science", "depth": "intro", "title": "OSF Reproducibility Project page", "why": "Project page for a reproducibility initiative."}
+{"id": 42721, "keep": 0, "q": 2, "kind": "reference", "topic": "medicine", "depth": "intro", "title": "UCSF fasting and cancer FAQ", "why": "Patient FAQ on fasting alongside cancer treatment; medical guidance."}
+{"id": 42722, "keep": 0, "q": 1, "kind": "dashboard", "topic": "healthcare", "depth": "intro", "title": "California chargemaster data", "why": "Hospital price data portal; a lookup."}
+{"id": 42723, "keep": 1, "q": 3, "kind": "essay", "topic": "programming tools", "depth": "intro", "title": "Editors vs IDEs", "why": "Argues that editors versus IDEs shape how programmers learn and refactor."}
+{"id": 42724, "keep": 0, "q": 1, "kind": "tool", "topic": "ppc64le", "depth": "intermediate", "title": "OSU OSL PowerDev", "why": "Service page for POWER development machines."}
+{"id": 42725, "keep": 1, "q": 3, "kind": "book", "topic": "reverse engineering", "depth": "intermediate", "title": "Mac OS X binary protection", "why": "Bonus chapter on how Mac OS binaries were protected against piracy."}
+{"id": 42726, "keep": 0, "q": 1, "kind": "tutorial", "topic": "ios", "depth": "intro", "title": "Sideload apps with Xcode", "why": "Short how-to for installing apps on iOS without the App Store."}
+{"id": 42727, "keep": 0, "q": 1, "kind": "news", "topic": "finance", "depth": "intro", "title": "Teachers' venture growth fund", "why": "Investment page for a pension fund's venture portfolio."}
+{"id": 42728, "keep": 1, "q": 4, "kind": "blog", "topic": "databases", "depth": "expert", "title": "The part of PostgreSQL we hate the most", "why": "Deep look at PostgreSQL MVCC bloat, vacuum and costly UPDATE workloads."}
+{"id": 42729, "keep": 0, "q": 2, "kind": "journalism", "topic": "agriculture", "depth": "intro", "title": "Livestock reversing desertification", "why": "Argues grazing reverses desertification; a contested claim."}
+{"id": 42730, "keep": 1, "q": 4, "kind": "explainer", "topic": "climate", "depth": "intermediate", "title": "Carbon opportunity costs of food", "why": "Explains land-use opportunity costs of diets beyond direct emissions."}
+{"id": 42731, "keep": 0, "q": 1, "kind": "dashboard", "topic": "emissions", "depth": "intro", "title": "CO2 by income region", "why": "Chart page of emissions by income group."}
+{"id": 42732, "keep": 0, "q": 1, "kind": "dashboard", "topic": "covid", "depth": "intro", "title": "Sweden COVID chart", "why": "Case chart for Sweden during 2020."}
+{"id": 42733, "keep": 0, "q": 1, "kind": "dashboard", "topic": "covid", "depth": "intro", "title": "COVID cases chart", "why": "Case data charts; a tracker."}
+{"id": 42734, "keep": 0, "q": 2, "kind": "dashboard", "topic": "covid economics", "depth": "intro", "title": "COVID health and economy charts", "why": "Chart collection on pandemic health versus economic impact."}
+{"id": 42735, "keep": 0, "q": 1, "kind": "dashboard", "topic": "covid", "depth": "intro", "title": "COVID testing data", "why": "Testing data charts and rates by country."}
+{"id": 42736, "keep": 1, "q": 3, "kind": "explainer", "topic": "economics", "depth": "intro", "title": "Economic growth", "why": "Long-run data on growth, inflation and living standards, with explanation."}
+{"id": 42737, "keep": 1, "q": 3, "kind": "explainer", "topic": "energy", "depth": "intro", "title": "Energy overview", "why": "Overview of energy sources and consumption trends with explanations."}
+{"id": 42738, "keep": 1, "q": 3, "kind": "blog", "topic": "history methods", "depth": "intermediate", "title": "Extreme history methods", "why": "Explains how living standards are measured across centuries."}
+{"id": 42739, "keep": 0, "q": 2, "kind": "dashboard", "topic": "food", "depth": "intro", "title": "Food per person", "why": "Chart page of food supply per person over time."}
+{"id": 42740, "keep": 1, "q": 2, "kind": "explainer", "topic": "climate", "depth": "intro", "title": "Global aviation emissions", "why": "Breaks down aviation's share of global CO2 and its trend."}
+{"id": 42741, "keep": 0, "q": 1, "kind": "dashboard", "topic": "space", "depth": "intro", "title": "Cost of space launches chart", "why": "Chart of launch costs per kilogram over time."}
+{"id": 42742, "keep": 0, "q": 1, "kind": "dashboard", "topic": "emissions", "depth": "intro", "title": "Cumulative CO2 by region", "why": "Chart of cumulative emissions by world region."}
+{"id": 42743, "keep": 0, "q": 1, "kind": "dashboard", "topic": "energy", "depth": "intro", "title": "Electricity by source chart", "why": "Chart of electricity generation by source."}
+{"id": 42744, "keep": 0, "q": 1, "kind": "dashboard", "topic": "food", "depth": "intro", "title": "Food emissions supply chain chart", "why": "Chart of emissions across food supply chains."}
+{"id": 42745, "keep": 0, "q": 1, "kind": "dashboard", "topic": "energy", "depth": "intro", "title": "Global fossil fuel consumption chart", "why": "Chart of fossil fuel use worldwide."}
+{"id": 42746, "keep": 0, "q": 1, "kind": "dashboard", "topic": "solar", "depth": "intro", "title": "Installed solar capacity chart", "why": "Chart of solar capacity over time."}
+{"id": 42747, "keep": 0, "q": 1, "kind": "dashboard", "topic": "energy", "depth": "intro", "title": "Electricity by source, China", "why": "Chart of China's electricity mix."}
+{"id": 42748, "keep": 1, "q": 3, "kind": "explainer", "topic": "agriculture", "depth": "intermediate", "title": "Is organic agriculture better?", "why": "Compares organic and conventional farming across yield and environmental measures."}
+{"id": 42749, "keep": 1, "q": 3, "kind": "explainer", "topic": "prehistory", "depth": "intro", "title": "Quaternary megafauna extinction", "why": "Evidence that human hunting drove large animal extinctions."}
+{"id": 42750, "keep": 1, "q": 2, "kind": "explainer", "topic": "economics", "depth": "intermediate", "title": "History of global inequality", "why": "Long-run data on inequality and how it has been measured."}
+{"id": 42751, "keep": 0, "q": 1, "kind": "dashboard", "topic": "outages", "depth": "intro", "title": "YouTube outage tracker", "why": "Live outage status page."}
+{"id": 42752, "keep": 0, "q": 1, "kind": "other", "topic": "jobs", "depth": "intro", "title": "Outreach careers page", "why": "Company job listings."}
+{"id": 42753, "keep": 1, "q": 2, "kind": "journalism", "topic": "sports doping", "depth": "intermediate", "title": "The drug test", "why": "Long-form look at doping tests and micro-dosing in elite sport."}
+{"id": 42754, "keep": 1, "q": 3, "kind": "blog", "topic": "rationality", "depth": "intro", "title": "My Favorite Liar", "why": "Hanson on a professor's lie-of-the-day teaching trick."}
+{"id": 42755, "keep": 1, "q": 3, "kind": "blog", "topic": "rationality", "depth": "intermediate", "title": "Stupider Than You Realize", "why": "Essay on whether bad outcomes come from stupidity or lack of responsibility."}
+{"id": 42756, "keep": 1, "q": 3, "kind": "blog", "topic": "psychology", "depth": "intro", "title": "Two Types of Envy", "why": "Distinguishes two kinds of envy and how they shape attitudes to inequality."}
+{"id": 42757, "keep": 1, "q": 4, "kind": "essay", "topic": "decentralized social", "depth": "intermediate", "title": "A Social Filesystem", "why": "Explains the AT Protocol's data model and why it enables portable social apps."}
+{"id": 42758, "keep": 1, "q": 4, "kind": "blog", "topic": "react", "depth": "intermediate", "title": "Before you memo", "why": "Explains when React.memo helps and the common pitfalls to check first."}
+{"id": 42759, "keep": 1, "q": 3, "kind": "essay", "topic": "decentralized social", "depth": "intro", "title": "Open Social", "why": "Argues open protocols reduce lock-in for social networks."}
+{"id": 42760, "keep": 0, "q": 1, "kind": "dashboard", "topic": "sustainability", "depth": "intro", "title": "Earth Overshoot Day calculator", "why": "Calculator page for ecological footprint; a statistic."}
+{"id": 42761, "keep": 0, "q": 1, "kind": "news", "topic": "covid", "depth": "intro", "title": "House COVID select committee report", "why": "Government committee report page; politically contested and news-driven."}
+{"id": 42762, "keep": 0, "q": 1, "kind": "tool", "topic": "hosting", "depth": "intro", "title": "OVH anti-DDoS page", "why": "Product page for DDoS protection."}
+{"id": 42763, "keep": 0, "q": 2, "kind": "reference", "topic": "security", "depth": "intro", "title": "OWASP guide project category", "why": "Category page for the OWASP guide project; a hub."}
+{"id": 42764, "keep": 0, "q": 2, "kind": "reference", "topic": "security", "depth": "intro", "title": "OWASP testing project category", "why": "Category page for the OWASP testing guide; a hub."}
+{"id": 42765, "keep": 1, "q": 3, "kind": "explainer", "topic": "security", "depth": "intermediate", "title": "Regular expression DoS (ReDoS)", "why": "Explains how crafted regexes cause catastrophic backtracking."}
+{"id": 42766, "keep": 1, "q": 3, "kind": "explainer", "topic": "security", "depth": "intermediate", "title": "XML External Entity processing", "why": "Explains XXE attacks and how to disable external entity processing."}
+{"id": 42767, "keep": 1, "q": 3, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "XSS prevention cheat sheet", "why": "Context-by-context output encoding rules for preventing XSS."}
+{"id": 42768, "keep": 0, "q": 2, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "Source code analysis tools list", "why": "Catalog of static analysis tools; a list, not a lesson."}
+{"id": 42769, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "OWASP Dependency-Check", "why": "Project homepage for a dependency vulnerability scanner."}
+{"id": 42770, "keep": 1, "q": 3, "kind": "reference", "topic": "writing", "depth": "intro", "title": "Purdue logic fallacies guide", "why": "Guide to common logical fallacies with definitions and examples."}
+{"id": 42771, "keep": 0, "q": 1, "kind": "tool", "topic": "audio", "depth": "intro", "title": "OwnTone homepage", "why": "Project homepage for a self-hosted media server."}
+{"id": 42772, "keep": 0, "q": 1, "kind": "tool", "topic": "css", "depth": "intro", "title": "Sakura CSS project", "why": "Project page for a classless CSS framework."}
+{"id": 42773, "keep": 1, "q": 3, "kind": "blog", "topic": "embedded systems", "depth": "expert", "title": "Hubris and Humility", "why": "Oxide's write-up on the Hubris embedded OS and its debugger."}
+{"id": 42774, "keep": 0, "q": 2, "kind": "other", "topic": "hardware", "depth": "intro", "title": "On the Metal podcast", "why": "Podcast landing page; audio rather than text."}
+{"id": 42775, "keep": 0, "q": 2, "kind": "other", "topic": "company", "depth": "intro", "title": "Oxide principles", "why": "Company values page."}
+{"id": 42776, "keep": 0, "q": 1, "kind": "tool", "topic": "proxies", "depth": "intro", "title": "Oxylabs residential proxy pricing", "why": "Product pricing page."}
+{"id": 42777, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "intro", "title": "Oyez Apple v Pepper case", "why": "Case page for a Supreme Court antitrust case; legal record."}
+{"id": 42778, "keep": 0, "q": 1, "kind": "other", "topic": "bitcoin", "depth": "intro", "title": "P2P forum thread on Bitcoin", "why": "Forum thread speculating about who Satoshi might be."}
+{"id": 42779, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Kill-A-Watt meter page", "why": "Product page for a power meter."}
+{"id": 42780, "keep": 0, "q": 2, "kind": "news", "topic": "legal", "depth": "intro", "title": "PACER fee-exempt notice", "why": "Court notice on sharing PACER documents; legal policy."}
+{"id": 42781, "keep": 1, "q": 3, "kind": "reference", "topic": "python", "depth": "intermediate", "title": "Python packaging tool recommendations", "why": "Current recommended tools for packaging Python projects and when to use them."}
+{"id": 42782, "keep": 1, "q": 3, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "Writing your pyproject.toml", "why": "Guide to pyproject.toml metadata, build backends and configuration."}
+{"id": 42783, "keep": 1, "q": 2, "kind": "tutorial", "topic": "python", "depth": "intermediate", "title": "Packaging with setuptools", "why": "Tutorial for packaging Python projects with setuptools; partly dated."}
+{"id": 42784, "keep": 1, "q": 3, "kind": "paper", "topic": "programming productivity", "depth": "intermediate", "title": "Programmer performance variability study", "why": "Shows programmer differences often outweigh tool and language effects."}
+{"id": 42785, "keep": 1, "q": 3, "kind": "blog", "topic": "elixir", "depth": "intro", "title": "Elixir at PagerDuty", "why": "Experience report on adopting Elixir for concurrency and fault tolerance."}
+{"id": 42786, "keep": 0, "q": 1, "kind": "other", "topic": "jobs", "depth": "intro", "title": "PagerDuty careers", "why": "Job listings."}
+{"id": 42787, "keep": 0, "q": 1, "kind": "other", "topic": "jobs", "depth": "intro", "title": "PagerDuty work with us", "why": "Job listings and benefits summary."}
+{"id": 42788, "keep": 0, "q": 1, "kind": "reference", "topic": "government", "depth": "intro", "title": "18F pay grades", "why": "Government pay grade explainer for a hiring programme; a lookup."}
+{"id": 42789, "keep": 1, "q": 4, "kind": "paper", "topic": "filesystems", "depth": "expert", "title": "Reliability Analysis of ZFS", "why": "Analysis of ZFS reliability under disk faults and redundancy choices."}
+{"id": 42790, "keep": 0, "q": 1, "kind": "other", "topic": "personal", "depth": "intro", "title": "Kovar CV", "why": "Personal CV page."}
+{"id": 42791, "keep": 0, "q": 2, "kind": "paper", "topic": "networking", "depth": "expert", "title": "Tubes paper", "why": "Paper on physical Internet infrastructure; topic and claims uncertain."}
+{"id": 42792, "keep": 1, "q": 4, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "NIST SP 800-63-3", "why": "Authoritative guidance on password policy, MFA and identity assurance levels."}
+{"id": 42793, "keep": 0, "q": 1, "kind": "dashboard", "topic": "finance", "depth": "intro", "title": "Damodaran valuation dataset", "why": "Dataset page of market multiples; a lookup."}
+{"id": 42794, "keep": 1, "q": 4, "kind": "book", "topic": "lisp", "depth": "expert", "title": "Lisp in Small Pieces", "why": "Deep treatment of implementing Lisp-family languages, from interpreters to compilers."}
+{"id": 42795, "keep": 1, "q": 3, "kind": "blog", "topic": "retrocomputing", "depth": "intermediate", "title": "Microsoft BASIC for 6502", "why": "Shared-source history of Microsoft BASIC across 6502 micros, with code-level detail."}
+{"id": 42796, "keep": 1, "q": 3, "kind": "blog", "topic": "retrocomputing", "depth": "intermediate", "title": "How many C64s were sold?", "why": "Serial-number analysis estimating Commodore 64 sales against the Apple II."}
+{"id": 42797, "keep": 1, "q": 2, "kind": "essay", "topic": "complexity", "depth": "intermediate", "title": "The competence crisis", "why": "Argues complex systems degrade when technical competence declines."}
+{"id": 42798, "keep": 1, "q": 2, "kind": "blog", "topic": "ar hardware", "depth": "intermediate", "title": "Magic Leap is a tragic heap", "why": "Critique of Magic Leap's display and UI claims by a hardware founder."}
