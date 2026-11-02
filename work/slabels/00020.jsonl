@@ -196,8 +196,8 @@
 {"id": 12993021, "keep": 0, "q": 2, "kind": "blog", "topic": "cloud pricing"}
 {"id": 8725845, "keep": 0, "q": 1, "kind": "show_hn", "topic": "css framework"}
 {"id": 44235467, "keep": 1, "q": 4, "kind": "explainer", "topic": "localhost tracking"}
-{"id": 18349887, "keep": 0, "q": 1, "kind": "journalism", "topic": "fake reviews"}
-{"id": 41620198, "keep": 1, "q": 2, "kind": "blog", "topic": "note taking"}
+{"id": 18262101, "keep": 1, "q": 2, "kind": "journalism", "topic": "fake reviews"}
+{"id": 44402470, "keep": 1, "q": 2, "kind": "blog", "topic": "note taking"}
 {"id": 18250572, "keep": 0, "q": 2, "kind": "journalism", "topic": "right to repair"}
 {"id": 19214387, "keep": 1, "q": 5, "kind": "show_hn", "topic": "json parsing"}
 {"id": 6068323, "keep": 0, "q": 1, "kind": "other", "topic": "history"}
@@ -340,7 +340,7 @@
 {"id": 27473167, "keep": 0, "q": 1, "kind": "journalism", "topic": "religion"}
 {"id": 15927132, "keep": 0, "q": 1, "kind": "ask_hn", "topic": "excel python"}
 {"id": 29810334, "keep": 1, "q": 3, "kind": "explainer", "topic": "building durability"}
-{"id": 33179047, "keep": 0, "q": 1, "kind": "show_hn", "topic": "face masks"}
+{"id": 29878971, "keep": 0, "q": 2, "kind": "show_hn", "topic": "face masks"}
 {"id": 14839178, "keep": 0, "q": 1, "kind": "journalism", "topic": "netflix throttling"}
 {"id": 16952222, "keep": 1, "q": 5, "kind": "other", "topic": "competitive programming"}
 {"id": 9432504, "keep": 0, "q": 1, "kind": "other", "topic": "google maps"}
