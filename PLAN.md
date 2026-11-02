@@ -204,6 +204,9 @@ How bulk labelling runs (no API key needed):
 - Speed: ~7 min per batch per worker. Ran 10 workers on links + 4 on comments + 4 on stories.
 - `scripts/autocommit.sh` loops: fetch new pages → build → commit + push (every ~10 min).
 
+**Session 2 (2026-11-02)**: resumed labelling (10 links + 4 comments + 4 stories workers, autocommit running; it pushes to branch `claude/eager-ptolemy-83r8zr`).
+- [x] Step 4 (first pass): `work/topic_map.json` holds 35 canonical topics (Sonnet, keyword rules, approximate). It maps raw topics with count >= 2; `build.py` sends unmapped topics to "other". "other" is currently the largest bucket. **TODO:** once labels finish, re-run the mapping for the new raw topics (`data/topics_raw.json` comes from collecting the `topic` field), and review the noisy "philosophy & society" bucket.
+
 ## Next steps (exact): for a resuming session
 
 1. Setup (fresh container): `pip install duckdb pyarrow httpx trafilatura`.

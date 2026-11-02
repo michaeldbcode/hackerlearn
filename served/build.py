@@ -23,9 +23,12 @@ def reflow(t):
         t = re.sub(r"(?<![.!?:])\n(?!\n)", " ", t)
     return re.sub(r"\n{2,}", "\n\n", t).strip()
 
+_TMAP = json.load(open("work/topic_map.json")) if os.path.exists("work/topic_map.json") else {}
 def norm_topic(t):
-    t = (t or "other").lower().strip()
-    return re.sub(r"\s+", " ", t)[:40]
+    t = re.sub(r"\s+", " ", (t or "other").lower().strip())
+    if _TMAP:
+        return _TMAP.get(t, "other")
+    return t[:40]
 
 os.makedirs("docs/data/ex", exist_ok=True)
 pages = {p["url"]: p for p in jl("work/pages.jsonl")} if os.path.exists("work/pages.jsonl") else {}
