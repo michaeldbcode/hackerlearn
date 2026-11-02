@@ -1,0 +1,200 @@
+{"id": 19000, "keep": 1, "q": 3, "kind": "docs", "topic": "linux", "depth": "intermediate", "title": "Portable Services", "why": "How systemd runs services from portable images in sandboxed, container-like isolation without Docker."}
+{"id": 19001, "keep": 0, "q": 1, "kind": "other", "topic": "telecom", "depth": "intro", "title": "T-Mobile plans", "why": "Carrier pricing page; no learning value."}
+{"id": 19002, "keep": 0, "q": 1, "kind": "tool", "topic": "hacker news", "depth": "intro", "title": "HN Telegram feed", "why": "Telegram channel relaying popular HN links, not content itself."}
+{"id": 19003, "keep": 1, "q": 3, "kind": "journalism", "topic": "media", "depth": "intermediate", "title": "Russiagate is WMD times a million", "why": "Opinionated long-form critique of how media covered the Russiagate story."}
+{"id": 19004, "keep": 1, "q": 4, "kind": "blog", "topic": "networking", "depth": "expert", "title": "More throughput", "why": "How Tailscale reached 10 Gbit/s WireGuard using GSO/GRO and kernel tuning details."}
+{"id": 19005, "keep": 1, "q": 2, "kind": "tutorial", "topic": "networking", "depth": "intro", "title": "Pi-hole with Tailscale", "why": "Step-by-step guide to running Pi-hole DNS across a Tailscale tailnet."}
+{"id": 19006, "keep": 1, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "Tailscale SSH", "why": "Explains identity-based SSH via Tailscale, including check mode and authentication behavior."}
+{"id": 19007, "keep": 0, "q": 2, "kind": "tool", "topic": "css", "depth": "intro", "title": "Tailwind standalone CLI", "why": "Announcement of a Tailwind binary that runs without npm."}
+{"id": 19008, "keep": 1, "q": 2, "kind": "docs", "topic": "css", "depth": "intro", "title": "Tailwind hover, focus and states", "why": "Reference for Tailwind state variants and how they compose."}
+{"id": 19009, "keep": 0, "q": 1, "kind": "docs", "topic": "css", "depth": "intro", "title": "Tailwind installation", "why": "Setup instructions for installing Tailwind in build tools."}
+{"id": 19010, "keep": 0, "q": 1, "kind": "docs", "topic": "css", "depth": "intro", "title": "Tailwind typography plugin", "why": "Plugin documentation page; mostly usage instructions."}
+{"id": 19011, "keep": 1, "q": 4, "kind": "talk", "topic": "go", "depth": "intermediate", "title": "Go at Google", "why": "Rob Pike's talk on language design tradeoffs for large-scale software engineering."}
+{"id": 19012, "keep": 1, "q": 3, "kind": "talk", "topic": "go", "depth": "expert", "title": "Go GC: low latency garbage collection", "why": "Slides on how Go's concurrent garbage collector achieves low pause times."}
+{"id": 19013, "keep": 0, "q": 2, "kind": "paper", "topic": "wikipedia", "depth": "expert", "title": "Wikipedia Holocaust coverage study", "why": "Contested study cited mainly as evidence in a dispute about Wikipedia editors."}
+{"id": 19014, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "Tarsnap bug bounty", "why": "Bounty program rules page; no technical content."}
+{"id": 19015, "keep": 0, "q": 2, "kind": "tool", "topic": "c", "depth": "intro", "title": "Tarsnap client source", "why": "Download page for source code; the code itself is praised but the page is not a read."}
+{"id": 19016, "keep": 0, "q": 1, "kind": "reference", "topic": "taxes", "depth": "intro", "title": "California tax table", "why": "Lookup table of tax brackets; generic reference."}
+{"id": 19017, "keep": 0, "q": 2, "kind": "reference", "topic": "economics", "depth": "intermediate", "title": "Historical federal effective tax rates", "why": "Statistics table of effective tax rates by year and quintile."}
+{"id": 19018, "keep": 1, "q": 3, "kind": "docs", "topic": "javascript", "depth": "intermediate", "title": "TC39 process document", "why": "Explains how JavaScript proposals advance through the standardization stages."}
+{"id": 19019, "keep": 1, "q": 4, "kind": "docs", "topic": "javascript", "depth": "intermediate", "title": "Temporal proposal", "why": "Spec, rationale and cookbook for the new JavaScript date and time API."}
+{"id": 19020, "keep": 0, "q": 2, "kind": "other", "topic": "economics", "depth": "intro", "title": "TCI letter to Alphabet", "why": "Investor letter to Alphabet; cited as evidence in a debate about cost cutting."}
+{"id": 19021, "keep": 1, "q": 3, "kind": "essay", "topic": "computing ethics", "depth": "intermediate", "title": "Weizenbaum on computers and education", "why": "Weizenbaum's critique of technology-first thinking in education and its social effects."}
+{"id": 19022, "keep": 1, "q": 3, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "Benchmarking Cassandra scalability", "why": "Netflix's write-throughput benchmark showing how Cassandra scales across a cluster."}
+{"id": 19023, "keep": 1, "q": 3, "kind": "blog", "topic": "operating systems", "depth": "intermediate", "title": "Windows Sandbox", "why": "Windows kernel team's explanation of how the lightweight VM sandbox works."}
+{"id": 19024, "keep": 0, "q": 1, "kind": "news", "topic": "careers", "depth": "intro", "title": "Google offers staff engineer 3.5M", "why": "Compensation news story about a retention offer."}
+{"id": 19025, "keep": 1, "q": 2, "kind": "essay", "topic": "startups", "depth": "intro", "title": "Be your own bitch", "why": "Fred Wilson's argument for owning your platform rather than depending on Twitter."}
+{"id": 19026, "keep": 1, "q": 3, "kind": "journalism", "topic": "startups", "depth": "intro", "title": "Dropbox video MVP", "why": "How Dropbox's demo video tested demand and became a classic example of a minimum viable product."}
+{"id": 19027, "keep": 1, "q": 2, "kind": "journalism", "topic": "startups", "depth": "intro", "title": "How Instacart hacked YC", "why": "First-person founder account of applying to Y Combinator and what worked."}
+{"id": 19028, "keep": 0, "q": 2, "kind": "news", "topic": "mobile", "depth": "intro", "title": "Zuckerberg on HTML5 mistake", "why": "News about a CEO quote on mobile strategy."}
+{"id": 19029, "keep": 0, "q": 1, "kind": "news", "topic": "transportation", "depth": "intro", "title": "Uber auto", "why": "Tech news story about a ride-hailing announcement."}
+{"id": 19030, "keep": 1, "q": 3, "kind": "essay", "topic": "open source business", "depth": "intermediate", "title": "Don't be the next Red Hat", "why": "Argues why open source startups struggle to copy Red Hat's business model."}
+{"id": 19031, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Pro-Trump CEO booted from YC", "why": "News story about an accelerator expelling a founder."}
+{"id": 19032, "keep": 0, "q": 1, "kind": "news", "topic": "philanthropy", "depth": "intro", "title": "Google.org donates to Wikimedia", "why": "Funding announcement news."}
+{"id": 19033, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Reddit $300M round", "why": "Funding news story."}
+{"id": 19034, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Facebook removes Onavo", "why": "News about an app removal."}
+{"id": 19035, "keep": 0, "q": 2, "kind": "news", "topic": "advertising", "depth": "intro", "title": "Targeted ads study", "why": "News report on a study; cited as evidence in argument."}
+{"id": 19036, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Apple silent Zoom update", "why": "News on a silent macOS update for Zoom."}
+{"id": 19037, "keep": 0, "q": 2, "kind": "news", "topic": "security", "depth": "intro", "title": "F12 isn't hacking", "why": "News about a state governor threatening a journalist."}
+{"id": 19038, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "Tumblr CEO spat", "why": "News about a public dispute with a user."}
+{"id": 19039, "keep": 0, "q": 2, "kind": "news", "topic": "law", "depth": "intro", "title": "Swartz felony count", "why": "News report on charges; cited as evidence in a debate."}
+{"id": 19040, "keep": 0, "q": 2, "kind": "news", "topic": "encryption", "depth": "intro", "title": "Paris attackers and encryption", "why": "Commentary on a news event; cited in debate."}
+{"id": 19041, "keep": 0, "q": 1, "kind": "news", "topic": "advertising", "depth": "intro", "title": "Forbes adblock malware", "why": "News about ad malware on a site."}
+{"id": 19042, "keep": 0, "q": 2, "kind": "news", "topic": "tech history", "depth": "intro", "title": "Bill Gates and Movie Maker", "why": "Anecdote from internal emails; gossip-level story."}
+{"id": 19043, "keep": 0, "q": 2, "kind": "tool", "topic": "windows", "depth": "intro", "title": "Sysinternals Autoruns", "why": "Download page for a startup-program utility."}
+{"id": 19044, "keep": 1, "q": 3, "kind": "blog", "topic": "html forms", "depth": "intermediate", "title": "Why GOV.UK changed the number input type", "why": "Explains accessibility and usability tradeoffs of HTML number inputs."}
+{"id": 19045, "keep": 1, "q": 4, "kind": "blog", "topic": "testing", "depth": "intermediate", "title": "Automated testing in League of Legends", "why": "How a large game studio built automated testing for a live multiplayer game."}
+{"id": 19046, "keep": 1, "q": 3, "kind": "journalism", "topic": "self-driving", "depth": "intro", "title": "Hidden obstacles for Google's self-driving cars", "why": "Explains how much mapping and preparation autonomous cars rely on."}
+{"id": 19047, "keep": 1, "q": 3, "kind": "journalism", "topic": "data analytics", "depth": "intro", "title": "How Obama's team used big data", "why": "Explains the data and microtargeting methods of a 2012 campaign."}
+{"id": 19048, "keep": 0, "q": 2, "kind": "news", "topic": "energy", "depth": "intro", "title": "China's losing its taste for nuclear", "why": "Recent-trend news on nuclear power policy."}
+{"id": 19049, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Affordable dual Xeon PC", "why": "Hardware review and build; not a learning piece."}
+{"id": 19050, "keep": 1, "q": 3, "kind": "talk", "topic": "psychology", "depth": "intro", "title": "The power of vulnerability", "why": "Brene Brown's talk on shame, vulnerability and connection, backed by research."}
+{"id": 19051, "keep": 1, "q": 3, "kind": "talk", "topic": "math education", "depth": "intro", "title": "Teaching kids real math with computers", "why": "Argues for computer-based math education, shifting focus from hand calculation."}
+{"id": 19052, "keep": 1, "q": 4, "kind": "talk", "topic": "economics", "depth": "intro", "title": "Hans Rosling on global poverty", "why": "Data-driven talk reframing global development with rich visual evidence."}
+{"id": 19053, "keep": 1, "q": 3, "kind": "talk", "topic": "psychology", "depth": "intro", "title": "Jonathan Haidt on the moral mind", "why": "Introduces moral foundations theory and why liberals and conservatives differ."}
+{"id": 19054, "keep": 1, "q": 2, "kind": "talk", "topic": "leadership", "depth": "intro", "title": "How great leaders inspire action", "why": "Sinek's talk on starting with why as a leadership and marketing idea."}
+{"id": 19055, "keep": 1, "q": 3, "kind": "talk", "topic": "education", "depth": "intro", "title": "Kids teach themselves", "why": "Sugata Mitra's Hole in the Wall experiments on self-organized learning."}
+{"id": 19056, "keep": 1, "q": 3, "kind": "talk", "topic": "psychology", "depth": "intro", "title": "The power of introverts", "why": "Susan Cain's talk on introversion and how quiet people are undervalued."}
+{"id": 19057, "keep": 1, "q": 4, "kind": "essay", "topic": "unix", "depth": "intermediate", "title": "Taco Bell programming", "why": "Argues for composing simple Unix tools instead of building heavy systems."}
+{"id": 19058, "keep": 0, "q": 1, "kind": "news", "topic": "education", "depth": "intro", "title": "Riot after teachers stop cheating", "why": "News story about a local incident."}
+{"id": 19059, "keep": 0, "q": 2, "kind": "news", "topic": "history", "depth": "intro", "title": "CIA plot and Siberian pipeline", "why": "News story; the commenters argue over its details."}
+{"id": 19060, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "Temp-mail", "why": "Disposable email service page."}
+{"id": 19061, "keep": 1, "q": 4, "kind": "book", "topic": "javascript", "depth": "intermediate", "title": "Build your own AngularJS", "why": "Book that builds a working AngularJS clone from scratch, explaining each part."}
+{"id": 19062, "keep": 1, "q": 4, "kind": "blog", "topic": "math", "depth": "expert", "title": "Benford's law, Zipf's law and the Pareto distribution", "why": "Tao's exposition of why many datasets follow Benford's law and power-law distributions."}
+{"id": 19063, "keep": 1, "q": 4, "kind": "essay", "topic": "career", "depth": "intro", "title": "Terence Tao's career advice", "why": "Practical advice on research careers from a leading mathematician."}
+{"id": 19064, "keep": 0, "q": 1, "kind": "other", "topic": "electric cars", "depth": "intro", "title": "Tesla about", "why": "Company mission page."}
+{"id": 19065, "keep": 0, "q": 2, "kind": "news", "topic": "electric cars", "depth": "intro", "title": "Most peculiar test drive", "why": "Company rebuttal of a press review; partisan PR."}
+{"id": 19066, "keep": 0, "q": 2, "kind": "news", "topic": "autopilot", "depth": "intro", "title": "Update on last week's accident", "why": "Company statement on a crash investigation."}
+{"id": 19067, "keep": 0, "q": 1, "kind": "other", "topic": "autopilot", "depth": "intro", "title": "FSD safety", "why": "Marketing page with safety statistics."}
+{"id": 19068, "keep": 0, "q": 1, "kind": "other", "topic": "batteries", "depth": "intro", "title": "Gigafactory", "why": "Company marketing page for a factory."}
+{"id": 19069, "keep": 0, "q": 1, "kind": "docs", "topic": "electric cars", "depth": "intro", "title": "Model 3 owner's manual: opening doors", "why": "Owner's manual page for door release procedures."}
+{"id": 19070, "keep": 0, "q": 1, "kind": "other", "topic": "electric cars", "depth": "intro", "title": "Tesla Roadster", "why": "Product marketing page."}
+{"id": 19071, "keep": 1, "q": 2, "kind": "reference", "topic": "ev safety", "depth": "intermediate", "title": "Model S emergency response guide", "why": "Firefighter guide explaining battery fire hazards and how to handle them."}
+{"id": 19072, "keep": 0, "q": 1, "kind": "other", "topic": "autopilot", "depth": "intro", "title": "Full self-driving computer", "why": "Marketing page about hardware upgrades."}
+{"id": 19073, "keep": 0, "q": 1, "kind": "other", "topic": "electric cars", "depth": "intro", "title": "Non-Tesla supercharging", "why": "Company support page about charging access."}
+{"id": 19074, "keep": 0, "q": 2, "kind": "other", "topic": "autopilot", "depth": "intro", "title": "Autopilot hardware video", "why": "Marketing video; cited as evidence in debate."}
+{"id": 19075, "keep": 0, "q": 1, "kind": "other", "topic": "electric cars", "depth": "intro", "title": "Tesla models", "why": "Product marketing page."}
+{"id": 19076, "keep": 1, "q": 3, "kind": "visual", "topic": "physics", "depth": "intro", "title": "Velocity Raptor", "why": "Interactive game that builds intuition for relativistic effects by playing at near-light speed."}
+{"id": 19077, "keep": 0, "q": 1, "kind": "other", "topic": "crypto", "depth": "intro", "title": "Tether fees", "why": "Company fee schedule."}
+{"id": 19078, "keep": 0, "q": 2, "kind": "other", "topic": "crypto", "depth": "intro", "title": "Tether FAQ", "why": "Company FAQ; cited as evidence in debate."}
+{"id": 19079, "keep": 0, "q": 2, "kind": "paper", "topic": "crypto", "depth": "intermediate", "title": "Tether consulting report", "why": "Redacted memo cited as evidence in a debate about reserves."}
+{"id": 19080, "keep": 0, "q": 2, "kind": "paper", "topic": "crypto", "depth": "intermediate", "title": "Tether reserves attestation", "why": "Company attestation report cited as evidence in debate."}
+{"id": 19081, "keep": 1, "q": 2, "kind": "reference", "topic": "games", "depth": "intermediate", "title": "Tetris random generator", "why": "Explains the bag-of-seven randomizer used by official Tetris games."}
+{"id": 19082, "keep": 0, "q": 2, "kind": "other", "topic": "antitrust", "depth": "intermediate", "title": "Texas v. Google complaint", "why": "Legal filing; cited as evidence in debate."}
+{"id": 19083, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intermediate", "title": "Texas SCOTUS filing", "why": "Legal filing about election litigation."}
+{"id": 19084, "keep": 0, "q": 2, "kind": "news", "topic": "energy", "depth": "intro", "title": "Natural gas and the power storm", "why": "News coverage of a 2021 grid failure; commenters debate facts."}
+{"id": 19085, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Textio team", "why": "Recruiting page."}
+{"id": 19086, "keep": 0, "q": 1, "kind": "other", "topic": "transportation", "depth": "intro", "title": "Congestion charge", "why": "Government fee information page."}
+{"id": 19087, "keep": 0, "q": 2, "kind": "tool", "topic": "math", "depth": "intro", "title": "Mathgen", "why": "Generator of nonsense math papers; a curiosity, not something to read."}
+{"id": 19088, "keep": 0, "q": 1, "kind": "tool", "topic": "social media", "depth": "intro", "title": "The Federation: Mastodon", "why": "Statistics tracker for fediverse servers."}
+{"id": 19089, "keep": 1, "q": 3, "kind": "book", "topic": "work", "depth": "intro", "title": "Bullshit Jobs", "why": "Graeber's book on pointless jobs and their psychological cost."}
+{"id": 19090, "keep": 1, "q": 2, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Why the gold standard is the worst idea", "why": "Charts show inflation and depression history under the gold standard."}
+{"id": 19091, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Social mobility and parents' income", "why": "Explains how strongly children's income tracks their parents' income in America."}
+{"id": 19092, "keep": 1, "q": 4, "kind": "essay", "topic": "psychology", "depth": "intro", "title": "Caring for your introvert", "why": "Nuanced essay on introversion and how to live well with it."}
+{"id": 19093, "keep": 1, "q": 3, "kind": "journalism", "topic": "education", "depth": "intermediate", "title": "The myth of the science and engineering shortage", "why": "Argues STEM job shortage claims don't match labor market evidence."}
+{"id": 19094, "keep": 1, "q": 2, "kind": "journalism", "topic": "education", "depth": "intro", "title": "Why men are the new college minority", "why": "Data-driven feature on the gender gap in college enrollment."}
+{"id": 19095, "keep": 1, "q": 3, "kind": "journalism", "topic": "nutrition", "depth": "intro", "title": "The vitamin myth", "why": "Explains why most people don't need vitamin supplements and what the evidence shows."}
+{"id": 19096, "keep": 1, "q": 3, "kind": "journalism", "topic": "neuroscience", "depth": "intro", "title": "Free will and the Bereitschaftspotential", "why": "Explains the famous readiness potential experiment and its contested interpretation."}
+{"id": 19097, "keep": 1, "q": 2, "kind": "essay", "topic": "public health", "depth": "intro", "title": "The scourge of hygiene theater", "why": "Argues that visible cleaning rituals often do little to reduce disease spread."}
+{"id": 19098, "keep": 1, "q": 2, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Airlines, banks and mileage programs", "why": "Explains how airline loyalty programs make money from banks."}
+{"id": 19099, "keep": 1, "q": 3, "kind": "journalism", "topic": "sports science", "depth": "intro", "title": "Why Kenyans make great runners", "why": "Looks at genetics, culture and training behind East African distance running dominance."}
+{"id": 19100, "keep": 1, "q": 3, "kind": "journalism", "topic": "criminal justice", "depth": "intro", "title": "Why Scandinavian prisons are superior", "why": "Compares Nordic prison systems and their lower recidivism rates."}
+{"id": 19101, "keep": 1, "q": 4, "kind": "journalism", "topic": "medicine", "depth": "intermediate", "title": "Lies, damned lies, and medical science", "why": "Profile of John Ioannidis and why much published medical research is wrong."}
+{"id": 19102, "keep": 1, "q": 2, "kind": "journalism", "topic": "finance", "depth": "intro", "title": "How Wall Street's bankers stayed out of jail", "why": "Explains why few individuals faced criminal charges after the 2008 crisis."}
+{"id": 19103, "keep": 1, "q": 3, "kind": "journalism", "topic": "gender in tech", "depth": "intro", "title": "Why is Silicon Valley so awful to women", "why": "Long-form look at harassment and bias in tech workplaces."}
+{"id": 19104, "keep": 1, "q": 2, "kind": "journalism", "topic": "housing", "depth": "intro", "title": "Homelessness and the affordable housing crisis", "why": "Examines causes of homelessness and housing policy tradeoffs."}
+{"id": 19105, "keep": 1, "q": 3, "kind": "journalism", "topic": "education", "depth": "intro", "title": "What Americans ignore about Finland's school success", "why": "Explains Finnish schooling choices like equal treatment and no standardized testing."}
+{"id": 19106, "keep": 0, "q": 2, "kind": "news", "topic": "free speech", "depth": "intro", "title": "The new intolerance of student activism at Yale", "why": "News event commentary about a campus dispute."}
+{"id": 19107, "keep": 1, "q": 3, "kind": "journalism", "topic": "psychology", "depth": "intermediate", "title": "Is psychology's replication crisis real", "why": "Explains failed replications and what they mean for psychology findings."}
+{"id": 19108, "keep": 1, "q": 3, "kind": "essay", "topic": "economics", "depth": "intro", "title": "The economics of the colonial cringe", "why": "Critique of The Economist's economic thinking and its influence in developing countries."}
+{"id": 19109, "keep": 1, "q": 4, "kind": "journalism", "topic": "AI", "depth": "intermediate", "title": "Noam Chomsky on where AI went wrong", "why": "Chomsky's argument that statistical AI cannot yield general theories of cognition."}
+{"id": 19110, "keep": 1, "q": 2, "kind": "journalism", "topic": "politics tech", "depth": "intro", "title": "When the nerds go marching in", "why": "How the 2012 Obama campaign built its engineering and data operation."}
+{"id": 19111, "keep": 1, "q": 3, "kind": "journalism", "topic": "web engineering", "depth": "intro", "title": "The story behind Twitter's fail whale", "why": "How Twitter's outage error page became a UX lesson and cultural icon."}
+{"id": 19112, "keep": 1, "q": 3, "kind": "essay", "topic": "history of writing", "depth": "intro", "title": "Ballpoint pens and handwriting", "why": "Argues the ballpoint pen changed how people write, including the decline of cursive."}
+{"id": 19113, "keep": 1, "q": 2, "kind": "essay", "topic": "career", "depth": "intro", "title": "Programmers should not call themselves engineers", "why": "Argues the engineering title should be reserved for engineering practice."}
+{"id": 19114, "keep": 1, "q": 3, "kind": "essay", "topic": "politics", "depth": "intermediate", "title": "Mouthbreathing Machiavellis", "why": "Critical look at Mencius Moldbug and the Dark Enlightenment movement."}
+{"id": 19115, "keep": 1, "q": 2, "kind": "essay", "topic": "history of science", "depth": "intro", "title": "Surely you're a creep, Mr. Feynman", "why": "Long-form look at Feynman's biography and the reliability of his legend."}
+{"id": 19116, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Federal government tax revenue", "why": "Statistics reference on federal tax receipts."}
+{"id": 19117, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Federal budget breakdown", "why": "Statistics reference on federal spending."}
+{"id": 19118, "keep": 1, "q": 3, "kind": "blog", "topic": "dating data", "depth": "intro", "title": "Race and attraction, 2009-2014", "why": "OkCupid's data analysis of racial preferences in online dating."}
+{"id": 19119, "keep": 1, "q": 4, "kind": "essay", "topic": "software engineering", "depth": "intro", "title": "Code Less Code: Ozymandias", "why": "Short parable about how legacy code outlives its authors."}
+{"id": 19120, "keep": 1, "q": 2, "kind": "blog", "topic": "programming", "depth": "intro", "title": "The Clbuttic Mistake", "why": "Classic Daily WTF story about a costly string-replacement bug."}
+{"id": 19121, "keep": 1, "q": 3, "kind": "essay", "topic": "software design", "depth": "intro", "title": "The Inner-Platform Effect", "why": "Explains why configurable systems tend to reimplement the language they were meant to avoid."}
+{"id": 19122, "keep": 1, "q": 2, "kind": "blog", "topic": "programming", "depth": "intro", "title": "Special Delivery", "why": "Daily WTF anecdote about a bizarre delivery-driven software failure."}
+{"id": 19123, "keep": 0, "q": 1, "kind": "news", "topic": "autonomy", "depth": "intro", "title": "Musk's million robotaxis", "why": "News about unmet autonomy promises."}
+{"id": 19124, "keep": 0, "q": 2, "kind": "news", "topic": "free speech", "depth": "intro", "title": "Harvard worst free speech score", "why": "News about a ranking of universities."}
+{"id": 19125, "keep": 0, "q": 1, "kind": "news", "topic": "xinjiang", "depth": "intro", "title": "China detaining millions of Uyghurs", "why": "Advocacy news piece on a contested claim."}
+{"id": 19126, "keep": 1, "q": 4, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "The austerity delusion", "why": "Visual long-form look at how austerity policies were justified and their effects."}
+{"id": 19127, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "David Miranda detained", "why": "News about a detention case."}
+{"id": 19128, "keep": 1, "q": 3, "kind": "essay", "topic": "economics", "depth": "intro", "title": "The truth about money and IOUs", "why": "Explains how banks create money through lending."}
+{"id": 19129, "keep": 1, "q": 2, "kind": "journalism", "topic": "sustainability", "depth": "intro", "title": "Limits to Growth was right", "why": "Looks at a modern world-model simulation compared to real resource trends."}
+{"id": 19130, "keep": 1, "q": 3, "kind": "journalism", "topic": "perception", "depth": "intro", "title": "Seeing the world upside down", "why": "Explains how the brain adapts to inverted vision over weeks."}
+{"id": 19131, "keep": 1, "q": 3, "kind": "journalism", "topic": "environment", "depth": "intro", "title": "China's rare earth village pollution", "why": "Reports on the environmental damage caused by rare earth mining."}
+{"id": 19132, "keep": 0, "q": 2, "kind": "news", "topic": "geopolitics", "depth": "intro", "title": "Russia secretly backing anti-fracking", "why": "News report about alleged influence; claims debated."}
+{"id": 19133, "keep": 0, "q": 2, "kind": "news", "topic": "ocean plastic", "depth": "intro", "title": "Fishing gear biggest ocean plastic", "why": "News on a report's findings."}
+{"id": 19134, "keep": 0, "q": 2, "kind": "news", "topic": "water", "depth": "intro", "title": "Colorado drought and alfalfa", "why": "News story on water use in farming."}
+{"id": 19135, "keep": 1, "q": 2, "kind": "blog", "topic": "urban transport", "depth": "intro", "title": "Cyclists paved the way for roads", "why": "History of how cycling advocates shaped early road building."}
+{"id": 19136, "keep": 1, "q": 2, "kind": "essay", "topic": "migration", "depth": "intro", "title": "Expats vs immigrants", "why": "Explores why the words expat and immigrant carry different connotations."}
+{"id": 19137, "keep": 1, "q": 3, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "Bye bye Mongo, hello Postgres", "why": "Case study of a company migrating from MongoDB to Postgres and why."}
+{"id": 19138, "keep": 0, "q": 2, "kind": "news", "topic": "media", "depth": "intro", "title": "Press and Iraq war coverage", "why": "2004 news piece cited in a debate."}
+{"id": 19139, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "CIA officials discussed assassinating Assange", "why": "News story about an intelligence scandal."}
+{"id": 19140, "keep": 0, "q": 2, "kind": "news", "topic": "apple", "depth": "intro", "title": "Error 53 bricked iPhones", "why": "Consumer news about an iOS update bug."}
+{"id": 19141, "keep": 1, "q": 2, "kind": "journalism", "topic": "policy", "depth": "intro", "title": "Norway's public tax returns", "why": "Explains Norway's public tax records and the tradeoffs they involve."}
+{"id": 19142, "keep": 0, "q": 3, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "Cambridge Analytica and Facebook", "why": "Breaking investigative news story; news of the moment."}
+{"id": 19143, "keep": 0, "q": 2, "kind": "news", "topic": "social media", "depth": "intro", "title": "Facebook's secret emotion experiment", "why": "News about a controversial user study."}
+{"id": 19144, "keep": 0, "q": 2, "kind": "news", "topic": "geolocation", "depth": "intro", "title": "MaxMind mapping lawsuit", "why": "News about a family raided due to IP geolocation errors."}
+{"id": 19145, "keep": 0, "q": 2, "kind": "news", "topic": "autopilot", "depth": "intro", "title": "Tesla Autopilot death", "why": "News story about a fatal crash."}
+{"id": 19146, "keep": 0, "q": 1, "kind": "news", "topic": "marketing", "depth": "intro", "title": "Cards Against Humanity hole", "why": "News on a publicity stunt."}
+{"id": 19147, "keep": 0, "q": 2, "kind": "news", "topic": "politics", "depth": "intro", "title": "The great British Brexit robbery", "why": "Investigative news about political data use."}
+{"id": 19148, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "macOS High Sierra root bug", "why": "News about a security flaw."}
+{"id": 19149, "keep": 0, "q": 1, "kind": "news", "topic": "labor", "depth": "intro", "title": "Amazon warehouse protest", "why": "News about working conditions."}
+{"id": 19150, "keep": 0, "q": 2, "kind": "news", "topic": "AI", "depth": "intro", "title": "Google engineer says AI is sentient", "why": "News story about a chatbot claim."}
+{"id": 19151, "keep": 0, "q": 2, "kind": "news", "topic": "AI", "depth": "intro", "title": "DeepSeek and censored answers", "why": "News test of a chatbot's answers."}
+{"id": 19152, "keep": 0, "q": 1, "kind": "news", "topic": "AI", "depth": "intro", "title": "Grok AI bias", "why": "News about chatbot output."}
+{"id": 19153, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "Guardian hard drives destroyed", "why": "News about government pressure on a newspaper."}
+{"id": 19154, "keep": 0, "q": 2, "kind": "news", "topic": "politics", "depth": "intro", "title": "Royal veto secret papers", "why": "News about documents released under a transparency request."}
+{"id": 19155, "keep": 0, "q": 2, "kind": "journalism", "topic": "surveillance", "depth": "intro", "title": "How Pentagon punished NSA whistleblowers", "why": "News feature on retaliation; cited as evidence in debate."}
+{"id": 19156, "keep": 0, "q": 2, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "NSA top secret program", "why": "News story about surveillance leaks."}
+{"id": 19157, "keep": 1, "q": 3, "kind": "journalism", "topic": "nuclear safety", "depth": "intro", "title": "Atomic bomb nearly detonated in North Carolina", "why": "Historical account of a 1961 near-accident and the safety switch that prevented it."}
+{"id": 19158, "keep": 0, "q": 2, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "GCHQ and Yahoo webcam images", "why": "News about intercepted images."}
+{"id": 19159, "keep": 0, "q": 1, "kind": "news", "topic": "health", "depth": "intro", "title": "Ibuprofen and coronavirus", "why": "Headline news about a medical claim."}
+{"id": 19160, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Texas Boogaloo Boi arson", "why": "News about a criminal case."}
+{"id": 19161, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Poll: Medicare for All support", "why": "Poll news."}
+{"id": 19162, "keep": 1, "q": 4, "kind": "other", "topic": "history", "depth": "intro", "title": "Revolutions podcast", "why": "Mike Duncan's podcast on revolutions in America, France and beyond."}
+{"id": 19163, "keep": 0, "q": 1, "kind": "news", "topic": "labor", "depth": "intro", "title": "Amazon drivers urine bottles", "why": "News about a labor dispute."}
+{"id": 19164, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "Twitter and India's government", "why": "News about content takedown requests."}
+{"id": 19165, "keep": 0, "q": 2, "kind": "reference", "topic": "ios", "depth": "intro", "title": "DFU mode", "why": "Wiki reference on a recovery mode; a lookup, not a read."}
+{"id": 19166, "keep": 0, "q": 2, "kind": "paper", "topic": "covid", "depth": "expert", "title": "Lockdowns and COVID mortality", "why": "Study cited as evidence in a debate about lockdowns."}
+{"id": 19167, "keep": 1, "q": 4, "kind": "paper", "topic": "psychiatry", "depth": "expert", "title": "Comparative efficacy of antidepressants", "why": "Network meta-analysis comparing antidepressant efficacy against placebo and each other."}
+{"id": 19168, "keep": 0, "q": 2, "kind": "paper", "topic": "covid", "depth": "expert", "title": "Wuhan ICU outcomes", "why": "Clinical study cited in a debate over ICU triage."}
+{"id": 19169, "keep": 0, "q": 2, "kind": "paper", "topic": "covid", "depth": "expert", "title": "Vaccine effectiveness waning", "why": "Study cited as evidence in a debate about vaccine waning."}
+{"id": 19170, "keep": 0, "q": 2, "kind": "paper", "topic": "conflict", "depth": "expert", "title": "Gaza death toll analysis", "why": "Paper cited as evidence in a contested casualty debate."}
+{"id": 19171, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "Sam Altman allegations", "why": "News about personal allegations."}
+{"id": 19172, "keep": 1, "q": 4, "kind": "journalism", "topic": "politics", "depth": "intro", "title": "Lee Atwater's 1981 interview on the Southern strategy", "why": "Primary-source interview showing how political strategists used coded language."}
+{"id": 19173, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Harvard boys do Russia", "why": "Long-form account of Western economists advising Russia's shock therapy transition."}
+{"id": 19174, "keep": 1, "q": 3, "kind": "comic", "topic": "self-driving", "depth": "intro", "title": "Google self-driving car", "why": "Illustrated first-person ride report explaining how the car perceives the road."}
+{"id": 19175, "keep": 1, "q": 4, "kind": "paper", "topic": "algorithms", "depth": "expert", "title": "Winnowing: local algorithms for document fingerprinting", "why": "Explains the fingerprinting algorithm used to detect copied code and text."}
+{"id": 19176, "keep": 1, "q": 4, "kind": "visual", "topic": "pathfinding", "depth": "intro", "title": "Amit's Game Programming pathfinding", "why": "Interactive demos and clear tutorials on A* and pathfinding for games."}
+{"id": 19177, "keep": 1, "q": 4, "kind": "essay", "topic": "poetry", "depth": "intro", "title": "The most misread poem in America", "why": "Close reading of Frost's The Road Not Taken showing its ironic meaning."}
+{"id": 19178, "keep": 1, "q": 3, "kind": "blog", "topic": "c language", "depth": "intermediate", "title": "C2y defer technical specification", "why": "Proposal for a defer feature in C and how its design was chosen."}
+{"id": 19179, "keep": 0, "q": 1, "kind": "other", "topic": "copyright", "depth": "intro", "title": "The Pirate Bay legal page", "why": "Legal notices page with responses to lawyers."}
+{"id": 19180, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "NSA offers billions for Skype", "why": "News story about an intelligence program."}
+{"id": 19181, "keep": 0, "q": 1, "kind": "news", "topic": "programming", "depth": "intro", "title": "Ken Thompson takes the C test", "why": "Anecdote in news form."}
+{"id": 19182, "keep": 0, "q": 2, "kind": "news", "topic": "open source licenses", "depth": "intro", "title": "Google on open source licenses", "why": "News about company licensing policy."}
+{"id": 19183, "keep": 0, "q": 1, "kind": "tool", "topic": "units", "depth": "intro", "title": "Register standards converter", "why": "Unit conversion tool."}
+{"id": 19184, "keep": 0, "q": 1, "kind": "news", "topic": "it history", "depth": "intro", "title": "Missing Novell server found", "why": "Anecdote news story."}
+{"id": 19185, "keep": 0, "q": 1, "kind": "news", "topic": "patents", "depth": "intro", "title": "Microsoft ANS patent", "why": "News about a patent."}
+{"id": 19186, "keep": 0, "q": 1, "kind": "news", "topic": "tesla", "depth": "intro", "title": "How Musk controls Tesla", "why": "Financial news about corporate control."}
+{"id": 19187, "keep": 0, "q": 2, "kind": "news", "topic": "design", "depth": "intro", "title": "Google's redesign", "why": "News about a product redesign."}
+{"id": 19188, "keep": 0, "q": 2, "kind": "news", "topic": "broadband", "depth": "intro", "title": "Chattanooga gigabit vs Comcast", "why": "News about a municipal broadband fight."}
+{"id": 19189, "keep": 0, "q": 2, "kind": "news", "topic": "telecom", "depth": "intro", "title": "AT&T breakup chart", "why": "News with a chart of telecom mergers."}
+{"id": 19190, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "NASA engineer detained at border", "why": "News about a border search."}
+{"id": 19191, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Gmail ad targeting", "why": "News about Google's data policy."}
+{"id": 19192, "keep": 0, "q": 1, "kind": "news", "topic": "gaming", "depth": "intro", "title": "Steam revenue split", "why": "Business news about store fees."}
+{"id": 19193, "keep": 1, "q": 2, "kind": "journalism", "topic": "education", "depth": "intro", "title": "OLPC's 100 dollar laptop, where is it now", "why": "Retrospective on the OLPC project and why it fell short."}
+{"id": 19194, "keep": 0, "q": 1, "kind": "news", "topic": "safety", "depth": "intro", "title": "Navy touchscreen controls", "why": "News about a ship control change."}
+{"id": 19195, "keep": 0, "q": 1, "kind": "news", "topic": "tesla", "depth": "intro", "title": "Tesla disables features remotely", "why": "News about a remote software action."}
+{"id": 19196, "keep": 0, "q": 1, "kind": "news", "topic": "streaming", "depth": "intro", "title": "Prime Video in-app purchases", "why": "News about app store payment terms."}
+{"id": 19197, "keep": 0, "q": 1, "kind": "news", "topic": "antitrust", "depth": "intro", "title": "Epic, OnePlus and Google", "why": "News about an app store dispute."}
+{"id": 19198, "keep": 0, "q": 2, "kind": "news", "topic": "antitrust", "depth": "intro", "title": "iMessage for Android emails", "why": "News about internal emails from a trial."}
+{"id": 19199, "keep": 0, "q": 1, "kind": "news", "topic": "workplace", "depth": "intro", "title": "Basecamp all-hands and resignations", "why": "News about a company dispute."}
