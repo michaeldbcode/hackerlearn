@@ -1,0 +1,400 @@
+{"id": 3831357, "keep": 0, "q": 1, "kind": "other", "topic": "terms of service"}
+{"id": 3893182, "keep": 0, "q": 2, "kind": "essay", "topic": "personal productivity"}
+{"id": 5547423, "keep": 0, "q": 1, "kind": "ask_hn", "topic": "bitcoin origins"}
+{"id": 6229001, "keep": 1, "q": 3, "kind": "tutorial", "topic": "command line navigation"}
+{"id": 15926309, "keep": 0, "q": 1, "kind": "journalism", "topic": "net neutrality"}
+{"id": 24840119, "keep": 0, "q": 1, "kind": "journalism", "topic": "legal takedown"}
+{"id": 26327779, "keep": 1, "q": 4, "kind": "explainer", "topic": "linux audio"}
+{"id": 26379548, "keep": 0, "q": 1, "kind": "journalism", "topic": "personal websites"}
+{"id": 31727457, "keep": 0, "q": 2, "kind": "blog", "topic": "workplace anecdote"}
+{"id": 33050320, "keep": 0, "q": 2, "kind": "journalism", "topic": "china extraterritoriality"}
+{"id": 40805099, "keep": 0, "q": 1, "kind": "journalism", "topic": "torrent malware"}
+{"id": 44212441, "keep": 1, "q": 4, "kind": "history", "topic": "apple history"}
+{"id": 44586723, "keep": 0, "q": 2, "kind": "blog", "topic": "phone form factor"}
+{"id": 17821181, "keep": 0, "q": 1, "kind": "journalism", "topic": "app store fees"}
+{"id": 20021289, "keep": 1, "q": 3, "kind": "essay", "topic": "jquery"}
+{"id": 24737026, "keep": 1, "q": 3, "kind": "essay", "topic": "sleep and learning"}
+{"id": 18283248, "keep": 0, "q": 1, "kind": "other", "topic": "right to repair"}
+{"id": 26589163, "keep": 0, "q": 2, "kind": "essay", "topic": "personal essay"}
+{"id": 18123454, "keep": 0, "q": 2, "kind": "essay", "topic": "startup funding"}
+{"id": 42998024, "keep": 0, "q": 1, "kind": "blog", "topic": "tesla ownership"}
+{"id": 19986910, "keep": 1, "q": 3, "kind": "history", "topic": "climate science history"}
+{"id": 7179098, "keep": 1, "q": 3, "kind": "essay", "topic": "software business"}
+{"id": 13869807, "keep": 0, "q": 1, "kind": "journalism", "topic": "iot privacy"}
+{"id": 17508554, "keep": 0, "q": 2, "kind": "journalism", "topic": "solar pricing"}
+{"id": 17541600, "keep": 0, "q": 2, "kind": "journalism", "topic": "game streaming"}
+{"id": 28702997, "keep": 1, "q": 2, "kind": "blog", "topic": "cloud pricing"}
+{"id": 29499809, "keep": 0, "q": 1, "kind": "journalism", "topic": "court records"}
+{"id": 30435522, "keep": 1, "q": 3, "kind": "essay", "topic": "wordle design"}
+{"id": 32471624, "keep": 1, "q": 4, "kind": "blog", "topic": "linux abi"}
+{"id": 43724267, "keep": 0, "q": 1, "kind": "journalism", "topic": "taxes"}
+{"id": 43745141, "keep": 0, "q": 2, "kind": "other", "topic": "film trivia"}
+{"id": 26790881, "keep": 0, "q": 1, "kind": "journalism", "topic": "vaccine news"}
+{"id": 25416123, "keep": 1, "q": 3, "kind": "essay", "topic": "privacy"}
+{"id": 24482119, "keep": 1, "q": 3, "kind": "blog", "topic": "technical interviews"}
+{"id": 43844342, "keep": 0, "q": 1, "kind": "journalism", "topic": "economy"}
+{"id": 18865264, "keep": 0, "q": 2, "kind": "other", "topic": "hex viewer"}
+{"id": 12660253, "keep": 0, "q": 1, "kind": "other", "topic": "puzzle game"}
+{"id": 45909667, "keep": 0, "q": 2, "kind": "essay", "topic": "grief"}
+{"id": 11625585, "keep": 1, "q": 4, "kind": "blog", "topic": "python async"}
+{"id": 8374345, "keep": 1, "q": 4, "kind": "essay", "topic": "software design"}
+{"id": 15429390, "keep": 1, "q": 3, "kind": "show_hn", "topic": "command line tools"}
+{"id": 27074481, "keep": 1, "q": 3, "kind": "blog", "topic": "search engine cost"}
+{"id": 27247621, "keep": 1, "q": 3, "kind": "blog", "topic": "postgres performance"}
+{"id": 41780569, "keep": 0, "q": 1, "kind": "journalism", "topic": "estate tax"}
+{"id": 46347108, "keep": 0, "q": 1, "kind": "blog", "topic": "windows 11"}
+{"id": 24090492, "keep": 0, "q": 1, "kind": "journalism", "topic": "oatly brand"}
+{"id": 18621513, "keep": 0, "q": 1, "kind": "journalism", "topic": "data privacy"}
+{"id": 23538894, "keep": 1, "q": 3, "kind": "essay", "topic": "chip industry"}
+{"id": 23379397, "keep": 0, "q": 1, "kind": "essay", "topic": "social change"}
+{"id": 31953470, "keep": 0, "q": 1, "kind": "other", "topic": "open source maintenance"}
+{"id": 13614507, "keep": 0, "q": 2, "kind": "journalism", "topic": "h-1b visas"}
+{"id": 41292018, "keep": 1, "q": 3, "kind": "essay", "topic": "data center energy"}
+{"id": 19500151, "keep": 1, "q": 2, "kind": "ask_hn", "topic": "physics careers"}
+{"id": 3597891, "keep": 1, "q": 3, "kind": "blog", "topic": "redis architecture"}
+{"id": 32836661, "keep": 1, "q": 4, "kind": "blog", "topic": "proxy architecture"}
+{"id": 21979555, "keep": 1, "q": 4, "kind": "blog", "topic": "c to rust"}
+{"id": 42565821, "keep": 0, "q": 2, "kind": "show_hn", "topic": "reverse engineering apis"}
+{"id": 13279600, "keep": 1, "q": 3, "kind": "paper", "topic": "malware analysis"}
+{"id": 15965119, "keep": 1, "q": 3, "kind": "blog", "topic": "battery performance"}
+{"id": 16801858, "keep": 1, "q": 2, "kind": "other", "topic": "web authentication"}
+{"id": 28291478, "keep": 1, "q": 3, "kind": "essay", "topic": "software design"}
+{"id": 44672003, "keep": 1, "q": 5, "kind": "blog", "topic": "memory safety"}
+{"id": 29984016, "keep": 1, "q": 2, "kind": "history", "topic": "unix certification"}
+{"id": 43182325, "keep": 1, "q": 3, "kind": "paper", "topic": "attention alternatives"}
+{"id": 5586410, "keep": 0, "q": 1, "kind": "blog", "topic": "email"}
+{"id": 19233637, "keep": 0, "q": 1, "kind": "show_hn", "topic": "input formatting"}
+{"id": 43058993, "keep": 0, "q": 2, "kind": "journalism", "topic": "air pollution"}
+{"id": 1399450, "keep": 0, "q": 1, "kind": "other", "topic": "personal appeal"}
+{"id": 7221840, "keep": 0, "q": 1, "kind": "other", "topic": "startup advice"}
+{"id": 8496581, "keep": 1, "q": 3, "kind": "blog", "topic": "ruby spellcheck"}
+{"id": 14904149, "keep": 0, "q": 1, "kind": "journalism", "topic": "nsa surveillance"}
+{"id": 15101082, "keep": 0, "q": 1, "kind": "other", "topic": "eclipse"}
+{"id": 17647731, "keep": 0, "q": 2, "kind": "journalism", "topic": "fake reviews"}
+{"id": 18389949, "keep": 0, "q": 2, "kind": "other", "topic": "hardware review"}
+{"id": 18836189, "keep": 0, "q": 1, "kind": "other", "topic": "browser tabs"}
+{"id": 32322329, "keep": 0, "q": 2, "kind": "other", "topic": "ai image prompts"}
+{"id": 26840006, "keep": 0, "q": 1, "kind": "journalism", "topic": "bitcoin"}
+{"id": 21513310, "keep": 0, "q": 1, "kind": "other", "topic": "video federation"}
+{"id": 18370446, "keep": 0, "q": 1, "kind": "journalism", "topic": "site blocking"}
+{"id": 28680990, "keep": 0, "q": 1, "kind": "journalism", "topic": "chip fabs"}
+{"id": 33633512, "keep": 0, "q": 2, "kind": "blog", "topic": "adhd productivity"}
+{"id": 18378332, "keep": 0, "q": 1, "kind": "other", "topic": "linux tooling"}
+{"id": 30496842, "keep": 0, "q": 2, "kind": "essay", "topic": "lighting business"}
+{"id": 3780448, "keep": 0, "q": 1, "kind": "other", "topic": "april fools"}
+{"id": 4688863, "keep": 1, "q": 3, "kind": "essay", "topic": "hardware startups"}
+{"id": 7964873, "keep": 1, "q": 4, "kind": "tutorial", "topic": "reactive programming"}
+{"id": 11012044, "keep": 0, "q": 1, "kind": "ask_hn", "topic": "job listings"}
+{"id": 16287837, "keep": 0, "q": 1, "kind": "journalism", "topic": "google leadership"}
+{"id": 16377534, "keep": 1, "q": 4, "kind": "tutorial", "topic": "css grid"}
+{"id": 17101053, "keep": 1, "q": 2, "kind": "history", "topic": "steve jobs"}
+{"id": 46275079, "keep": 0, "q": 2, "kind": "journalism", "topic": "pesticides"}
+{"id": 40099585, "keep": 0, "q": 1, "kind": "essay", "topic": "startup hiring"}
+{"id": 43339212, "keep": 0, "q": 2, "kind": "blog", "topic": "romance scams"}
+{"id": 41710227, "keep": 1, "q": 3, "kind": "show_hn", "topic": "realtime video ai"}
+{"id": 24167297, "keep": 1, "q": 3, "kind": "tutorial", "topic": "algorithms learning"}
+{"id": 23473878, "keep": 0, "q": 2, "kind": "blog", "topic": "free software education"}
+{"id": 10518033, "keep": 0, "q": 1, "kind": "other", "topic": "mobile frameworks"}
+{"id": 4157953, "keep": 0, "q": 1, "kind": "journalism", "topic": "facebook email"}
+{"id": 12885980, "keep": 0, "q": 2, "kind": "show_hn", "topic": "ajax javascript"}
+{"id": 17221885, "keep": 0, "q": 1, "kind": "journalism", "topic": "tech startups"}
+{"id": 25728149, "keep": 1, "q": 3, "kind": "blog", "topic": "iphone hacking"}
+{"id": 41243278, "keep": 1, "q": 3, "kind": "essay", "topic": "hiring culture"}
+{"id": 17909992, "keep": 0, "q": 1, "kind": "journalism", "topic": "electric cars"}
+{"id": 28969386, "keep": 1, "q": 3, "kind": "blog", "topic": "embedded boot"}
+{"id": 45644328, "keep": 1, "q": 4, "kind": "blog", "topic": "diffusion language models"}
+{"id": 33012115, "keep": 0, "q": 1, "kind": "blog", "topic": "smart tv"}
+{"id": 41307011, "keep": 0, "q": 2, "kind": "blog", "topic": "semantic web"}
+{"id": 5390138, "keep": 0, "q": 1, "kind": "other", "topic": "personal motivation"}
+{"id": 21069524, "keep": 1, "q": 2, "kind": "history", "topic": "vlc history"}
+{"id": 13079965, "keep": 0, "q": 1, "kind": "journalism", "topic": "food industry"}
+{"id": 26594870, "keep": 0, "q": 2, "kind": "journalism", "topic": "housing economics"}
+{"id": 31851755, "keep": 1, "q": 4, "kind": "explainer", "topic": "git hashing"}
+{"id": 40789672, "keep": 0, "q": 2, "kind": "show_hn", "topic": "led displays"}
+{"id": 42916849, "keep": 0, "q": 1, "kind": "journalism", "topic": "eu ai act"}
+{"id": 18301745, "keep": 0, "q": 2, "kind": "other", "topic": "phone camera"}
+{"id": 22263022, "keep": 0, "q": 2, "kind": "journalism", "topic": "covid icu"}
+{"id": 18148365, "keep": 1, "q": 3, "kind": "essay", "topic": "open source licensing"}
+{"id": 22262291, "keep": 0, "q": 1, "kind": "other", "topic": "patent trolls"}
+{"id": 19826827, "keep": 0, "q": 1, "kind": "other", "topic": "browser extensions"}
+{"id": 26428453, "keep": 0, "q": 1, "kind": "other", "topic": "bank cards"}
+{"id": 26430266, "keep": 0, "q": 1, "kind": "journalism", "topic": "isp surveillance"}
+{"id": 40695997, "keep": 0, "q": 2, "kind": "essay", "topic": "kindness"}
+{"id": 31753475, "keep": 0, "q": 1, "kind": "other", "topic": "internet explorer"}
+{"id": 40680648, "keep": 0, "q": 2, "kind": "essay", "topic": "presentations"}
+{"id": 19899782, "keep": 0, "q": 2, "kind": "journalism", "topic": "search bias"}
+{"id": 29901550, "keep": 1, "q": 3, "kind": "explainer", "topic": "generative ai"}
+{"id": 17679148, "keep": 0, "q": 2, "kind": "show_hn", "topic": "isochrone maps"}
+{"id": 9332889, "keep": 0, "q": 1, "kind": "other", "topic": "hacker news"}
+{"id": 44219519, "keep": 0, "q": 2, "kind": "essay", "topic": "ai politics"}
+{"id": 40623843, "keep": 0, "q": 2, "kind": "essay", "topic": "monopolies"}
+{"id": 22871180, "keep": 0, "q": 1, "kind": "other", "topic": "identity management"}
+{"id": 1859796, "keep": 0, "q": 1, "kind": "other", "topic": "voting"}
+{"id": 2430090, "keep": 0, "q": 1, "kind": "journalism", "topic": "wikileaks"}
+{"id": 13994154, "keep": 0, "q": 1, "kind": "other", "topic": "messaging app"}
+{"id": 15644520, "keep": 0, "q": 1, "kind": "journalism", "topic": "media access"}
+{"id": 15658543, "keep": 0, "q": 2, "kind": "essay", "topic": "entrepreneurship"}
+{"id": 15776562, "keep": 0, "q": 1, "kind": "journalism", "topic": "web browsers"}
+{"id": 16583572, "keep": 1, "q": 3, "kind": "essay", "topic": "lisp"}
+{"id": 29726398, "keep": 0, "q": 1, "kind": "show_hn", "topic": "emacs setup"}
+{"id": 31226100, "keep": 0, "q": 2, "kind": "other", "topic": "api integration"}
+{"id": 31354623, "keep": 0, "q": 1, "kind": "journalism", "topic": "public safety"}
+{"id": 44801486, "keep": 0, "q": 1, "kind": "journalism", "topic": "chip industry news"}
+{"id": 29639486, "keep": 1, "q": 2, "kind": "ask_hn", "topic": "startup acquisitions"}
+{"id": 45066258, "keep": 0, "q": 1, "kind": "journalism", "topic": "web bots"}
+{"id": 30506413, "keep": 0, "q": 1, "kind": "other", "topic": "android apps"}
+{"id": 27999813, "keep": 0, "q": 1, "kind": "other", "topic": "copyright claims"}
+{"id": 21565841, "keep": 0, "q": 2, "kind": "journalism", "topic": "office noise"}
+{"id": 46081053, "keep": 0, "q": 2, "kind": "blog", "topic": "vector search"}
+{"id": 24356309, "keep": 1, "q": 2, "kind": "explainer", "topic": "music genres"}
+{"id": 25290118, "keep": 1, "q": 5, "kind": "blog", "topic": "input latency"}
+{"id": 3045269, "keep": 0, "q": 1, "kind": "other", "topic": "software pricing"}
+{"id": 11070406, "keep": 0, "q": 1, "kind": "journalism", "topic": "self-driving law"}
+{"id": 16282819, "keep": 0, "q": 1, "kind": "ask_hn", "topic": "job listings"}
+{"id": 27128994, "keep": 0, "q": 1, "kind": "other", "topic": "erlang"}
+{"id": 39992817, "keep": 1, "q": 2, "kind": "show_hn", "topic": "ai music"}
+{"id": 42000784, "keep": 1, "q": 4, "kind": "blog", "topic": "zfs deduplication"}
+{"id": 45304980, "keep": 1, "q": 4, "kind": "explainer", "topic": "markov chains"}
+{"id": 20821064, "keep": 0, "q": 2, "kind": "other", "topic": "filesystems"}
+{"id": 22570909, "keep": 0, "q": 1, "kind": "journalism", "topic": "corporate news"}
+{"id": 22504282, "keep": 0, "q": 2, "kind": "blog", "topic": "bootstrapping"}
+{"id": 19752699, "keep": 0, "q": 1, "kind": "journalism", "topic": "crypto markets"}
+{"id": 11933370, "keep": 0, "q": 1, "kind": "other", "topic": "iot security"}
+{"id": 23463944, "keep": 1, "q": 3, "kind": "history", "topic": "php history"}
+{"id": 41840931, "keep": 1, "q": 3, "kind": "essay", "topic": "web browsing"}
+{"id": 39474909, "keep": 0, "q": 1, "kind": "journalism", "topic": "space landing"}
+{"id": 10602106, "keep": 0, "q": 1, "kind": "other", "topic": "startup accelerator"}
+{"id": 6341568, "keep": 0, "q": 1, "kind": "other", "topic": "nonprofit funding"}
+{"id": 7675258, "keep": 0, "q": 1, "kind": "other", "topic": "facebook login"}
+{"id": 8832943, "keep": 0, "q": 2, "kind": "essay", "topic": "macos"}
+{"id": 12850918, "keep": 0, "q": 2, "kind": "other", "topic": "async javascript"}
+{"id": 29018804, "keep": 1, "q": 4, "kind": "blog", "topic": "css performance"}
+{"id": 30579320, "keep": 1, "q": 2, "kind": "blog", "topic": "web tracking"}
+{"id": 41217109, "keep": 0, "q": 1, "kind": "show_hn", "topic": "learning to code"}
+{"id": 43907376, "keep": 0, "q": 2, "kind": "blog", "topic": "ai security reports"}
+{"id": 44032777, "keep": 0, "q": 2, "kind": "other", "topic": "claude code"}
+{"id": 44126612, "keep": 1, "q": 3, "kind": "tutorial", "topic": "linux command line"}
+{"id": 19485178, "keep": 1, "q": 2, "kind": "blog", "topic": "linux touchpad"}
+{"id": 45532090, "keep": 1, "q": 3, "kind": "essay", "topic": "documentation"}
+{"id": 32885774, "keep": 0, "q": 1, "kind": "other", "topic": "game leak"}
+{"id": 20095856, "keep": 1, "q": 2, "kind": "essay", "topic": "privacy defaults"}
+{"id": 22109969, "keep": 0, "q": 1, "kind": "blog", "topic": "cloudflare blocking"}
+{"id": 42594766, "keep": 0, "q": 2, "kind": "journalism", "topic": "militias"}
+{"id": 25776225, "keep": 0, "q": 1, "kind": "journalism", "topic": "social media politics"}
+{"id": 19522053, "keep": 0, "q": 2, "kind": "blog", "topic": "freelancing"}
+{"id": 22052796, "keep": 0, "q": 1, "kind": "journalism", "topic": "ad industry"}
+{"id": 12859347, "keep": 0, "q": 1, "kind": "other", "topic": "code editor"}
+{"id": 27661637, "keep": 0, "q": 2, "kind": "journalism", "topic": "insulin"}
+{"id": 10732423, "keep": 0, "q": 1, "kind": "other", "topic": "smart appliances"}
+{"id": 12218583, "keep": 0, "q": 1, "kind": "other", "topic": "meme"}
+{"id": 31792790, "keep": 1, "q": 3, "kind": "tutorial", "topic": "cross compilation"}
+{"id": 41620304, "keep": 0, "q": 1, "kind": "other", "topic": "airline pricing"}
+{"id": 44465319, "keep": 0, "q": 2, "kind": "blog", "topic": "nas hardware"}
+{"id": 17879444, "keep": 0, "q": 2, "kind": "journalism", "topic": "cpu security"}
+{"id": 31894690, "keep": 0, "q": 1, "kind": "journalism", "topic": "ios browsers"}
+{"id": 33246841, "keep": 0, "q": 1, "kind": "essay", "topic": "career"}
+{"id": 5015087, "keep": 0, "q": 1, "kind": "other", "topic": "personal website"}
+{"id": 6704027, "keep": 0, "q": 2, "kind": "essay", "topic": "email unsubscribe"}
+{"id": 31334753, "keep": 0, "q": 1, "kind": "blog", "topic": "leaving google"}
+{"id": 39047825, "keep": 1, "q": 3, "kind": "blog", "topic": "math learning"}
+{"id": 39115878, "keep": 0, "q": 1, "kind": "journalism", "topic": "aviation safety"}
+{"id": 44906305, "keep": 1, "q": 3, "kind": "blog", "topic": "macos graphics"}
+{"id": 45056878, "keep": 1, "q": 4, "kind": "tutorial", "topic": "html css"}
+{"id": 46065034, "keep": 1, "q": 2, "kind": "tutorial", "topic": "home nas"}
+{"id": 23178950, "keep": 0, "q": 2, "kind": "other", "topic": "gpu architecture"}
+{"id": 24452885, "keep": 0, "q": 2, "kind": "other", "topic": "unix time"}
+{"id": 24535408, "keep": 0, "q": 1, "kind": "essay", "topic": "audio hardware"}
+{"id": 26872229, "keep": 0, "q": 1, "kind": "journalism", "topic": "podcasts"}
+{"id": 29484545, "keep": 0, "q": 1, "kind": "journalism", "topic": "twitter moderation"}
+{"id": 21543377, "keep": 1, "q": 2, "kind": "other", "topic": "logic puzzles"}
+{"id": 38906331, "keep": 0, "q": 2, "kind": "other", "topic": "file formats"}
+{"id": 33568994, "keep": 0, "q": 2, "kind": "show_hn", "topic": "tcp tunneling"}
+{"id": 45822018, "keep": 0, "q": 1, "kind": "journalism", "topic": "content moderation"}
+{"id": 23126455, "keep": 0, "q": 2, "kind": "essay", "topic": "platform risk"}
+{"id": 43631274, "keep": 0, "q": 1, "kind": "other", "topic": "tpu hardware"}
+{"id": 1836538, "keep": 0, "q": 1, "kind": "show_hn", "topic": "startup feedback"}
+{"id": 14493249, "keep": 1, "q": 3, "kind": "blog", "topic": "cloud bandwidth costs"}
+{"id": 32128013, "keep": 0, "q": 1, "kind": "show_hn", "topic": "blogging platform"}
+{"id": 39237567, "keep": 1, "q": 3, "kind": "paper", "topic": "browser dark patterns"}
+{"id": 45248802, "keep": 0, "q": 1, "kind": "journalism", "topic": "encryption policy"}
+{"id": 20611539, "keep": 1, "q": 3, "kind": "essay", "topic": "productivity"}
+{"id": 23562771, "keep": 0, "q": 2, "kind": "journalism", "topic": "privacy policies"}
+{"id": 12614193, "keep": 1, "q": 3, "kind": "blog", "topic": "nsfw image detection"}
+{"id": 32136733, "keep": 0, "q": 1, "kind": "ask_hn", "topic": "career burnout"}
+{"id": 39942880, "keep": 0, "q": 1, "kind": "journalism", "topic": "earthquake news"}
+{"id": 9294954, "keep": 0, "q": 2, "kind": "other", "topic": "legal code"}
+{"id": 8836734, "keep": 0, "q": 2, "kind": "essay", "topic": "apple"}
+{"id": 11267475, "keep": 0, "q": 2, "kind": "essay", "topic": "hard tech startups"}
+{"id": 11284582, "keep": 0, "q": 1, "kind": "journalism", "topic": "self-driving cars"}
+{"id": 12103575, "keep": 0, "q": 1, "kind": "journalism", "topic": "turkey politics"}
+{"id": 32697528, "keep": 0, "q": 2, "kind": "journalism", "topic": "hiring process"}
+{"id": 20867758, "keep": 1, "q": 3, "kind": "other", "topic": "wifi security"}
+{"id": 41348659, "keep": 0, "q": 1, "kind": "other", "topic": "cloud sovereignty"}
+{"id": 17957406, "keep": 0, "q": 1, "kind": "journalism", "topic": "national id"}
+{"id": 29050351, "keep": 1, "q": 3, "kind": "history", "topic": "work hours"}
+{"id": 32780388, "keep": 0, "q": 1, "kind": "journalism", "topic": "tech layoffs"}
+{"id": 23887637, "keep": 1, "q": 4, "kind": "blog", "topic": "gpt-3 evaluation"}
+{"id": 22054715, "keep": 1, "q": 2, "kind": "paper", "topic": "advertising wellbeing"}
+{"id": 4240007, "keep": 0, "q": 2, "kind": "other", "topic": "websites"}
+{"id": 8733352, "keep": 0, "q": 1, "kind": "other", "topic": "go release"}
+{"id": 11572516, "keep": 0, "q": 1, "kind": "other", "topic": "scheme release"}
+{"id": 13088475, "keep": 0, "q": 2, "kind": "journalism", "topic": "phone fraud"}
+{"id": 14172253, "keep": 0, "q": 1, "kind": "journalism", "topic": "wind energy jobs"}
+{"id": 15891344, "keep": 0, "q": 1, "kind": "tutorial", "topic": "cryptocurrency"}
+{"id": 24918538, "keep": 0, "q": 1, "kind": "journalism", "topic": "spy agencies"}
+{"id": 31854051, "keep": 0, "q": 1, "kind": "journalism", "topic": "right to repair"}
+{"id": 33304075, "keep": 1, "q": 2, "kind": "essay", "topic": "email privacy"}
+{"id": 21186916, "keep": 0, "q": 1, "kind": "journalism", "topic": "social media ban"}
+{"id": 24758020, "keep": 0, "q": 2, "kind": "essay", "topic": "career advice"}
+{"id": 10053352, "keep": 0, "q": 2, "kind": "journalism", "topic": "windows telemetry"}
+{"id": 20059589, "keep": 0, "q": 1, "kind": "essay", "topic": "giftedness"}
+{"id": 31818074, "keep": 0, "q": 1, "kind": "other", "topic": "app notifications"}
+{"id": 31654762, "keep": 0, "q": 1, "kind": "journalism", "topic": "chip fabs"}
+{"id": 33256378, "keep": 0, "q": 1, "kind": "other", "topic": "satellite internet"}
+{"id": 13272610, "keep": 1, "q": 5, "kind": "explainer", "topic": "networking protocols"}
+{"id": 17866030, "keep": 0, "q": 1, "kind": "journalism", "topic": "social media teens"}
+{"id": 28136793, "keep": 1, "q": 3, "kind": "paper", "topic": "climate heat limits"}
+{"id": 14063818, "keep": 0, "q": 1, "kind": "other", "topic": "react release"}
+{"id": 29766497, "keep": 1, "q": 2, "kind": "essay", "topic": "web3"}
+{"id": 5652259, "keep": 1, "q": 2, "kind": "history", "topic": "eve online economy"}
+{"id": 7259845, "keep": 0, "q": 2, "kind": "essay", "topic": "engineer hiring"}
+{"id": 11784903, "keep": 0, "q": 1, "kind": "journalism", "topic": "messaging products"}
+{"id": 12628921, "keep": 0, "q": 1, "kind": "essay", "topic": "learning javascript"}
+{"id": 12631019, "keep": 0, "q": 1, "kind": "journalism", "topic": "product reviews"}
+{"id": 18365433, "keep": 1, "q": 3, "kind": "essay", "topic": "3d math"}
+{"id": 27915370, "keep": 0, "q": 1, "kind": "other", "topic": "software alternatives"}
+{"id": 29617276, "keep": 0, "q": 1, "kind": "journalism", "topic": "poverty"}
+{"id": 32401159, "keep": 0, "q": 1, "kind": "other", "topic": "web framework"}
+{"id": 39188432, "keep": 0, "q": 1, "kind": "other", "topic": "virtual machines"}
+{"id": 40250557, "keep": 0, "q": 1, "kind": "show_hn", "topic": "music collaboration"}
+{"id": 40501021, "keep": 0, "q": 2, "kind": "show_hn", "topic": "turntable calibration"}
+{"id": 44927934, "keep": 0, "q": 1, "kind": "journalism", "topic": "chat control"}
+{"id": 23282607, "keep": 0, "q": 1, "kind": "journalism", "topic": "calculator hacking"}
+{"id": 29692087, "keep": 1, "q": 2, "kind": "blog", "topic": "personal data logging"}
+{"id": 43631251, "keep": 1, "q": 2, "kind": "history", "topic": "japan history"}
+{"id": 18973587, "keep": 0, "q": 1, "kind": "other", "topic": "wine release"}
+{"id": 33451359, "keep": 0, "q": 1, "kind": "other", "topic": "rust release"}
+{"id": 45019483, "keep": 1, "q": 3, "kind": "ask_hn", "topic": "cpu architecture"}
+{"id": 29649755, "keep": 0, "q": 1, "kind": "journalism", "topic": "acquisitions"}
+{"id": 28585208, "keep": 0, "q": 1, "kind": "show_hn", "topic": "digital libraries"}
+{"id": 23320974, "keep": 0, "q": 1, "kind": "ask_hn", "topic": "hiring age"}
+{"id": 18978251, "keep": 0, "q": 1, "kind": "journalism", "topic": "acquisitions"}
+{"id": 21612488, "keep": 0, "q": 1, "kind": "journalism", "topic": "vpn merger"}
+{"id": 26902795, "keep": 0, "q": 1, "kind": "other", "topic": "linux release"}
+{"id": 23250289, "keep": 0, "q": 2, "kind": "essay", "topic": "career"}
+{"id": 6529749, "keep": 1, "q": 3, "kind": "history", "topic": "space pen"}
+{"id": 11081575, "keep": 0, "q": 1, "kind": "journalism", "topic": "marriage data"}
+{"id": 15454352, "keep": 1, "q": 4, "kind": "blog", "topic": "unix yes"}
+{"id": 30879327, "keep": 1, "q": 2, "kind": "show_hn", "topic": "todo format"}
+{"id": 32271660, "keep": 0, "q": 1, "kind": "other", "topic": "phone release"}
+{"id": 39416543, "keep": 0, "q": 2, "kind": "essay", "topic": "layoffs"}
+{"id": 39449748, "keep": 0, "q": 1, "kind": "journalism", "topic": "chip industry"}
+{"id": 39956455, "keep": 1, "q": 4, "kind": "postmortem", "topic": "xz backdoor"}
+{"id": 24182494, "keep": 0, "q": 1, "kind": "other", "topic": "platform regulation"}
+{"id": 20592384, "keep": 0, "q": 2, "kind": "essay", "topic": "career planning"}
+{"id": 22661851, "keep": 0, "q": 1, "kind": "journalism", "topic": "covid treatments"}
+{"id": 11133950, "keep": 0, "q": 2, "kind": "journalism", "topic": "data visualization"}
+{"id": 26056851, "keep": 0, "q": 1, "kind": "journalism", "topic": "media accusations"}
+{"id": 1599584, "keep": 0, "q": 1, "kind": "journalism", "topic": "oracle google"}
+{"id": 3648577, "keep": 0, "q": 1, "kind": "journalism", "topic": "airport security"}
+{"id": 4117408, "keep": 0, "q": 2, "kind": "journalism", "topic": "drug cartels"}
+{"id": 8845523, "keep": 0, "q": 1, "kind": "other", "topic": "payments"}
+{"id": 13539767, "keep": 1, "q": 3, "kind": "blog", "topic": "python performance"}
+{"id": 13746549, "keep": 0, "q": 1, "kind": "ask_hn", "topic": "twitter strategy"}
+{"id": 25627673, "keep": 0, "q": 2, "kind": "show_hn", "topic": "video streaming"}
+{"id": 27572218, "keep": 1, "q": 4, "kind": "explainer", "topic": "ssd performance"}
+{"id": 30589797, "keep": 0, "q": 1, "kind": "journalism", "topic": "nuclear reactors"}
+{"id": 43865132, "keep": 0, "q": 2, "kind": "other", "topic": "web privacy"}
+{"id": 44031917, "keep": 0, "q": 1, "kind": "journalism", "topic": "celebrity news"}
+{"id": 17915829, "keep": 0, "q": 1, "kind": "other", "topic": "terminal emulator"}
+{"id": 18060543, "keep": 0, "q": 2, "kind": "other", "topic": "spyware"}
+{"id": 6317614, "keep": 0, "q": 1, "kind": "journalism", "topic": "android updates"}
+{"id": 43961247, "keep": 0, "q": 1, "kind": "journalism", "topic": "copyright law"}
+{"id": 3883268, "keep": 0, "q": 1, "kind": "other", "topic": "four-day week"}
+{"id": 8778503, "keep": 1, "q": 4, "kind": "essay", "topic": "learning expertise"}
+{"id": 10751234, "keep": 1, "q": 2, "kind": "paper", "topic": "alzheimers research"}
+{"id": 11599599, "keep": 1, "q": 4, "kind": "essay", "topic": "web development"}
+{"id": 14716852, "keep": 1, "q": 3, "kind": "essay", "topic": "programming skill"}
+{"id": 28054606, "keep": 1, "q": 3, "kind": "essay", "topic": "construction automation"}
+{"id": 31741589, "keep": 0, "q": 1, "kind": "other", "topic": "macos release"}
+{"id": 41591018, "keep": 0, "q": 1, "kind": "show_hn", "topic": "self-hosting"}
+{"id": 44593972, "keep": 0, "q": 2, "kind": "essay", "topic": "self-taught engineers"}
+{"id": 33348388, "keep": 0, "q": 1, "kind": "journalism", "topic": "self-driving probe"}
+{"id": 21334510, "keep": 1, "q": 4, "kind": "essay", "topic": "rust rewrites"}
+{"id": 26433865, "keep": 0, "q": 1, "kind": "journalism", "topic": "uk data law"}
+{"id": 15033156, "keep": 1, "q": 2, "kind": "ask_hn", "topic": "management mistakes"}
+{"id": 18486471, "keep": 0, "q": 1, "kind": "essay", "topic": "remote work"}
+{"id": 31394604, "keep": 0, "q": 1, "kind": "essay", "topic": "software companies"}
+{"id": 33609240, "keep": 0, "q": 1, "kind": "journalism", "topic": "wikipedia fundraising"}
+{"id": 39103419, "keep": 1, "q": 3, "kind": "paper", "topic": "origin of life"}
+{"id": 41007396, "keep": 0, "q": 1, "kind": "journalism", "topic": "protests"}
+{"id": 43835044, "keep": 1, "q": 2, "kind": "blog", "topic": "ai geolocation"}
+{"id": 44864192, "keep": 0, "q": 1, "kind": "journalism", "topic": "us politics"}
+{"id": 46070668, "keep": 0, "q": 1, "kind": "other", "topic": "linux kernel support"}
+{"id": 25552342, "keep": 0, "q": 1, "kind": "other", "topic": "saas tools"}
+{"id": 10828529, "keep": 0, "q": 2, "kind": "journalism", "topic": "games"}
+{"id": 30449570, "keep": 0, "q": 1, "kind": "other", "topic": "youtube client"}
+{"id": 12806324, "keep": 0, "q": 1, "kind": "journalism", "topic": "social apps"}
+{"id": 31368209, "keep": 1, "q": 2, "kind": "tutorial", "topic": "hardware hacking"}
+{"id": 26859907, "keep": 1, "q": 3, "kind": "tutorial", "topic": "music theory"}
+{"id": 45014993, "keep": 1, "q": 2, "kind": "blog", "topic": "mouse design"}
+{"id": 40926734, "keep": 1, "q": 3, "kind": "paper", "topic": "vision language models"}
+{"id": 38833325, "keep": 0, "q": 1, "kind": "journalism", "topic": "dmca notices"}
+{"id": 9566441, "keep": 0, "q": 1, "kind": "other", "topic": "shell release"}
+{"id": 2611299, "keep": 1, "q": 3, "kind": "history", "topic": "skype protocol"}
+{"id": 11029898, "keep": 1, "q": 3, "kind": "postmortem", "topic": "github incident"}
+{"id": 11085650, "keep": 0, "q": 2, "kind": "journalism", "topic": "https adware"}
+{"id": 11092016, "keep": 0, "q": 1, "kind": "journalism", "topic": "copyright law"}
+{"id": 11945389, "keep": 0, "q": 1, "kind": "other", "topic": "elixir release"}
+{"id": 17068138, "keep": 0, "q": 1, "kind": "essay", "topic": "internet culture"}
+{"id": 17096022, "keep": 0, "q": 2, "kind": "journalism", "topic": "signal security"}
+{"id": 27120460, "keep": 0, "q": 1, "kind": "other", "topic": "fiction"}
+{"id": 39269327, "keep": 0, "q": 2, "kind": "essay", "topic": "2fa security"}
+{"id": 46117802, "keep": 0, "q": 1, "kind": "other", "topic": "video model"}
+{"id": 22682837, "keep": 1, "q": 3, "kind": "ask_hn", "topic": "self-study physics"}
+{"id": 46153466, "keep": 1, "q": 3, "kind": "essay", "topic": "programming languages"}
+{"id": 17074721, "keep": 1, "q": 3, "kind": "blog", "topic": "http headers"}
+{"id": 29083633, "keep": 1, "q": 3, "kind": "blog", "topic": "apple silicon boot"}
+{"id": 24300036, "keep": 0, "q": 1, "kind": "journalism", "topic": "zoom privacy"}
+{"id": 21684668, "keep": 0, "q": 2, "kind": "other", "topic": "quantum computing"}
+{"id": 32095592, "keep": 0, "q": 1, "kind": "show_hn", "topic": "meeting habits"}
+{"id": 26226805, "keep": 0, "q": 1, "kind": "show_hn", "topic": "pair programming"}
+{"id": 40085565, "keep": 0, "q": 1, "kind": "journalism", "topic": "vehicle recall"}
+{"id": 2314791, "keep": 0, "q": 1, "kind": "journalism", "topic": "twitter api"}
+{"id": 7009995, "keep": 0, "q": 1, "kind": "essay", "topic": "software quality"}
+{"id": 13553000, "keep": 0, "q": 1, "kind": "other", "topic": "code editor"}
+{"id": 15169390, "keep": 0, "q": 2, "kind": "journalism", "topic": "wind energy costs"}
+{"id": 15359574, "keep": 1, "q": 5, "kind": "explainer", "topic": "floating point"}
+{"id": 17269672, "keep": 0, "q": 2, "kind": "essay", "topic": "parenting"}
+{"id": 25246419, "keep": 1, "q": 2, "kind": "paper", "topic": "sleep cognition"}
+{"id": 29001721, "keep": 0, "q": 1, "kind": "other", "topic": "web framework"}
+{"id": 41223774, "keep": 0, "q": 1, "kind": "journalism", "topic": "unsubscribe rules"}
+{"id": 17410196, "keep": 1, "q": 3, "kind": "essay", "topic": "engineering management"}
+{"id": 19360660, "keep": 1, "q": 2, "kind": "blog", "topic": "dtrace windows"}
+{"id": 39660592, "keep": 0, "q": 1, "kind": "other", "topic": "database client"}
+{"id": 19490832, "keep": 0, "q": 2, "kind": "blog", "topic": "ai music"}
+{"id": 44118818, "keep": 0, "q": 1, "kind": "other", "topic": "ai model release"}
+{"id": 41310384, "keep": 1, "q": 3, "kind": "explainer", "topic": "heavy machinery"}
+{"id": 10694306, "keep": 0, "q": 1, "kind": "other", "topic": "game release"}
+{"id": 10725859, "keep": 1, "q": 5, "kind": "essay", "topic": "file systems"}
+{"id": 10746547, "keep": 0, "q": 1, "kind": "other", "topic": "gadgets"}
+{"id": 11431369, "keep": 0, "q": 1, "kind": "journalism", "topic": "politics"}
+{"id": 11452355, "keep": 1, "q": 3, "kind": "essay", "topic": "business strategy"}
+{"id": 14163905, "keep": 1, "q": 2, "kind": "ask_hn", "topic": "engineering blogs"}
+{"id": 26530103, "keep": 0, "q": 1, "kind": "show_hn", "topic": "hardware project"}
+{"id": 28090569, "keep": 0, "q": 2, "kind": "essay", "topic": "apple policy"}
+{"id": 28369727, "keep": 0, "q": 2, "kind": "essay", "topic": "personal growth"}
+{"id": 30009529, "keep": 0, "q": 1, "kind": "journalism", "topic": "alcohol health"}
+{"id": 22313289, "keep": 0, "q": 2, "kind": "journalism", "topic": "encryption law"}
+{"id": 10008637, "keep": 1, "q": 3, "kind": "show_hn", "topic": "image processing"}
+{"id": 41653191, "keep": 0, "q": 2, "kind": "show_hn", "topic": "git tooling"}
+{"id": 42999454, "keep": 0, "q": 2, "kind": "other", "topic": "open source funding"}
+{"id": 33349296, "keep": 1, "q": 2, "kind": "paper", "topic": "video games cognition"}
+{"id": 26594242, "keep": 1, "q": 2, "kind": "ask_hn", "topic": "static site hosting"}
+{"id": 19214035, "keep": 1, "q": 5, "kind": "explainer", "topic": "phone numbers"}
+{"id": 28123461, "keep": 0, "q": 1, "kind": "journalism", "topic": "emissions"}
+{"id": 14022110, "keep": 0, "q": 2, "kind": "other", "topic": "interview practice"}
+{"id": 26543527, "keep": 0, "q": 1, "kind": "blog", "topic": "early retirement"}
+{"id": 5638988, "keep": 0, "q": 1, "kind": "other", "topic": "anonymity"}
+{"id": 7203095, "keep": 0, "q": 2, "kind": "essay", "topic": "fiction"}
+{"id": 11635647, "keep": 0, "q": 1, "kind": "journalism", "topic": "sci-hub"}
