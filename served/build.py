@@ -70,8 +70,8 @@ def emit(name, items):
             idx.append((ch, i, ex))
     chunks = collections.defaultdict(dict)
     for ch, i, ex in idx: chunks[ch][i] = ex
-    for ch, d in chunks.items(): json.dump(d, open(ch, "w"), ensure_ascii=False)
-    json.dump(items, open(f"docs/data/{name}.json", "w"), ensure_ascii=False, separators=(",", ":"))
+    for ch, d in chunks.items(): open(ch, "w").write(json.dumps(d, ensure_ascii=False).replace("\ufffd", ""))
+    open(f"docs/data/{name}.json", "w").write(json.dumps(items, ensure_ascii=False, separators=(",", ":")).replace("\ufffd", ""))
     print(name, len(items))
 
 emit("links", links); emit("comments", comments); emit("stories", stories)

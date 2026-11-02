@@ -68,7 +68,7 @@ let tab='links', data={}, exCache={}, view=[], shown=0, cur=-1;
 let dismissed=new Set(store.get('dis',[])), saved=store.get('sav',{});
 const key=(t,x)=>t+':'+x.u;
 async function load(t){if(!data[t]){data[t]=await (await fetch('data/'+t+'.json')).json();data[t].forEach(x=>x._t=t)}return data[t]}
-async function ex(t,i){const c='data/ex/'+t+'-'+Math.floor(i/250)+'.json';if(!exCache[c])exCache[c]=await (await fetch(c)).json();return exCache[c][i]||{}}
+async function ex(t,i){const c='data/ex/'+t+'-'+Math.floor(i/250)+'.json';if(!exCache[c]){try{exCache[c]=await (await fetch(c)).json()}catch(e){exCache[c]={}}}return exCache[c][i]||{}}
 function esc(s){return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c])}
 function meta(x){
   if(x._t==='links')return `<b>linked by ${x.n} HN users</b> · ${x.y} · ${x.k}${x.lv?' · '+x.lv:''} · ${esc(x.p)}${x.wc?' · '+Math.max(1,Math.round(x.wc/230))+' min':''}`;
@@ -104,7 +104,7 @@ async function toggle(el){
   const w=el.closest('.it').querySelector('.exw');if(w.innerHTML){w.innerHTML='';return}
   const x=itemOf(el), e=await ex(x._t,x.i);
   let h='';if(e.st)h+=`<div class="q">in thread: ${esc(e.st)}</div>`;if(e.qt)h+=`<div class="q">“${esc(e.qt)}”<br>— an HN commenter</div>`;
-  h+=esc(e.ex||'No preview available. Open the link to read it.');if(e.ex&&e.ex.length>=1790)h+='…';
+  h+=esc(e.ex||(x._t==='stories'?'Open the HN thread to read the discussion.':'No preview available. Open the link to read it.'));if(e.ex&&e.ex.length>=1790)h+='…';
   w.innerHTML=`<div class="ex">${h}</div>`;
 }
 $('#list').addEventListener('click',e=>{
