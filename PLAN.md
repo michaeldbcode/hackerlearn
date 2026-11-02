@@ -166,10 +166,11 @@ plus a domain; the owner provides these.
 ```
 PLAN.md            ← this file (status + next steps)
 CLAUDE.md          ← short pointer for agents
-served/            ← python package: download.py, extract.py, batches.py, aggregate.py, fetch.py, build_site.py
+served/            ← python package: download, extract, batches, comments, stories, pending, fetch, build
 work/              ← COMMITTED small outputs: batches/, labels/, links.jsonl, pages.jsonl, topics.json, qa.md, stats.md
 data/              ← gitignored: raw/ (parquet), derived/, pages/
-site/              ← generated static site
+docs/              ← the static site (index.html + generated data/)
+scripts/           ← run_labels.sh, label_one.sh, autocommit.sh
 ```
 
 ---
@@ -205,6 +206,13 @@ How bulk labelling runs (no API key needed):
 - Speed: ~7 min per batch per worker. Ran 10 workers on links + 4 on comments + 4 on stories.
 - `scripts/autocommit.sh` loops: fetch new pages → build → commit + push (every ~10 min).
 
+**Session 2 (2026-11-02)**
+- The overnight usage limit killed the runners, and the 02:30 resume didn't fire (no commits between 09:01 and 17:46). Restarted manually.
+- [x] Topic taxonomy: `work/topic_map.json` (42 canonical topics plus keyword fallback, made by Sonnet from `work/topics_raw.tsv`); applied in `served/build.py` `norm_topic`.
+- [x] Coverage extended: `python3 -m served.batches 4 4 238` appended **126 batches (00238–00363)** for 25,158 URLs with exactly 4 distinct users (ids start at 47600).
+  `served/batches.py` args: `MIN MAX START_BATCH`.
+- Comments track complete (60/60). Site preview artifact (private): https://claude.ai/artifact/P4PYcyzksxhb6KqswrcMWf. Republish `docs/index.html` with all `docs/data/**` files to update it.
+
 ## Next steps (exact): for a resuming session
 
 1. Setup (fresh container): `pip install duckdb pyarrow httpx trafilatura`.
@@ -213,7 +221,8 @@ How bulk labelling runs (no API key needed):
 3. Resume labelling (in the background):
    `nohup scripts/run_labels.sh batches 10 haiku > data/run_labels.log 2>&1 &`
    (and `cbatches 4`, `sbatches 4`), then `nohup scripts/autocommit.sh >/dev/null 2>&1 &`. Create `data/` first (`mkdir -p data`).
-4. Once most link labels are in: **topic taxonomy**. Collect raw `topic` values with counts from `work/{labels,clabels,slabels}`. Have a Sonnet subagent map them to ~40 canonical topics → `work/topic_map.json` (raw → canonical). Make `served/build.py` apply it in `norm_topic` (unmapped → raw). Rebuild.
+4. ~~Topic taxonomy~~ DONE. To refresh after many new labels: regenerate `work/topics_raw.tsv` and have Sonnet extend `map`.
+   (Old note:) Collect raw `topic` values with counts from `work/{labels,clabels,slabels}`. Have a Sonnet subagent map them to ~40 canonical topics → `work/topic_map.json` (raw → canonical). Make `served/build.py` apply it in `norm_topic` (unmapped → raw). Rebuild.
 5. QA: a Sonnet re-label of ~3 random link batches, comparing keep agreement → `work/qa.md`. If Haiku is too loose or strict, adjust the threshold (`q`) in build.py.
 6. Extend coverage if budget allows: the next 6,000 great-comment candidates (`served/comments.py`, raise N, write new batch numbers), and links with 3–4 distinct users (`served/batches.py 3`, but keep the existing numbering: only append new batches for URLs not yet covered).
 7. Separate sections later: Wikipedia "rabbit holes" (most-linked articles), books (Amazon/Goodreads links → titles), GitHub repos.

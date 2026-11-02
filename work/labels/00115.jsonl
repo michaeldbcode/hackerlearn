@@ -1,0 +1,200 @@
+{"id":23000,"keep":0,"q":1,"kind":"other","topic":"hosting","depth":"intro","title":"NearlyFreeSpeech pricing","why":"Hosting price list; no learning content."}
+{"id":23001,"keep":0,"q":2,"kind":"reference","topic":"energy","depth":"intro","title":"State electricity generation fuel shares","why":"Statistics table of US electricity generation mix by state."}
+{"id":23002,"keep":1,"q":3,"kind":"paper","topic":"virology","depth":"expert","title":"Aerosol and surface stability of SARS-CoV-2","why":"Measures how long SARS-CoV-2 stays viable on surfaces and in aerosols versus SARS-CoV-1."}
+{"id":23003,"keep":1,"q":3,"kind":"paper","topic":"virology","depth":"expert","title":"Aerosol and surface stability of SARS-CoV-2","why":"Measures how long SARS-CoV-2 stays viable on surfaces and in aerosols versus SARS-CoV-1."}
+{"id":23004,"keep":1,"q":3,"kind":"paper","topic":"obesity drugs","depth":"intermediate","title":"Once-weekly semaglutide for obesity","why":"Phase 3 trial results for semaglutide weight loss and side effects."}
+{"id":23005,"keep":0,"q":2,"kind":"paper","topic":"vaccines","depth":"intermediate","title":"mRNA vaccine adverse events","why":"Narrow safety data on post-vaccine lymph node swelling; mostly cited as evidence."}
+{"id":23006,"keep":1,"q":2,"kind":"paper","topic":"health economics","depth":"intermediate","title":"Lifetime costs of smoking","why":"Estimates lifetime health care costs of smokers versus nonsmokers."}
+{"id":23007,"keep":1,"q":3,"kind":"paper","topic":"vaccines","depth":"intermediate","title":"Efficacy of mRNA-1273 COVID-19 vaccine","why":"Phase 3 trial design and efficacy results for the Moderna vaccine."}
+{"id":23008,"keep":1,"q":3,"kind":"docs","topic":"software","depth":"intro","title":"Neovim charter","why":"Explains Neovim's goals, non-goals and how it continues Vim."}
+{"id":23009,"keep":0,"q":1,"kind":"news","topic":"personal finance","depth":"intro","title":"Average monthly car payment","why":"Statistics on car loan payments; a current data snapshot."}
+{"id":23010,"keep":1,"q":4,"kind":"blog","topic":"python tooling","depth":"intermediate","title":"How uv got so fast","why":"Explains why uv beats pip: less file I/O, legacy avoidance, and Rust design choices."}
+{"id":23011,"keep":0,"q":1,"kind":"reference","topic":"networking","depth":"intro","title":"Netindex country speed data","why":"Raw download-speed rankings by country; a data table."}
+{"id":23012,"keep":0,"q":2,"kind":"tool","topic":"numerics","depth":"intermediate","title":"LAPACK","why":"Library homepage for a numerical linear algebra package."}
+{"id":23013,"keep":0,"q":1,"kind":"tool","topic":"hosting","depth":"intro","title":"Netlify Analytics","why":"Product page for a paid analytics feature."}
+{"id":23014,"keep":0,"q":1,"kind":"tool","topic":"hosting","depth":"intro","title":"Netlify Forms","why":"Product page for a form-handling service."}
+{"id":23015,"keep":0,"q":1,"kind":"reference","topic":"web browsers","depth":"intro","title":"Browser market share","why":"Market share statistics tracker; numbers without explanation."}
+{"id":23016,"keep":0,"q":1,"kind":"reference","topic":"web browsers","depth":"intro","title":"NetMarketShare FAQ","why":"Methodology FAQ for a statistics tracker."}
+{"id":23017,"keep":1,"q":3,"kind":"journalism","topic":"cloud computing","depth":"intro","title":"The myth of how AWS started","why":"Debunks the claim that AWS began as Amazon's spare capacity, with sourced history."}
+{"id":23018,"keep":0,"q":1,"kind":"news","topic":"security","depth":"intro","title":"Samsung keylogger response","why":"2011 news on a vendor's laptop monitoring software."}
+{"id":23019,"keep":1,"q":5,"kind":"visual","topic":"deep learning","depth":"intermediate","title":"A visual proof that neural nets compute any function","why":"Interactive visual argument that one hidden layer can approximate any continuous function."}
+{"id":23020,"keep":1,"q":5,"kind":"book","topic":"deep learning","depth":"intro","title":"Neural Networks and Deep Learning","why":"Free online book building neural-net intuition from first principles with code."}
+{"id":23021,"keep":0,"q":2,"kind":"journalism","topic":"philanthropy","depth":"intro","title":"Bill Gates charitable giving ethics","why":"Critique of philanthropic power; a one-sided opinion piece."}
+{"id":23022,"keep":0,"q":1,"kind":"news","topic":"telecom","depth":"intro","title":"Broadband scandal summary","why":"Advocacy summary of a broadband funding dispute."}
+{"id":23023,"keep":0,"q":1,"kind":"tool","topic":"android apps","depth":"intro","title":"Add the NewPipe F-Droid repo","why":"Install instructions for a single app repository."}
+{"id":23024,"keep":0,"q":2,"kind":"journalism","topic":"pharma","depth":"intro","title":"How Bill Gates impeded Covid vaccine access","why":"Polemical opinion piece on patents and vaccine access."}
+{"id":23025,"keep":1,"q":5,"kind":"talk","topic":"career","depth":"intro","title":"Stanford commencement address 2005","why":"Jobs on connecting the dots, finding work you love, and mortality."}
+{"id":23026,"keep":0,"q":1,"kind":"news","topic":"defense","depth":"intro","title":"BBC: Airbus Saudi bribery case","why":"Old news story about an arms deal investigation."}
+{"id":23027,"keep":0,"q":1,"kind":"news","topic":"news","depth":"intro","title":"BBC Northern Ireland driver story","why":"Local news anecdote with no lasting lesson."}
+{"id":23028,"keep":0,"q":1,"kind":"news","topic":"education","depth":"intro","title":"Berkeley course capture letter","why":"Administrative announcement on removing public lecture videos."}
+{"id":23029,"keep":1,"q":3,"kind":"essay","topic":"cryptocurrency","depth":"intermediate","title":"Quantifying Decentralization","why":"Introduces the Nakamoto coefficient for measuring how centralized a network is."}
+{"id":23030,"keep":0,"q":1,"kind":"reference","topic":"polling","depth":"intro","title":"Gallup: belief in creationism","why":"Poll numbers on religious belief; statistics without method."}
+{"id":23031,"keep":0,"q":1,"kind":"reference","topic":"polling","depth":"intro","title":"Gallup: support for legal marijuana","why":"Poll numbers on marijuana legalization over time."}
+{"id":23032,"keep":0,"q":1,"kind":"reference","topic":"polling","depth":"intro","title":"Gallup: LGBT identification","why":"Poll results on sexual orientation identification."}
+{"id":23033,"keep":0,"q":1,"kind":"reference","topic":"polling","depth":"intro","title":"Gallup: approval of labor unions","why":"Poll results on union approval over time."}
+{"id":23034,"keep":0,"q":1,"kind":"reference","topic":"polling","depth":"intro","title":"Gallup: government healthcare","why":"Poll results on government-guaranteed healthcare."}
+{"id":23035,"keep":0,"q":1,"kind":"reference","topic":"polling","depth":"intro","title":"Gallup: concern about immigration","why":"Poll results on immigration concern over time."}
+{"id":23036,"keep":1,"q":2,"kind":"journalism","topic":"meditation","depth":"intro","title":"Eight weeks to a better brain","why":"Summarizes an eight-week meditation study and its measured brain effects."}
+{"id":23037,"keep":0,"q":2,"kind":"journalism","topic":"healthcare","depth":"intro","title":"US pays more for worse health outcomes","why":"Summary of a comparison used mainly as evidence in arguments."}
+{"id":23038,"keep":0,"q":2,"kind":"journalism","topic":"climate","depth":"intro","title":"ExxonMobil internal climate research","why":"News summary of a study on company records; cited as evidence."}
+{"id":23039,"keep":0,"q":1,"kind":"news","topic":"law","depth":"intro","title":"Met Police: Assange arrest update","why":"Breaking-news police press release."}
+{"id":23040,"keep":0,"q":2,"kind":"news","topic":"data centers","depth":"intro","title":"Microsoft Project Natick","why":"Corporate feature promoting an underwater datacenter trial."}
+{"id":23041,"keep":0,"q":2,"kind":"news","topic":"pollution","depth":"intro","title":"Air pollution causes early deaths","why":"News summary of a statistical estimate; cited as evidence."}
+{"id":23042,"keep":0,"q":2,"kind":"news","topic":"water","depth":"intro","title":"Passive solar desalination","why":"Research press release with little method detail."}
+{"id":23043,"keep":0,"q":2,"kind":"journalism","topic":"plastics","depth":"intro","title":"Great Pacific garbage patch","why":"Feature mostly cited for quantities as evidence in debate."}
+{"id":23044,"keep":0,"q":1,"kind":"other","topic":"php","depth":"intro","title":"PHP internals hash joke thread","why":"Mailing-list joke thread; little to learn."}
+{"id":23045,"keep":0,"q":1,"kind":"news","topic":"startups","depth":"intro","title":"Shopify team changes memo","why":"Company layoff memo; news of the moment."}
+{"id":23046,"keep":1,"q":5,"kind":"talk","topic":"career","depth":"intro","title":"Stanford commencement address 2005","why":"Jobs on connecting the dots, finding work you love, and mortality."}
+{"id":23047,"keep":1,"q":3,"kind":"journalism","topic":"psychology","depth":"intro","title":"Voices across cultures","why":"Shows hallucinated voices differ sharply by culture, based on Luhrmann's research."}
+{"id":23048,"keep":0,"q":2,"kind":"news","topic":"hardware","depth":"intermediate","title":"Google TPU v7 analysis","why":"Hardware news analysis on a current chip launch."}
+{"id":23049,"keep":0,"q":2,"kind":"tool","topic":"python tooling","depth":"intro","title":"newspaper library docs","why":"Library documentation for a news article scraper."}
+{"id":23050,"keep":0,"q":1,"kind":"reference","topic":"transport","depth":"intro","title":"AAA driving cost per mile","why":"Cost-per-mile statistics page from AAA."}
+{"id":23051,"keep":1,"q":2,"kind":"journalism","topic":"finance","depth":"intro","title":"How hedge funds use satellite images","why":"Explains how funds use satellite imagery as an information edge."}
+{"id":23052,"keep":0,"q":1,"kind":"news","topic":"covid origins","depth":"intro","title":"Wuhan lab experiments","why":"News on a contested origins claim; of the moment."}
+{"id":23053,"keep":0,"q":1,"kind":"other","topic":"politics","depth":"intro","title":"Newsweek op-ed on campus diversity","why":"Opinion column on diversity programs."}
+{"id":23054,"keep":0,"q":2,"kind":"news","topic":"foreign aid","depth":"intro","title":"USAID shutdown deaths","why":"Current-affairs piece on an estimate of aid cuts."}
+{"id":23055,"keep":1,"q":5,"kind":"journalism","topic":"math","depth":"intermediate","title":"Manifold Destiny","why":"Profile of Perelman's Poincaré proof and his refusal of the Fields Medal."}
+{"id":23056,"keep":1,"q":4,"kind":"journalism","topic":"fusion energy","depth":"intermediate","title":"A Star in a Bottle","why":"Long-form look at ITER and the engineering and politics of fusion."}
+{"id":23057,"keep":1,"q":3,"kind":"journalism","topic":"education","depth":"intermediate","title":"Schooled","why":"Inside Zuckerberg's failed Newark school reform and why it stalled."}
+{"id":23058,"keep":1,"q":3,"kind":"journalism","topic":"homelessness","depth":"intro","title":"Home Free","why":"Looks at Housing First programs and whether giving homes works."}
+{"id":23059,"keep":1,"q":3,"kind":"journalism","topic":"politics","depth":"intro","title":"Trump's ghostwriter tells all","why":"Inside account of writing The Art of the Deal and Trump's self-image."}
+{"id":23060,"keep":1,"q":4,"kind":"journalism","topic":"engineering","depth":"intro","title":"Why Paper Jams Persist","why":"Explains why paper jams survive decades of engineering effort."}
+{"id":23061,"keep":1,"q":4,"kind":"journalism","topic":"paleontology","depth":"intermediate","title":"The Day the Dinosaurs Died","why":"Reports on the Tanis fossil site and the Chicxulub impact's first hours."}
+{"id":23062,"keep":1,"q":3,"kind":"essay","topic":"pandemics","depth":"intro","title":"The Pandemic Isn't a Black Swan","why":"Argues the pandemic was foreseeable and reflects a fragile global system."}
+{"id":23063,"keep":1,"q":4,"kind":"journalism","topic":"forensics","depth":"intermediate","title":"Trial by Fire","why":"Investigates the Willingham arson case and flawed forensic science."}
+{"id":23064,"keep":1,"q":4,"kind":"journalism","topic":"science","depth":"intermediate","title":"The Truth Wears Off","why":"Explains the decline effect: why early scientific findings shrink over time."}
+{"id":23065,"keep":1,"q":3,"kind":"journalism","topic":"law","depth":"intro","title":"Taken","why":"Explains civil asset forfeiture and how it is abused."}
+{"id":23066,"keep":0,"q":1,"kind":"reference","topic":"household debt","depth":"intro","title":"NY Fed household debt report","why":"Statistics release on household debt totals."}
+{"id":23067,"keep":0,"q":1,"kind":"docs","topic":"web frameworks","depth":"intro","title":"Next.js telemetry","why":"Policy page on what a framework collects."}
+{"id":23068,"keep":1,"q":2,"kind":"blog","topic":"web","depth":"intermediate","title":"Fun with HTTP headers","why":"Systematic hunt for unusual HTTP headers and what they reveal."}
+{"id":23069,"keep":0,"q":1,"kind":"other","topic":"startups","depth":"intro","title":"Immigrants and billion-dollar startups","why":"Advocacy policy brief with a contested count."}
+{"id":23070,"keep":1,"q":2,"kind":"book","topic":"angular","depth":"intro","title":"ng-book 2","why":"Paid sequential book on Angular 2; dated but structured learning."}
+{"id":23071,"keep":0,"q":1,"kind":"reference","topic":"careers","depth":"intro","title":"NGC statistics","why":"Statistics page on women in computing."}
+{"id":23072,"keep":1,"q":3,"kind":"docs","topic":"web servers","depth":"intermediate","title":"nginx control","why":"Explains nginx signals and how it reloads config without dropping connections."}
+{"id":23073,"keep":0,"q":1,"kind":"docs","topic":"web servers","depth":"expert","title":"nginx SPDY module","why":"Module reference page; limited teaching value."}
+{"id":23074,"keep":0,"q":2,"kind":"reference","topic":"weather","depth":"intro","title":"NHC past hurricane data","why":"Historical hurricane statistics table."}
+{"id":23075,"keep":1,"q":5,"kind":"essay","topic":"lisp","depth":"expert","title":"Lambda: The Ultimate Political Party","why":"How a language's community shapes its meaning; argues Lisp is defined by people."}
+{"id":23076,"keep":1,"q":4,"kind":"paper","topic":"lisp","depth":"expert","title":"Special Forms in Lisp","why":"Argues about fexprs versus macros and how language definitions relate to semantics."}
+{"id":23077,"keep":0,"q":2,"kind":"reference","topic":"health","depth":"intro","title":"NHS e-cigarette advice","why":"Health advice page on vaping risk estimates."}
+{"id":23078,"keep":0,"q":2,"kind":"reference","topic":"transport","depth":"intro","title":"Vehicle trip distances","why":"Survey statistics on trip length; cited as evidence."}
+{"id":23079,"keep":0,"q":1,"kind":"tool","topic":"traffic safety","depth":"intro","title":"FARS fatality dataset","why":"Dataset landing page for crash records."}
+{"id":23080,"keep":0,"q":1,"kind":"tool","topic":"programming","depth":"intro","title":"LabVIEW","why":"Product homepage for a visual programming environment."}
+{"id":23081,"keep":0,"q":1,"kind":"tool","topic":"text tools","depth":"intro","title":"par paragraph formatter","why":"Homepage for a text-wrapping utility."}
+{"id":23082,"keep":0,"q":2,"kind":"tool","topic":"terminal","depth":"expert","title":"Notcurses","why":"Project page for a terminal graphics library."}
+{"id":23083,"keep":1,"q":4,"kind":"blog","topic":"devops","depth":"intermediate","title":"Stack Overflow: how we do deployment","why":"How Stack Overflow ships .NET code to production, with practical tooling detail."}
+{"id":23084,"keep":1,"q":3,"kind":"journalism","topic":"media","depth":"intermediate","title":"An incomplete history of Forbes.com","why":"Explains how Forbes' contributor network enabled scams and low-quality content."}
+{"id":23085,"keep":0,"q":1,"kind":"news","topic":"biosafety","depth":"intro","title":"NIH lifts gain-of-function pause","why":"Policy statement on a funding decision; news of the moment."}
+{"id":23086,"keep":0,"q":2,"kind":"news","topic":"neuroscience","depth":"intro","title":"Brain may flush out toxins during sleep","why":"Press release on a sleep study; cited as evidence."}
+{"id":23087,"keep":0,"q":2,"kind":"news","topic":"sleep","depth":"intro","title":"Gene linked to needing little sleep","why":"Press release on a sleep genetics finding."}
+{"id":23088,"keep":1,"q":4,"kind":"blog","topic":"compilers","depth":"expert","title":"Make LLVM fast again","why":"Explains compile-time regressions in LLVM and how to catch them."}
+{"id":23089,"keep":0,"q":1,"kind":"other","topic":"electric vehicles","depth":"intro","title":"Nikola One","why":"Product page for a truck and car concept."}
+{"id":23090,"keep":1,"q":3,"kind":"blog","topic":"programming languages","depth":"expert","title":"Owned references in Nim","why":"Design notes on Nim's ownership-based memory model that replaces GC."}
+{"id":23091,"keep":0,"q":1,"kind":"docs","topic":"nim","depth":"intro","title":"Nim documentation hub","why":"Index page linking to Nim docs; no content of its own."}
+{"id":23092,"keep":0,"q":1,"kind":"other","topic":"storage","depth":"intro","title":"Nimbus ExaDrive pricing","why":"Vendor price list for SSDs."}
+{"id":23093,"keep":1,"q":3,"kind":"blog","topic":"compilers","depth":"expert","title":"TruffleRuby on SubstrateVM","why":"Explains native-image compilation for Truffle languages and its startup benefits."}
+{"id":23094,"keep":0,"q":1,"kind":"other","topic":"cars","depth":"intro","title":"Nissan Versa","why":"Car sales page."}
+{"id":23095,"keep":1,"q":3,"kind":"reference","topic":"typography","depth":"intro","title":"CV in LaTeX","why":"Shows practical TeX typography ideas for a clean CV."}
+{"id":23096,"keep":0,"q":1,"kind":"tool","topic":"nix","depth":"intro","title":"Hydra build system","why":"Build farm dashboard page for Nix packages."}
+{"id":23097,"keep":1,"q":2,"kind":"reference","topic":"nix","depth":"intermediate","title":"Nix binary cache","why":"Explains how Nix binary caches save building packages from source."}
+{"id":23098,"keep":1,"q":2,"kind":"reference","topic":"nix","depth":"intermediate","title":"NixOS containers","why":"Explains declarative NixOS containers built on systemd-nspawn."}
+{"id":23099,"keep":1,"q":2,"kind":"explainer","topic":"logic","depth":"intro","title":"Slippery slope fallacy","why":"Explains the slippery slope fallacy with examples."}
+{"id":23100,"keep":1,"q":3,"kind":"explainer","topic":"ux","depth":"intro","title":"F-shaped pattern of reading","why":"Eye-tracking evidence on how people scan web pages."}
+{"id":23101,"keep":1,"q":3,"kind":"explainer","topic":"ux","depth":"intro","title":"Flat UI and attention","why":"Usability research on how flat design hurts clickability."}
+{"id":23102,"keep":1,"q":3,"kind":"explainer","topic":"ux","depth":"intro","title":"Hamburger menus","why":"Usability research on hidden navigation and its costs."}
+{"id":23103,"keep":1,"q":4,"kind":"explainer","topic":"ux","depth":"intro","title":"How users read on the web","why":"Classic study: people scan rather than read web pages."}
+{"id":23104,"keep":1,"q":2,"kind":"explainer","topic":"ux","depth":"intro","title":"Low contrast text","why":"Shows why low-contrast text hurts readability and accessibility."}
+{"id":23105,"keep":1,"q":3,"kind":"essay","topic":"housing","depth":"intermediate","title":"Everything you think you know about homelessness","why":"Data argument that homelessness tracks housing costs more than drugs or mental illness."}
+{"id":23106,"keep":1,"q":3,"kind":"essay","topic":"health economics","depth":"intermediate","title":"Insurance companies aren't the main problem","why":"Argues US health costs come from providers and prices, not insurer margins."}
+{"id":23107,"keep":1,"q":3,"kind":"essay","topic":"industrial policy","depth":"intermediate","title":"Manufacturing is a war now","why":"Argues industrial capacity is strategic, citing shipbuilding and cost data."}
+{"id":23108,"keep":1,"q":5,"kind":"talk","topic":"economics","depth":"expert","title":"The Pretence of Knowledge","why":"Hayek's Nobel lecture on the limits of economic prediction and expertise."}
+{"id":23109,"keep":0,"q":1,"kind":"reference","topic":"law","depth":"intro","title":"Small claims suits","why":"Legal encyclopedia entry on small claims limits."}
+{"id":23110,"keep":0,"q":2,"kind":"other","topic":"career","depth":"intro","title":"Chris Lattner resume","why":"Personal CV; a profile rather than a learning text."}
+{"id":23111,"keep":0,"q":1,"kind":"tool","topic":"design","depth":"intro","title":"Nord theme ports","why":"List of color theme ports for apps."}
+{"id":23112,"keep":1,"q":3,"kind":"visual","topic":"presentations","depth":"intro","title":"Gettysburg Address in PowerPoint","why":"Satirical slide deck showing how bullet points flatten a speech."}
+{"id":23113,"keep":1,"q":4,"kind":"book","topic":"lisp","depth":"expert","title":"Paradigms of AI Programming","why":"Classic Lisp AI programming book with worked case studies, now online."}
+{"id":23114,"keep":1,"q":3,"kind":"book","topic":"electronics","depth":"intro","title":"Open Circuits","why":"Illustrated tour of electronic components and how they work."}
+{"id":23115,"keep":0,"q":2,"kind":"essay","topic":"virtual reality","depth":"intro","title":"Virtual reality is going to change the world","why":"2014 opinion post on VR investment, mostly tied to a deal."}
+{"id":23116,"keep":0,"q":1,"kind":"news","topic":"privacy","depth":"intro","title":"noyb GDPR complaints on cookie banners","why":"Press release on complaints; news of the moment."}
+{"id":23117,"keep":0,"q":1,"kind":"news","topic":"privacy","depth":"intro","title":"noyb complaints against Apple IDFA","why":"Press release on privacy complaints."}
+{"id":23118,"keep":0,"q":1,"kind":"other","topic":"privacy","depth":"intro","title":"Support noyb","why":"Donation page for a privacy NGO."}
+{"id":23119,"keep":0,"q":1,"kind":"tool","topic":"javascript","depth":"intro","title":"request npm package","why":"Package page for a deprecated HTTP client."}
+{"id":23120,"keep":0,"q":1,"kind":"tool","topic":"javascript","depth":"intro","title":"webworker-threads","why":"Package page for a Node threading library."}
+{"id":23121,"keep":1,"q":4,"kind":"blog","topic":"compilers","depth":"expert","title":"Make LLVM fast again","why":"Explains compile-time regressions in LLVM and how to catch them."}
+{"id":23122,"keep":0,"q":2,"kind":"news","topic":"plastics","depth":"intro","title":"Most plastics leach hormone-like chemicals","why":"News on a 2011 study; cited as evidence."}
+{"id":23123,"keep":1,"q":3,"kind":"journalism","topic":"criminal justice","depth":"intro","title":"In Ferguson, court fines and fees fuel anger","why":"Explains how municipal courts use fines and fees for revenue."}
+{"id":23124,"keep":0,"q":2,"kind":"news","topic":"policing","depth":"intro","title":"Police dogs and bias","why":"News story about police dog alerts; cited as evidence."}
+{"id":23125,"keep":1,"q":3,"kind":"talk","topic":"recycling","depth":"intro","title":"Episode 926: So should we recycle?","why":"Planet Money explainer on whether US recycling pays off."}
+{"id":23126,"keep":0,"q":1,"kind":"news","topic":"security","depth":"intro","title":"Trump tweets surveillance image of Iran","why":"News of the moment on a tweeted satellite image."}
+{"id":23127,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"Trump church visit angers officials","why":"Breaking news on a 2020 protest incident."}
+{"id":23128,"keep":1,"q":3,"kind":"journalism","topic":"labor economics","depth":"intro","title":"Big-Rigged","why":"Explains how trucking contractor arrangements shape driver pay."}
+{"id":23129,"keep":1,"q":3,"kind":"journalism","topic":"recycling","depth":"intro","title":"Recycling plastic is practically impossible","why":"Explains why most plastic cannot be economically recycled."}
+{"id":23130,"keep":1,"q":2,"kind":"journalism","topic":"libraries","depth":"intro","title":"The e-book wars between libraries and publishers","why":"Explains how digital library licenses expire and why access is shrinking."}
+{"id":23131,"keep":0,"q":2,"kind":"news","topic":"research integrity","depth":"intro","title":"Dan Ariely and Francesca Gino fabricated data","why":"News on a misconduct case; of the moment."}
+{"id":23132,"keep":0,"q":1,"kind":"news","topic":"ai law","depth":"intro","title":"Anthropic settlement with authors","why":"News of the moment on a copyright settlement."}
+{"id":23133,"keep":0,"q":2,"kind":"journalism","topic":"immigration","depth":"intro","title":"Who is hiring H-1B workers","why":"News story; mostly cited as evidence in debate."}
+{"id":23134,"keep":0,"q":1,"kind":"news","topic":"covid","depth":"intro","title":"Ivermectin overdose cases","why":"Pandemic news on poison control statistics."}
+{"id":23135,"keep":0,"q":2,"kind":"news","topic":"covid","depth":"intro","title":"Vaccine misinformation and county death rates","why":"News analysis of pandemic deaths; cited as evidence."}
+{"id":23136,"keep":0,"q":1,"kind":"reference","topic":"energy prices","depth":"intro","title":"Price of electricity by state","why":"Data table of electricity prices."}
+{"id":23137,"keep":1,"q":2,"kind":"journalism","topic":"economics","depth":"intro","title":"Kid Rock vs. the scalpers","why":"Explains why ticket resale markups reflect more than greed."}
+{"id":23138,"keep":1,"q":4,"kind":"journalism","topic":"economics","depth":"intro","title":"What happens when you just give money to poor people","why":"Summarizes evidence that direct cash transfers outperform restricted aid."}
+{"id":23139,"keep":1,"q":2,"kind":"journalism","topic":"trade policy","depth":"intro","title":"Trade deal confidential","why":"Shows how trade negotiators work and what pressures shape deals."}
+{"id":23140,"keep":1,"q":3,"kind":"journalism","topic":"payments","depth":"intro","title":"Put a chip on it","why":"History of the magnetic stripe and why chip cards were slow to adopt."}
+{"id":23141,"keep":1,"q":2,"kind":"journalism","topic":"environment","depth":"intro","title":"Are plastic bag bans garbage?","why":"Explains lifecycle trade-offs between plastic and paper bags."}
+{"id":23142,"keep":0,"q":1,"kind":"news","topic":"journalism ethics","depth":"intro","title":"NPR rare retraction","why":"Newsroom correction story."}
+{"id":23143,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"Pizzagate gunman sentenced","why":"Court news; of the moment."}
+{"id":23144,"keep":1,"q":2,"kind":"journalism","topic":"personal finance","depth":"intro","title":"Escheat: when states take your stock","why":"Explains how unclaimed brokerage accounts can be seized by states."}
+{"id":23145,"keep":0,"q":2,"kind":"essay","topic":"energy","depth":"intermediate","title":"Debunking three myths about baseload","why":"Advocacy piece arguing against baseload power; cited in debate."}
+{"id":23146,"keep":1,"q":3,"kind":"paper","topic":"energy storage","depth":"expert","title":"Utility-scale battery cost projections","why":"NREL report with battery cost scenarios through 2030."}
+{"id":23147,"keep":1,"q":3,"kind":"paper","topic":"networking","depth":"expert","title":"Starlink low-latency networking","why":"Analysis of whether satellite routing beats fiber for latency."}
+{"id":23148,"keep":1,"q":4,"kind":"journalism","topic":"privacy","depth":"intermediate","title":"My phone was spying on me","why":"Method for tracing which trackers an app's traffic sends data to."}
+{"id":23149,"keep":0,"q":1,"kind":"other","topic":"surveillance","depth":"intro","title":"NSA mission statement","why":"Official mission statement page."}
+{"id":23150,"keep":0,"q":2,"kind":"tool","topic":"programming languages","depth":"expert","title":"K ray tracer","why":"Code snippet demo; interesting, but little explanation."}
+{"id":23151,"keep":0,"q":1,"kind":"news","topic":"licensing","depth":"intro","title":"NCEES ends software engineering PE exam","why":"Licensing news about an exam."}
+{"id":23152,"keep":0,"q":1,"kind":"other","topic":"taxes","depth":"intro","title":"Who pays income taxes","why":"Advocacy page with a contested framing."}
+{"id":23153,"keep":1,"q":4,"kind":"tutorial","topic":"build systems","depth":"intermediate","title":"Writing portable POSIX Makefiles","why":"Practical tips for Makefiles that work across Unix systems."}
+{"id":23154,"keep":1,"q":3,"kind":"blog","topic":"security","depth":"intermediate","title":"Why is this website port scanning me?","why":"Explains websites probing localhost and how browsers can block it."}
+{"id":23155,"keep":1,"q":4,"kind":"blog","topic":"cpu architecture","depth":"expert","title":"Zen 5 AVX-512 teardown","why":"Detailed look at Zen 5 SIMD throughput and instruction design."}
+{"id":23156,"keep":1,"q":3,"kind":"docs","topic":"shells","depth":"intro","title":"Nushell book","why":"Introduces Nushell's structured data pipelines and design."}
+{"id":23157,"keep":0,"q":1,"kind":"other","topic":"gpus","depth":"intro","title":"NVIDIA driver license 2009","why":"Legal license text."}
+{"id":23158,"keep":0,"q":1,"kind":"tool","topic":"embedded","depth":"intro","title":"NVIDIA embedded systems","why":"Product page for Jetson hardware."}
+{"id":23159,"keep":0,"q":1,"kind":"tool","topic":"embedded","depth":"intro","title":"Jetson Orin specifications","why":"Spec sheet for embedded AI hardware."}
+{"id":23160,"keep":0,"q":1,"kind":"other","topic":"gpus","depth":"intro","title":"GeForce license","why":"Legal license text."}
+{"id":23161,"keep":0,"q":1,"kind":"tool","topic":"gpus","depth":"intro","title":"NVIDIA DGX Spark","why":"Product page for an AI workstation."}
+{"id":23162,"keep":1,"q":4,"kind":"essay","topic":"ai","depth":"intermediate","title":"The Chess Master and the Computer","why":"Kasparov on human-machine chess teams and Moravec's paradox."}
+{"id":23163,"keep":1,"q":4,"kind":"journalism","topic":"criminal justice","depth":"intermediate","title":"Why innocent people plead guilty","why":"History of plea bargaining and how it coerces the accused."}
+{"id":23164,"keep":0,"q":1,"kind":"reference","topic":"transport","depth":"intro","title":"New Yorkers and cars","why":"Statistics on car ownership in NYC."}
+{"id":23165,"keep":0,"q":1,"kind":"reference","topic":"policing","depth":"intro","title":"NYCLU stop-and-frisk data","why":"Data portal on stop-and-frisk counts."}
+{"id":23166,"keep":0,"q":1,"kind":"reference","topic":"media habits","depth":"intro","title":"Average American TV hours","why":"Statistics on TV viewing hours."}
+{"id":23167,"keep":0,"q":1,"kind":"other","topic":"jobs","depth":"intro","title":"Nylas job posting","why":"Job listing."}
+{"id":23168,"keep":1,"q":2,"kind":"journalism","topic":"media","depth":"intermediate","title":"Inside the NYT's reckoning with itself","why":"Inside look at newsroom tensions over politics and editorial norms."}
+{"id":23169,"keep":0,"q":1,"kind":"news","topic":"crime","depth":"intro","title":"Suspected bomb-making materials arrest","why":"Local crime news."}
+{"id":23170,"keep":0,"q":1,"kind":"news","topic":"moderation","depth":"intro","title":"Twitter sued over child porn","why":"Lawsuit news; of the moment."}
+{"id":23171,"keep":0,"q":1,"kind":"other","topic":"media","depth":"intro","title":"NYT Company board of directors","why":"Corporate board listing."}
+{"id":23172,"keep":1,"q":4,"kind":"journalism","topic":"mental health","depth":"intro","title":"How release of mental patients began","why":"History of deinstitutionalization and how it came about."}
+{"id":23173,"keep":1,"q":2,"kind":"journalism","topic":"history","depth":"intermediate","title":"Actually, Prohibition was a success","why":"Argues Prohibition's effects on drinking and crime, with evidence debated."}
+{"id":23174,"keep":1,"q":4,"kind":"journalism","topic":"nutrition","depth":"intermediate","title":"What if it's all been a big fat lie?","why":"Taubes on how dietary fat guidelines rested on weak research."}
+{"id":23175,"keep":1,"q":4,"kind":"journalism","topic":"privacy","depth":"intro","title":"A Face Is Exposed for AOL Searcher No. 4417749","why":"Shows how supposedly anonymous search data identifies real people."}
+{"id":23176,"keep":1,"q":3,"kind":"journalism","topic":"propaganda","depth":"intro","title":"Pentagon's military analysts program","why":"Investigates Pentagon efforts to shape war coverage through retired generals."}
+{"id":23177,"keep":0,"q":1,"kind":"news","topic":"law","depth":"intro","title":"Judge jailed youths for kickbacks","why":"Court news about a corruption case."}
+{"id":23178,"keep":1,"q":4,"kind":"journalism","topic":"linguistics","depth":"intro","title":"Your language may shape how you think","why":"Summarizes research on how language affects thought and spatial reasoning."}
+{"id":23179,"keep":1,"q":2,"kind":"journalism","topic":"risk","depth":"intro","title":"Japan's tsunami stones","why":"Stone markers warn against building below set heights."}
+{"id":23180,"keep":1,"q":3,"kind":"journalism","topic":"social psychology","depth":"intro","title":"The challenge of making friends as an adult","why":"Explains the conditions sociologists say friendships need and why they are rarer."}
+{"id":23181,"keep":1,"q":2,"kind":"journalism","topic":"japan","depth":"intro","title":"Why Japan still loves fax machines","why":"Explains cultural and institutional reasons fax persists in Japan."}
+{"id":23182,"keep":1,"q":2,"kind":"journalism","topic":"politics","depth":"intro","title":"The Obama campaign's digital masterminds","why":"How the 2012 campaign used Facebook data for voter outreach."}
+{"id":23183,"keep":0,"q":2,"kind":"news","topic":"surveillance","depth":"intro","title":"USPS photographs all US mail","why":"News on postal surveillance; of the moment."}
+{"id":23184,"keep":0,"q":2,"kind":"news","topic":"china","depth":"intro","title":"China's new leadership hard line memo","why":"Political news from 2013."}
+{"id":23185,"keep":0,"q":2,"kind":"other","topic":"traffic safety","depth":"intro","title":"Is it OK to kill cyclists?","why":"Opinion column on cyclist fatalities."}
+{"id":23186,"keep":1,"q":3,"kind":"journalism","topic":"healthcare","depth":"intro","title":"Drive-by doctoring","why":"Explains out-of-network surprise billing and why it hits patients."}
+{"id":23187,"keep":1,"q":2,"kind":"journalism","topic":"real estate","depth":"intro","title":"Foreign wealth flows into Time Warner condos","why":"Investigates shell-company buyers in luxury real estate."}
+{"id":23188,"keep":1,"q":3,"kind":"journalism","topic":"economics","depth":"intro","title":"Why are corporations hoarding trillions?","why":"Explores why firms hold cash instead of investing it."}
+{"id":23189,"keep":0,"q":2,"kind":"other","topic":"academia","depth":"intro","title":"A confession of liberal intolerance","why":"Opinion column on academic politics."}
+{"id":23190,"keep":0,"q":1,"kind":"news","topic":"immigration","depth":"intro","title":"Refugee and Muslim executive order","why":"Policy news from 2017."}
+{"id":23191,"keep":0,"q":2,"kind":"news","topic":"startups","depth":"intro","title":"Uber workplace culture","why":"News of the moment on a company scandal."}
+{"id":23192,"keep":0,"q":1,"kind":"news","topic":"privacy","depth":"intro","title":"Unroll.me data backlash","why":"News on a data-sharing scandal."}
+{"id":23193,"keep":0,"q":1,"kind":"news","topic":"security","depth":"intro","title":"Kaspersky and NSA tools","why":"News of the moment on a hacking story."}
+{"id":23194,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"Russia 2016 Facebook ads","why":"News coverage of election ads."}
+{"id":23195,"keep":0,"q":2,"kind":"journalism","topic":"education","depth":"intro","title":"American graduate students in STEM","why":"Feature on foreign share of STEM graduate students; cited as evidence."}
+{"id":23196,"keep":1,"q":2,"kind":"journalism","topic":"japan","depth":"intro","title":"Japan's lonely deaths","why":"Documents how isolated elderly people die alone and why it is growing."}
+{"id":23197,"keep":0,"q":1,"kind":"news","topic":"media business","depth":"intro","title":"NYT earnings","why":"Quarterly earnings report."}
+{"id":23198,"keep":0,"q":2,"kind":"news","topic":"law","depth":"intro","title":"Oxford comma in Maine law","why":"News on a court case; cited as an anecdote."}
+{"id":23199,"keep":1,"q":3,"kind":"journalism","topic":"antitrust","depth":"intro","title":"The case against Google","why":"Long-form argument on Google's market power and antitrust history."}

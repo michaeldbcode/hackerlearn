@@ -1,0 +1,200 @@
+{"id": 28200, "keep": 0, "q": 1, "kind": "news", "topic": "consumer protection", "depth": "intro", "title": "FTC sues Intuit over TurboTax free filing", "why": "News of an enforcement action; no lasting explanatory value."}
+{"id": 28201, "keep": 0, "q": 1, "kind": "news", "topic": "antitrust", "depth": "intro", "title": "FTC statement on Amazon-iRobot deal", "why": "Press release about a terminated acquisition; news only."}
+{"id": 28202, "keep": 0, "q": 2, "kind": "other", "topic": "advertising", "depth": "intro", "title": "FTC reminder on influencer disclosure", "why": "Regulatory guidance notice; legal text rather than learning material."}
+{"id": 28203, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "FTC $5B Facebook privacy penalty", "why": "News of a penalty; legal and current events."}
+{"id": 28204, "keep": 0, "q": 2, "kind": "other", "topic": "advertising", "depth": "intro", "title": "FTC endorsement guides test", "why": "Regulatory guidance page; legal interpretation."}
+{"id": 28205, "keep": 0, "q": 2, "kind": "other", "topic": "privacy", "depth": "intro", "title": "FTC COPPA FAQs", "why": "Legal compliance FAQ; regulatory reference, not explanatory writing."}
+{"id": 28206, "keep": 0, "q": 2, "kind": "other", "topic": "advertising", "depth": "intro", "title": "FTC internet advertising rules", "why": "Regulatory compliance guidance; legal text."}
+{"id": 28207, "keep": 0, "q": 2, "kind": "other", "topic": "antitrust", "depth": "intro", "title": "FTC antitrust laws guide", "why": "Legal guide to statutes; reference for compliance."}
+{"id": 28208, "keep": 0, "q": 2, "kind": "other", "topic": "antitrust", "depth": "intro", "title": "Robinson-Patman price discrimination", "why": "Legal statute summary; not a learning explainer."}
+{"id": 28209, "keep": 1, "q": 3, "kind": "essay", "topic": "networking", "depth": "intro", "title": "The Story of the PING Program", "why": "Short history of the ping tool and how it was written by its author."}
+{"id": 28210, "keep": 1, "q": 4, "kind": "paper", "topic": "causality", "depth": "expert", "title": "Simpson's paradox and causal inference (Pearl)", "why": "Pearl's argument on causal structure behind Simpson's paradox; explains why data alone misleads."}
+{"id": 28211, "keep": 1, "q": 2, "kind": "essay", "topic": "security", "depth": "intro", "title": "Why GNU su does not support wheel", "why": "Stallman's argument against privileged wheel groups; a short opinion on access control."}
+{"id": 28212, "keep": 1, "q": 3, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "Fuchsia security principles", "why": "Explains Fuchsia's microkernel and capability-based security model."}
+{"id": 28213, "keep": 1, "q": 4, "kind": "essay", "topic": "critical theory", "depth": "intro", "title": "How to Deconstruct Almost Anything", "why": "Satirical but precise guide to deconstructing academic prose; teaches reading critically."}
+{"id": 28214, "keep": 1, "q": 5, "kind": "essay", "topic": "game design", "depth": "intermediate", "title": "The Lessons of Lucasfilm's Habitat", "why": "Classic postmortem on early online worlds; lessons on design, consistency and social play."}
+{"id": 28215, "keep": 0, "q": 1, "kind": "reference", "topic": "policy", "depth": "intro", "title": "EV tax credit rules", "why": "Government rules page; lookup reference only."}
+{"id": 28216, "keep": 0, "q": 1, "kind": "tool", "topic": "tools", "depth": "intro", "title": "qrencode", "why": "Command-line tool page; software download."}
+{"id": 28217, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "FullContact paid vacation", "why": "Company perk blog post; recruiting material."}
+{"id": 28218, "keep": 0, "q": 2, "kind": "tool", "topic": "security", "depth": "intermediate", "title": "System bus radio", "why": "Project demo of data exfiltration over radio; a tool showcase."}
+{"id": 28219, "keep": 0, "q": 1, "kind": "news", "topic": "misinformation", "depth": "intro", "title": "Full Fact on Dearlove coronavirus claims", "why": "Fact-check of a news claim; time-bound."}
+{"id": 28220, "keep": 0, "q": 1, "kind": "reference", "topic": "business", "depth": "intro", "title": "What percentage of small businesses fail", "why": "Statistics roundup; reference numbers, not explanation."}
+{"id": 28221, "keep": 0, "q": 2, "kind": "news", "topic": "internet", "depth": "intermediate", "title": "Fear China (DNS and traffic)", "why": "Opinion on internet attacks from China; news-driven."}
+{"id": 28222, "keep": 0, "q": 3, "kind": "reference", "topic": "software", "depth": "intermediate", "title": "Frink units definitions", "why": "A data file of unit definitions; reference data, not a guide."}
+{"id": 28223, "keep": 1, "q": 3, "kind": "talk", "topic": "programming", "depth": "intro", "title": "Future of Coding #44: Making Your Own Tools", "why": "Podcast interview on building personal tools and programming culture."}
+{"id": 28224, "keep": 0, "q": 2, "kind": "other", "topic": "ai", "depth": "intro", "title": "Future of Life AI open letter", "why": "Open letter statement; position paper rather than explanation."}
+{"id": 28225, "keep": 1, "q": 3, "kind": "paper", "topic": "ai safety", "depth": "intermediate", "title": "Research Priorities for Robust and Beneficial AI", "why": "Research agenda outlining open problems in making AI robust and beneficial."}
+{"id": 28226, "keep": 0, "q": 1, "kind": "reference", "topic": "firmware", "depth": "intro", "title": "LVFS vendors list", "why": "Vendor directory; a reference listing."}
+{"id": 28227, "keep": 0, "q": 1, "kind": "news", "topic": "surveillance", "depth": "intro", "title": "NSA spied on Brazilian oil giant (Globo)", "why": "News report on surveillance; current events."}
+{"id": 28228, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "OpenPGP card product page", "why": "Product page for a hardware token."}
+{"id": 28229, "keep": 1, "q": 2, "kind": "essay", "topic": "security", "depth": "intermediate", "title": "Remote assertion is coming back", "why": "Essay on remote attestation and how it can limit user control of devices."}
+{"id": 28230, "keep": 1, "q": 5, "kind": "tutorial", "topic": "game physics", "depth": "intermediate", "title": "Integration Basics", "why": "Classic explanation of numerical integration (Euler vs RK4) for game physics."}
+{"id": 28231, "keep": 0, "q": 2, "kind": "other", "topic": "writing", "depth": "intro", "title": "Galactanet writing", "why": "Personal fiction index page; not explanatory."}
+{"id": 28232, "keep": 0, "q": 1, "kind": "news", "topic": "polling", "depth": "intro", "title": "Gallup: trust in mass media", "why": "Poll results; statistics rather than explanation."}
+{"id": 28233, "keep": 1, "q": 4, "kind": "blog", "topic": "math", "depth": "expert", "title": "The ABC conjecture has still not been proved", "why": "Expert blog on the status of Mochizuki's abc proof and community reaction."}
+{"id": 28234, "keep": 1, "q": 4, "kind": "blog", "topic": "game development", "depth": "intermediate", "title": "The Game Outcomes Project: Crunch Makes Games Worse", "why": "Data-driven study linking crunch time to game quality; evidence and method."}
+{"id": 28235, "keep": 1, "q": 4, "kind": "essay", "topic": "game development", "depth": "intro", "title": "Dirty Coding Tricks", "why": "Stories of pragmatic hacks in shipped games; practical engineering lessons."}
+{"id": 28236, "keep": 1, "q": 3, "kind": "essay", "topic": "game development", "depth": "intro", "title": "Dirty Game Development Tricks", "why": "Anecdotes of unusual patching and workaround tactics in shipped games."}
+{"id": 28237, "keep": 0, "q": 2, "kind": "tool", "topic": "games", "depth": "intro", "title": "Drowning in Problems", "why": "Browser idle game; interactive toy, not explanatory."}
+{"id": 28238, "keep": 1, "q": 3, "kind": "essay", "topic": "game development", "depth": "intro", "title": "My Hardest Bug Ever", "why": "Short engineering story about an unusually difficult debugging session."}
+{"id": 28239, "keep": 1, "q": 4, "kind": "talk", "topic": "game architecture", "depth": "expert", "title": "Data-Driven Game Object System", "why": "Dungeon Siege component architecture slides; early entity-system design."}
+{"id": 28240, "keep": 1, "q": 5, "kind": "paper", "topic": "networking", "depth": "expert", "title": "The TRIBES Networking Model", "why": "Classic paper on client-side prediction and rollback for multiplayer games."}
+{"id": 28241, "keep": 0, "q": 1, "kind": "tool", "topic": "games", "depth": "intro", "title": "GameMaker", "why": "Engine homepage; product marketing."}
+{"id": 28242, "keep": 1, "q": 5, "kind": "book", "topic": "game programming", "depth": "intermediate", "title": "Game Loop", "why": "Chapter explaining the game loop pattern and its variants; classic book."}
+{"id": 28243, "keep": 0, "q": 1, "kind": "other", "topic": "email", "depth": "intro", "title": "Gandi email hosting", "why": "Hosting product page."}
+{"id": 28244, "keep": 0, "q": 1, "kind": "other", "topic": "embedded", "depth": "intro", "title": "Jack Ganssle's Embedded Muse signup", "why": "Newsletter signup page."}
+{"id": 28245, "keep": 0, "q": 2, "kind": "reference", "topic": "policy", "depth": "intro", "title": "GAO road damage report", "why": "Government report cited as evidence in an argument."}
+{"id": 28246, "keep": 0, "q": 2, "kind": "blog", "topic": "software", "depth": "intermediate", "title": "The Carmack Plan", "why": "Post about John Carmack's .plan files; history with little technical content."}
+{"id": 28247, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Gawker: GCreep Google story", "why": "Old news story about an engineer's misconduct."}
+{"id": 28248, "keep": 1, "q": 3, "kind": "essay", "topic": "culture", "depth": "intro", "title": "On Smarm", "why": "Essay defining smarm as performed sincerity without substance; cultural criticism."}
+{"id": 28249, "keep": 1, "q": 4, "kind": "blog", "topic": "programming languages", "depth": "expert", "title": "The Miracle of Become", "why": "Expert post on promise resolution and reference semantics in E-style languages."}
+{"id": 28250, "keep": 0, "q": 2, "kind": "tool", "topic": "typescript", "depth": "intermediate", "title": "io-ts", "why": "Library documentation; tool reference."}
+{"id": 28251, "keep": 0, "q": 1, "kind": "reference", "topic": "compilers", "depth": "intro", "title": "GCC coding conventions", "why": "Internal project style guide; not general learning material."}
+{"id": 28252, "keep": 1, "q": 3, "kind": "reference", "topic": "c", "depth": "intermediate", "title": "GNU C Extensions", "why": "Reference of GCC's C language extensions, useful for systems programmers."}
+{"id": 28253, "keep": 1, "q": 2, "kind": "reference", "topic": "c", "depth": "intro", "title": "Case Ranges (GCC)", "why": "Short reference on GCC's range syntax in switch statements."}
+{"id": 28254, "keep": 1, "q": 2, "kind": "reference", "topic": "c", "depth": "intro", "title": "Designated Initializers", "why": "Reference on designated initializers in C, with clear examples."}
+{"id": 28255, "keep": 1, "q": 2, "kind": "reference", "topic": "c", "depth": "intermediate", "title": "Variable-length arrays (GCC)", "why": "Reference on VLAs, their limits and when they make sense."}
+{"id": 28256, "keep": 1, "q": 3, "kind": "docs", "topic": "compilers", "depth": "expert", "title": "GCC Internals: RTL", "why": "GCC internals doc describing the RTL intermediate representation."}
+{"id": 28257, "keep": 0, "q": 1, "kind": "news", "topic": "governance", "depth": "intro", "title": "GCC steering committee email", "why": "Governance dispute email; news-driven."}
+{"id": 28258, "keep": 0, "q": 1, "kind": "other", "topic": "governance", "depth": "intro", "title": "GCC steering committee", "why": "Governance page; organisational info."}
+{"id": 28259, "keep": 0, "q": 1, "kind": "reference", "topic": "crypto", "depth": "intro", "title": "GDAX fee schedule", "why": "Exchange fee table; reference lookup."}
+{"id": 28260, "keep": 1, "q": 5, "kind": "talk", "topic": "networking", "depth": "expert", "title": "I Shot You First: Networking the Gameplay of Halo: Reach", "why": "Classic GDC talk on netcode, prediction and synchronisation in a shipped shooter."}
+{"id": 28261, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "GDPR Article 16", "why": "Legal text; statutory article."}
+{"id": 28262, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "GDPR Article 27", "why": "Legal text; statutory article."}
+{"id": 28263, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "GDPR Article 5", "why": "Legal text; statutory article."}
+{"id": 28264, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "GDPR Recital 18", "why": "Legal text; statutory recital."}
+{"id": 28265, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "GDPR Recital 30", "why": "Legal text; statutory recital."}
+{"id": 28266, "keep": 0, "q": 2, "kind": "other", "topic": "privacy", "depth": "intro", "title": "Who must comply with GDPR", "why": "Legal scope summary; regulatory text rather than explanation."}
+{"id": 28267, "keep": 0, "q": 1, "kind": "news", "topic": "ecommerce", "depth": "intro", "title": "AmazonBasics copying sellers", "why": "News article on a retailer's private-label practices."}
+{"id": 28268, "keep": 0, "q": 1, "kind": "other", "topic": "culture", "depth": "intro", "title": "The Geek Code", "why": "Self-description template; cultural curiosity."}
+{"id": 28269, "keep": 0, "q": 2, "kind": "reference", "topic": "gender", "depth": "intro", "title": "Sexualized environment", "why": "Wiki page on social issues; not technical."}
+{"id": 28270, "keep": 0, "q": 2, "kind": "reference", "topic": "gender", "depth": "intro", "title": "Tone argument", "why": "Wiki on a rhetorical argument pattern; social commentary."}
+{"id": 28271, "keep": 0, "q": 2, "kind": "reference", "topic": "gender", "depth": "intro", "title": "Who is harmed by Real Names policy", "why": "Wiki page on a platform policy debate."}
+{"id": 28272, "keep": 1, "q": 4, "kind": "journalism", "topic": "game economics", "depth": "intro", "title": "Experiments in video game economics", "why": "Valve's pricing experiments and what they reveal about price elasticity."}
+{"id": 28273, "keep": 0, "q": 2, "kind": "news", "topic": "cloud", "depth": "intro", "title": "AWS custom network hardware", "why": "Brief news piece on AWS's hardware, little depth."}
+{"id": 28274, "keep": 0, "q": 1, "kind": "comic", "topic": "culture", "depth": "intro", "title": "Show them the code (comic)", "why": "Single-strip satirical comic about a programmer; not informational."}
+{"id": 28275, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Gemini careers", "why": "Job listing page."}
+{"id": 28276, "keep": 0, "q": 1, "kind": "other", "topic": "ai", "depth": "intro", "title": "Gemini in Chrome", "why": "Product page for a browser feature."}
+{"id": 28277, "keep": 1, "q": 3, "kind": "visual", "topic": "generative ai", "depth": "intro", "title": "Genai showdown: image editing", "why": "Side-by-side comparison of image-editing models; concrete examples of strengths and failures."}
+{"id": 28278, "keep": 0, "q": 2, "kind": "reference", "topic": "health", "depth": "intro", "title": "Genome sequencing costs", "why": "Statistics chart page; data rather than explanation."}
+{"id": 28279, "keep": 0, "q": 1, "kind": "news", "topic": "maps", "depth": "intro", "title": "Google Maps API price hike", "why": "News about a pricing change."}
+{"id": 28280, "keep": 1, "q": 3, "kind": "blog", "topic": "developer tools", "depth": "intro", "title": "The Silver Searcher vs ack", "why": "Benchmarks and explanation of why ag beats grep and ack for code search."}
+{"id": 28281, "keep": 0, "q": 2, "kind": "essay", "topic": "politics", "depth": "intro", "title": "In defense of Richard Stallman", "why": "Opinion piece in a controversy; advocacy rather than learning."}
+{"id": 28282, "keep": 1, "q": 4, "kind": "blog", "topic": "security", "depth": "expert", "title": "AOL Instant Messenger client validation", "why": "Detailed notes on the challenge-response scheme and deliberate buffer overflow abuse."}
+{"id": 28283, "keep": 0, "q": 2, "kind": "tool", "topic": "geology", "depth": "intro", "title": "Sea level rise map", "why": "Interactive map tool; visualization rather than explanation."}
+{"id": 28284, "keep": 1, "q": 4, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "CSV Injection", "why": "Explains CSV injection attacks and practical mitigations in spreadsheets."}
+{"id": 28285, "keep": 1, "q": 5, "kind": "essay", "topic": "technology", "depth": "intro", "title": "Can We Survive Technology?", "why": "Von Neumann's 1955 essay on technology's risks; classic long-range thinking."}
+{"id": 28286, "keep": 0, "q": 2, "kind": "blog", "topic": "ev batteries", "depth": "intermediate", "title": "Geotab EV battery health", "why": "Company data post on battery degradation; marketing-adjacent."}
+{"id": 28287, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Awair Element", "why": "Product page for an air quality monitor."}
+{"id": 28288, "keep": 1, "q": 3, "kind": "docs", "topic": "css", "depth": "intro", "title": "BEM introduction", "why": "Explains Block Element Modifier naming for reusable CSS components."}
+{"id": 28289, "keep": 1, "q": 2, "kind": "docs", "topic": "css", "depth": "intro", "title": "BEM naming", "why": "Naming conventions and reasoning behind BEM class structure."}
+{"id": 28290, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intro", "title": "Bootstrap JavaScript docs", "why": "Component reference; lookup material."}
+{"id": 28291, "keep": 0, "q": 2, "kind": "reference", "topic": "php", "depth": "intermediate", "title": "Composer repositories", "why": "Config reference for package repositories; lookup material."}
+{"id": 28292, "keep": 0, "q": 1, "kind": "tool", "topic": "web", "depth": "intro", "title": "Firebug Lite", "why": "Tool landing page."}
+{"id": 28293, "keep": 0, "q": 1, "kind": "tool", "topic": "web", "depth": "intro", "title": "Firebug Lite page", "why": "Tool landing page."}
+{"id": 28294, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Harvest careers", "why": "Job listing page."}
+{"id": 28295, "keep": 1, "q": 3, "kind": "explainer", "topic": "cryptography", "depth": "intermediate", "title": "Monero ring signatures", "why": "Explains how ring signatures hide the sender among decoys in transactions."}
+{"id": 28296, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "Paint.NET download", "why": "Software download page."}
+{"id": 28297, "keep": 0, "q": 2, "kind": "news", "topic": "software", "depth": "intro", "title": "Why Windows updates have more bugs", "why": "Secondhand article on testing changes; news-like."}
+{"id": 28298, "keep": 1, "q": 2, "kind": "docs", "topic": "programming languages", "depth": "intermediate", "title": "GHC2021 and language extensions", "why": "Docs explaining GHC's default extension set and why it exists."}
+{"id": 28299, "keep": 1, "q": 3, "kind": "docs", "topic": "type systems", "depth": "expert", "title": "GHC linear types", "why": "User guide for linear types, a type-system feature for resource tracking."}
+{"id": 28300, "keep": 1, "q": 2, "kind": "docs", "topic": "programming languages", "depth": "intermediate", "title": "Deferring type errors to runtime", "why": "Explains GHC's option to defer type errors until runtime and when that helps."}
+{"id": 28301, "keep": 1, "q": 2, "kind": "docs", "topic": "type systems", "depth": "expert", "title": "GHC linear types design", "why": "Design wiki for linear types in GHC; background on the feature."}
+{"id": 28302, "keep": 0, "q": 2, "kind": "tool", "topic": "terminals", "depth": "intro", "title": "Ghostty about", "why": "Project pitch for a terminal emulator."}
+{"id": 28303, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Snapchat API full disclosure", "why": "Technical write-up of reverse engineering a private API and its security implications."}
+{"id": 28304, "keep": 0, "q": 2, "kind": "tool", "topic": "notes", "depth": "intro", "title": "Stroll (TiddlyWiki)", "why": "Plugin page for a note-taking tool."}
+{"id": 28305, "keep": 1, "q": 4, "kind": "book", "topic": "lisp", "depth": "intro", "title": "Why Lisp?", "why": "Introduction to why Lisp's extensibility matters, from Practical Common Lisp."}
+{"id": 28306, "keep": 1, "q": 5, "kind": "book", "topic": "lisp", "depth": "intermediate", "title": "Macros: Defining Your Own", "why": "Classic chapter explaining Common Lisp macros with worked examples."}
+{"id": 28307, "keep": 1, "q": 3, "kind": "essay", "topic": "engineering culture", "depth": "intro", "title": "Let a Thousand Flowers Bloom", "why": "Essay on engineering quality and culture at Twitter; lessons on managing teams."}
+{"id": 28308, "keep": 0, "q": 1, "kind": "other", "topic": "business", "depth": "intro", "title": "Gigster pricing", "why": "Company pricing page."}
+{"id": 28309, "keep": 1, "q": 2, "kind": "journalism", "topic": "finance", "depth": "intro", "title": "No More Safe Harbor (Reply All)", "why": "Long-form audio reporting on the Backpage shutdown and its effects."}
+{"id": 28310, "keep": 1, "q": 2, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Negative Mount Pleasant (Reply All)", "why": "Investigative audio on Foxconn incentives and local government deals."}
+{"id": 28311, "keep": 1, "q": 2, "kind": "journalism", "topic": "security", "depth": "intro", "title": "Long Distance (Reply All)", "why": "Investigative audio on phone scams targeting people."}
+{"id": 28312, "keep": 0, "q": 1, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "Reply All show page", "why": "Podcast homepage."}
+{"id": 28313, "keep": 1, "q": 2, "kind": "journalism", "topic": "security", "depth": "intro", "title": "Locksmith advertising scams (Reply All)", "why": "Investigation into locksmith ad scams and how they work."}
+{"id": 28314, "keep": 0, "q": 2, "kind": "tool", "topic": "graphics", "depth": "intro", "title": "GIMP develop", "why": "Contributor guide; how to help the project."}
+{"id": 28315, "keep": 1, "q": 3, "kind": "essay", "topic": "package managers", "depth": "intermediate", "title": "Package Managers are Evil", "why": "Argues for minimal dependencies with practical trade-offs from a language author."}
+{"id": 28316, "keep": 0, "q": 1, "kind": "tool", "topic": "charts", "depth": "intro", "title": "Chartist", "why": "Charting library homepage."}
+{"id": 28317, "keep": 0, "q": 1, "kind": "reference", "topic": "health", "depth": "intro", "title": "CDC COVID-NET", "why": "Statistics dashboard."}
+{"id": 28318, "keep": 0, "q": 1, "kind": "reference", "topic": "health", "depth": "intro", "title": "CDC FluView mortality", "why": "Statistics dashboard."}
+{"id": 28319, "keep": 0, "q": 1, "kind": "reference", "topic": "air quality", "depth": "intro", "title": "AirNow map", "why": "Air quality map; live data tool."}
+{"id": 28320, "keep": 1, "q": 3, "kind": "docs", "topic": "git", "depth": "intermediate", "title": "What git-annex is not", "why": "Clarifies git-annex's scope and where it fits versus backup tools."}
+{"id": 28321, "keep": 1, "q": 4, "kind": "docs", "topic": "git", "depth": "intro", "title": "Snapshots, not differences (Pro Git)", "why": "Explains git's snapshot model, which changes how you think about history."}
+{"id": 28322, "keep": 0, "q": 2, "kind": "reference", "topic": "git", "depth": "intermediate", "title": "git documentation", "why": "Command reference; lookup material."}
+{"id": 28323, "keep": 0, "q": 2, "kind": "reference", "topic": "git", "depth": "intermediate", "title": "git-am", "why": "Man page; command reference."}
+{"id": 28324, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intro", "title": "git-gui", "why": "Command reference page."}
+{"id": 28325, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intro", "title": "git-init", "why": "Command reference page."}
+{"id": 28326, "keep": 0, "q": 2, "kind": "reference", "topic": "git", "depth": "intermediate", "title": "git-stash", "why": "Command reference page."}
+{"id": 28327, "keep": 0, "q": 2, "kind": "reference", "topic": "git", "depth": "intermediate", "title": "gitrevisions", "why": "Syntax reference; lookup material."}
+{"id": 28328, "keep": 0, "q": 1, "kind": "other", "topic": "git", "depth": "intro", "title": "Git trademark policy", "why": "Trademark policy; legal text."}
+{"id": 28329, "keep": 0, "q": 1, "kind": "other", "topic": "terminals", "depth": "intro", "title": "Secure Shell FAQ", "why": "Product FAQ for a terminal app."}
+{"id": 28330, "keep": 0, "q": 2, "kind": "tool", "topic": "web", "depth": "intermediate", "title": "go-away", "why": "Anti-bot tool repository."}
+{"id": 28331, "keep": 0, "q": 2, "kind": "reference", "topic": "c", "depth": "intermediate", "title": "musl getaddrinfo source", "why": "Source file; code rather than explanation."}
+{"id": 28332, "keep": 0, "q": 1, "kind": "other", "topic": "source", "depth": "intro", "title": "coreutils true.c", "why": "Source file; discussion of copyright, not learning material."}
+{"id": 28333, "keep": 0, "q": 2, "kind": "tool", "topic": "security", "depth": "intermediate", "title": "password-store", "why": "Source file for a password tool."}
+{"id": 28334, "keep": 1, "q": 2, "kind": "book", "topic": "psychology", "depth": "intro", "title": "Psychopath Code", "why": "Self-published book on manipulation and psychopathy; informational but non-technical."}
+{"id": 28335, "keep": 0, "q": 1, "kind": "tool", "topic": "git", "depth": "intro", "title": "Gitea", "why": "Project homepage."}
+{"id": 28336, "keep": 0, "q": 1, "kind": "tool", "topic": "web", "depth": "intro", "title": "Bypass paywalls download", "why": "Download page for a browser extension."}
+{"id": 28337, "keep": 0, "q": 1, "kind": "tool", "topic": "web", "depth": "intro", "title": "Bypass Paywalls Clean for Firefox", "why": "Browser extension download page."}
+{"id": 28338, "keep": 1, "q": 2, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "GitHub Pages domain change", "why": "Explains why user content moved to a separate domain for security."}
+{"id": 28339, "keep": 1, "q": 3, "kind": "blog", "topic": "accessibility", "depth": "intermediate", "title": "Delivering Octicons with SVG", "why": "Why icon fonts hurt accessibility and how SVG avoids the problems."}
+{"id": 28340, "keep": 1, "q": 3, "kind": "blog", "topic": "rails", "depth": "intermediate", "title": "Upgrading GitHub from Rails 3.2 to 5.2", "why": "Engineering account of a large framework upgrade; lessons for big migrations."}
+{"id": 28341, "keep": 0, "q": 1, "kind": "news", "topic": "policy", "depth": "intro", "title": "GitHub and US government developers", "why": "Company statement; news."}
+{"id": 28342, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "GitHub updated its RSA host key", "why": "Security announcement; time-bound."}
+{"id": 28343, "keep": 0, "q": 1, "kind": "news", "topic": "changelog", "depth": "intro", "title": "GitHub changelog", "why": "Changelog index page."}
+{"id": 28344, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Copilot usage-based billing", "why": "Pricing announcement."}
+{"id": 28345, "keep": 0, "q": 2, "kind": "reference", "topic": "data", "depth": "intro", "title": "Octoverse 2024", "why": "Usage statistics report; data rather than explanation."}
+{"id": 28346, "keep": 0, "q": 2, "kind": "tool", "topic": "git", "depth": "intermediate", "title": "gh-stack", "why": "Tool documentation for a stacked-PR workflow."}
+{"id": 28347, "keep": 0, "q": 1, "kind": "reference", "topic": "markdown", "depth": "intro", "title": "GitHub Flavored Markdown", "why": "Syntax specification; lookup material."}
+{"id": 28348, "keep": 0, "q": 1, "kind": "tool", "topic": "javascript", "depth": "intro", "title": "Shepherd docs", "why": "Library documentation."}
+{"id": 28349, "keep": 1, "q": 4, "kind": "blog", "topic": "infrastructure", "depth": "expert", "title": "Introducing DGit", "why": "GitHub's design for replicated git storage and its failure trade-offs."}
+{"id": 28350, "keep": 0, "q": 2, "kind": "tool", "topic": "ai", "depth": "intro", "title": "GitHub Next Copilot View", "why": "Project page for an experiment."}
+{"id": 28351, "keep": 0, "q": 2, "kind": "tool", "topic": "ai", "depth": "intro", "title": "GitHub Next Copilot Workspace", "why": "Project page for a product experiment."}
+{"id": 28352, "keep": 0, "q": 1, "kind": "tool", "topic": "games", "depth": "intro", "title": "Goldberg emulator", "why": "Tool repository."}
+{"id": 28353, "keep": 0, "q": 1, "kind": "tool", "topic": "javascript", "depth": "intro", "title": "Buble", "why": "Compiler repository."}
+{"id": 28354, "keep": 0, "q": 1, "kind": "tool", "topic": "android", "depth": "intro", "title": "Mull browser", "why": "Browser project page."}
+{"id": 28355, "keep": 0, "q": 1, "kind": "tool", "topic": "android", "depth": "intro", "title": "F-Droid privileged extension", "why": "Tool repository."}
+{"id": 28356, "keep": 0, "q": 1, "kind": "other", "topic": "company", "depth": "intro", "title": "GitLab organisation", "why": "Organisation page."}
+{"id": 28357, "keep": 0, "q": 1, "kind": "other", "topic": "issue", "depth": "intro", "title": "GitLab issue 28996", "why": "Issue tracker entry."}
+{"id": 28358, "keep": 0, "q": 1, "kind": "other", "topic": "federation", "depth": "intro", "title": "GitLab federation issue", "why": "Feature proposal issue."}
+{"id": 28359, "keep": 0, "q": 1, "kind": "other", "topic": "telemetry", "depth": "intro", "title": "GitLab telemetry issue", "why": "Issue tracker entry about telemetry."}
+{"id": 28360, "keep": 0, "q": 1, "kind": "tool", "topic": "graphics", "depth": "intro", "title": "Inkscape repository", "why": "Project repository."}
+{"id": 28361, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "Quart", "why": "Framework repository."}
+{"id": 28362, "keep": 0, "q": 2, "kind": "other", "topic": "audio", "depth": "intermediate", "title": "PulseAudio merge request", "why": "Maintainer discussion; project politics."}
+{"id": 28363, "keep": 0, "q": 1, "kind": "other", "topic": "graphics", "depth": "intro", "title": "Wayland fractional scaling merge", "why": "Protocol change merge request."}
+{"id": 28364, "keep": 0, "q": 2, "kind": "other", "topic": "graphics", "depth": "intermediate", "title": "Xserver merge request", "why": "Merge request discussion."}
+{"id": 28365, "keep": 0, "q": 1, "kind": "other", "topic": "ui", "depth": "intro", "title": "GTK merge request", "why": "Merge request discussion."}
+{"id": 28366, "keep": 0, "q": 1, "kind": "other", "topic": "terminals", "depth": "intro", "title": "VTE sixel issue", "why": "Issue tracker entry."}
+{"id": 28367, "keep": 0, "q": 1, "kind": "tool", "topic": "ui", "depth": "intro", "title": "Cambalache", "why": "Tool repository."}
+{"id": 28368, "keep": 0, "q": 1, "kind": "tool", "topic": "government", "depth": "intro", "title": "openDesk", "why": "Project repository."}
+{"id": 28369, "keep": 0, "q": 1, "kind": "tool", "topic": "git", "depth": "intro", "title": "Gitorious", "why": "Software repository."}
+{"id": 28370, "keep": 1, "q": 4, "kind": "paper", "topic": "build systems", "depth": "expert", "title": "Build System Rules and Algorithms", "why": "Whitepaper on tup's dependency tracking and why build systems need correct rules."}
+{"id": 28371, "keep": 0, "q": 2, "kind": "reference", "topic": "charity", "depth": "intro", "title": "GiveDirectly research", "why": "Research index; list of papers."}
+{"id": 28372, "keep": 1, "q": 3, "kind": "explainer", "topic": "charity", "depth": "intro", "title": "Your dollar goes further overseas", "why": "Explains cost-effectiveness of charity by region with concrete numbers."}
+{"id": 28373, "keep": 0, "q": 2, "kind": "news", "topic": "shipping", "depth": "intro", "title": "Shipping pollution", "why": "News summary of a study."}
+{"id": 28374, "keep": 0, "q": 1, "kind": "news", "topic": "apple", "depth": "intro", "title": "Apple's leak hunting", "why": "Old news story."}
+{"id": 28375, "keep": 0, "q": 1, "kind": "news", "topic": "apple", "depth": "intro", "title": "How Apple lost the next iPhone", "why": "News story on a leak."}
+{"id": 28376, "keep": 0, "q": 1, "kind": "news", "topic": "labor", "depth": "intro", "title": "Amazon anti-union tactics", "why": "News story on a labour dispute."}
+{"id": 28377, "keep": 0, "q": 2, "kind": "journalism", "topic": "privacy", "depth": "intro", "title": "I cut Google out of my life", "why": "Personal experiment article; anecdote with little analysis."}
+{"id": 28378, "keep": 0, "q": 2, "kind": "news", "topic": "business", "depth": "intro", "title": "Oracle started as a CIA project", "why": "History news piece; secondhand story."}
+{"id": 28379, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "GL.iNet GL-MiFi", "why": "Product page."}
+{"id": 28380, "keep": 1, "q": 4, "kind": "essay", "topic": "talent", "depth": "intro", "title": "The Talent Myth", "why": "Gladwell's classic essay on the limits of hiring the best people."}
+{"id": 28381, "keep": 0, "q": 1, "kind": "news", "topic": "culture", "depth": "intro", "title": "JK Rowling transgender comments breakdown", "why": "Controversy coverage; news and opinion."}
+{"id": 28382, "keep": 0, "q": 1, "kind": "reference", "topic": "careers", "depth": "intro", "title": "Glassdoor Google salaries", "why": "Salary data page; statistics."}
+{"id": 28383, "keep": 0, "q": 2, "kind": "other", "topic": "semiconductors", "depth": "intro", "title": "Canon nanoimprint lithography", "why": "Company technology page; promotional."}
+{"id": 28384, "keep": 0, "q": 1, "kind": "reference", "topic": "climate", "depth": "intro", "title": "Global fire data forecast", "why": "Forecast dashboard."}
+{"id": 28385, "keep": 1, "q": 3, "kind": "journalism", "topic": "security", "depth": "intermediate", "title": "Inside the Chinese military attack on Nortel", "why": "Long-form reporting on espionage and its impact on a tech company."}
+{"id": 28386, "keep": 0, "q": 2, "kind": "news", "topic": "politics", "depth": "intro", "title": "America at war 93% of the time", "why": "Opinion piece built on a statistic; advocacy."}
+{"id": 28387, "keep": 0, "q": 2, "kind": "news", "topic": "ai", "depth": "intro", "title": "Global Witness on Rohingya hate speech", "why": "NGO advocacy report; news-driven."}
+{"id": 28388, "keep": 0, "q": 1, "kind": "tool", "topic": "graphics", "depth": "intro", "title": "GLSL sandbox", "why": "Interactive shader toy."}
+{"id": 28389, "keep": 0, "q": 1, "kind": "other", "topic": "email", "depth": "intro", "title": "Gmail unsubscribe feature", "why": "Product announcement."}
+{"id": 28390, "keep": 0, "q": 1, "kind": "tool", "topic": "maps", "depth": "intro", "title": "Styled maps wizard", "why": "Tool page."}
+{"id": 28391, "keep": 1, "q": 4, "kind": "explainer", "topic": "risc-v", "depth": "intermediate", "title": "RISC-V Vector Extension", "why": "Explains vector-length-agnostic programming and how the compiler handles it."}
+{"id": 28392, "keep": 0, "q": 1, "kind": "tool", "topic": "desktop", "depth": "intro", "title": "GNOME 3", "why": "Product homepage."}
+{"id": 28393, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "GNU free distro guidelines", "why": "Policy document on free software distros."}
+{"id": 28394, "keep": 0, "q": 1, "kind": "news", "topic": "humor", "depth": "intro", "title": "Incorrect quotation (GNU)", "why": "Humorous rebuttal page; not technical."}
+{"id": 28395, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "GPL version 1", "why": "Licence text."}
+{"id": 28396, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "GPLv3 quick guide", "why": "Licence guide."}
+{"id": 28397, "keep": 0, "q": 2, "kind": "essay", "topic": "licensing", "depth": "intro", "title": "Why GPLv3", "why": "Licence rationale; policy rather than learning material."}
+{"id": 28398, "keep": 0, "q": 1, "kind": "reference", "topic": "gnu", "depth": "intro", "title": "GNU blurbs", "why": "Directory of GNU software."}
+{"id": 28399, "keep": 1, "q": 2, "kind": "essay", "topic": "open source", "depth": "intro", "title": "Android and users' freedom", "why": "Stallman's argument on how Android differs from GNU/Linux and what that means."}
