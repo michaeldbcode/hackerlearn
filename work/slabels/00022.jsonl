@@ -252,6 +252,7 @@
 {"id": 42690473, "keep": 0, "q": 1, "kind": "journalism", "topic": "npm malware"}
 {"id": 14393501, "keep": 1, "q": 3, "kind": "blog", "topic": "https migration"}
 {"id": 14108849, "keep": 0, "q": 1, "kind": "other", "topic": "payments product"}
+{"id": 16030838, "keep": 0, "q": 1, "kind": "journalism", "topic": "swatting incident"}
 {"id": 16862446, "keep": 0, "q": 2, "kind": "other", "topic": "mycelium material"}
 {"id": 23002874, "keep": 1, "q": 3, "kind": "other", "topic": "demoscene"}
 {"id": 44490510, "keep": 1, "q": 5, "kind": "postmortem", "topic": "postgres notify"}

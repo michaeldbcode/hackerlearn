@@ -98,6 +98,7 @@
 {"id": 28691358, "keep": 0, "q": 1, "kind": "other", "topic": "vr headset"}
 {"id": 20382126, "keep": 1, "q": 4, "kind": "essay", "topic": "erlang"}
 {"id": 20522868, "keep": 1, "q": 4, "kind": "essay", "topic": "reliability"}
+{"id": 20522868, "keep": 1, "q": 4, "kind": "essay", "topic": "reliability"}
 {"id": 43587380, "keep": 1, "q": 2, "kind": "essay", "topic": "side projects"}
 {"id": 17449457, "keep": 0, "q": 2, "kind": "journalism", "topic": "eu copyright"}
 {"id": 45815419, "keep": 0, "q": 1, "kind": "other", "topic": "dishwasher pods"}
@@ -371,7 +372,6 @@
 {"id": 5438797, "keep": 0, "q": 2, "kind": "journalism", "topic": "google ads"}
 {"id": 11313452, "keep": 0, "q": 1, "kind": "essay", "topic": "personal health"}
 {"id": 12985644, "keep": 1, "q": 2, "kind": "other", "topic": "browser tracking"}
-{"id": 14452923, "keep": 0, "q": 1, "kind": "journalism", "topic": "game acquisition"}
 {"id": 14452923, "keep": 0, "q": 1, "kind": "journalism", "topic": "game acquisition"}
 {"id": 27394925, "keep": 0, "q": 2, "kind": "ask_hn", "topic": "image search censorship"}
 {"id": 27461970, "keep": 0, "q": 1, "kind": "essay", "topic": "remote work"}
