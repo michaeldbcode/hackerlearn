@@ -211,6 +211,9 @@ How bulk labelling runs (no API key needed):
 - [x] Topic taxonomy: `work/topic_map.json` (42 canonical topics plus keyword fallback, made by Sonnet from `work/topics_raw.tsv`); applied in `served/build.py` `norm_topic`.
 - [x] Coverage extended: `python3 -m served.batches 4 4 238` appended **126 batches (00238–00363)** for 25,158 URLs with exactly 4 distinct users (ids start at 47600).
   `served/batches.py` args: `MIN MAX START_BATCH`.
+- **Repo renamed to `michaeldbcode/hackerlearn`.** The site is live on GitHub Pages: https://michaeldbcode.github.io/hackerlearn/ (served from `main` /docs). Push through the old URL `github.com/michaeldbcode/served` (it redirects); this session's git proxy only authorises that name.
+- Fixed: `.gitignore` had `data/`, which also ignored `docs/data/`, so the Pages site was blank. It's now `/data/`.
+- The overnight scheduled session committed to branch `claude/eager-ptolemy-83r8zr`; merged into main. **Resuming sessions: always work on and push to `main`** (Pages deploys from it).
 - Comments track complete (60/60). Site preview artifact (private): https://claude.ai/artifact/P4PYcyzksxhb6KqswrcMWf. Republish `docs/index.html` with all `docs/data/**` files to update it.
 
 ## Next steps (exact): for a resuming session
