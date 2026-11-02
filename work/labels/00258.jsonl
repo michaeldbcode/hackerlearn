@@ -1,0 +1,200 @@
+{"id": 51600, "keep": 1, "q": 2, "kind": "explainer", "topic": "vaccines", "depth": "intro", "title": "How the Flu Vaccine Is Made", "why": "Explains how flu vaccines are produced, inactivated versus live, and how they are regulated."}
+{"id": 51601, "keep": 1, "q": 2, "kind": "reference", "topic": "vaccines", "depth": "intro", "title": "Flu Shot Misconceptions", "why": "Corrects common myths about flu shots, including whether they can cause flu illness."}
+{"id": 51602, "keep": 0, "q": 2, "kind": "reference", "topic": "vaccines", "depth": "expert", "title": "Flu Vaccine Effectiveness Studies", "why": "A list of effectiveness studies; mostly evidence links rather than a teaching resource."}
+{"id": 51603, "keep": 1, "q": 3, "kind": "explainer", "topic": "vaccines", "depth": "intro", "title": "Vaccine Effectiveness vs Efficacy Q&A", "why": "Explains how effectiveness studies differ from efficacy trials and why that matters."}
+{"id": 51604, "keep": 0, "q": 1, "kind": "reference", "topic": "food safety", "depth": "intermediate", "title": "Raw Milk Outbreaks", "why": "Surveillance counts of raw milk outbreaks; statistics rather than explanation."}
+{"id": 51605, "keep": 0, "q": 1, "kind": "docs", "topic": "water safety", "depth": "intro", "title": "Rainwater Collection Safety", "why": "Practical homeowner guidance on contamination risks for collected rainwater."}
+{"id": 51606, "keep": 0, "q": 1, "kind": "reference", "topic": "epidemiology", "depth": "intro", "title": "HIV Surveillance Basics", "why": "Surveillance definitions and case statistics for HIV in the US."}
+{"id": 51607, "keep": 0, "q": 1, "kind": "reference", "topic": "infection control", "depth": "intermediate", "title": "Chemical Disinfection Guidelines", "why": "Infection-control guideline document for disinfectant use in healthcare settings."}
+{"id": 51608, "keep": 0, "q": 1, "kind": "reference", "topic": "public health", "depth": "intro", "title": "Leading Causes of Death by Age", "why": "Mortality statistics table by age group and cause."}
+{"id": 51609, "keep": 0, "q": 1, "kind": "reference", "topic": "epidemiology", "depth": "intro", "title": "Lyme Disease Case Maps", "why": "Case-count maps by state; surveillance data rather than explanation."}
+{"id": 51610, "keep": 0, "q": 1, "kind": "reference", "topic": "epidemiology", "depth": "intro", "title": "Lyme Disease Statistics Tables", "why": "Tabulated Lyme case counts by year and region."}
+{"id": 51611, "keep": 1, "q": 2, "kind": "docs", "topic": "public health", "depth": "intro", "title": "History of Malaria", "why": "Traces malaria's history and the efforts to control it."}
+{"id": 51612, "keep": 0, "q": 1, "kind": "docs", "topic": "chronic illness", "depth": "intro", "title": "ME/CFS Overview", "why": "Basic landing page on ME/CFS with links to research."}
+{"id": 51613, "keep": 0, "q": 1, "kind": "news", "topic": "public health", "depth": "intro", "title": "H5N1 Bird Flu Press Release", "why": "Press release on H5N1 findings; news of the moment."}
+{"id": 51614, "keep": 0, "q": 2, "kind": "reference", "topic": "public health", "depth": "intermediate", "title": "Reporting Suicide in the Media", "why": "Public-health guidance on responsible media reporting of suicide."}
+{"id": 51615, "keep": 0, "q": 2, "kind": "paper", "topic": "opioids", "depth": "intermediate", "title": "Opioid Overdose Trends", "why": "Surveillance-based report on opioid overdose causes and trends."}
+{"id": 51616, "keep": 1, "q": 3, "kind": "paper", "topic": "opioids", "depth": "intermediate", "title": "Opioid Prescription Length and Dependence", "why": "Shows dependence lasting up to a year in about 20% of patients after a 10-day opioid supply."}
+{"id": 51617, "keep": 1, "q": 2, "kind": "paper", "topic": "public health", "depth": "intermediate", "title": "Obesity Prevalence by Income", "why": "Analyzes obesity prevalence across income groups, with the limits of the correlation discussed."}
+{"id": 51618, "keep": 0, "q": 2, "kind": "reference", "topic": "public health", "depth": "intro", "title": "Deaths From Insect Stings", "why": "Surveillance summary of deaths from stings by insects in the US."}
+{"id": 51619, "keep": 1, "q": 3, "kind": "paper", "topic": "occupational health", "depth": "intermediate", "title": "Suicide Rates by Occupation", "why": "Compares suicide rates across industries and occupations, with data limits noted."}
+{"id": 51620, "keep": 1, "q": 2, "kind": "paper", "topic": "covid", "depth": "intermediate", "title": "SARS-CoV-2 RNA on Surfaces", "why": "Reports viral RNA found on surfaces, raising questions about whether it is infectious."}
+{"id": 51621, "keep": 1, "q": 2, "kind": "paper", "topic": "covid", "depth": "intermediate", "title": "Face Masks and COVID Transmission", "why": "Compares mask types and their effect on transmission in enclosed spaces."}
+{"id": 51622, "keep": 1, "q": 2, "kind": "paper", "topic": "covid", "depth": "intermediate", "title": "COVID Symptom Resolution", "why": "Reports how long COVID-19 symptoms lasted across a patient cohort."}
+{"id": 51623, "keep": 0, "q": 1, "kind": "reference", "topic": "public health", "depth": "intro", "title": "Measles and COVID Report", "why": "Short surveillance report with little standalone instructional value."}
+{"id": 51624, "keep": 0, "q": 2, "kind": "reference", "topic": "covid", "depth": "intro", "title": "COVID Deaths by Race and Age", "why": "Mortality statistics broken down by demographic group."}
+{"id": 51625, "keep": 1, "q": 3, "kind": "paper", "topic": "covid", "depth": "intermediate", "title": "Mask Requirements and COVID in Kansas", "why": "County-level analysis of mask mandates and infections, with confounders discussed."}
+{"id": 51626, "keep": 0, "q": 1, "kind": "reference", "topic": "abortion", "depth": "intro", "title": "Abortion Surveillance Summary", "why": "Annual statistics on abortions in the US."}
+{"id": 51627, "keep": 0, "q": 2, "kind": "paper", "topic": "covid", "depth": "intermediate", "title": "MMWR COVID Vaccination Report", "why": "Public-health report with limited standalone value; mostly cited as evidence."}
+{"id": 51628, "keep": 1, "q": 2, "kind": "paper", "topic": "covid", "depth": "intermediate", "title": "Breakthrough COVID Infections", "why": "Compares infection rates in vaccinated and unvaccinated groups, with immunity context."}
+{"id": 51629, "keep": 1, "q": 2, "kind": "paper", "topic": "covid", "depth": "intermediate", "title": "Myocarditis After COVID Vaccination", "why": "Reports myocarditis risk after mRNA vaccines compared with risk from infection."}
+{"id": 51630, "keep": 0, "q": 1, "kind": "reference", "topic": "covid", "depth": "intro", "title": "COVID Mortality Trends", "why": "Mortality data trends; statistics rather than explanation."}
+{"id": 51631, "keep": 0, "q": 1, "kind": "reference", "topic": "road safety", "depth": "intro", "title": "Seat Belt Facts", "why": "Fact sheet with seatbelt statistics."}
+{"id": 51632, "keep": 0, "q": 1, "kind": "docs", "topic": "public health", "depth": "intro", "title": "Travel and Blood Clots", "why": "Patient-facing information on deep vein thrombosis risk while traveling."}
+{"id": 51633, "keep": 1, "q": 2, "kind": "reference", "topic": "public health", "depth": "intermediate", "title": "Blood Lead Reference Value", "why": "Explains the reference blood lead level and why it is used to track lead exposure."}
+{"id": 51634, "keep": 0, "q": 1, "kind": "docs", "topic": "radiation", "depth": "intro", "title": "Potassium Iodide Guidance", "why": "Practical guidance on potassium iodide use after radiation emergencies."}
+{"id": 51635, "keep": 1, "q": 2, "kind": "explainer", "topic": "radiation", "depth": "intro", "title": "Non-Ionizing Radiation Overview", "why": "Explains non-ionizing radiation sources and why everyday exposure is considered low risk."}
+{"id": 51636, "keep": 0, "q": 1, "kind": "reference", "topic": "covid", "depth": "intermediate", "title": "Long COVID Survey Data", "why": "Survey-based statistics on long COVID prevalence."}
+{"id": 51637, "keep": 0, "q": 1, "kind": "reference", "topic": "public health", "depth": "intro", "title": "Height and Weight Trends", "why": "Data brief on changes in average height and weight."}
+{"id": 51638, "keep": 0, "q": 1, "kind": "reference", "topic": "public health", "depth": "intro", "title": "Neonatal Survival Data Brief", "why": "Data brief on infant outcomes by gestational age."}
+{"id": 51639, "keep": 0, "q": 1, "kind": "reference", "topic": "public health", "depth": "intro", "title": "Leading Causes of Death 2015", "why": "Death counts by cause; mortality statistics."}
+{"id": 51640, "keep": 0, "q": 1, "kind": "reference", "topic": "climate", "depth": "intro", "title": "Heat and Cold Deaths", "why": "Heat and cold mortality statistics report."}
+{"id": 51641, "keep": 0, "q": 1, "kind": "reference", "topic": "public health", "depth": "intro", "title": "Mortality Report NVSR 61", "why": "National vital statistics report with death counts."}
+{"id": 51642, "keep": 0, "q": 1, "kind": "reference", "topic": "public health", "depth": "intro", "title": "Mortality Report NVSR 63", "why": "National vital statistics report with death counts by cause."}
+{"id": 51643, "keep": 0, "q": 1, "kind": "reference", "topic": "firearms", "depth": "intro", "title": "Mortality Report NVSR 65", "why": "Vital statistics including firearm death rates."}
+{"id": 51644, "keep": 0, "q": 1, "kind": "reference", "topic": "suicide", "depth": "intro", "title": "Provisional Suicide Data", "why": "Provisional mortality counts for suicide."}
+{"id": 51645, "keep": 0, "q": 1, "kind": "reference", "topic": "suicide", "depth": "intro", "title": "Provisional Suicide Trends", "why": "Provisional adolescent suicide statistics."}
+{"id": 51646, "keep": 0, "q": 1, "kind": "reference", "topic": "injuries", "depth": "intro", "title": "Injury Facts", "why": "Quick statistics on causes of injury death."}
+{"id": 51647, "keep": 0, "q": 1, "kind": "reference", "topic": "demographics", "depth": "intro", "title": "Marriage and Divorce Rates", "why": "Marriage and divorce rate statistics."}
+{"id": 51648, "keep": 0, "q": 1, "kind": "reference", "topic": "sexuality", "depth": "intro", "title": "Number of Sexual Partners", "why": "Survey statistics on lifetime partner counts."}
+{"id": 51649, "keep": 0, "q": 1, "kind": "news", "topic": "demographics", "depth": "intro", "title": "Fertility Rate Press Release", "why": "Press release on fertility rates."}
+{"id": 51650, "keep": 0, "q": 1, "kind": "reference", "topic": "covid", "depth": "intro", "title": "COVID Mortality by State", "why": "State mortality ranking map."}
+{"id": 51651, "keep": 0, "q": 1, "kind": "reference", "topic": "substance abuse", "depth": "intermediate", "title": "Drug Deaths Data Brief", "why": "Data brief on drug overdose deaths by demographic."}
+{"id": 51652, "keep": 0, "q": 1, "kind": "reference", "topic": "obesity", "depth": "intro", "title": "Severe Obesity Prevalence", "why": "Survey statistics on severe obesity."}
+{"id": 51653, "keep": 0, "q": 1, "kind": "reference", "topic": "mental health", "depth": "intro", "title": "Antidepressant Use", "why": "Survey data on SSRI use by group."}
+{"id": 51654, "keep": 0, "q": 1, "kind": "reference", "topic": "homicide", "depth": "intro", "title": "Murder Death Data", "why": "Mortality data brief on homicide."}
+{"id": 51655, "keep": 0, "q": 1, "kind": "reference", "topic": "obesity", "depth": "intro", "title": "Obesity Prevalence Data Brief", "why": "Survey prevalence statistics."}
+{"id": 51656, "keep": 0, "q": 1, "kind": "reference", "topic": "covid", "depth": "intro", "title": "COVID Hospital Impact Report", "why": "Hospital capacity snapshot data."}
+{"id": 51657, "keep": 0, "q": 1, "kind": "reference", "topic": "respirators", "depth": "intermediate", "title": "Non-NIOSH Respirator Testing", "why": "Test results for non-NIOSH approved respirators."}
+{"id": 51658, "keep": 0, "q": 1, "kind": "reference", "topic": "parasites", "depth": "intro", "title": "Cryptosporidium Overview", "why": "Basic reference page on the cryptosporidium parasite."}
+{"id": 51659, "keep": 0, "q": 1, "kind": "docs", "topic": "fitness", "depth": "intro", "title": "Adult Physical Activity Guidelines", "why": "Official exercise recommendations for adults."}
+{"id": 51660, "keep": 0, "q": 1, "kind": "docs", "topic": "monkeypox", "depth": "intro", "title": "Monkeypox Transmission", "why": "Transmission info page with public-health guidance."}
+{"id": 51661, "keep": 0, "q": 1, "kind": "reference", "topic": "prion disease", "depth": "intro", "title": "Chronic Wasting Disease", "why": "Overview of CWD spread and risks."}
+{"id": 51662, "keep": 1, "q": 2, "kind": "docs", "topic": "public health", "depth": "intro", "title": "History of Quarantine", "why": "Traces the origins of quarantine from plague-era port cities onward."}
+{"id": 51663, "keep": 0, "q": 1, "kind": "reference", "topic": "rabies", "depth": "intro", "title": "Human Rabies Cases", "why": "Surveillance table of rabies cases."}
+{"id": 51664, "keep": 0, "q": 1, "kind": "reference", "topic": "infant mortality", "depth": "intro", "title": "Infant Mortality Rates", "why": "Infant mortality statistics page."}
+{"id": 51665, "keep": 0, "q": 1, "kind": "reference", "topic": "food safety", "depth": "intro", "title": "Salmonella Facts", "why": "Facts and statistics on salmonella illness."}
+{"id": 51666, "keep": 0, "q": 1, "kind": "reference", "topic": "sexual health", "depth": "intro", "title": "HPV Statistics", "why": "Prevalence statistics for HPV."}
+{"id": 51667, "keep": 0, "q": 1, "kind": "reference", "topic": "ticks", "depth": "intro", "title": "Alpha-Gal Syndrome", "why": "Public info page on the tick-borne alpha-gal allergy."}
+{"id": 51668, "keep": 0, "q": 1, "kind": "reference", "topic": "tobacco", "depth": "intro", "title": "Secondhand Smoke Health Effects", "why": "Reference page on health effects of secondhand smoke."}
+{"id": 51669, "keep": 0, "q": 1, "kind": "reference", "topic": "tobacco", "depth": "intro", "title": "Secondhand Smoke Health Risks", "why": "Risk summary page for secondhand smoke."}
+{"id": 51670, "keep": 1, "q": 3, "kind": "explainer", "topic": "vaccines", "depth": "intro", "title": "How Vaccines Are Tested and Approved", "why": "Walks through vaccine trial phases and the approval process step by step."}
+{"id": 51671, "keep": 1, "q": 2, "kind": "reference", "topic": "vaccines", "depth": "intermediate", "title": "Varicella (Pink Book)", "why": "Technical chapter on chickenpox epidemiology, vaccination, and the link to shingles."}
+{"id": 51672, "keep": 1, "q": 3, "kind": "explainer", "topic": "vaccines", "depth": "intro", "title": "Six Vaccine Misconceptions", "why": "Addresses common vaccine myths with evidence-based responses."}
+{"id": 51673, "keep": 1, "q": 3, "kind": "docs", "topic": "vaccines", "depth": "intermediate", "title": "RotaShield Vaccine History", "why": "Case history of a rotavirus vaccine withdrawn over intussusception risk."}
+{"id": 51674, "keep": 0, "q": 1, "kind": "reference", "topic": "vaccines", "depth": "expert", "title": "DTaP Clinician Reference", "why": "Clinician-facing vaccine information page."}
+{"id": 51675, "keep": 0, "q": 1, "kind": "reference", "topic": "vaccines", "depth": "intro", "title": "Measles Vaccine Overview", "why": "Vaccine info page with recommendations and coverage links."}
+{"id": 51676, "keep": 0, "q": 1, "kind": "docs", "topic": "vaccines", "depth": "intro", "title": "VAERS Overview", "why": "Describes the vaccine adverse event reporting system."}
+{"id": 51677, "keep": 0, "q": 1, "kind": "reference", "topic": "education", "depth": "intro", "title": "California Funding Formula", "why": "Official state education funding page."}
+{"id": 51678, "keep": 0, "q": 1, "kind": "other", "topic": "linux", "depth": "intro", "title": "Debian Non-Free Images", "why": "Download page for Debian images with firmware."}
+{"id": 51679, "keep": 0, "q": 1, "kind": "other", "topic": "linux", "depth": "intro", "title": "ISO Archive Listings", "why": "Directory listing of archived OS images."}
+{"id": 51680, "keep": 1, "q": 3, "kind": "essay", "topic": "startups", "depth": "intro", "title": "Why You Shouldn't Keep Your Startup Idea Secret", "why": "Argues that secrecy hurts startups more than idea theft helps them."}
+{"id": 51681, "keep": 1, "q": 3, "kind": "essay", "topic": "business models", "depth": "intermediate", "title": "Facebook's Business Model", "why": "Analyzes Facebook's monetization options compared with commerce-driven alternatives."}
+{"id": 51682, "keep": 1, "q": 3, "kind": "essay", "topic": "startups", "depth": "intro", "title": "Full-Stack Startups", "why": "Argues startups need teams that cover more than engineering."}
+{"id": 51683, "keep": 1, "q": 4, "kind": "essay", "topic": "networks", "depth": "intro", "title": "Come for the Tool, Stay for the Network", "why": "Explains how single-user tools grow into network products."}
+{"id": 51684, "keep": 0, "q": 1, "kind": "reference", "topic": "labor law", "depth": "intro", "title": "Colorado Pay Transparency", "why": "Legal compliance page for pay-transparency rules."}
+{"id": 51685, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "expert", "title": "hiQ v. LinkedIn Ruling", "why": "Court opinion on a preliminary injunction; legal text."}
+{"id": 51686, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "DeepSeek Privacy Policy", "why": "Legal privacy policy text."}
+{"id": 51687, "keep": 1, "q": 5, "kind": "book", "topic": "parallel programming", "depth": "expert", "title": "Is Parallel Programming Hard, And, If So?", "why": "Free book covering parallel programming from theory to practical techniques."}
+{"id": 51688, "keep": 0, "q": 1, "kind": "other", "topic": "policy", "depth": "intermediate", "title": "EU CSAR Council Texts", "why": "Draft legislative text on scanning; policy document."}
+{"id": 51689, "keep": 0, "q": 2, "kind": "other", "topic": "llms", "depth": "intermediate", "title": "GPT-5 System Card", "why": "Vendor safety documentation specific to one product."}
+{"id": 51690, "keep": 0, "q": 2, "kind": "other", "topic": "llms", "depth": "intermediate", "title": "GPT-4V System Card", "why": "Vendor safety documentation for one model."}
+{"id": 51691, "keep": 0, "q": 2, "kind": "other", "topic": "math", "depth": "expert", "title": "AI Unit Distance Proof Notes", "why": "Working document on a recent AI math result; news of the moment."}
+{"id": 51692, "keep": 0, "q": 2, "kind": "other", "topic": "llms", "depth": "intermediate", "title": "gpt-oss Model Card", "why": "Model card with architecture and safety specs."}
+{"id": 51693, "keep": 0, "q": 2, "kind": "other", "topic": "math", "depth": "expert", "title": "Mathematicians Respond to AI Proof", "why": "Short commentaries on a recent AI math claim; news of the moment."}
+{"id": 51694, "keep": 1, "q": 3, "kind": "paper", "topic": "llms", "depth": "intermediate", "title": "How People Use ChatGPT", "why": "Economic research paper measuring how people use ChatGPT for work and personal tasks."}
+{"id": 51695, "keep": 1, "q": 4, "kind": "paper", "topic": "llms", "depth": "intermediate", "title": "Why Language Models Hallucinate", "why": "Explains hallucination as a product of training incentives that reward guessing."}
+{"id": 51696, "keep": 1, "q": 3, "kind": "book", "topic": "clojure", "depth": "intro", "title": "Clojure Distilled", "why": "Concise introduction to Clojure's core ideas and syntax in one document."}
+{"id": 51697, "keep": 0, "q": 1, "kind": "other", "topic": "nutrition", "depth": "intro", "title": "Dietary Guidelines PDF", "why": "Government dietary guideline document; policy reference."}
+{"id": 51698, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Robinhood Customer Agreement", "why": "Legal contract text."}
+{"id": 51699, "keep": 0, "q": 1, "kind": "other", "topic": "ai", "depth": "intro", "title": "Ohio State Fair AI Poster", "why": "News-style story about an AI-made fair poster."}
+{"id": 51699, "keep": 0, "q": 1, "kind": "other", "topic": "ai", "depth": "intro", "title": "Ohio State Fair AI Poster", "why": "News-style story about an AI-made fair poster."}
+{"id": 51700, "keep": 1, "q": 3, "kind": "paper", "topic": "education", "depth": "intermediate", "title": "Racial Disparities in Gifted Identification", "why": "Shows Black students are less often placed in gifted programs despite identical achievement."}
+{"id": 51701, "keep": 0, "q": 1, "kind": "news", "topic": "immigration", "depth": "intro", "title": "Leaked Visa Program Memo", "why": "Leaked policy memo; news of the moment."}
+{"id": 51702, "keep": 0, "q": 1, "kind": "reference", "topic": "public health", "depth": "intro", "title": "Cell Phone Safety Guidance", "why": "Public-health safety tips for cell phone use."}
+{"id": 51703, "keep": 1, "q": 2, "kind": "docs", "topic": "cpu architecture", "depth": "expert", "title": "Intel AVX10 Technical Paper", "why": "Describes AVX10 vector instruction design and its 256-bit and 512-bit support."}
+{"id": 51704, "keep": 0, "q": 1, "kind": "other", "topic": "immigration", "depth": "intro", "title": "DS-160 Application Form", "why": "Visa application form."}
+{"id": 51705, "keep": 1, "q": 2, "kind": "explainer", "topic": "covid", "depth": "intermediate", "title": "Viral Load and COVID Severity", "why": "Reviews evidence on whether viral load predicts COVID-19 severity."}
+{"id": 51706, "keep": 0, "q": 1, "kind": "news", "topic": "covid", "depth": "intro", "title": "UVA Light Trial News", "why": "Institutional press release on a small study."}
+{"id": 51707, "keep": 0, "q": 1, "kind": "reference", "topic": "cdn performance", "depth": "intro", "title": "Cedexis CDN Country Reports", "why": "Performance data reports from a vendor."}
+{"id": 51708, "keep": 0, "q": 1, "kind": "tool", "topic": "audio", "depth": "intro", "title": "Melodyne Product Page", "why": "Product marketing page."}
+{"id": 51709, "keep": 1, "q": 4, "kind": "paper", "topic": "systems biology", "depth": "expert", "title": "Whole-Cell Model Predicts Phenotype", "why": "Presents a whole-cell computational model linking genotype to phenotype."}
+{"id": 51710, "keep": 0, "q": 1, "kind": "paper", "topic": "chemistry", "depth": "expert", "title": "Cell Chemical Biology Paper", "why": "Research article cited mainly for a press-release dispute."}
+{"id": 51711, "keep": 1, "q": 3, "kind": "paper", "topic": "biology", "depth": "expert", "title": "Obelisks: RNA Elements in Bacteria", "why": "Describes obelisks, newly found RNA elements, and their global distribution."}
+{"id": 51712, "keep": 1, "q": 4, "kind": "essay", "topic": "crispr", "depth": "intermediate", "title": "The Heroes of CRISPR", "why": "Lander's account of CRISPR's discovery and the patent dispute."}
+{"id": 51713, "keep": 1, "q": 3, "kind": "paper", "topic": "neuroscience", "depth": "expert", "title": "Face Cells Linearly Encode Faces", "why": "Shows faces can be linearly reconstructed from about 200 face-selective neurons."}
+{"id": 51714, "keep": 0, "q": 1, "kind": "paper", "topic": "biology", "depth": "expert", "title": "Inhibitor Research Paper", "why": "Research paper cited only tangentially."}
+{"id": 51715, "keep": 1, "q": 3, "kind": "paper", "topic": "bitcoin energy", "depth": "intermediate", "title": "Bitcoin Electricity Use Estimates", "why": "Estimates Bitcoin network electricity use and CO2 emissions, with methodology discussed."}
+{"id": 51716, "keep": 0, "q": 2, "kind": "other", "topic": "hardware", "depth": "intro", "title": "iPhone 7 Modem Comparison", "why": "Benchmark results comparing phone modems; narrow and dated."}
+{"id": 51717, "keep": 0, "q": 1, "kind": "news", "topic": "materials", "depth": "intro", "title": "Biodegradable Straws and PFAS", "why": "News coverage of PFAS in biodegradable straws."}
+{"id": 51718, "keep": 0, "q": 1, "kind": "news", "topic": "recycling", "depth": "intro", "title": "Wind Turbine Blade Recycling", "why": "Short news piece on turbine blade recycling."}
+{"id": 51719, "keep": 0, "q": 1, "kind": "news", "topic": "materials", "depth": "intro", "title": "Seawater Lithium", "why": "Short news piece on lithium extraction from seawater."}
+{"id": 51720, "keep": 0, "q": 1, "kind": "reference", "topic": "statistics", "depth": "intro", "title": "Traffic Statistics Table", "why": "Statistical table of traffic data."}
+{"id": 51721, "keep": 0, "q": 1, "kind": "reference", "topic": "housing", "depth": "intro", "title": "Housing Price Data", "why": "Price statistics for US homes."}
+{"id": 51722, "keep": 0, "q": 1, "kind": "reference", "topic": "housing", "depth": "intro", "title": "New Home Characteristics", "why": "Census data on new homes."}
+{"id": 51723, "keep": 0, "q": 1, "kind": "reference", "topic": "demographics", "depth": "intro", "title": "Marriage Age Trends", "why": "Demographic chart of marriage ages."}
+{"id": 51724, "keep": 0, "q": 1, "kind": "reference", "topic": "demographics", "depth": "intro", "title": "Families and Education Tables", "why": "Census tables on families and education."}
+{"id": 51725, "keep": 0, "q": 1, "kind": "reference", "topic": "income", "depth": "intro", "title": "Historical Income Tables", "why": "Income data tables."}
+{"id": 51726, "keep": 0, "q": 1, "kind": "reference", "topic": "towns", "depth": "intro", "title": "City Population Estimates", "why": "Population estimate tables."}
+{"id": 51727, "keep": 0, "q": 1, "kind": "reference", "topic": "business", "depth": "intro", "title": "Small Business Data", "why": "Census business statistics."}
+{"id": 51728, "keep": 0, "q": 1, "kind": "reference", "topic": "trade", "depth": "intro", "title": "Trade Balance Data", "why": "Trade statistics table."}
+{"id": 51729, "keep": 0, "q": 1, "kind": "tool", "topic": "maps", "depth": "intro", "title": "TIGER Map Data", "why": "Download portal for map data."}
+{"id": 51730, "keep": 0, "q": 1, "kind": "reference", "topic": "geography", "depth": "intro", "title": "Census Regions Map", "why": "Reference map of regions."}
+{"id": 51731, "keep": 0, "q": 1, "kind": "reference", "topic": "geography", "depth": "intermediate", "title": "Urban Area Definitions", "why": "Definition chapter; a generic reference lookup."}
+{"id": 51732, "keep": 0, "q": 1, "kind": "reference", "topic": "commuting", "depth": "intro", "title": "Commuting Report", "why": "Census commuting statistics."}
+{"id": 51733, "keep": 0, "q": 1, "kind": "reference", "topic": "income", "depth": "intro", "title": "Income Distribution Tables", "why": "Income data tables."}
+{"id": 51734, "keep": 0, "q": 1, "kind": "reference", "topic": "poverty", "depth": "intro", "title": "Poverty Measure Overview", "why": "Census definitions of poverty thresholds; reference material."}
+{"id": 51735, "keep": 0, "q": 1, "kind": "reference", "topic": "housing", "depth": "intro", "title": "Housing Definitions", "why": "Glossary of housing terms."}
+{"id": 51736, "keep": 0, "q": 1, "kind": "reference", "topic": "income", "depth": "intro", "title": "Median Family Income History", "why": "Historical statistics report."}
+{"id": 51737, "keep": 0, "q": 1, "kind": "reference", "topic": "income", "depth": "intro", "title": "1970 Family Income Report", "why": "Historical census statistics."}
+{"id": 51738, "keep": 0, "q": 1, "kind": "reference", "topic": "health insurance", "depth": "intro", "title": "Health Insurance Report", "why": "Annual insurance coverage statistics."}
+{"id": 51739, "keep": 0, "q": 1, "kind": "reference", "topic": "wealth", "depth": "intro", "title": "Household Income Report", "why": "Statistics on household income and savings."}
+{"id": 51740, "keep": 0, "q": 1, "kind": "news", "topic": "health care", "depth": "intro", "title": "Health Care Workers Story", "why": "Census story on health care employment."}
+{"id": 51741, "keep": 0, "q": 1, "kind": "news", "topic": "housing", "depth": "intro", "title": "Vacancy Rates Story", "why": "Census data story on vacancy rates."}
+{"id": 51742, "keep": 0, "q": 1, "kind": "news", "topic": "housing", "depth": "intro", "title": "Homeownership Story", "why": "Census data story on homeownership by age."}
+{"id": 51743, "keep": 0, "q": 1, "kind": "news", "topic": "families", "depth": "intro", "title": "Children and Parents Press Release", "why": "Press release on family structure."}
+{"id": 51744, "keep": 0, "q": 1, "kind": "news", "topic": "elections", "depth": "intro", "title": "Voter Registration Tables", "why": "Press release with election statistics."}
+{"id": 51745, "keep": 0, "q": 1, "kind": "news", "topic": "poverty", "depth": "intro", "title": "Poverty Awareness Story", "why": "Census poverty statistics story."}
+{"id": 51746, "keep": 0, "q": 1, "kind": "reference", "topic": "population", "depth": "intro", "title": "World Population Clock", "why": "Live population counter."}
+{"id": 51747, "keep": 0, "q": 1, "kind": "reference", "topic": "population", "depth": "intro", "title": "World Population History Table", "why": "Historical population table."}
+{"id": 51748, "keep": 0, "q": 1, "kind": "reference", "topic": "race", "depth": "intro", "title": "2010 Census Race Brief", "why": "Census brief on race categories."}
+{"id": 51749, "keep": 0, "q": 1, "kind": "reference", "topic": "race", "depth": "intro", "title": "Race Quickfacts", "why": "Statistics page."}
+{"id": 51750, "keep": 0, "q": 1, "kind": "reference", "topic": "race", "depth": "intro", "title": "Race Quickfacts 2", "why": "Statistics page."}
+{"id": 51751, "keep": 0, "q": 1, "kind": "other", "topic": "lighting", "depth": "intro", "title": "Centennial Bulb Webcam", "why": "Webcam page for a long-lived light bulb."}
+{"id": 51752, "keep": 1, "q": 3, "kind": "docs", "topic": "assembly", "depth": "intermediate", "title": "BBC Micro Inline Assembler", "why": "Explains mixing 6502 assembly into BBC BASIC programs."}
+{"id": 51753, "keep": 0, "q": 1, "kind": "reference", "topic": "small business", "depth": "intro", "title": "Small Business Report", "why": "Policy report on small business."}
+{"id": 51754, "keep": 0, "q": 1, "kind": "tool", "topic": "ai", "depth": "intro", "title": "Cerebras Pricing", "why": "Pricing page."}
+{"id": 51755, "keep": 0, "q": 1, "kind": "tool", "topic": "software distribution", "depth": "intermediate", "title": "CernVM-FS Docs", "why": "Tool documentation for a file system."}
+{"id": 51756, "keep": 1, "q": 3, "kind": "blog", "topic": "rust", "depth": "intermediate", "title": "Crafting an Interpreter in Rust", "why": "Practical lessons from building a language interpreter in Rust."}
+{"id": 51757, "keep": 0, "q": 1, "kind": "docs", "topic": "tls", "depth": "intro", "title": "cert-manager Docs", "why": "Tool documentation for certificate automation."}
+{"id": 51758, "keep": 0, "q": 1, "kind": "tool", "topic": "tls", "depth": "intro", "title": "Certbot Instructions", "why": "Setup instructions for a tool."}
+{"id": 51759, "keep": 1, "q": 3, "kind": "docs", "topic": "security", "depth": "intro", "title": "Certificate Transparency FAQ", "why": "Explains how certificate transparency logs detect misissued certificates."}
+{"id": 51760, "keep": 1, "q": 3, "kind": "tutorial", "topic": "programming languages", "depth": "expert", "title": "Writing a Language in Truffle", "why": "Shows how to add language features using Truffle's optimization model."}
+{"id": 51761, "keep": 1, "q": 2, "kind": "docs", "topic": "programming languages", "depth": "intermediate", "title": "Ceylon Types Tour", "why": "Explains Ceylon's type system, including sum and enum types."}
+{"id": 51762, "keep": 1, "q": 4, "kind": "essay", "topic": "science", "depth": "intro", "title": "Why Speculate?", "why": "Critiques the Drake equation and the dangers of speculative science."}
+{"id": 51763, "keep": 0, "q": 1, "kind": "news", "topic": "energy", "depth": "intro", "title": "Solar Panel Waste Opinion", "why": "Advocacy article on solar waste."}
+{"id": 51764, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "CFFI Docs", "why": "Library reference documentation."}
+{"id": 51765, "keep": 0, "q": 1, "kind": "talk", "topic": "linux", "depth": "intermediate", "title": "SixOS Talk Slides", "why": "Slides announcing a distribution."}
+{"id": 51766, "keep": 0, "q": 2, "kind": "journalism", "topic": "china", "depth": "intro", "title": "China Food Imports", "why": "Policy analysis of food import dependence, tied to current events."}
+{"id": 51767, "keep": 0, "q": 2, "kind": "journalism", "topic": "migration", "depth": "intro", "title": "Darien Gap Migration", "why": "News-driven article on migration routes."}
+{"id": 51768, "keep": 0, "q": 2, "kind": "journalism", "topic": "military", "depth": "intro", "title": "US Military Demographics", "why": "Demographic data article."}
+{"id": 51769, "keep": 0, "q": 2, "kind": "journalism", "topic": "policing", "depth": "intro", "title": "Police Compared Across Democracies", "why": "Comparative spending data; mostly statistics."}
+{"id": 51770, "keep": 0, "q": 1, "kind": "visual", "topic": "vaccines", "depth": "intro", "title": "Vaccine Map Animation", "why": "Animated map of vaccine coverage."}
+{"id": 51771, "keep": 0, "q": 1, "kind": "reference", "topic": "treaties", "depth": "intro", "title": "Budapest Memorandum", "why": "Treaty text summary."}
+{"id": 51772, "keep": 0, "q": 1, "kind": "other", "topic": "regulation", "depth": "intro", "title": "CFTC Staff Letter", "why": "Regulatory letter."}
+{"id": 51773, "keep": 1, "q": 3, "kind": "blog", "topic": "reverse engineering", "depth": "intermediate", "title": "Spotify's Built-in HTTP Server", "why": "Reverse engineers Spotify's local server and what it exposes."}
+{"id": 51774, "keep": 0, "q": 1, "kind": "other", "topic": "linux", "depth": "intro", "title": "systemd NEWS", "why": "Release notes file."}
+{"id": 51775, "keep": 0, "q": 1, "kind": "other", "topic": "x11", "depth": "expert", "title": "Xorg Commit", "why": "Single commit diff."}
+{"id": 51776, "keep": 1, "q": 5, "kind": "essay", "topic": "software engineering", "depth": "intro", "title": "No Silver Bullet", "why": "Brooks's classic essay on essential versus accidental complexity in software."}
+{"id": 51777, "keep": 0, "q": 2, "kind": "other", "topic": "biography", "depth": "intro", "title": "Seymour Cray Tribute", "why": "Memorial profile of a person."}
+{"id": 51778, "keep": 0, "q": 1, "kind": "other", "topic": "humor", "depth": "intro", "title": "Car Allergic to Vanilla", "why": "Short joke piece."}
+{"id": 51779, "keep": 1, "q": 3, "kind": "blog", "topic": "algorithms", "depth": "expert", "title": "Rust Hash Function Benchmarks", "why": "Benchmarks hash functions across input sizes and explains performance tradeoffs."}
+{"id": 51780, "keep": 1, "q": 4, "kind": "essay", "topic": "media", "depth": "intro", "title": "This Video Will Make You Angry", "why": "Explains why outrage spreads and how online content is shaped by it."}
+{"id": 51781, "keep": 1, "q": 3, "kind": "essay", "topic": "media", "depth": "intro", "title": "Why TV News Is a Waste of Human Effort", "why": "Argues that news cycles waste attention compared with lasting explainers."}
+{"id": 51782, "keep": 0, "q": 1, "kind": "reference", "topic": "immigration", "depth": "intro", "title": "Working in Switzerland", "why": "Government info on work permits."}
+{"id": 51783, "keep": 0, "q": 1, "kind": "reference", "topic": "small business", "depth": "intro", "title": "Small Business Statistics", "why": "Statistics page."}
+{"id": 51784, "keep": 0, "q": 1, "kind": "other", "topic": "linux", "depth": "intro", "title": "Linus RdRand Petition", "why": "Petition page."}
+{"id": 51785, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "London Independence Petition", "why": "Petition page."}
+{"id": 51786, "keep": 0, "q": 2, "kind": "talk", "topic": "go", "depth": "intermediate", "title": "Go Time Episode 154", "why": "Podcast episode page on using Go for a website."}
+{"id": 51787, "keep": 0, "q": 1, "kind": "tool", "topic": "github", "depth": "intro", "title": "Changelog Nightly", "why": "Newsletter signup page."}
+{"id": 51788, "keep": 0, "q": 1, "kind": "other", "topic": "newsletters", "depth": "intro", "title": "Changelog Weekly", "why": "Newsletter listing."}
+{"id": 51789, "keep": 1, "q": 4, "kind": "essay", "topic": "storytelling", "depth": "intro", "title": "Story Structure 101", "why": "Dan Harmon's story circle breakdown, a simple structure for writing stories."}
+{"id": 51790, "keep": 0, "q": 1, "kind": "other", "topic": "tv", "depth": "intro", "title": "Black Mirror Episode Guide", "why": "TV episode listing."}
+{"id": 51791, "keep": 0, "q": 2, "kind": "talk", "topic": "windows", "depth": "intermediate", "title": "Build 2016 Demo", "why": "Conference demo video page."}
+{"id": 51792, "keep": 1, "q": 4, "kind": "talk", "topic": "c++", "depth": "expert", "title": "Inheritance Is the Base Class of Evil", "why": "Sean Parent argues against inheritance-heavy designs in C++."}
+{"id": 51793, "keep": 1, "q": 4, "kind": "talk", "topic": "c++", "depth": "intermediate", "title": "The Essence of C++", "why": "Stroustrup's overview of how C++ evolved across standards."}
+{"id": 51794, "keep": 1, "q": 3, "kind": "talk", "topic": "compilers", "depth": "intermediate", "title": "Clang: Defending C++ from Murphy's Million Monkeys", "why": "Explains Clang's design motivations and the case against GCC lock-in."}
+{"id": 51795, "keep": 0, "q": 1, "kind": "other", "topic": "gaming", "depth": "intro", "title": "Visual Studio Achievements", "why": "Achievements page."}
+{"id": 51796, "keep": 0, "q": 1, "kind": "docs", "topic": "programming languages", "depth": "intro", "title": "Chaos Language Docs", "why": "Docs for a toy language, thin on examples."}
+{"id": 51797, "keep": 0, "q": 1, "kind": "tool", "topic": "display", "depth": "intro", "title": "Shades App", "why": "Software product page."}
+{"id": 51798, "keep": 0, "q": 1, "kind": "tool", "topic": "payments", "depth": "intro", "title": "Payment Gateway List", "why": "Vendor list of gateways."}

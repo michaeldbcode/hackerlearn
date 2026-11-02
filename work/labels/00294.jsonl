@@ -1,0 +1,200 @@
+{"id": 58800, "keep": 0, "q": 1, "kind": "news", "topic": "speech recognition", "depth": "intro", "title": "InfoWorld speech data and MySQL Q&A", "why": "Printer-friendly copy of a dated trade-press interview with marginal value."}
+{"id": 58801, "keep": 0, "q": 1, "kind": "news", "topic": "windows", "depth": "intro", "title": "Microsoft skips Windows 9", "why": "Dated product news about a Windows version naming decision."}
+{"id": 58802, "keep": 1, "q": 3, "kind": "journalism", "topic": "open source", "depth": "intro", "title": "Time is running out for NTP", "why": "Explains how underfunded open source projects underpin critical time infrastructure, using NTP as the example."}
+{"id": 58803, "keep": 0, "q": 2, "kind": "news", "topic": "rust", "depth": "intro", "title": "The future of Rust", "why": "Opinion on Rust governance and AWS influence rather than teaching."}
+{"id": 58804, "keep": 1, "q": 4, "kind": "essay", "topic": "web performance", "depth": "intermediate", "title": "The Performance Inequality Gap", "why": "Shows how device and network inequality makes real-world web performance far worse than developers assume."}
+{"id": 58805, "keep": 1, "q": 4, "kind": "essay", "topic": "browsers", "depth": "intermediate", "title": "Hobson's Browser", "why": "Argues how browser market dynamics and platform gatekeeping shape which web capabilities ship."}
+{"id": 58806, "keep": 1, "q": 4, "kind": "essay", "topic": "web performance", "depth": "intermediate", "title": "The Object Lesson", "why": "Case study of how per-component network connections and JavaScript-heavy stacks slow pages down."}
+{"id": 58807, "keep": 0, "q": 2, "kind": "paper", "topic": "nuclear energy", "depth": "intermediate", "title": "IAEA air pollution and energy document", "why": "Cited as evidence in a debate rather than written to teach."}
+{"id": 58808, "keep": 1, "q": 3, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "psycopg2 advanced topics", "why": "Explains asynchronous connections and integrating psycopg2 with select or poll event loops."}
+{"id": 58809, "keep": 0, "q": 1, "kind": "reference", "topic": "road safety", "depth": "intro", "title": "Crashes by time of day and day of week", "why": "Statistics lookup page rather than something to read and learn from."}
+{"id": 58810, "keep": 1, "q": 4, "kind": "essay", "topic": "end-user programming", "depth": "intermediate", "title": "End-User Programming", "why": "Argues for tools that let non-developers build software, with concrete design lessons."}
+{"id": 58811, "keep": 1, "q": 3, "kind": "visual", "topic": "interfaces", "depth": "intermediate", "title": "Inkbase", "why": "Interactive prototype of programmable ink for structured diagrams on tablets."}
+{"id": 58812, "keep": 1, "q": 4, "kind": "visual", "topic": "note taking", "depth": "intermediate", "title": "Potluck", "why": "Interactive demo of progressively turning unstructured notes into structured data."}
+{"id": 58813, "keep": 0, "q": 1, "kind": "tool", "topic": "games", "depth": "intro", "title": "80 Days", "why": "Game store page; a product to play rather than something to read."}
+{"id": 58814, "keep": 1, "q": 3, "kind": "explainer", "topic": "criminal justice", "depth": "intro", "title": "Guilty pleas on the rise, criminal trials on the decline", "why": "Explains how plea bargaining has displaced trials and what that means for defendants."}
+{"id": 58815, "keep": 1, "q": 3, "kind": "explainer", "topic": "criminal justice", "depth": "intro", "title": "How many innocent people are in prison", "why": "Explains how wrongful conviction rates are estimated and why the figures are uncertain."}
+{"id": 58816, "keep": 0, "q": 2, "kind": "other", "topic": "criminal justice", "depth": "intro", "title": "Innocence Project case files", "why": "Index of case files; a navigation page rather than an explanation."}
+{"id": 58817, "keep": 0, "q": 1, "kind": "tool", "topic": "fonts", "depth": "intro", "title": "VGA console font page", "why": "Font download page for a bitmap console font."}
+{"id": 58818, "keep": 0, "q": 2, "kind": "blog", "topic": "immigration", "depth": "intermediate", "title": "The effects of immigration in Denmark", "why": "Contested political statistics cited as evidence in an argument rather than taught."}
+{"id": 58819, "keep": 0, "q": 1, "kind": "other", "topic": "research careers", "depth": "intro", "title": "Inria homepage", "why": "Institute homepage with no substantive content."}
+{"id": 58820, "keep": 1, "q": 4, "kind": "blog", "topic": "compression", "depth": "intermediate", "title": "Pareto optimal compression", "why": "Deep dive on the speed-ratio frontier explaining why zstd dominates other compressors."}
+{"id": 58821, "keep": 1, "q": 3, "kind": "explainer", "topic": "security", "depth": "intro", "title": "Ping of Death", "why": "Classic short explanation of the oversized ICMP packet exploit and why it worked."}
+{"id": 58822, "keep": 0, "q": 1, "kind": "news", "topic": "electric vehicles", "depth": "intro", "title": "Tesla Model S fails to lap the Nurburgring", "why": "Video news report on a single performance test."}
+{"id": 58823, "keep": 0, "q": 2, "kind": "news", "topic": "energy", "depth": "intro", "title": "EV vs hydrogen vs ICE efficiency", "why": "News summary of an efficiency study; the underlying figures are better read at the source."}
+{"id": 58824, "keep": 0, "q": 1, "kind": "news", "topic": "electric vehicles", "depth": "intro", "title": "Monthly plug-in EV sales scorecard", "why": "Recurring sales statistics; a tracker rather than an explanation."}
+{"id": 58825, "keep": 0, "q": 1, "kind": "news", "topic": "higher education", "depth": "intro", "title": "Illinois insurance against drop in Chinese enrollment", "why": "Short news item about one university's revenue insurance."}
+{"id": 58826, "keep": 0, "q": 2, "kind": "journalism", "topic": "history", "depth": "intro", "title": "Errol Musk myths", "why": "Personal profile of a family member, mostly biography rather than lasting insight."}
+{"id": 58827, "keep": 0, "q": 1, "kind": "news", "topic": "consumer safety", "depth": "intro", "title": "Amazon selling toxic toys", "why": "Dated news about product safety violations."}
+{"id": 58828, "keep": 1, "q": 3, "kind": "journalism", "topic": "policing", "depth": "intermediate", "title": "Dave Grossman and police training", "why": "Critical long-form look at a police trainer's influence and the ideas behind his methods."}
+{"id": 58829, "keep": 0, "q": 1, "kind": "news", "topic": "january 6", "depth": "intro", "title": "Zip-tie guy at the Capitol", "why": "Court-news detail about one defendant's handcuffs."}
+{"id": 58830, "keep": 0, "q": 1, "kind": "news", "topic": "advertising", "depth": "intro", "title": "Ad blocking insights", "why": "Industry statistics page on ad blocker usage."}
+{"id": 58831, "keep": 0, "q": 1, "kind": "tool", "topic": "programming languages", "depth": "intro", "title": "Stack Overflow Trends", "why": "Interactive tag-popularity chart; a tool to query rather than read."}
+{"id": 58832, "keep": 0, "q": 2, "kind": "blog", "topic": "windows", "depth": "intro", "title": "Ubuntu on Windows", "why": "Product announcement for the Windows Subsystem for Linux, not an explanation of how it works."}
+{"id": 58833, "keep": 0, "q": 1, "kind": "tool", "topic": "hacker news", "depth": "intro", "title": "react-hn client", "why": "Alternate web client for Hacker News; a tool to use."}
+{"id": 58834, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Auth0 JWT validation bypass", "why": "Walks through a none-algorithm JWT validation bypass in a major auth provider."}
+{"id": 58835, "keep": 1, "q": 4, "kind": "essay", "topic": "work", "depth": "intro", "title": "The Abolition of Work", "why": "Classic critique of wage labour whose arguments still shape debates about work."}
+{"id": 58836, "keep": 0, "q": 2, "kind": "other", "topic": "self help", "depth": "intro", "title": "Regrets of the Dying", "why": "Reprinted inspirational essay, widely shared but without technical or analytical depth."}
+{"id": 58837, "keep": 1, "q": 2, "kind": "explainer", "topic": "aviation", "depth": "intro", "title": "How safe is it", "why": "Compares light aircraft flying risk with motorcycle risk using accident statistics."}
+{"id": 58838, "keep": 0, "q": 1, "kind": "other", "topic": "food delivery", "depth": "intro", "title": "Instacart FAQ", "why": "Support FAQ for a delivery service."}
+{"id": 58839, "keep": 0, "q": 1, "kind": "tool", "topic": "fediverse", "depth": "intro", "title": "Mastodon instance list", "why": "Searchable directory of Mastodon servers; a lookup tool."}
+{"id": 58840, "keep": 0, "q": 1, "kind": "tool", "topic": "fediverse", "depth": "intro", "title": "Mastodon instance advanced search", "why": "Filterable directory of Mastodon servers; a lookup tool."}
+{"id": 58841, "keep": 1, "q": 4, "kind": "essay", "topic": "databases", "depth": "intermediate", "title": "Datalog in JavaScript", "why": "Shows how to build a small Datalog engine in about 100 lines of JavaScript."}
+{"id": 58842, "keep": 0, "q": 2, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "Next.js and the Firebase alternatives", "why": "Vendor essay positioning a product against Firebase and Supabase."}
+{"id": 58843, "keep": 0, "q": 1, "kind": "other", "topic": "pricing", "depth": "intro", "title": "HP Instant Ink", "why": "Subscription product page."}
+{"id": 58844, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "Instapaper privacy policy", "why": "Legal privacy policy text."}
+{"id": 58845, "keep": 0, "q": 1, "kind": "tool", "topic": "reading apps", "depth": "intro", "title": "Instapaper Kindle settings", "why": "Account settings page."}
+{"id": 58846, "keep": 0, "q": 1, "kind": "other", "topic": "energy", "depth": "intro", "title": "Environmental impact of lithium batteries", "why": "Advocacy report cited in a nuclear debate rather than a neutral explainer."}
+{"id": 58847, "keep": 0, "q": 2, "kind": "journalism", "topic": "esg", "depth": "intro", "title": "Bill Ackman texts the Mastercard CEO", "why": "Paywalled investor news built around one anecdote."}
+{"id": 58848, "keep": 1, "q": 2, "kind": "tutorial", "topic": "physics", "depth": "intermediate", "title": "Build a fusion reactor", "why": "Hands-on build guide for a small fusion setup, including the detection equipment it needs."}
+{"id": 58849, "keep": 1, "q": 2, "kind": "tutorial", "topic": "hardware hacking", "depth": "intro", "title": "Smartphone to digital microscope", "why": "Step-by-step guide to turning a phone camera into a microscope."}
+{"id": 58850, "keep": 0, "q": 2, "kind": "blog", "topic": "marketing", "depth": "intro", "title": "Winning a Samsung contest for the London Olympics", "why": "Account of a sponsored contest, mostly a sponsorship anecdote."}
+{"id": 58851, "keep": 0, "q": 1, "kind": "other", "topic": "trademarks", "depth": "intro", "title": "Fair use of trademarks fact sheet", "why": "Legal fact sheet on trademark use."}
+{"id": 58852, "keep": 0, "q": 1, "kind": "news", "topic": "semiconductors", "depth": "intro", "title": "Intel Q4 and full-year 2020 results", "why": "Earnings press release with reported financial figures."}
+{"id": 58853, "keep": 0, "q": 1, "kind": "tool", "topic": "crypto", "depth": "intro", "title": "Arkham entity explorer page", "why": "Blockchain explorer entity page, a lookup tool."}
+{"id": 58854, "keep": 1, "q": 4, "kind": "paper", "topic": "cryptography", "depth": "expert", "title": "Large integer arithmetic on Intel CPUs", "why": "Explains how MULX and ADX instructions speed up big-number multiplication."}
+{"id": 58855, "keep": 0, "q": 2, "kind": "paper", "topic": "hardware", "depth": "intermediate", "title": "Xeon E7 family RAS features", "why": "Vendor whitepaper on reliability features, heavy on market positioning."}
+{"id": 58856, "keep": 1, "q": 4, "kind": "reference", "topic": "cpu architecture", "depth": "expert", "title": "Intel 64 and IA-32 Optimization Reference Manual", "why": "Authoritative reference on pipelines, caches and performance tuning for x86."}
+{"id": 58857, "keep": 0, "q": 2, "kind": "other", "topic": "security", "depth": "intermediate", "title": "L1TF security advisory", "why": "Vendor advisory listing affected products and mitigations, not an explanation."}
+{"id": 58858, "keep": 0, "q": 1, "kind": "reference", "topic": "security", "depth": "expert", "title": "Data operand independent timing instructions", "why": "Lookup list of instructions with constant-time behaviour."}
+{"id": 58859, "keep": 1, "q": 2, "kind": "docs", "topic": "security", "depth": "expert", "title": "XuCode: implementing complex instruction flows", "why": "Explains how microcode instruction flows are implemented and why they matter for security."}
+{"id": 58860, "keep": 0, "q": 1, "kind": "news", "topic": "semiconductors", "depth": "intro", "title": "Intel Foundry and Arm collaboration", "why": "Corporate announcement about a chip-design partnership."}
+{"id": 58861, "keep": 0, "q": 1, "kind": "news", "topic": "semiconductors", "depth": "intro", "title": "US Chips Act direct funding for Intel", "why": "Government funding news release."}
+{"id": 58862, "keep": 0, "q": 1, "kind": "news", "topic": "semiconductors", "depth": "intro", "title": "Intel 18A progress", "why": "Corporate opinion post about process roadmap timing."}
+{"id": 58863, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Intel NUC6i7KYK features", "why": "Product spec page for a mini PC."}
+{"id": 58864, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Xeon Phi product page", "why": "Product page for a coprocessor."}
+{"id": 58865, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Intel NUC boards and kits", "why": "Product category page."}
+{"id": 58866, "keep": 0, "q": 1, "kind": "reference", "topic": "hardware", "depth": "intro", "title": "Core i9-14900K specifications", "why": "Spec sheet lookup."}
+{"id": 58867, "keep": 0, "q": 1, "kind": "reference", "topic": "hardware", "depth": "intro", "title": "Core Ultra 9 285K specifications", "why": "Spec sheet lookup."}
+{"id": 58868, "keep": 0, "q": 1, "kind": "reference", "topic": "hardware", "depth": "intro", "title": "Intel N150 specifications", "why": "Spec sheet lookup."}
+{"id": 58869, "keep": 0, "q": 1, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "Intel SA-00950 security advisory", "why": "Vendor advisory listing affected processors."}
+{"id": 58870, "keep": 0, "q": 1, "kind": "other", "topic": "graphics", "depth": "intro", "title": "Intel GVT-g support article", "why": "Support page on vGPU support status."}
+{"id": 58871, "keep": 0, "q": 2, "kind": "other", "topic": "employment law", "depth": "intro", "title": "Pre-invention assignment agreements", "why": "Jurisdiction-specific legal information on employee IP agreements."}
+{"id": 58872, "keep": 0, "q": 2, "kind": "paper", "topic": "policy", "depth": "intermediate", "title": "House Intelligence report on Huawei and ZTE", "why": "Government investigative report used as primary evidence in arguments."}
+{"id": 58873, "keep": 1, "q": 3, "kind": "blog", "topic": "ai safety", "depth": "expert", "title": "New paper: Logical Induction", "why": "Announces a paper on assigning probabilities to logical statements, with accessible framing."}
+{"id": 58874, "keep": 1, "q": 3, "kind": "essay", "topic": "ai safety", "depth": "intermediate", "title": "Response to Chollet on intelligence explosion", "why": "Yudkowsky's reply on whether recursive self-improvement is plausible, with its key arguments."}
+{"id": 58875, "keep": 0, "q": 1, "kind": "reference", "topic": "ai safety", "depth": "intro", "title": "MIRI all publications", "why": "Index of publications; a list rather than a read."}
+{"id": 58876, "keep": 1, "q": 3, "kind": "paper", "topic": "ai forecasting", "depth": "intermediate", "title": "How We're Predicting AI, or Failing To", "why": "Studies how expert AI predictions were made and why they are unreliable."}
+{"id": 58877, "keep": 1, "q": 3, "kind": "reference", "topic": "ai safety", "depth": "intro", "title": "Research guide", "why": "Overview of open alignment problems and where a newcomer should start."}
+{"id": 58878, "keep": 0, "q": 1, "kind": "news", "topic": "apple", "depth": "intro", "title": "Apple MacBook Pro launch sales", "why": "Sales data post about one product launch."}
+{"id": 58879, "keep": 1, "q": 2, "kind": "talk", "topic": "economics", "depth": "intermediate", "title": "Universal basic income debate", "why": "Debate presenting both sides on replacing welfare with basic income versus targeted programs."}
+{"id": 58880, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "Data removal workbook", "why": "Resource workbook for removing personal data, more a checklist than an explanation."}
+{"id": 58881, "keep": 0, "q": 1, "kind": "other", "topic": "finance", "depth": "intro", "title": "Interactive Brokers margin rates", "why": "Broker rate schedule."}
+{"id": 58882, "keep": 1, "q": 3, "kind": "explainer", "topic": "product management", "depth": "intro", "title": "RICE: simple prioritization for product managers", "why": "Explains the RICE scoring method for ranking product work by reach, impact, confidence and effort."}
+{"id": 58883, "keep": 1, "q": 3, "kind": "talk", "topic": "china", "depth": "intermediate", "title": "Jack Ma Bund Finance Summit speech", "why": "English translation of a speech that exposes tensions between China's regulators and its fintech sector."}
+{"id": 58884, "keep": 0, "q": 1, "kind": "tool", "topic": "web feeds", "depth": "intro", "title": "Interconnected feed", "why": "RSS feed page."}
+{"id": 58885, "keep": 1, "q": 3, "kind": "blog", "topic": "disasters", "depth": "intro", "title": "Katrina live blog", "why": "First-person live updates from New Orleans during Hurricane Katrina."}
+{"id": 58886, "keep": 1, "q": 3, "kind": "essay", "topic": "economics", "depth": "intermediate", "title": "Interfluidity 2669", "why": "Argues that financial trust rests on shared belief, and what that means for money."}
+{"id": 58887, "keep": 1, "q": 3, "kind": "essay", "topic": "banking", "depth": "intermediate", "title": "Interfluidity 5965", "why": "Explains lending risk and how bank incentives can hide systemic risk."}
+{"id": 58888, "keep": 1, "q": 3, "kind": "essay", "topic": "housing", "depth": "intermediate", "title": "Interfluidity 6287", "why": "Argues that local housing rules operate like a cartel with broad economic costs."}
+{"id": 58889, "keep": 1, "q": 4, "kind": "essay", "topic": "politics", "depth": "intro", "title": "Ur-Fascism", "why": "Umberto Eco's list of recurring features of authoritarian movements."}
+{"id": 58890, "keep": 0, "q": 2, "kind": "other", "topic": "compilers", "depth": "expert", "title": "Cretonne compiler backend discussion", "why": "Forum thread debating a backend proposal; discussion rather than a teaching piece."}
+{"id": 58891, "keep": 0, "q": 1, "kind": "news", "topic": "rust", "depth": "intro", "title": "Rust release milestone predictions", "why": "Forum thread listing planned features by release."}
+{"id": 58892, "keep": 0, "q": 1, "kind": "reference", "topic": "transport safety", "depth": "intro", "title": "Rail and car safety statistics", "why": "Statistics page comparing transport fatality rates."}
+{"id": 58893, "keep": 1, "q": 3, "kind": "visual", "topic": "linguistics", "depth": "intro", "title": "IPA chart with sounds", "why": "Interactive chart where each phonetic symbol plays its sound, for learning pronunciation notation."}
+{"id": 58894, "keep": 1, "q": 4, "kind": "tutorial", "topic": "web development", "depth": "intro", "title": "Interneting is Hard: HTML and CSS", "why": "Gentle tutorial that builds understanding of HTML and CSS from first principles."}
+{"id": 58895, "keep": 0, "q": 1, "kind": "reference", "topic": "internet", "depth": "intro", "title": "Internet users by country", "why": "Live statistics dashboard."}
+{"id": 58896, "keep": 0, "q": 1, "kind": "reference", "topic": "internet", "depth": "intro", "title": "Twitter statistics", "why": "Statistics page with usage figures."}
+{"id": 58897, "keep": 1, "q": 3, "kind": "explainer", "topic": "networking", "depth": "intermediate", "title": "T-Mobile IPv6-only with 464XLAT", "why": "Case study of a carrier running IPv6-only and translating for IPv4 services."}
+{"id": 58898, "keep": 1, "q": 3, "kind": "explainer", "topic": "networking", "depth": "intermediate", "title": "Facebook moves to an IPv6-only internal network", "why": "Case study of a large company's IPv6-only internal network migration."}
+{"id": 58899, "keep": 0, "q": 1, "kind": "tool", "topic": "internet", "depth": "intro", "title": "Asia internet traffic report", "why": "Live traffic data page."}
+{"id": 58900, "keep": 0, "q": 1, "kind": "reference", "topic": "internet", "depth": "intro", "title": "Internet World Stats", "why": "Usage statistics table."}
+{"id": 58901, "keep": 0, "q": 1, "kind": "tool", "topic": "domains", "depth": "intro", "title": "InterNIC whois", "why": "Domain lookup tool."}
+{"id": 58902, "keep": 0, "q": 2, "kind": "other", "topic": "licenses", "depth": "intermediate", "title": "EUPL license compatibility", "why": "License compatibility matrix; a legal reference."}
+{"id": 58903, "keep": 1, "q": 2, "kind": "blog", "topic": "organizational culture", "depth": "intro", "title": "Organizational culture and the five monkeys experiment", "why": "Explains how unexplained rules persist in organizations after their reasons disappear."}
+{"id": 58904, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "Venus planet feed aggregator", "why": "Feed aggregator software page."}
+{"id": 58905, "keep": 1, "q": 2, "kind": "essay", "topic": "design", "depth": "intro", "title": "Own a shape", "why": "Explores the squircle shape and why interface designers adopted it."}
+{"id": 58906, "keep": 0, "q": 2, "kind": "blog", "topic": "hiring", "depth": "intermediate", "title": "When is hiring coming back: predictions for 2024", "why": "Hiring trend forecast built on one company's internal sales data."}
+{"id": 58907, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Symbiote: new Linux threat", "why": "Analysis of a Linux malware family, how it gains root and how it hides."}
+{"id": 58908, "keep": 1, "q": 4, "kind": "blog", "topic": "browser automation", "depth": "intermediate", "title": "Making Chrome Headless Undetectable", "why": "Explains how bot detection works and how headless browsers give themselves away."}
+{"id": 58909, "keep": 0, "q": 1, "kind": "news", "topic": "mobile games", "depth": "intro", "title": "Angry Birds ad revenue on Android", "why": "2010 news about one game's advertising income."}
+{"id": 58910, "keep": 0, "q": 1, "kind": "other", "topic": "personality", "depth": "intro", "title": "INTP personality profile", "why": "Personality-type description, a personal profile rather than analysis."}
+{"id": 58911, "keep": 1, "q": 3, "kind": "essay", "topic": "logic", "depth": "intermediate", "title": "Whitehead on good notation", "why": "Discusses how notation shapes thinking and what makes a good symbolic system."}
+{"id": 58912, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Wacom Intuos Creative Stylus", "why": "Product page for a stylus."}
+{"id": 58913, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "Password security checker", "why": "Password checking tool."}
+{"id": 58914, "keep": 1, "q": 4, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "MCP security notification: tool poisoning attacks", "why": "Explains how malicious tool descriptions can hijack LLM agents connected over MCP."}
+{"id": 58915, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Inventables X-Carve", "why": "CNC machine product page."}
+{"id": 58916, "keep": 1, "q": 3, "kind": "explainer", "topic": "finance", "depth": "intermediate", "title": "Cuban's collar: anatomy of a famous trade", "why": "Explains how a collar hedge let Mark Cuban lock in gains after the Yahoo sale."}
+{"id": 58917, "keep": 1, "q": 3, "kind": "explainer", "topic": "finance", "depth": "intermediate", "title": "Cuban's collar: anatomy of a famous trade", "why": "Mobile copy of the same explanation of the collar hedge that protected Yahoo shares."}
+{"id": 58918, "keep": 1, "q": 2, "kind": "explainer", "topic": "energy policy", "depth": "intro", "title": "Tax breaks for oil investment", "why": "Explains US tax incentives that reward fossil fuel investment and extraction."}
+{"id": 58919, "keep": 1, "q": 2, "kind": "explainer", "topic": "markets", "depth": "intermediate", "title": "What maker-taker fees mean for you", "why": "Explains exchange rebates and how they can distort broker order routing."}
+{"id": 58920, "keep": 1, "q": 2, "kind": "explainer", "topic": "economics", "depth": "intro", "title": "Government financial bailouts", "why": "Overview of government stakes in companies during financial crises."}
+{"id": 58921, "keep": 1, "q": 3, "kind": "explainer", "topic": "economics", "depth": "intermediate", "title": "The 1970s Great Inflation", "why": "Explains the causes of 1970s inflation and the role of monetary policy."}
+{"id": 58922, "keep": 1, "q": 2, "kind": "explainer", "topic": "economics", "depth": "intermediate", "title": "Financial crisis review", "why": "Summarizes the causes of the 2008 financial crisis."}
+{"id": 58923, "keep": 0, "q": 1, "kind": "news", "topic": "corporate governance", "depth": "intro", "title": "Top Amazon shareholders", "why": "Shareholder list with ownership figures."}
+{"id": 58924, "keep": 0, "q": 1, "kind": "news", "topic": "corporate governance", "depth": "intro", "title": "Top Facebook shareholders", "why": "Shareholder list with ownership figures."}
+{"id": 58925, "keep": 1, "q": 2, "kind": "explainer", "topic": "economics", "depth": "intermediate", "title": "Why China buys US Treasury bonds", "why": "Explains how trade surpluses drive reserve holdings in US government debt."}
+{"id": 58926, "keep": 1, "q": 2, "kind": "explainer", "topic": "finance", "depth": "intro", "title": "What happens when your stock broker goes bust", "why": "Explains customer protections and asset segregation when a broker fails."}
+{"id": 58927, "keep": 1, "q": 2, "kind": "explainer", "topic": "markets", "depth": "intro", "title": "Introduction to dark pools", "why": "Explains off-exchange trading venues and why they raise fairness questions."}
+{"id": 58928, "keep": 1, "q": 2, "kind": "explainer", "topic": "economics", "depth": "intro", "title": "Can deflation be good?", "why": "Weighs whether falling prices can be beneficial and what the costs are."}
+{"id": 58929, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "IPO lockup period", "why": "Q&A definition of lockup periods."}
+{"id": 58930, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Why Berkshire Hathaway does not pay dividends", "why": "Short Q&A answer."}
+{"id": 58931, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Periods of major deflation in US history", "why": "Q&A answer with a few statistics."}
+{"id": 58932, "keep": 0, "q": 1, "kind": "reference", "topic": "corporate governance", "depth": "intro", "title": "Fiduciary duty examples", "why": "Q&A answer on fiduciary duty."}
+{"id": 58933, "keep": 0, "q": 1, "kind": "reference", "topic": "markets", "depth": "intro", "title": "Shorting at the IPO price", "why": "Q&A answer on IPO short selling."}
+{"id": 58934, "keep": 0, "q": 1, "kind": "reference", "topic": "markets", "depth": "intro", "title": "Short margin requirements", "why": "Q&A answer on margin rules."}
+{"id": 58935, "keep": 0, "q": 1, "kind": "reference", "topic": "telecom", "depth": "intro", "title": "AT&T breakup and spinoffs", "why": "Q&A answer on the Bell breakup."}
+{"id": 58936, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Corporate liquidation and unpaid taxes", "why": "Q&A answer on bankruptcy creditor priority."}
+{"id": 58937, "keep": 0, "q": 1, "kind": "reference", "topic": "accounting", "depth": "intro", "title": "Gross profit vs net income", "why": "Q&A answer on accounting terms."}
+{"id": 58938, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Cost of living compared with 20 years ago", "why": "Q&A answer with a few figures."}
+{"id": 58939, "keep": 0, "q": 1, "kind": "reference", "topic": "accounting", "depth": "intro", "title": "CapEx vs OpEx", "why": "Q&A definition of capital and operating expenses."}
+{"id": 58940, "keep": 1, "q": 2, "kind": "explainer", "topic": "economics", "depth": "intro", "title": "What the unemployment rate doesn't tell us", "why": "Explains the limits of the unemployment statistic, including underemployment and discouraged workers."}
+{"id": 58941, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Which income class are you", "why": "Income statistics page."}
+{"id": 58942, "keep": 0, "q": 1, "kind": "news", "topic": "economics", "depth": "intro", "title": "Government stimulus efforts during COVID-19", "why": "Summary of pandemic stimulus spending figures."}
+{"id": 58943, "keep": 0, "q": 1, "kind": "reference", "topic": "health insurance", "depth": "intro", "title": "How much health insurance costs", "why": "Cost statistics page."}
+{"id": 58944, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Inflation rate by year", "why": "Statistics table."}
+{"id": 58945, "keep": 0, "q": 1, "kind": "news", "topic": "crypto", "depth": "intro", "title": "Ackman ends Herbalife short", "why": "Market news about a position closure."}
+{"id": 58946, "keep": 0, "q": 1, "kind": "news", "topic": "crypto", "depth": "intro", "title": "How to short bitcoin", "why": "Short market news explainer."}
+{"id": 58947, "keep": 0, "q": 1, "kind": "tool", "topic": "investing", "depth": "intro", "title": "Investopedia stock simulator", "why": "Trading simulator tool."}
+{"id": 58948, "keep": 0, "q": 1, "kind": "news", "topic": "stocks", "depth": "intro", "title": "Amazon never makes money", "why": "Stock analysis piece."}
+{"id": 58949, "keep": 1, "q": 2, "kind": "explainer", "topic": "crypto", "depth": "intermediate", "title": "History of Bitcoin hard forks", "why": "Walks through major Bitcoin forks and why each one happened."}
+{"id": 58950, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Activist investor", "why": "Dictionary definition."}
+{"id": 58951, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Arbitrage", "why": "Dictionary definition."}
+{"id": 58952, "keep": 0, "q": 1, "kind": "reference", "topic": "etfs", "depth": "intro", "title": "Authorized participant", "why": "Definition page."}
+{"id": 58953, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Beta", "why": "Definition page."}
+{"id": 58954, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Biflation", "why": "Definition page."}
+{"id": 58955, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Capital asset pricing model", "why": "Definition page."}
+{"id": 58956, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Consumer price index", "why": "Definition page."}
+{"id": 58957, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Counterparty risk", "why": "Definition page."}
+{"id": 58958, "keep": 0, "q": 1, "kind": "reference", "topic": "markets", "depth": "intro", "title": "Dead cat bounce", "why": "Definition page."}
+{"id": 58959, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Eurodollar", "why": "Definition page."}
+{"id": 58960, "keep": 0, "q": 1, "kind": "reference", "topic": "markets", "depth": "intro", "title": "Falling knife", "why": "Definition page."}
+{"id": 58961, "keep": 0, "q": 1, "kind": "reference", "topic": "accounting", "depth": "intro", "title": "Fiscal year", "why": "Definition page."}
+{"id": 58962, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Free cash flow", "why": "Definition page."}
+{"id": 58963, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Gross domestic product", "why": "Definition page."}
+{"id": 58964, "keep": 0, "q": 1, "kind": "reference", "topic": "accounting", "depth": "intro", "title": "Goodwill", "why": "Definition page."}
+{"id": 58965, "keep": 0, "q": 1, "kind": "reference", "topic": "accounting", "depth": "intro", "title": "Gross profit", "why": "Definition page."}
+{"id": 58966, "keep": 0, "q": 1, "kind": "reference", "topic": "corporate", "depth": "intro", "title": "Hostile takeover", "why": "Definition page."}
+{"id": 58967, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Insider trading", "why": "Definition page."}
+{"id": 58968, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Law of diminishing marginal utility", "why": "Definition page."}
+{"id": 58969, "keep": 0, "q": 1, "kind": "reference", "topic": "venture capital", "depth": "intro", "title": "Liquidation preference", "why": "Definition page."}
+{"id": 58970, "keep": 0, "q": 1, "kind": "reference", "topic": "business", "depth": "intro", "title": "Loss leader", "why": "Definition page."}
+{"id": 58971, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Market failure", "why": "Definition page."}
+{"id": 58972, "keep": 0, "q": 1, "kind": "reference", "topic": "taxes", "depth": "intro", "title": "Marriage penalty", "why": "Definition page."}
+{"id": 58973, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Money laundering", "why": "Definition page."}
+{"id": 58974, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Money supply", "why": "Definition page."}
+{"id": 58975, "keep": 0, "q": 1, "kind": "reference", "topic": "antitrust", "depth": "intro", "title": "Monopoly", "why": "Definition page."}
+{"id": 58976, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Monopsony", "why": "Definition page."}
+{"id": 58977, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Opportunity cost", "why": "Definition page."}
+{"id": 58978, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Petrodollars", "why": "Definition page."}
+{"id": 58979, "keep": 0, "q": 1, "kind": "reference", "topic": "corporate", "depth": "intro", "title": "Poison pill", "why": "Definition page."}
+{"id": 58980, "keep": 0, "q": 1, "kind": "reference", "topic": "antitrust", "depth": "intro", "title": "Predatory pricing", "why": "Definition page."}
+{"id": 58981, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Promissory estoppel", "why": "Definition page."}
+{"id": 58982, "keep": 0, "q": 1, "kind": "reference", "topic": "crypto", "depth": "intro", "title": "Proof of stake", "why": "Definition page."}
+{"id": 58983, "keep": 0, "q": 1, "kind": "reference", "topic": "taxes", "depth": "intro", "title": "Qualified small business stock", "why": "Definition page."}
+{"id": 58984, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Reaganomics", "why": "Definition page."}
+{"id": 58985, "keep": 0, "q": 1, "kind": "reference", "topic": "compensation", "depth": "intro", "title": "Restricted stock unit", "why": "Definition page."}
+{"id": 58986, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Return on investment", "why": "Definition page."}
+{"id": 58987, "keep": 0, "q": 1, "kind": "reference", "topic": "accounting", "depth": "intro", "title": "Revenue", "why": "Definition page."}
+{"id": 58988, "keep": 0, "q": 1, "kind": "reference", "topic": "corporate", "depth": "intro", "title": "Shareholder value", "why": "Definition page."}
+{"id": 58989, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Subsidy", "why": "Definition page."}
+{"id": 58990, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Treasury bill", "why": "Definition page."}
+{"id": 58991, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Walmart effect", "why": "Definition page."}
+{"id": 58992, "keep": 1, "q": 2, "kind": "explainer", "topic": "economics", "depth": "intro", "title": "The history of lending discrimination", "why": "Explains redlining and how discriminatory lending shaped housing and wealth."}
+{"id": 58993, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Purchasing power parity", "why": "Definition page."}
+{"id": 58994, "keep": 0, "q": 1, "kind": "reference", "topic": "us budget", "depth": "intro", "title": "US debt by president", "why": "Data chart of debt by administration."}
+{"id": 58995, "keep": 0, "q": 1, "kind": "news", "topic": "gaming", "depth": "intro", "title": "Activision Blizzard Q2 2019 results", "why": "Earnings release."}
+{"id": 58996, "keep": 0, "q": 1, "kind": "news", "topic": "tech", "depth": "intro", "title": "Meta Q4 and full-year 2025 results", "why": "Earnings release."}
+{"id": 58997, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Equifax 2017 breach press release", "why": "Company press release about the breach."}
+{"id": 58998, "keep": 0, "q": 1, "kind": "news", "topic": "corporate", "depth": "intro", "title": "GameStop long-term award for Ryan Cohen", "why": "Compensation filing news."}
+{"id": 58999, "keep": 0, "q": 1, "kind": "other", "topic": "crypto", "depth": "intro", "title": "SEC HoweyCoins investor alert", "why": "Regulator alert about a fraudulent token scheme, not an explanation."}

@@ -1,0 +1,200 @@
+{"id": 55800, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "F-Secure Freedome", "why": "VPN product page with no technical content to learn from."}
+{"id": 55801, "keep": 0, "q": 2, "kind": "reference", "topic": "security", "depth": "intro", "title": "Flashback Trojan (OS X) entry", "why": "Threat-database entry describing one specific Mac malware family and removal."}
+{"id": 55802, "keep": 0, "q": 2, "kind": "news", "topic": "security", "depth": "intro", "title": "F-Secure weblog post on SL folder incident", "why": "Dated commentary on a single 2011 security incident."}
+{"id": 55803, "keep": 0, "q": 1, "kind": "other", "topic": "aerospace", "depth": "intro", "title": "F-35 life-cycle software", "why": "Marketing page about F-35 software lifecycle."}
+{"id": 55804, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Kazakhstan Attempts to MITM Its Citizens", "why": "Threat-intel write-up of a state-level man-in-the-middle certificate attack and how it was detected."}
+{"id": 55805, "keep": 1, "q": 4, "kind": "paper", "topic": "networking", "depth": "intermediate", "title": "The Myth of Network Address Translation as Security", "why": "Explains why NAT is not a security mechanism and what firewalls actually provide."}
+{"id": 55806, "keep": 1, "q": 2, "kind": "essay", "topic": "language", "depth": "intro", "title": "Shishi: Lions and Chinese Characters", "why": "Essay on how Chinese character choice carries history and connotation beyond productivity."}
+{"id": 55807, "keep": 0, "q": 1, "kind": "news", "topic": "economics", "depth": "intro", "title": "Most millionaires self-made study", "why": "Summary of a single wealth survey statistic."}
+{"id": 55808, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation", "depth": "intro", "title": "FAA lithium battery hazmat rules", "why": "Regulatory guidance page on carrying batteries on flights."}
+{"id": 55809, "keep": 1, "q": 2, "kind": "explainer", "topic": "aviation", "depth": "intro", "title": "What is a NOTAM", "why": "Explains the aviation notice-to-airmen system and what the notices contain."}
+{"id": 55810, "keep": 0, "q": 1, "kind": "reference", "topic": "drones", "depth": "intro", "title": "FAA unmanned aircraft systems page", "why": "Government program landing page for drone rules."}
+{"id": 55811, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation", "depth": "intermediate", "title": "Aeronautical Information Manual chapter 1", "why": "Regulatory manual section, used as a lookup rather than read for learning."}
+{"id": 55812, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation", "depth": "intermediate", "title": "ATC handbook chapter 9 section 6", "why": "Regulatory text on unmanned free balloons."}
+{"id": 55813, "keep": 0, "q": 1, "kind": "other", "topic": "aviation", "depth": "intro", "title": "FAA ADS-B research and airspace", "why": "Program page on ADS-B transponder requirements."}
+{"id": 55814, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation", "depth": "intro", "title": "FAA accident and incident data", "why": "Data portal for accident records, not a text to learn from."}
+{"id": 55815, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation", "depth": "intro", "title": "Airline passengers and batteries", "why": "Regulatory guidance PDF on batteries in carry-on and checked bags."}
+{"id": 55816, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "FAA working here benefits", "why": "Job benefits and salary page."}
+{"id": 55817, "keep": 0, "q": 1, "kind": "reference", "topic": "aviation", "depth": "intro", "title": "FAA BasicMed certification", "why": "Regulatory eligibility page for pilot medical certification."}
+{"id": 55818, "keep": 0, "q": 2, "kind": "news", "topic": "aviation", "depth": "intro", "title": "FAA general aviation accident fact sheet", "why": "Statistics fact sheet on accident causes."}
+{"id": 55819, "keep": 0, "q": 1, "kind": "news", "topic": "aviation", "depth": "intro", "title": "FAA press release on in-flight Bluetooth", "why": "Short press release on device rules."}
+{"id": 55820, "keep": 0, "q": 1, "kind": "news", "topic": "aviation", "depth": "intro", "title": "FAA leaded aviation fuel and environment", "why": "Agency news page on avgas emissions policy."}
+{"id": 55821, "keep": 0, "q": 1, "kind": "news", "topic": "aviation", "depth": "intro", "title": "FAA lithium batteries in baggage", "why": "Agency notice on lithium battery baggage rules."}
+{"id": 55822, "keep": 0, "q": 1, "kind": "reference", "topic": "drones", "depth": "intro", "title": "FAA getting started with drones", "why": "Government getting-started page for drone operators."}
+{"id": 55823, "keep": 0, "q": 1, "kind": "reference", "topic": "drones", "depth": "intro", "title": "FAA Section 333 exemptions", "why": "Legislative program page for drone waivers."}
+{"id": 55824, "keep": 0, "q": 1, "kind": "news", "topic": "aviation", "depth": "intro", "title": "Embraer Phenom GPS flight advisory", "why": "Safety bulletin about a single aircraft GPS issue."}
+{"id": 55825, "keep": 0, "q": 1, "kind": "tool", "topic": "javascript", "depth": "intro", "title": "alertify.js", "why": "Demo page for a small notification library."}
+{"id": 55826, "keep": 1, "q": 5, "kind": "explainer", "topic": "game engines", "depth": "expert", "title": "DOOM 3 Source Code Review", "why": "Guided tour of id Tech 4 engine architecture, from rendering to entity systems, read from the source."}
+{"id": 55827, "keep": 1, "q": 3, "kind": "paper", "topic": "game engines", "depth": "expert", "title": "DOOM 3 BFG Technical Note", "why": "Shows the memory and CPU tradeoffs made porting a 2004 engine to consoles and PC."}
+{"id": 55828, "keep": 1, "q": 4, "kind": "book", "topic": "game development", "depth": "intermediate", "title": "Commander Keen EGA adaptive tile refresh", "why": "Explains how a 1990 PC game refreshed tiles efficiently on EGA hardware."}
+{"id": 55829, "keep": 1, "q": 5, "kind": "book", "topic": "game engines", "depth": "intermediate", "title": "Game Engine Black Book: DOOM", "why": "Free book explaining how DOOM's engine renders and manages its world."}
+{"id": 55830, "keep": 1, "q": 4, "kind": "essay", "topic": "networking", "depth": "expert", "title": "Quake Source: Networking", "why": "Explains QuakeWorld's UDP netcode, including client prediction and reliability tradeoffs."}
+{"id": 55831, "keep": 1, "q": 3, "kind": "tutorial", "topic": "docker", "depth": "intermediate", "title": "Running GUI Apps with Docker", "why": "Shows how to run X11 desktop applications inside containers."}
+{"id": 55832, "keep": 1, "q": 3, "kind": "docs", "topic": "frontend architecture", "depth": "intermediate", "title": "Flux Overview", "why": "Explains the unidirectional data flow pattern and the reasons behind its terminology."}
+{"id": 55833, "keep": 0, "q": 2, "kind": "reference", "topic": "javascript", "depth": "intermediate", "title": "Immutable.js docs", "why": "API reference for an immutable collections library."}
+{"id": 55834, "keep": 0, "q": 2, "kind": "blog", "topic": "react native", "depth": "intermediate", "title": "State of React Native 2018", "why": "Roadmap announcement about one framework release cycle."}
+{"id": 55835, "keep": 0, "q": 2, "kind": "blog", "topic": "react native", "depth": "intermediate", "title": "State of React Native 2018", "why": "Roadmap announcement, duplicate of the same post."}
+{"id": 55836, "keep": 1, "q": 3, "kind": "docs", "topic": "react native", "depth": "intermediate", "title": "React Native Performance", "why": "Explains where mobile JS performance costs come from and how to avoid them."}
+{"id": 55837, "keep": 1, "q": 2, "kind": "tutorial", "topic": "react native", "depth": "intro", "title": "React Native Tutorial", "why": "Beginner walkthrough mapping React components onto native iOS views."}
+{"id": 55838, "keep": 0, "q": 2, "kind": "reference", "topic": "react", "depth": "intro", "title": "React class name manipulation", "why": "Small API page for the classSet addon."}
+{"id": 55839, "keep": 1, "q": 3, "kind": "docs", "topic": "frontend architecture", "depth": "intermediate", "title": "Flux Overview", "why": "Explains the problems Flux solves and the data flow it prescribes."}
+{"id": 55840, "keep": 0, "q": 2, "kind": "reference", "topic": "react", "depth": "intermediate", "title": "React test utilities", "why": "API reference for React test helpers."}
+{"id": 55841, "keep": 1, "q": 2, "kind": "docs", "topic": "web components", "depth": "intermediate", "title": "React and Web Components", "why": "Explains that Web Components and React solve different problems, clarifying the comparison."}
+{"id": 55842, "keep": 0, "q": 1, "kind": "tool", "topic": "layout", "depth": "intro", "title": "Yoga layout engine", "why": "Project homepage for a cross-platform layout library."}
+{"id": 55843, "keep": 1, "q": 2, "kind": "blog", "topic": "filesystems", "depth": "intermediate", "title": "Btrfs at Facebook", "why": "Describes how a large company uses Btrfs for container storage."}
+{"id": 55844, "keep": 0, "q": 1, "kind": "news", "topic": "fintech", "depth": "intro", "title": "Dwolla lawsuit against California", "why": "Legal filing and company dispute about money transmission licensing."}
+{"id": 55845, "keep": 1, "q": 3, "kind": "journalism", "topic": "politics", "depth": "intro", "title": "The Reason for the Electoral College", "why": "Explains the framers' stated motivations for the Electoral College, with primary quotes."}
+{"id": 55846, "keep": 0, "q": 2, "kind": "news", "topic": "economics", "depth": "intro", "title": "How much will the Green New Deal cost", "why": "Fact-check of a single policy cost claim."}
+{"id": 55847, "keep": 1, "q": 3, "kind": "journalism", "topic": "energy", "depth": "intro", "title": "What Does Science Say About the Need for Nuclear", "why": "Summarizes energy-system modeling research on whether nuclear power is needed for decarbonization."}
+{"id": 55848, "keep": 0, "q": 2, "kind": "news", "topic": "politics", "depth": "intro", "title": "The Wuhan lab and the gain-of-function disagreement", "why": "Fact-check on a contested news claim."}
+{"id": 55849, "keep": 0, "q": 2, "kind": "news", "topic": "politics", "depth": "intro", "title": "Timeline of U.S. withdrawal from Afghanistan", "why": "News timeline of a specific political event."}
+{"id": 55850, "keep": 0, "q": 2, "kind": "news", "topic": "health", "depth": "intro", "title": "SciCheck: Cochrane review on masks", "why": "Fact-check of how a systematic review was reported."}
+{"id": 55851, "keep": 0, "q": 2, "kind": "news", "topic": "economics", "depth": "intro", "title": "Unspinning the FairTax", "why": "Political analysis of one tax proposal."}
+{"id": 55852, "keep": 0, "q": 1, "kind": "tool", "topic": "data", "depth": "intro", "title": "American FactFinder", "why": "Census data search portal."}
+{"id": 55853, "keep": 0, "q": 2, "kind": "news", "topic": "law", "depth": "intro", "title": "MIT Epstein fact-finding report", "why": "Institutional investigation report on a specific scandal."}
+{"id": 55854, "keep": 1, "q": 3, "kind": "blog", "topic": "game development", "depth": "intermediate", "title": "Friday Facts #204", "why": "Factorio developer devlog on engine and performance work."}
+{"id": 55855, "keep": 0, "q": 2, "kind": "blog", "topic": "game development", "depth": "intro", "title": "Friday Facts #364", "why": "Short devlog with little standalone technical content."}
+{"id": 55856, "keep": 0, "q": 1, "kind": "news", "topic": "automotive", "depth": "intro", "title": "Car sales by manufacturer", "why": "Sales statistics table."}
+{"id": 55857, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Factual job posting for Clojure", "why": "Job posting."}
+{"id": 55858, "keep": 0, "q": 1, "kind": "tool", "topic": "data", "depth": "intro", "title": "Factual Geopulse Audience", "why": "Product marketing page."}
+{"id": 55859, "keep": 1, "q": 3, "kind": "paper", "topic": "economics", "depth": "intermediate", "title": "A Primer on the Greek Crisis", "why": "Economist's primer explaining the causes and mechanics of the Greek debt crisis."}
+{"id": 55860, "keep": 1, "q": 3, "kind": "paper", "topic": "economics", "depth": "expert", "title": "Growth and Regulation (Hsieh)", "why": "Economics paper on how regulation constrains growth and urban housing."}
+{"id": 55861, "keep": 1, "q": 4, "kind": "paper", "topic": "computer vision", "depth": "intermediate", "title": "Seam Carving for Content-Aware Image Resizing", "why": "Explains how removing low-energy pixel seams can resize images while preserving content."}
+{"id": 55862, "keep": 1, "q": 4, "kind": "book", "topic": "math", "depth": "expert", "title": "Geometric Algebra and Geometric Calculus", "why": "Self-contained treatment of geometric algebra and its calculus, with applications."}
+{"id": 55863, "keep": 1, "q": 4, "kind": "book", "topic": "math", "depth": "intermediate", "title": "Vector and Geometric Calculus", "why": "Introduces vector and geometric calculus with physics and CS applications."}
+{"id": 55864, "keep": 1, "q": 3, "kind": "paper", "topic": "philosophy", "depth": "intermediate", "title": "If Materialism Is True, the United States Is Likely Conscious", "why": "Philosophy paper arguing group entities could be conscious under materialism."}
+{"id": 55865, "keep": 1, "q": 2, "kind": "other", "topic": "logic", "depth": "intro", "title": "Self-Referential Aptitude Test", "why": "Self-referential quiz that teaches how self-reference traps are built."}
+{"id": 55866, "keep": 1, "q": 4, "kind": "paper", "topic": "human-computer interaction", "depth": "intermediate", "title": "$1 Unistroke Recognizer", "why": "Shows a simple, training-free gesture recognizer algorithm for UI prototypes."}
+{"id": 55867, "keep": 1, "q": 4, "kind": "blog", "topic": "security", "depth": "expert", "title": "MegaFail", "why": "Dissects how a console boot root-of-trust was broken by implementation mistakes."}
+{"id": 55868, "keep": 0, "q": 1, "kind": "other", "topic": "puzzles", "depth": "intro", "title": "Taking the meta seriously", "why": "Forum thread about a game's alliance mechanics."}
+{"id": 55869, "keep": 0, "q": 1, "kind": "news", "topic": "electric vehicles", "depth": "intro", "title": "EVs and fire risk (Fairfax County)", "why": "County statistics page on vehicle fire rates."}
+{"id": 55870, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Fairphone", "why": "Product page for a modular phone."}
+{"id": 55871, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intro", "title": "Stanford fair use cases", "why": "Legal case-summary resource rather than an explainer."}
+{"id": 55872, "keep": 0, "q": 1, "kind": "other", "topic": "voting", "depth": "intro", "title": "FairVote ranked choice voting", "why": "Advocacy page on ranked-choice voting adoption."}
+{"id": 55873, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Faithlife senior developer job posting", "why": "Job posting."}
+{"id": 55874, "keep": 0, "q": 1, "kind": "tool", "topic": "shopping", "depth": "intro", "title": "Fakespot analyzer", "why": "Review analysis tool page."}
+{"id": 55875, "keep": 0, "q": 1, "kind": "tool", "topic": "browsers", "depth": "intro", "title": "Falkon browser about page", "why": "Browser marketing page."}
+{"id": 55876, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "Tokyo Cabinet", "why": "Project page for an embedded key-value store."}
+{"id": 55877, "keep": 1, "q": 3, "kind": "reference", "topic": "logic", "depth": "intro", "title": "The Fallacy Fallacy (Fallacy Files)", "why": "Educational reference on logical fallacies, including why fallacy labels misfire."}
+{"id": 55878, "keep": 0, "q": 1, "kind": "tool", "topic": "design", "depth": "intro", "title": "FamFamFam Silk icon set", "why": "Icon set download page."}
+{"id": 55879, "keep": 0, "q": 2, "kind": "other", "topic": "fiction", "depth": "intro", "title": "The Metropolitan Man", "why": "Fiction, not an explainer or essay."}
+{"id": 55880, "keep": 1, "q": 2, "kind": "essay", "topic": "ai", "depth": "intermediate", "title": "Two Paths to the Future", "why": "Essay weighing scenarios for the future of technology and AI."}
+{"id": 55881, "keep": 0, "q": 1, "kind": "reference", "topic": "food", "depth": "intro", "title": "Soylent vegan and GMO FAQ", "why": "Company FAQ about product ingredients."}
+{"id": 55882, "keep": 0, "q": 1, "kind": "reference", "topic": "food", "depth": "intro", "title": "Soylent California Proposition 65", "why": "Company FAQ on a labeling law."}
+{"id": 55883, "keep": 0, "q": 1, "kind": "reference", "topic": "government", "depth": "intro", "title": "SSA: can I change my Social Security number", "why": "Government FAQ on a procedure."}
+{"id": 55884, "keep": 0, "q": 1, "kind": "reference", "topic": "government", "depth": "intro", "title": "SSA: changing a Social Security number", "why": "Government FAQ on a procedure, duplicate."}
+{"id": 55885, "keep": 0, "q": 1, "kind": "reference", "topic": "government", "depth": "intro", "title": "USPS mail service for the homeless", "why": "Service FAQ."}
+{"id": 55886, "keep": 0, "q": 1, "kind": "reference", "topic": "government", "depth": "intro", "title": "USPS Media Mail book rate", "why": "Postage rate FAQ."}
+{"id": 55887, "keep": 0, "q": 1, "kind": "reference", "topic": "privacy", "depth": "intro", "title": "WhatsApp encrypted backups FAQ", "why": "Company help page on backups."}
+{"id": 55888, "keep": 0, "q": 1, "kind": "reference", "topic": "privacy", "depth": "intro", "title": "WhatsApp encryption FAQ", "why": "Company FAQ with vague encryption claims."}
+{"id": 55889, "keep": 0, "q": 1, "kind": "reference", "topic": "privacy", "depth": "intro", "title": "WhatsApp Google Drive backups", "why": "Company help page on backup encryption."}
+{"id": 55890, "keep": 0, "q": 1, "kind": "reference", "topic": "privacy", "depth": "intro", "title": "WhatsApp save chat history", "why": "Company help page on exporting chats."}
+{"id": 55891, "keep": 0, "q": 1, "kind": "reference", "topic": "privacy", "depth": "intro", "title": "WhatsApp end-to-end encryption for calls", "why": "Company FAQ on encryption scope."}
+{"id": 55892, "keep": 0, "q": 1, "kind": "reference", "topic": "privacy", "depth": "intro", "title": "WhatsApp end-to-end encryption FAQ", "why": "Company FAQ on encryption."}
+{"id": 55893, "keep": 1, "q": 5, "kind": "reference", "topic": "c programming", "depth": "intermediate", "title": "comp.lang.c FAQ", "why": "Classic authoritative answers to C pitfalls such as null pointers, arrays and pointer semantics."}
+{"id": 55894, "keep": 1, "q": 3, "kind": "reference", "topic": "compression", "depth": "intermediate", "title": "Compression FAQ: patents and counting argument", "why": "Explains the counting argument that rules out universal lossless compression."}
+{"id": 55895, "keep": 1, "q": 3, "kind": "reference", "topic": "internet culture", "depth": "intro", "title": "Net.Abuse Troll FAQ", "why": "Usenet-era history and definitions of trolling and flaming."}
+{"id": 55896, "keep": 1, "q": 2, "kind": "reference", "topic": "emulation", "depth": "intro", "title": "Wine FAQ", "why": "Explains what Wine is and how it differs from CPU emulators."}
+{"id": 55897, "keep": 1, "q": 3, "kind": "visual", "topic": "keyboards", "depth": "intro", "title": "A Visual Comparison of National Keyboard Layouts", "why": "Side-by-side visual of how national layouts differ in key placement and symbols."}
+{"id": 55898, "keep": 0, "q": 1, "kind": "tool", "topic": "agriculture", "depth": "intro", "title": "EWG farm subsidies for corn", "why": "Subsidy data lookup page."}
+{"id": 55899, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "Faronics Deep Freeze", "why": "Product page for system restore software."}
+{"id": 55900, "keep": 1, "q": 3, "kind": "docs", "topic": "counterinsurgency", "depth": "expert", "title": "FM 3-24 Counterinsurgency", "why": "Army field manual that teaches counterinsurgency doctrine and its principles."}
+{"id": 55901, "keep": 0, "q": 2, "kind": "reference", "topic": "law", "depth": "intermediate", "title": "CRS: Exceptions to the First Amendment", "why": "Legal reference on speech exceptions."}
+{"id": 55902, "keep": 0, "q": 2, "kind": "reference", "topic": "economics", "depth": "intermediate", "title": "CRS: federal R&D spending", "why": "Government statistics report on R&D funding."}
+{"id": 55903, "keep": 0, "q": 2, "kind": "reference", "topic": "economics", "depth": "intermediate", "title": "CRS: U.S. income distribution", "why": "Statistics-heavy government report on income trends."}
+{"id": 55904, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intermediate", "title": "CRS: trade promotion authority", "why": "Legislative procedure document."}
+{"id": 55905, "keep": 1, "q": 2, "kind": "blog", "topic": "deep learning", "depth": "intermediate", "title": "Introducing PyTorch for fastai", "why": "Explains why the fastai library moved from TensorFlow to PyTorch, with concrete reasons."}
+{"id": 55906, "keep": 1, "q": 3, "kind": "blog", "topic": "literate programming", "depth": "intermediate", "title": "Introducing nbdev", "why": "Shows how notebooks can be the source for a library with two-way sync, with a literate programming history."}
+{"id": 55907, "keep": 0, "q": 2, "kind": "docs", "topic": "web apis", "depth": "intro", "title": "FastAPI features", "why": "Framework feature overview page."}
+{"id": 55908, "keep": 0, "q": 1, "kind": "tool", "topic": "build systems", "depth": "intro", "title": "FASTBuild", "why": "Build tool project homepage."}
+{"id": 55909, "keep": 1, "q": 2, "kind": "journalism", "topic": "design", "depth": "intro", "title": "Errol Morris's Interrotron", "why": "Explains the interrotron technique that keeps interview subjects looking at the camera."}
+{"id": 55910, "keep": 1, "q": 3, "kind": "journalism", "topic": "design", "depth": "intermediate", "title": "5 Steps to Recreate Xerox PARC's Design Magic", "why": "Practical steps for building an innovative research team, from a Xerox PARC veteran."}
+{"id": 55911, "keep": 0, "q": 2, "kind": "news", "topic": "security", "depth": "intro", "title": "Office encrypts data with lava lamps", "why": "Summary article about a publicity-driven security system."}
+{"id": 55912, "keep": 1, "q": 2, "kind": "journalism", "topic": "browsers", "depth": "intro", "title": "Nothing From Netscape", "why": "Historical account of Netscape's pricing and trial strategy in the 1990s."}
+{"id": 55913, "keep": 1, "q": 2, "kind": "journalism", "topic": "startups", "depth": "intro", "title": "37signals: earning millions with a small team", "why": "Profile of how a small, profitable company runs without venture funding."}
+{"id": 55914, "keep": 1, "q": 2, "kind": "journalism", "topic": "business", "depth": "intro", "title": "Inside Netflix's Project Griffin", "why": "Investigates the forgotten history of Roku as a Netflix spinoff."}
+{"id": 55915, "keep": 0, "q": 1, "kind": "journalism", "topic": "business", "depth": "intro", "title": "Punk meets rock: Airbnb's Chesky and Conley", "why": "Personal profile of two executives."}
+{"id": 55916, "keep": 1, "q": 3, "kind": "journalism", "topic": "internet access", "depth": "intro", "title": "Cuba's underground USB network", "why": "Describes how offline sneakernet distribution delivers web content in Cuba."}
+{"id": 55917, "keep": 1, "q": 2, "kind": "journalism", "topic": "urban planning", "depth": "intro", "title": "How Amsterdam became a bike paradise", "why": "Historical photos and policy shifts that turned car-centric streets into cycling streets."}
+{"id": 55918, "keep": 1, "q": 2, "kind": "journalism", "topic": "management", "depth": "intro", "title": "She created Netflix's culture and got fired", "why": "Account of how a culture-first HR policy was built and then reversed."}
+{"id": 55919, "keep": 1, "q": 2, "kind": "journalism", "topic": "malaria", "depth": "intro", "title": "What happened to the mosquito-zapping laser", "why": "Investigates why a promising malaria technology stalled."}
+{"id": 55920, "keep": 1, "q": 2, "kind": "journalism", "topic": "tesla", "depth": "intro", "title": "Inside Steel Pulse: Musk's solar roof", "why": "Investigation into how a product demo diverged from the working product."}
+{"id": 55921, "keep": 1, "q": 3, "kind": "journalism", "topic": "social networks", "depth": "intermediate", "title": "Is the Tipping Point Toast?", "why": "Critiques the tipping point theory with network experiments and the role of susceptibility."}
+{"id": 55922, "keep": 0, "q": 2, "kind": "news", "topic": "business", "depth": "intro", "title": "Starbucks third place", "why": "Business article about a company strategy."}
+{"id": 55923, "keep": 0, "q": 1, "kind": "news", "topic": "products", "depth": "intro", "title": "Apple FaceTime eye contact", "why": "Product news about one feature."}
+{"id": 55924, "keep": 0, "q": 1, "kind": "news", "topic": "messaging", "depth": "intro", "title": "Why Apple does not want Android in iMessage", "why": "Opinion piece on messaging platforms."}
+{"id": 55925, "keep": 0, "q": 1, "kind": "news", "topic": "housing", "depth": "intro", "title": "Living in a windowless billionaire-built dorm", "why": "Feature story about one housing project."}
+{"id": 55926, "keep": 1, "q": 3, "kind": "journalism", "topic": "social networks", "depth": "intermediate", "title": "Is the Tipping Point Toast?", "why": "Magazine version of the tipping point critique, with the same network arguments."}
+{"id": 55927, "keep": 0, "q": 2, "kind": "news", "topic": "startups", "depth": "intro", "title": "Bill Nguyen on startups", "why": "Interview about one venture's failure and funding climate."}
+{"id": 55928, "keep": 1, "q": 2, "kind": "journalism", "topic": "business", "depth": "intro", "title": "Walmart's negotiating power", "why": "Describes Walmart's supplier negotiation tactics and their effect on suppliers."}
+{"id": 55929, "keep": 1, "q": 2, "kind": "blog", "topic": "design tools", "depth": "intro", "title": "Just Paying Figma $15", "why": "Argues for paying for a design tool and lists the pitfalls of free alternatives."}
+{"id": 55930, "keep": 1, "q": 4, "kind": "essay", "topic": "programming languages", "depth": "intermediate", "title": "Lies We Tell Ourselves to Keep Using Golang", "why": "Critiques common justifications for Go's design, with concrete examples from language features."}
+{"id": 55931, "keep": 1, "q": 4, "kind": "tutorial", "topic": "rust", "depth": "intermediate", "title": "Working with Strings in Rust", "why": "Explains Rust's String and str types, ownership and encoding in depth."}
+{"id": 55932, "keep": 0, "q": 1, "kind": "tool", "topic": "web frameworks", "depth": "intro", "title": "Fastify benchmarks", "why": "Benchmark results page."}
+{"id": 55933, "keep": 0, "q": 1, "kind": "explainer", "topic": "health", "depth": "intro", "title": "N95 vs FFP masks", "why": "Consumer-level mask comparison."}
+{"id": 55934, "keep": 1, "q": 3, "kind": "blog", "topic": "distributed systems", "depth": "expert", "title": "Building a Fast and Reliable Purging System", "why": "Engineering account of cache purge propagation using bimodal multicast across a CDN."}
+{"id": 55935, "keep": 0, "q": 1, "kind": "tool", "topic": "data visualization", "depth": "intro", "title": "Epoch charting library", "why": "Project page for a streaming chart library."}
+{"id": 55936, "keep": 1, "q": 3, "kind": "blog", "topic": "email protocols", "depth": "intermediate", "title": "JMAP: A New Email Open Standard", "why": "Explains the JMAP email protocol design as an open alternative to IMAP."}
+{"id": 55937, "keep": 0, "q": 1, "kind": "other", "topic": "email", "depth": "intro", "title": "Fastmail company page", "why": "Company about page."}
+{"id": 55938, "keep": 0, "q": 1, "kind": "news", "topic": "email", "depth": "intro", "title": "Fastmail offline beta", "why": "Product announcement."}
+{"id": 55939, "keep": 0, "q": 1, "kind": "reference", "topic": "email", "depth": "intro", "title": "Fastmail stopping spam", "why": "Product help page on spam filters."}
+{"id": 55940, "keep": 1, "q": 2, "kind": "reference", "topic": "email", "depth": "intermediate", "title": "Fastmail SSL, TLS and STARTTLS", "why": "Explains how mail client connections are secured and why plaintext channels are avoided."}
+{"id": 55941, "keep": 0, "q": 1, "kind": "reference", "topic": "email", "depth": "intro", "title": "Fastmail catch-all aliases", "why": "Product help page on aliases."}
+{"id": 55942, "keep": 0, "q": 1, "kind": "reference", "topic": "email", "depth": "intro", "title": "How Fastmail provides a secure service", "why": "Company security and legal-hosting statement."}
+{"id": 55943, "keep": 0, "q": 1, "kind": "reference", "topic": "email", "depth": "intro", "title": "Migrate to Fastmail from Gmail", "why": "Step-by-step import help page."}
+{"id": 55944, "keep": 0, "q": 1, "kind": "tool", "topic": "health", "depth": "intro", "title": "Vitamin D sun exposure calculator", "why": "Interactive calculator, a lookup rather than something to read."}
+{"id": 55945, "keep": 0, "q": 1, "kind": "blog", "topic": "diet", "depth": "intro", "title": "Weight Watchers success rates", "why": "Blog post citing one statistic."}
+{"id": 55946, "keep": 1, "q": 3, "kind": "blog", "topic": "databases", "depth": "expert", "title": "Distributed ACID Transaction Performance", "why": "Explains why a distributed database's concurrency control limits transaction throughput."}
+{"id": 55947, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intro", "title": "Faust documentation", "why": "Docs homepage for a stream-processing library."}
+{"id": 55948, "keep": 0, "q": 1, "kind": "news", "topic": "government", "depth": "intro", "title": "FBI international operations", "why": "Agency structure page."}
+{"id": 55949, "keep": 0, "q": 2, "kind": "news", "topic": "forensics", "depth": "intro", "title": "FBI hair analysis press release", "why": "Press release on a specific forensic review."}
+{"id": 55950, "keep": 0, "q": 2, "kind": "news", "topic": "politics", "depth": "intro", "title": "FBI Comey statement on Clinton email", "why": "Political statement about one investigation."}
+{"id": 55951, "keep": 0, "q": 1, "kind": "reference", "topic": "security", "depth": "intro", "title": "FBI cyber most wanted", "why": "Wanted-list lookup page."}
+{"id": 55952, "keep": 0, "q": 2, "kind": "news", "topic": "law", "depth": "intermediate", "title": "What recent rulings in hiQ v. LinkedIn say about scraping", "why": "Law-firm summary of legal rulings, not a technical explainer."}
+{"id": 55953, "keep": 1, "q": 3, "kind": "paper", "topic": "cryptography", "depth": "expert", "title": "Messenger Secret Conversations whitepaper", "why": "Technical whitepaper on Signal-protocol end-to-end encryption in Messenger."}
+{"id": 55954, "keep": 0, "q": 1, "kind": "other", "topic": "government", "depth": "intro", "title": "FCC chairman Ajit Pai", "why": "Official biography page."}
+{"id": 55955, "keep": 0, "q": 1, "kind": "reference", "topic": "broadband", "depth": "intro", "title": "FCC Affordable Connectivity Program", "why": "Program eligibility page."}
+{"id": 55956, "keep": 0, "q": 1, "kind": "news", "topic": "broadband", "depth": "intro", "title": "FCC RDOF auction 904", "why": "Auction record for a rural broadband fund."}
+{"id": 55957, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "FCC CALEA", "why": "Regulatory page on lawful intercept requirements."}
+{"id": 55958, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "FCC Children's Internet Protection Act", "why": "Regulatory guide on school internet filtering."}
+{"id": 55959, "keep": 0, "q": 1, "kind": "reference", "topic": "telecom", "depth": "intro", "title": "FCC phase out of 3G networks", "why": "Consumer notice about network shutdowns."}
+{"id": 55960, "keep": 0, "q": 1, "kind": "reference", "topic": "telecom", "depth": "intro", "title": "FCC wireless emergency alerts", "why": "Consumer guide to alert types."}
+{"id": 55961, "keep": 0, "q": 1, "kind": "news", "topic": "law", "depth": "intro", "title": "Marriott to pay $600k over Wi-Fi blocking", "why": "Enforcement news item."}
+{"id": 55962, "keep": 0, "q": 1, "kind": "docs", "topic": "government", "depth": "intro", "title": "FCC ECFS public API docs", "why": "API reference for a government filing system."}
+{"id": 55963, "keep": 0, "q": 1, "kind": "reference", "topic": "telecom", "depth": "intro", "title": "FCC Emergency Alert System", "why": "Regulatory program page."}
+{"id": 55964, "keep": 1, "q": 2, "kind": "reference", "topic": "radio frequency", "depth": "intermediate", "title": "FCC RF Safety FAQ", "why": "Explains how radio-frequency energy heats tissue and what exposure limits are based on."}
+{"id": 55965, "keep": 0, "q": 1, "kind": "news", "topic": "law", "depth": "intro", "title": "FCC covered list routers FAQ", "why": "Regulatory FAQ on equipment bans."}
+{"id": 55966, "keep": 0, "q": 1, "kind": "reference", "topic": "broadband", "depth": "intro", "title": "FCC Connect America Fund", "why": "Program overview page."}
+{"id": 55967, "keep": 0, "q": 1, "kind": "reference", "topic": "broadband", "depth": "intro", "title": "FCC universal service", "why": "Program overview page."}
+{"id": 55968, "keep": 0, "q": 1, "kind": "tool", "topic": "broadcasting", "depth": "intro", "title": "FCC DTV maps", "why": "Coverage lookup tools."}
+{"id": 55969, "keep": 0, "q": 1, "kind": "reference", "topic": "broadcasting", "depth": "intro", "title": "FCC low-power FM radio", "why": "Licensing program page."}
+{"id": 55970, "keep": 0, "q": 2, "kind": "news", "topic": "telecom", "depth": "intro", "title": "FCC spoofed robocalls", "why": "Enforcement page on caller ID authentication rules."}
+{"id": 55971, "keep": 1, "q": 2, "kind": "paper", "topic": "climate", "depth": "intermediate", "title": "Livestock greenhouse gas report", "why": "Report on methane from ruminants and how diets change emissions."}
+{"id": 55972, "keep": 0, "q": 1, "kind": "reference", "topic": "agriculture", "depth": "intermediate", "title": "FDA antibiotic guidance for animals", "why": "Regulatory guidance document."}
+{"id": 55973, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intermediate", "title": "FDA device classification", "why": "Regulatory classification page."}
+{"id": 55974, "keep": 1, "q": 2, "kind": "reference", "topic": "regulation", "depth": "intro", "title": "Milestones in US Food and Drug Law", "why": "Timeline of how food and drug regulation developed, with the reasons for each law."}
+{"id": 55975, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intermediate", "title": "FDA patents and exclusivity FAQ", "why": "Regulatory FAQ on drug exclusivity rules."}
+{"id": 55976, "keep": 0, "q": 1, "kind": "news", "topic": "health", "depth": "intro", "title": "FDA GLP-1 compounding policy", "why": "Regulatory news on drug shortages."}
+{"id": 55977, "keep": 0, "q": 1, "kind": "reference", "topic": "vaccines", "depth": "intermediate", "title": "Pfizer-BioNTech vaccine FAQ", "why": "Regulatory FAQ on one authorization."}
+{"id": 55978, "keep": 0, "q": 1, "kind": "reference", "topic": "health", "depth": "intro", "title": "FDA dietary supplements", "why": "Agency overview page."}
+{"id": 55979, "keep": 0, "q": 1, "kind": "reference", "topic": "vaccines", "depth": "intermediate", "title": "FDA vaccine document", "why": "Regulatory document with demographic tables."}
+{"id": 55980, "keep": 0, "q": 1, "kind": "reference", "topic": "vaccines", "depth": "intermediate", "title": "FDA vaccine approval document", "why": "Regulatory approval document."}
+{"id": 55981, "keep": 0, "q": 1, "kind": "reference", "topic": "vaccines", "depth": "intermediate", "title": "FDA vaccine decision memo", "why": "Regulatory decision memo."}
+{"id": 55982, "keep": 0, "q": 1, "kind": "reference", "topic": "vaccines", "depth": "intermediate", "title": "FDA vaccine safety report", "why": "Regulatory report on adverse event data."}
+{"id": 55983, "keep": 0, "q": 1, "kind": "reference", "topic": "testing", "depth": "intro", "title": "FDA EUA serology test performance", "why": "Table of authorized test performance data."}
+{"id": 55984, "keep": 0, "q": 1, "kind": "reference", "topic": "testing", "depth": "intro", "title": "FDA diagnostic testing FAQ", "why": "Regulatory FAQ on test availability."}
+{"id": 55985, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "FDA classify your medical device", "why": "Regulatory overview page."}
+{"id": 55986, "keep": 0, "q": 1, "kind": "news", "topic": "vaccines", "depth": "intro", "title": "FDA antibody testing safety communication", "why": "Agency safety notice."}
+{"id": 55987, "keep": 0, "q": 1, "kind": "news", "topic": "vaccines", "depth": "intro", "title": "FDA authorizes Pfizer vaccine for emergency use", "why": "Press announcement."}
+{"id": 55988, "keep": 0, "q": 1, "kind": "news", "topic": "psychiatry", "depth": "intro", "title": "FDA approves nasal spray for depression", "why": "Press announcement on one drug approval."}
+{"id": 55989, "keep": 1, "q": 2, "kind": "reference", "topic": "clinical trials", "depth": "intro", "title": "FDA step 3: clinical research", "why": "Explains the phases of clinical trials and how long they take."}
+{"id": 55990, "keep": 1, "q": 3, "kind": "essay", "topic": "economics", "depth": "intermediate", "title": "FDA review: the harm of drug regulation", "why": "Argues the cost of delayed drug approvals using historical estimates."}
+{"id": 55991, "keep": 0, "q": 1, "kind": "reference", "topic": "banking", "depth": "intro", "title": "FDIC banking facts", "why": "Consumer facts page on deposit insurance."}
+{"id": 55992, "keep": 0, "q": 1, "kind": "reference", "topic": "banking", "depth": "intro", "title": "FDIC priority of claims", "why": "Consumer page on creditor priority."}
+{"id": 55993, "keep": 0, "q": 1, "kind": "news", "topic": "banking", "depth": "intro", "title": "FDIC letter on vacation policies", "why": "Regulatory letter on bank operations."}
+{"id": 55994, "keep": 0, "q": 1, "kind": "news", "topic": "banking", "depth": "intro", "title": "FDIC Silicon Valley Bridge Bank press release", "why": "Press release on a bank failure."}
+{"id": 55995, "keep": 0, "q": 1, "kind": "reference", "topic": "banking", "depth": "intro", "title": "FDIC deposit insurance", "why": "Consumer resource page."}
+{"id": 55996, "keep": 0, "q": 1, "kind": "reference", "topic": "banking", "depth": "intro", "title": "FDIC deposit insurance fund assessments", "why": "Fee schedule and assessment page."}
+{"id": 55997, "keep": 0, "q": 1, "kind": "tool", "topic": "ocaml", "depth": "intro", "title": "opam-repository-mingw", "why": "Package repository page for Windows builds."}
+{"id": 55998, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "Pipelight installation", "why": "Install instructions for a Silverlight-in-Wine plugin."}
+{"id": 55999, "keep": 0, "q": 1, "kind": "other", "topic": "web hosting", "depth": "intro", "title": "cPanel Let's Encrypt feature request", "why": "Feature request thread on a hosting control panel."}

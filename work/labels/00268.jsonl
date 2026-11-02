@@ -1,0 +1,200 @@
+{"id": 53600, "keep": 0, "q": 1, "kind": "tool", "topic": "frontend frameworks", "depth": "intermediate", "title": "KDE Kirigami", "why": "Framework homepage for building Qt/QML apps; mostly a product landing page."}
+{"id": 53601, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "1Password secrets in env vars", "why": "Vendor how-to for injecting secrets via the CLI; product documentation."}
+{"id": 53602, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "1Password SSH agent", "why": "Vendor docs for storing SSH keys in 1Password; product setup guide."}
+{"id": 53603, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "1Password SSH agent security", "why": "Vendor security model for the SSH agent; product documentation."}
+{"id": 53604, "keep": 0, "q": 2, "kind": "reference", "topic": "pdf", "depth": "expert", "title": "ISO 32000-2 PDF standard", "why": "Formal PDF 2.0 specification; dense normative reference rather than learning material."}
+{"id": 53605, "keep": 0, "q": 1, "kind": "docs", "topic": "voice assistants", "depth": "intro", "title": "Alexa Skills Kit", "why": "Developer platform landing page for building Alexa skills."}
+{"id": 53606, "keep": 0, "q": 1, "kind": "docs", "topic": "voice assistants", "depth": "intro", "title": "Alexa skills rewards", "why": "Program page on developer payouts for Alexa skills."}
+{"id": 53607, "keep": 0, "q": 1, "kind": "tool", "topic": "compilers", "depth": "intermediate", "title": "AMD AOCC compiler", "why": "Compiler product page; a download and install target."}
+{"id": 53608, "keep": 0, "q": 1, "kind": "tool", "topic": "linear algebra", "depth": "intermediate", "title": "AMD AOCL BLAS", "why": "Library download page for AMD's BLAS build."}
+{"id": 53609, "keep": 1, "q": 3, "kind": "reference", "topic": "systems programming", "depth": "expert", "title": "AMD64 developer manuals", "why": "Architecture manuals explaining x86-64 system programming in depth; a solid reference."}
+{"id": 53610, "keep": 0, "q": 2, "kind": "reference", "topic": "android", "depth": "intermediate", "title": "Android 6.0 behavior changes", "why": "Platform release notes on permission and API changes; version-specific, not a read."}
+{"id": 53611, "keep": 0, "q": 2, "kind": "reference", "topic": "android", "depth": "intermediate", "title": "Android 8.0 behavior changes", "why": "Release notes on background limits; version-specific reference."}
+{"id": 53612, "keep": 1, "q": 3, "kind": "docs", "topic": "design", "depth": "intro", "title": "Android design principles", "why": "Design guideline principles on delight, surprise and user control, with worked reasoning."}
+{"id": 53613, "keep": 0, "q": 1, "kind": "reference", "topic": "android", "depth": "intermediate", "title": "Android Wi-Fi suggestion API", "why": "API reference for suggesting Wi-Fi networks; not a learning read."}
+{"id": 53614, "keep": 0, "q": 1, "kind": "docs", "topic": "android", "depth": "intro", "title": "Android alternative distribution", "why": "Developer docs on distributing apps outside Play; policy-style reference."}
+{"id": 53615, "keep": 0, "q": 1, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android GCM", "why": "Deprecated GCM push documentation landing page."}
+{"id": 53616, "keep": 0, "q": 2, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Play Integrity overview", "why": "Product docs for device attestation service."}
+{"id": 53617, "keep": 0, "q": 1, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android multiple APKs", "why": "Play publishing docs on per-device APK builds; procedural reference."}
+{"id": 53618, "keep": 1, "q": 3, "kind": "docs", "topic": "android", "depth": "intro", "title": "Android intents and filters", "why": "Official guide explaining how intents and intent filters route activities and data."}
+{"id": 53619, "keep": 0, "q": 1, "kind": "tool", "topic": "android", "depth": "intro", "title": "Android emulator", "why": "Tool documentation for the Android emulator."}
+{"id": 53620, "keep": 0, "q": 2, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android Cronet", "why": "Library docs for the networking stack; API reference rather than a read."}
+{"id": 53621, "keep": 0, "q": 2, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android Wi-Fi scan", "why": "Permissions-related API docs for Wi-Fi scanning."}
+{"id": 53622, "keep": 0, "q": 1, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android data backup", "why": "Backup API docs; reference for developers."}
+{"id": 53623, "keep": 0, "q": 2, "kind": "docs", "topic": "android", "depth": "intro", "title": "Android Kotlin-first", "why": "Google's short announcement page on Kotlin-first development; policy statement."}
+{"id": 53624, "keep": 0, "q": 2, "kind": "reference", "topic": "android", "depth": "expert", "title": "Android NDK stable APIs", "why": "List of stable NDK APIs; reference lookup."}
+{"id": 53625, "keep": 0, "q": 1, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android API overview preview", "why": "Old platform preview notes on multi-window and recents."}
+{"id": 53626, "keep": 0, "q": 2, "kind": "reference", "topic": "android", "depth": "intermediate", "title": "NativeActivity reference", "why": "Class reference for native C/C++ activities."}
+{"id": 53627, "keep": 0, "q": 1, "kind": "reference", "topic": "android", "depth": "intro", "title": "Android Intent reference", "why": "Class reference for Intent; generic lookup."}
+{"id": 53628, "keep": 0, "q": 1, "kind": "reference", "topic": "android", "depth": "intermediate", "title": "PackageInstaller SessionParams", "why": "Class reference for package installer sessions."}
+{"id": 53629, "keep": 0, "q": 1, "kind": "reference", "topic": "android", "depth": "intermediate", "title": "Android Location class", "why": "Class reference for the Location object."}
+{"id": 53630, "keep": 0, "q": 1, "kind": "reference", "topic": "android", "depth": "intermediate", "title": "Android location package", "why": "Package summary listing location APIs."}
+{"id": 53631, "keep": 0, "q": 1, "kind": "reference", "topic": "android", "depth": "intermediate", "title": "UserManager reference", "why": "Class reference for user management APIs."}
+{"id": 53632, "keep": 0, "q": 1, "kind": "reference", "topic": "android", "depth": "intermediate", "title": "MotionEvent reference", "why": "Class reference for touch event objects."}
+{"id": 53633, "keep": 0, "q": 1, "kind": "reference", "topic": "android", "depth": "intermediate", "title": "WindowManager.LayoutParams", "why": "Class reference for window layout flags and types."}
+{"id": 53634, "keep": 0, "q": 1, "kind": "reference", "topic": "android", "depth": "intro", "title": "Android packages index", "why": "Index of Android API packages; navigation page."}
+{"id": 53635, "keep": 0, "q": 1, "kind": "tool", "topic": "android", "depth": "intro", "title": "Android Debug Bridge", "why": "Command-line tool reference for adb."}
+{"id": 53636, "keep": 0, "q": 1, "kind": "tool", "topic": "android", "depth": "intro", "title": "Android Studio downloads", "why": "Download and SDK landing page."}
+{"id": 53637, "keep": 0, "q": 2, "kind": "tool", "topic": "android", "depth": "intro", "title": "Android monkey tool", "why": "Docs for the monkey UI stress-testing tool."}
+{"id": 53638, "keep": 0, "q": 1, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android support library", "why": "Old support library reference page."}
+{"id": 53639, "keep": 0, "q": 2, "kind": "docs", "topic": "privacy", "depth": "intermediate", "title": "Android user data identifiers", "why": "Policy-style docs on hardware and advertising identifiers."}
+{"id": 53640, "keep": 1, "q": 2, "kind": "tutorial", "topic": "android", "depth": "intro", "title": "Build your first Android app", "why": "Official beginner tutorial for creating a first Android app."}
+{"id": 53641, "keep": 0, "q": 2, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android documents and files access", "why": "Storage access docs; API-level guidance rather than an essay."}
+{"id": 53642, "keep": 0, "q": 2, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android shared media storage", "why": "Storage API docs for media access and EXIF handling."}
+{"id": 53643, "keep": 1, "q": 2, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android Doze and standby", "why": "Explains how Doze and standby restrict background work and battery use."}
+{"id": 53644, "keep": 1, "q": 2, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android Doze and standby (old)", "why": "Older copy of the Doze guide explaining background restrictions and battery behavior."}
+{"id": 53645, "keep": 0, "q": 1, "kind": "docs", "topic": "android", "depth": "intermediate", "title": "Android notification channels", "why": "Notification API docs on channels; reference."}
+{"id": 53646, "keep": 1, "q": 4, "kind": "tutorial", "topic": "git", "depth": "intro", "title": "Store dotfiles in a bare git repo", "why": "Classic write-up on tracking dotfiles with a bare git repository and work tree."}
+{"id": 53647, "keep": 0, "q": 1, "kind": "docs", "topic": "browser extensions", "depth": "intermediate", "title": "Chrome app network API", "why": "Deprecated Chrome Apps socket API reference."}
+{"id": 53648, "keep": 0, "q": 1, "kind": "docs", "topic": "browser extensions", "depth": "intermediate", "title": "Chrome native messaging", "why": "Reference for native messaging between extensions and local apps."}
+{"id": 53649, "keep": 1, "q": 3, "kind": "explainer", "topic": "css", "depth": "intermediate", "title": "CSS nesting", "why": "Explains native CSS nesting, its history and how it compiles and behaves."}
+{"id": 53650, "keep": 1, "q": 3, "kind": "blog", "topic": "css", "depth": "intermediate", "title": "CSS text-wrap: pretty", "why": "Explains the text-wrap pretty property and how it avoids short last lines."}
+{"id": 53651, "keep": 1, "q": 3, "kind": "blog", "topic": "css", "depth": "intermediate", "title": "Entry and exit animations", "why": "Shows how to animate dialogs and popovers on open and close in CSS."}
+{"id": 53652, "keep": 1, "q": 2, "kind": "blog", "topic": "web security", "depth": "intermediate", "title": "Private Network Access preflight", "why": "Explains Chrome's private network access rules and preflight requirements for local endpoints."}
+{"id": 53653, "keep": 1, "q": 3, "kind": "explainer", "topic": "web security", "depth": "expert", "title": "Signed exchanges", "why": "Explains signed HTTP exchanges and how they let CDNs serve origin content."}
+{"id": 53654, "keep": 0, "q": 1, "kind": "docs", "topic": "browser devtools", "depth": "intro", "title": "Chrome DevTools", "why": "DevTools docs landing page."}
+{"id": 53655, "keep": 1, "q": 2, "kind": "tutorial", "topic": "javascript", "depth": "intermediate", "title": "JavaScript memory profiling", "why": "Guide to profiling JavaScript memory and finding leaks in DevTools."}
+{"id": 53656, "keep": 0, "q": 1, "kind": "docs", "topic": "ai", "depth": "intro", "title": "Chrome built-in AI", "why": "Product docs for on-device AI APIs in Chrome."}
+{"id": 53657, "keep": 0, "q": 2, "kind": "docs", "topic": "browser devtools", "depth": "intermediate", "title": "DevTools Recorder", "why": "Product docs for recording and exporting browser interactions."}
+{"id": 53658, "keep": 0, "q": 2, "kind": "docs", "topic": "browser devtools", "depth": "intermediate", "title": "DevTools WebAuthn", "why": "Product docs for virtual authenticators in DevTools."}
+{"id": 53659, "keep": 0, "q": 1, "kind": "reference", "topic": "browser extensions", "depth": "intermediate", "title": "Chrome extensions API reference", "why": "API index for Chrome extensions; reference landing page."}
+{"id": 53660, "keep": 0, "q": 2, "kind": "reference", "topic": "browser extensions", "depth": "intermediate", "title": "webRequest API", "why": "API reference for intercepting web requests."}
+{"id": 53661, "keep": 0, "q": 1, "kind": "reference", "topic": "browser extensions", "depth": "intermediate", "title": "chrome.storage API", "why": "API reference for extension storage."}
+{"id": 53662, "keep": 0, "q": 2, "kind": "reference", "topic": "browser extensions", "depth": "intermediate", "title": "webRequest API (old)", "why": "Older API reference for web request interception."}
+{"id": 53663, "keep": 1, "q": 3, "kind": "docs", "topic": "web performance", "depth": "intermediate", "title": "Third-party facades", "why": "Explains lazy-loading facades to cut the cost of embedded third-party widgets."}
+{"id": 53664, "keep": 0, "q": 1, "kind": "docs", "topic": "privacy", "depth": "intermediate", "title": "Topics API", "why": "Product docs for Chrome's Topics ad API."}
+{"id": 53665, "keep": 0, "q": 1, "kind": "reference", "topic": "browser extensions", "depth": "intermediate", "title": "activeTab permission", "why": "Permission reference for extensions."}
+{"id": 53666, "keep": 0, "q": 1, "kind": "reference", "topic": "browser extensions", "depth": "intermediate", "title": "desktopCapture API", "why": "API reference for screen capture in extensions."}
+{"id": 53667, "keep": 0, "q": 1, "kind": "docs", "topic": "browser extensions", "depth": "intermediate", "title": "Extension permission warnings", "why": "Old policy doc on extension permission warnings."}
+{"id": 53668, "keep": 0, "q": 2, "kind": "docs", "topic": "web apps", "depth": "intro", "title": "Install to home screen", "why": "Docs on installing web apps; developer guidance page."}
+{"id": 53669, "keep": 0, "q": 1, "kind": "docs", "topic": "browser extensions", "depth": "intro", "title": "Chrome for Android FAQ", "why": "Old FAQ page on extension support on Android."}
+{"id": 53670, "keep": 0, "q": 2, "kind": "explainer", "topic": "webassembly", "depth": "intermediate", "title": "Native Client and PNaCl", "why": "Overview of a deprecated Google tech; historical rather than instructive."}
+{"id": 53671, "keep": 0, "q": 2, "kind": "reference", "topic": "webassembly", "depth": "expert", "title": "PNaCl bitcode ABI", "why": "Spec for a deprecated bitcode format; reference only."}
+{"id": 53672, "keep": 0, "q": 1, "kind": "docs", "topic": "browser extensions", "depth": "intro", "title": "Chrome Web Store FAQ", "why": "Store support FAQ; policy reference."}
+{"id": 53673, "keep": 0, "q": 1, "kind": "docs", "topic": "browser extensions", "depth": "intro", "title": "Chrome Web Store policies", "why": "Program policy document; legal-style text."}
+{"id": 53674, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intro", "title": "Couchbase Mobile", "why": "Vendor product page for a mobile database."}
+{"id": 53675, "keep": 0, "q": 1, "kind": "docs", "topic": "apis", "depth": "intermediate", "title": "Echo Nest API docs", "why": "Old API documentation for a music data service."}
+{"id": 53676, "keep": 0, "q": 1, "kind": "docs", "topic": "ci", "depth": "intro", "title": "GitHub Actions workflow", "why": "Procedural docs for creating a GitHub Actions workflow."}
+{"id": 53677, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "GitHub OAuth scopes", "why": "API reference on OAuth scopes; a lookup page."}
+{"id": 53678, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "GitHub deploy keys", "why": "Guide to deploy keys and machine users; procedural reference."}
+{"id": 53679, "keep": 0, "q": 1, "kind": "reference", "topic": "apis", "depth": "intermediate", "title": "GitHub events API", "why": "API reference for activity events."}
+{"id": 53680, "keep": 0, "q": 1, "kind": "reference", "topic": "apis", "depth": "intermediate", "title": "GitHub event types", "why": "API reference for webhook event types."}
+{"id": 53681, "keep": 0, "q": 1, "kind": "reference", "topic": "apis", "depth": "intermediate", "title": "GitHub GraphQL v4", "why": "GraphQL API landing page; reference."}
+{"id": 53682, "keep": 0, "q": 2, "kind": "reference", "topic": "apis", "depth": "expert", "title": "GitHub GraphQL resource limits", "why": "Reference for query cost limits; API-specific guidance."}
+{"id": 53683, "keep": 0, "q": 1, "kind": "reference", "topic": "c", "depth": "intermediate", "title": "GLib documentation", "why": "Library reference landing page."}
+{"id": 53684, "keep": 0, "q": 2, "kind": "reference", "topic": "c", "depth": "intermediate", "title": "GLib strings", "why": "Reference for the GLib string API."}
+{"id": 53685, "keep": 0, "q": 1, "kind": "tool", "topic": "java", "depth": "intro", "title": "IBM Semeru runtimes", "why": "Vendor download page for a Java runtime."}
+{"id": 53686, "keep": 0, "q": 1, "kind": "docs", "topic": "payments", "depth": "intro", "title": "Mastercard automatic billing updater", "why": "Product page for a card-updating service."}
+{"id": 53687, "keep": 0, "q": 1, "kind": "other", "topic": "cross-platform", "depth": "intermediate", "title": "Windows iOS bridge", "why": "Project page for a Windows-to-iOS framework bridge."}
+{"id": 53688, "keep": 0, "q": 2, "kind": "docs", "topic": "browser extensions", "depth": "intermediate", "title": "Multiprocess Firefox for add-ons", "why": "Migration guide for add-on developers on multiprocess Firefox."}
+{"id": 53689, "keep": 0, "q": 1, "kind": "docs", "topic": "browsers", "depth": "intro", "title": "Firefox Developer Edition", "why": "Product page for a browser edition."}
+{"id": 53690, "keep": 0, "q": 1, "kind": "docs", "topic": "web development", "depth": "intro", "title": "MDN docs index", "why": "Index page of the MDN documentation site."}
+{"id": 53691, "keep": 1, "q": 2, "kind": "docs", "topic": "web development", "depth": "intermediate", "title": "Manipulating browser history", "why": "MDN guide on changing history entries without reloads, with the history API."}
+{"id": 53692, "keep": 0, "q": 2, "kind": "reference", "topic": "encoding", "depth": "intro", "title": "Base64 glossary", "why": "Glossary entry; generic reference lookup."}
+{"id": 53693, "keep": 0, "q": 1, "kind": "reference", "topic": "browsers", "depth": "intro", "title": "Chrome glossary entry", "why": "Glossary definition of browser chrome."}
+{"id": 53694, "keep": 0, "q": 2, "kind": "reference", "topic": "html", "depth": "intro", "title": "Void elements glossary", "why": "Glossary entry listing void HTML elements."}
+{"id": 53695, "keep": 1, "q": 4, "kind": "tutorial", "topic": "css", "depth": "intro", "title": "Flexbox guide", "why": "MDN tutorial on flexbox layout with clear examples for beginners."}
+{"id": 53696, "keep": 1, "q": 3, "kind": "tutorial", "topic": "css", "depth": "intro", "title": "CSS grid guide", "why": "MDN tutorial introducing CSS grid layout step by step."}
+{"id": 53697, "keep": 1, "q": 3, "kind": "tutorial", "topic": "web forms", "depth": "intro", "title": "Form validation", "why": "MDN tutorial on built-in and scripted form validation techniques."}
+{"id": 53698, "keep": 0, "q": 2, "kind": "reference", "topic": "browser extensions", "depth": "intermediate", "title": "storage.sync API", "why": "Extension storage API reference."}
+{"id": 53699, "keep": 0, "q": 2, "kind": "docs", "topic": "browser extensions", "depth": "intermediate", "title": "Clipboard in extensions", "why": "Extension how-to on clipboard access; procedural."}
+{"id": 53700, "keep": 0, "q": 2, "kind": "docs", "topic": "browser extensions", "depth": "intermediate", "title": "Porting Chrome extensions", "why": "Porting guide for extension developers; procedural."}
+{"id": 53701, "keep": 0, "q": 2, "kind": "reference", "topic": "browser extensions", "depth": "intermediate", "title": "web_accessible_resources", "why": "Manifest key reference for extension resources."}
+{"id": 53702, "keep": 0, "q": 1, "kind": "docs", "topic": "build systems", "depth": "expert", "title": "Firefox build prep", "why": "Build instructions for compiling Firefox on Linux and macOS."}
+{"id": 53703, "keep": 0, "q": 1, "kind": "docs", "topic": "mobile", "depth": "intro", "title": "Firefox OS", "why": "Developer landing page for a discontinued OS."}
+{"id": 53704, "keep": 0, "q": 1, "kind": "docs", "topic": "mobile", "depth": "intro", "title": "Firefox OS build prerequisites", "why": "Build setup docs for a discontinued OS."}
+{"id": 53705, "keep": 0, "q": 2, "kind": "reference", "topic": "security", "depth": "expert", "title": "NSS key log format", "why": "Format reference for logging TLS secrets; spec-level detail."}
+{"id": 53706, "keep": 0, "q": 1, "kind": "docs", "topic": "browser extensions", "depth": "intro", "title": "Social API", "why": "Old Firefox social API page."}
+{"id": 53707, "keep": 0, "q": 2, "kind": "reference", "topic": "browsers", "depth": "expert", "title": "XPCOM", "why": "Overview of Mozilla's component model; reference-level."}
+{"id": 53708, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "Persona protocol overview", "why": "Docs for a discontinued identity system."}
+{"id": 53709, "keep": 0, "q": 2, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "HTTP Strict Transport Security", "why": "Reference page on HSTS headers; lookup material."}
+{"id": 53710, "keep": 0, "q": 2, "kind": "docs", "topic": "browser devtools", "depth": "intermediate", "title": "Source maps in devtools", "why": "Devtools how-to on source maps; procedural."}
+{"id": 53711, "keep": 0, "q": 1, "kind": "docs", "topic": "browser devtools", "depth": "intro", "title": "GCLI command line", "why": "Devtools command-line reference."}
+{"id": 53712, "keep": 0, "q": 1, "kind": "docs", "topic": "browser devtools", "depth": "intro", "title": "Responsive design view", "why": "Devtools feature reference."}
+{"id": 53713, "keep": 0, "q": 1, "kind": "docs", "topic": "browser devtools", "depth": "intro", "title": "Scratchpad", "why": "Devtools feature reference."}
+{"id": 53714, "keep": 0, "q": 1, "kind": "docs", "topic": "browser devtools", "depth": "intro", "title": "Style editor", "why": "Devtools feature reference."}
+{"id": 53715, "keep": 0, "q": 1, "kind": "docs", "topic": "browser devtools", "depth": "intro", "title": "Valence add-on", "why": "Docs for a developer-edition add-on."}
+{"id": 53716, "keep": 0, "q": 2, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "Accelerometer API", "why": "Sensor API reference."}
+{"id": 53717, "keep": 0, "q": 1, "kind": "reference", "topic": "web audio", "depth": "intermediate", "title": "AudioContext", "why": "API reference for audio contexts."}
+{"id": 53718, "keep": 0, "q": 2, "kind": "reference", "topic": "web audio", "depth": "intermediate", "title": "AudioWorklet", "why": "API reference; the linked metronome post is only cited in comments."}
+{"id": 53719, "keep": 0, "q": 2, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "Cache API", "why": "API reference for the Cache storage interface."}
+{"id": 53720, "keep": 0, "q": 1, "kind": "reference", "topic": "canvas", "depth": "intermediate", "title": "CanvasRenderingContext2D", "why": "Canvas API reference."}
+{"id": 53721, "keep": 1, "q": 3, "kind": "tutorial", "topic": "canvas", "depth": "intro", "title": "Canvas API tutorial", "why": "MDN tutorial on drawing with the canvas API, from basics upward."}
+{"id": 53722, "keep": 0, "q": 2, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "Compression Streams API", "why": "API reference for browser compression streams."}
+{"id": 53723, "keep": 0, "q": 2, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "DOMParser", "why": "API reference for parsing markup."}
+{"id": 53724, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intro", "title": "querySelector", "why": "API reference for querySelector."}
+{"id": 53725, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intro", "title": "querySelectorAll", "why": "API reference for querySelectorAll."}
+{"id": 53726, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intro", "title": "Element.classList", "why": "API reference for classList."}
+{"id": 53727, "keep": 0, "q": 2, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "requestFullscreen", "why": "API reference for fullscreen requests."}
+{"id": 53728, "keep": 0, "q": 2, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "setPointerCapture", "why": "API reference for pointer capture."}
+{"id": 53729, "keep": 0, "q": 2, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "Fullscreen API", "why": "API overview for fullscreen mode."}
+{"id": 53730, "keep": 1, "q": 3, "kind": "tutorial", "topic": "web apis", "depth": "intermediate", "title": "Using the Gamepad API", "why": "MDN guide to reading gamepad input in the browser, with examples."}
+{"id": 53731, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "toDataURL", "why": "API reference for canvas data URLs."}
+{"id": 53732, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "HTMLInputElement", "why": "DOM interface reference for input elements."}
+{"id": 53733, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "htmlFor property", "why": "Reference for label property."}
+{"id": 53734, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intermediate", "title": "HTMLUnknownElement", "why": "Reference for unknown element types."}
+{"id": 53735, "keep": 0, "q": 2, "kind": "reference", "topic": "web security", "depth": "intermediate", "title": "HTML Sanitizer API", "why": "API reference for HTML sanitization."}
+{"id": 53736, "keep": 0, "q": 2, "kind": "reference", "topic": "css", "depth": "expert", "title": "Houdini APIs", "why": "Overview page of the CSS Houdini APIs."}
+{"id": 53737, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "getUserMedia", "why": "API reference for camera and microphone access."}
+{"id": 53738, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "MediaSource", "why": "API reference for media source extensions."}
+{"id": 53739, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "MediaStream Recording", "why": "API reference for recording media streams."}
+{"id": 53740, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "Network Information API", "why": "API reference for connection info."}
+{"id": 53741, "keep": 0, "q": 2, "kind": "reference", "topic": "dom", "depth": "intro", "title": "DOM Node", "why": "Reference for the Node interface."}
+{"id": 53742, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "Permissions API", "why": "API reference for permission queries."}
+{"id": 53743, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "Response API", "why": "API reference for fetch responses."}
+{"id": 53744, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "Screen Capture API", "why": "API reference for screen capture."}
+{"id": 53745, "keep": 0, "q": 1, "kind": "reference", "topic": "web audio", "depth": "intermediate", "title": "ScriptProcessorNode", "why": "Reference for a deprecated audio node."}
+{"id": 53746, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "SpeechSynthesis", "why": "API reference for text-to-speech."}
+{"id": 53747, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "Storage Access API", "why": "API reference for third-party storage access."}
+{"id": 53748, "keep": 0, "q": 2, "kind": "reference", "topic": "crypto", "depth": "expert", "title": "SubtleCrypto encrypt", "why": "API reference for WebCrypto encryption."}
+{"id": 53749, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "TextDecoder", "why": "API reference for decoding bytes."}
+{"id": 53750, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "TextEncoder", "why": "API reference for encoding text."}
+{"id": 53751, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "View Transition API", "why": "API reference for view transitions."}
+{"id": 53752, "keep": 0, "q": 2, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "WEBGL debug renderer info", "why": "API reference on GPU identification."}
+{"id": 53753, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "expert", "title": "WebTransport API", "why": "API reference for WebTransport."}
+{"id": 53754, "keep": 0, "q": 2, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "WebAuthn attestation", "why": "Reference on attestation and assertion in WebAuthn."}
+{"id": 53755, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "Web NFC API", "why": "API reference for NFC."}
+{"id": 53756, "keep": 1, "q": 3, "kind": "tutorial", "topic": "web components", "depth": "intermediate", "title": "Templates and slots", "why": "MDN guide to HTML templates and slots for building web components."}
+{"id": 53757, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "beforeunload event", "why": "Event reference for page unload."}
+{"id": 53758, "keep": 0, "q": 1, "kind": "reference", "topic": "web apis", "depth": "intermediate", "title": "XMLHttpRequest", "why": "API reference for XHR."}
+{"id": 53759, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "CSS custom properties", "why": "Reference for custom property syntax."}
+{"id": 53760, "keep": 0, "q": 2, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "CSS ::part pseudo-element", "why": "Reference for the shadow part selector."}
+{"id": 53761, "keep": 0, "q": 2, "kind": "reference", "topic": "css", "depth": "intermediate", "title": ":visited selector", "why": "Reference on visited-link styling limits."}
+{"id": 53762, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "font-display", "why": "Reference for the font-display property."}
+{"id": 53763, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "unicode-range", "why": "Reference for the unicode-range descriptor."}
+{"id": 53764, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "@layer rule", "why": "Reference for cascade layers."}
+{"id": 53765, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "@media rule", "why": "Reference for media queries."}
+{"id": 53766, "keep": 0, "q": 2, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "prefers-reduced-data", "why": "Reference for a media feature with limited support."}
+{"id": 53767, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "@page rule", "why": "Reference for paged media rules."}
+{"id": 53768, "keep": 1, "q": 3, "kind": "tutorial", "topic": "css", "depth": "intro", "title": "Multi-column layouts", "why": "MDN guide to CSS multi-column layout with worked examples."}
+{"id": 53769, "keep": 0, "q": 2, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "CSS containment", "why": "Reference for containment and container queries."}
+{"id": 53770, "keep": 0, "q": 2, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "CSS logical properties", "why": "Reference for writing-mode-aware properties."}
+{"id": 53771, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "Container queries", "why": "Reference for container queries."}
+{"id": 53772, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "CSS subgrid", "why": "Reference for subgrid."}
+{"id": 53773, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "CSS if() function", "why": "Reference for the if() function."}
+{"id": 53774, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intro", "title": "CSS clamp()", "why": "Reference for clamp()."}
+{"id": 53775, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "light-dark() function", "why": "Reference for the light-dark function."}
+{"id": 53776, "keep": 0, "q": 2, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "oklch() color", "why": "Reference for the oklch color function."}
+{"id": 53777, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "CSS filter property", "why": "Reference for the filter property."}
+{"id": 53778, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intro", "title": "grid-template-areas", "why": "Reference for named grid areas."}
+{"id": 53779, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "image-rendering", "why": "Reference for image-rendering."}
+{"id": 53780, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intro", "title": "object-fit", "why": "Reference for object-fit."}
+{"id": 53781, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intro", "title": "CSS order property", "why": "Reference for the order property."}
+{"id": 53782, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "scroll-behavior", "why": "Reference for scroll-behavior."}
+{"id": 53783, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intermediate", "title": "touch-action", "why": "Reference for touch-action."}
+{"id": 53784, "keep": 0, "q": 1, "kind": "reference", "topic": "css", "depth": "intro", "title": "word-break", "why": "Reference for word-break."}
+{"id": 53785, "keep": 0, "q": 2, "kind": "reference", "topic": "html", "depth": "intermediate", "title": "HTML content categories", "why": "Reference of content model categories; lookup material."}
+{"id": 53786, "keep": 1, "q": 3, "kind": "tutorial", "topic": "javascript", "depth": "intermediate", "title": "Using web workers", "why": "MDN guide to web workers for moving work off the main thread."}
+{"id": 53787, "keep": 1, "q": 2, "kind": "tutorial", "topic": "web apis", "depth": "intro", "title": "Using the Page Visibility API", "why": "MDN guide to detecting tab visibility, with a usage example."}
+{"id": 53788, "keep": 0, "q": 1, "kind": "docs", "topic": "html", "depth": "intro", "title": "MDN HTML landing", "why": "HTML section landing page."}
+{"id": 53789, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "capture attribute", "why": "Reference for the capture attribute."}
+{"id": 53790, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "audio element", "why": "Reference for the audio element."}
+{"id": 53791, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "center element", "why": "Reference for an obsolete element."}
+{"id": 53792, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "cite element", "why": "Reference for the cite element."}
+{"id": 53793, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "frame element", "why": "Reference for a deprecated element."}
+{"id": 53794, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "input type=color", "why": "Reference for the color input."}
+{"id": 53795, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "input type=email", "why": "Reference for the email input."}
+{"id": 53796, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "input type=file", "why": "Reference for the file input."}
+{"id": 53797, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "input type=password", "why": "Reference for the password input."}
+{"id": 53798, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "input type=range", "why": "Reference for the range input."}
+{"id": 53799, "keep": 0, "q": 1, "kind": "reference", "topic": "html", "depth": "intro", "title": "input type=tel", "why": "Reference for the tel input."}

@@ -1,0 +1,200 @@
+{"id": 59000, "keep": 0, "q": 1, "kind": "reference", "topic": "personal finance", "depth": "intro", "title": "Investor bulletin: accredited investors", "why": "Regulatory summary of who qualifies as an accredited investor; a legal threshold, not an essay."}
+{"id": 59001, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Uber Q2 2019 results", "why": "Quarterly earnings press release; news of the moment."}
+{"id": 59002, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Uber Q4 and full year 2023 results", "why": "Earnings press release; news of the moment."}
+{"id": 59003, "keep": 1, "q": 3, "kind": "explainer", "topic": "personal finance", "depth": "intro", "title": "Invest a lump sum or dollar-cost average?", "why": "Explains why investing a lump sum at once has historically beaten spreading it out over time."}
+{"id": 59004, "keep": 0, "q": 1, "kind": "tool", "topic": "personal finance", "depth": "intro", "title": "Vanguard Total Stock Market ETF (VTI)", "why": "Fund product page with holdings and fees; not something to read and learn from."}
+{"id": 59005, "keep": 0, "q": 1, "kind": "tool", "topic": "personal finance", "depth": "intro", "title": "Vanguard target retirement funds", "why": "Product page for retirement funds; a marketing and sales listing."}
+{"id": 59006, "keep": 0, "q": 1, "kind": "reference", "topic": "personal finance", "depth": "intro", "title": "Vanguard mutual fund fees", "why": "Fee schedule for funds; a reference lookup."}
+{"id": 59007, "keep": 0, "q": 1, "kind": "tool", "topic": "personal finance", "depth": "intro", "title": "Vanguard LifeStrategy funds", "why": "Fund product page; a sales listing."}
+{"id": 59008, "keep": 0, "q": 2, "kind": "reference", "topic": "personal finance", "depth": "intro", "title": "WSJ dartboard contest", "why": "Results table of a stock-picking contest, cited as evidence in an argument."}
+{"id": 59009, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Denmark tells Bernie Sanders to stop calling it socialist", "why": "Political commentary about a news moment."}
+{"id": 59010, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "VIZIO Q3 2021 financial results", "why": "Quarterly earnings release; news of the moment."}
+{"id": 59011, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intro", "title": "Lessons from history: France's wealth tax", "why": "Historical look at how France's wealth tax drove out wealthy residents and cut net revenue."}
+{"id": 59012, "keep": 0, "q": 1, "kind": "tool", "topic": "text editors", "depth": "intro", "title": "vile editor", "why": "Project homepage for a text editor; a software download."}
+{"id": 59013, "keep": 1, "q": 4, "kind": "paper", "topic": "security", "depth": "expert", "title": "Attacking Intel TXT", "why": "Black Hat paper showing how attackers can break Intel's trusted execution launch via SMM and firmware weaknesses."}
+{"id": 59014, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Invitae careers", "why": "Job listings page."}
+{"id": 59015, "keep": 1, "q": 5, "kind": "reference", "topic": "algorithms", "depth": "intermediate", "title": "HAKMEM", "why": "MIT AI Lab's classic collection of clever programming and math hacks, from circle drawing to bit tricks."}
+{"id": 59016, "keep": 1, "q": 2, "kind": "explainer", "topic": "physics", "depth": "intro", "title": "A black hole engine that could power spaceships", "why": "Popular-science look at how a tiny black hole could in principle be used as a spacecraft power source."}
+{"id": 59017, "keep": 1, "q": 2, "kind": "journalism", "topic": "history", "depth": "intro", "title": "Ultraviolet light reveals how ancient Greek statues looked", "why": "Popular-science piece on how UV and spectroscopy reveal the original painted colours of Greek statues."}
+{"id": 59018, "keep": 0, "q": 1, "kind": "news", "topic": "law", "depth": "intro", "title": "Aaron Swartz died innocent: the evidence", "why": "Case-focused commentary on a news event; not a general lesson."}
+{"id": 59019, "keep": 1, "q": 3, "kind": "journalism", "topic": "science", "depth": "intro", "title": "I fooled millions into thinking chocolate helps weight loss", "why": "Author's account of a deliberate sting that showed how weak science journalism can mislead readers."}
+{"id": 59020, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Amazon secretly removes 1984 from Kindle", "why": "News story about a past incident."}
+{"id": 59021, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "SSL traffic analysis on Google Maps", "why": "Shows how encrypted traffic sizes can reveal what a user is viewing despite TLS."}
+{"id": 59022, "keep": 0, "q": 1, "kind": "other", "topic": "social media", "depth": "intro", "title": "Matthew D. Green on Mastodon", "why": "Social media profile page."}
+{"id": 59023, "keep": 1, "q": 3, "kind": "explainer", "topic": "programming languages", "depth": "expert", "title": "IOCCC 2012 Tromp entry hint", "why": "Explains a tiny C program implementing Binary Lambda Calculus, showing how it works."}
+{"id": 59024, "keep": 1, "q": 3, "kind": "explainer", "topic": "compression", "depth": "expert", "title": "IOCCC 2018 Bellard entry hint", "why": "Explains how a ~4 kB program compresses and decodes an image better than JPEG-style methods."}
+{"id": 59025, "keep": 0, "q": 2, "kind": "reference", "topic": "programming", "depth": "intro", "title": "IOCCC FAQ", "why": "Contest FAQ and history; a reference page rather than a teaching text."}
+{"id": 59026, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "IOHK team", "why": "Company team page."}
+{"id": 59027, "keep": 1, "q": 3, "kind": "docs", "topic": "programming languages", "depth": "intro", "title": "Io programming guide", "why": "Teaches prototype-based object model and the basics of the Io language."}
+{"id": 59028, "keep": 1, "q": 3, "kind": "docs", "topic": "programming languages", "depth": "intro", "title": "Io programming guide", "why": "Teaches prototype-based object model and the basics of the Io language."}
+{"id": 59029, "keep": 0, "q": 1, "kind": "news", "topic": "mobile", "depth": "intro", "title": "Announcing Ionic React", "why": "Product announcement from a framework vendor."}
+{"id": 59030, "keep": 0, "q": 1, "kind": "reference", "topic": "frontend", "depth": "intro", "title": "Ionic v2 components", "why": "Component reference listing; a lookup, not a lesson."}
+{"id": 59031, "keep": 0, "q": 1, "kind": "other", "topic": "electric cars", "depth": "intro", "title": "IONITY about", "why": "Company about page for a charging network."}
+{"id": 59032, "keep": 0, "q": 1, "kind": "tool", "topic": "electric cars", "depth": "intro", "title": "IONITY network status", "why": "Live charger status page."}
+{"id": 59033, "keep": 1, "q": 3, "kind": "paper", "topic": "physics", "depth": "expert", "title": "Closed timelike curves in general relativity", "why": "Physics paper on whether GR allows closed timelike curves and what that implies for time travel."}
+{"id": 59034, "keep": 0, "q": 2, "kind": "paper", "topic": "climate", "depth": "expert", "title": "Power plant emissions ranking study", "why": "Empirical emissions study; cited as evidence in a debate rather than read for its ideas."}
+{"id": 59035, "keep": 0, "q": 2, "kind": "paper", "topic": "climate", "depth": "expert", "title": "Scientific consensus study (Environmental Research Letters)", "why": "Survey-style study cited as evidence in a debate."}
+{"id": 59036, "keep": 0, "q": 2, "kind": "paper", "topic": "energy", "depth": "expert", "title": "Energy storage study (Environmental Research Letters)", "why": "Narrow empirical paper cited for a single claim."}
+{"id": 59037, "keep": 0, "q": 2, "kind": "paper", "topic": "cosmology", "depth": "expert", "title": "Cosmological coupling of black holes", "why": "Astrophysics paper cited as evidence in a debate about black hole growth."}
+{"id": 59038, "keep": 0, "q": 2, "kind": "paper", "topic": "cosmology", "depth": "expert", "title": "Astrophysical Journal paper (ac2360)", "why": "Research paper mainly referenced to settle a factual dispute."}
+{"id": 59039, "keep": 0, "q": 2, "kind": "paper", "topic": "cosmology", "depth": "expert", "title": "Astrophysical Journal paper (ad1bc6)", "why": "Research paper on a cosmology model, cited in a skeptical debate."}
+{"id": 59040, "keep": 1, "q": 4, "kind": "paper", "topic": "astronomy", "depth": "expert", "title": "First image of the M87 supermassive black hole", "why": "Landmark Event Horizon Telescope paper describing how the first black hole image was reconstructed and its uncertainties."}
+{"id": 59041, "keep": 0, "q": 2, "kind": "paper", "topic": "cosmology", "depth": "expert", "title": "Cepheid crowding and the Hubble tension", "why": "Research paper cited in a debate about a specific measurement."}
+{"id": 59042, "keep": 0, "q": 1, "kind": "tool", "topic": "browsers", "depth": "intro", "title": "uBlacklist", "why": "Browser extension homepage."}
+{"id": 59043, "keep": 0, "q": 1, "kind": "blog", "topic": "mobile", "depth": "intro", "title": "60 iOS features Apple stole from jailbreakers", "why": "Listicle of tweaks; shallow and news-driven."}
+{"id": 59044, "keep": 0, "q": 2, "kind": "other", "topic": "networking", "depth": "intro", "title": "XDP technology overview", "why": "Project landing page for XDP; more a product page than an explainer."}
+{"id": 59045, "keep": 1, "q": 4, "kind": "reference", "topic": "climate", "depth": "intermediate", "title": "IPCC AR5 Working Group III report", "why": "Landmark IPCC report on mitigation of climate change, the main reference for the topic."}
+{"id": 59046, "keep": 1, "q": 4, "kind": "reference", "topic": "climate", "depth": "intro", "title": "IPCC AR5 Synthesis Report: Summary for Policymakers", "why": "Concise, authoritative summary of the state of climate science and its risks."}
+{"id": 59047, "keep": 1, "q": 3, "kind": "reference", "topic": "climate", "depth": "expert", "title": "IPCC SR15 chapter 3: mitigation pathways", "why": "Technical chapter on emissions pathways and costs for limiting warming to 1.5 C."}
+{"id": 59048, "keep": 1, "q": 3, "kind": "visual", "topic": "climate", "depth": "intro", "title": "IPCC SR15 graphics", "why": "Charts explaining the pathways for limiting warming to 1.5 C, with clear visual explanations."}
+{"id": 59049, "keep": 0, "q": 1, "kind": "tool", "topic": "distributed systems", "depth": "intro", "title": "IPFS", "why": "Project homepage."}
+{"id": 59050, "keep": 0, "q": 1, "kind": "paper", "topic": "crypto", "depth": "intermediate", "title": "Hosted cryptocurrency consensus paper", "why": "Hosted document cited for a throughput number; not clearly worth reading."}
+{"id": 59051, "keep": 0, "q": 1, "kind": "reference", "topic": "distributed systems", "depth": "intro", "title": "Wikipedia mirror on IPFS", "why": "Out-of-date mirror of an encyclopedia."}
+{"id": 59052, "keep": 0, "q": 1, "kind": "docs", "topic": "distributed systems", "depth": "intro", "title": "IPFS website via IPNS", "why": "Project website hosted on IPNS."}
+{"id": 59053, "keep": 0, "q": 1, "kind": "tool", "topic": "networking", "depth": "intro", "title": "ipinfo.io IP lookup", "why": "Utility that returns your public IP address."}
+{"id": 59054, "keep": 0, "q": 2, "kind": "blog", "topic": "networking", "depth": "intermediate", "title": "PC Engines APU6 review", "why": "Hardware review of a small router board."}
+{"id": 59055, "keep": 0, "q": 2, "kind": "blog", "topic": "networking", "depth": "intermediate", "title": "Mellanox SN2700 switch notes", "why": "Buying notes for a used network switch."}
+{"id": 59056, "keep": 0, "q": 1, "kind": "news", "topic": "marketing", "depth": "intro", "title": "Microsoft confirms it originated iPod box parody", "why": "Short news item about a viral video."}
+{"id": 59057, "keep": 0, "q": 1, "kind": "news", "topic": "fusion", "depth": "intro", "title": "Wendelstein 7-X triple product record", "why": "Institute press release about a recent experiment."}
+{"id": 59058, "keep": 0, "q": 1, "kind": "reference", "topic": "housing", "depth": "intro", "title": "Renters vs homeowners statistics", "why": "Statistics page; a data lookup."}
+{"id": 59059, "keep": 0, "q": 2, "kind": "paper", "topic": "economics", "depth": "intermediate", "title": "The self-made hallucination of America's rich", "why": "Think-tank analysis cited as evidence in an argument about wealth."}
+{"id": 59060, "keep": 0, "q": 2, "kind": "paper", "topic": "law", "depth": "intro", "title": "Three felonies a day", "why": "Think-tank claim cited in an argument; not a standalone lesson."}
+{"id": 59061, "keep": 0, "q": 1, "kind": "reference", "topic": "networking", "depth": "intermediate", "title": "iptables extensions man page", "why": "Man page; a lookup reference."}
+{"id": 59062, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intro", "title": "IPython HTML notebook docs", "why": "Tool documentation for a discontinued notebook interface."}
+{"id": 59063, "keep": 0, "q": 1, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "IPython autoreload extension", "why": "Config reference for an IPython extension."}
+{"id": 59064, "keep": 0, "q": 2, "kind": "blog", "topic": "browsers", "depth": "intro", "title": "ActionScript 3 benchmark", "why": "Old single benchmark comparing Flash to browser JavaScript."}
+{"id": 59065, "keep": 0, "q": 1, "kind": "tool", "topic": "climate", "depth": "intro", "title": "IQAir world air quality ranking", "why": "Live ranking page; a statistics tracker."}
+{"id": 59066, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "In-Q-Tel about", "why": "Organisation about page."}
+{"id": 59067, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "In-Q-Tel technology portfolio", "why": "Index of investments; a list rather than something to read."}
+{"id": 59068, "keep": 0, "q": 2, "kind": "other", "topic": "graphics", "depth": "intro", "title": "Iñigo Quílez productions", "why": "Index of demoscene works and links."}
+{"id": 59069, "keep": 1, "q": 4, "kind": "tutorial", "topic": "graphics", "depth": "intermediate", "title": "Terrain marching", "why": "Tutorial on raymarching heightmap terrain with clear explanations of the core technique."}
+{"id": 59070, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Amazon quarterly results", "why": "Investor relations results page."}
+{"id": 59071, "keep": 0, "q": 1, "kind": "news", "topic": "electric cars", "depth": "intro", "title": "Tesla Q4 2024 production and deliveries", "why": "Quarterly press release."}
+{"id": 59072, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Iran International news report", "why": "Breaking news about current events."}
+{"id": 59073, "keep": 0, "q": 1, "kind": "other", "topic": "programming languages", "depth": "intro", "title": "Perl 6 IRC log", "why": "Chat log of a single day."}
+{"id": 59074, "keep": 0, "q": 1, "kind": "reference", "topic": "networking", "depth": "intro", "title": "IRCv3 supported networks", "why": "Compatibility table."}
+{"id": 59075, "keep": 0, "q": 1, "kind": "reference", "topic": "networking", "depth": "intro", "title": "IRCv3 supported networks", "why": "Compatibility table, older version."}
+{"id": 59076, "keep": 0, "q": 2, "kind": "other", "topic": "history", "depth": "intro", "title": "The Conet Project", "why": "Archive of recordings; listening collection, not reading."}
+{"id": 59077, "keep": 0, "q": 1, "kind": "tool", "topic": "economics", "depth": "intro", "title": "World Bank PovcalNet", "why": "Poverty data query tool."}
+{"id": 59078, "keep": 1, "q": 2, "kind": "journalism", "topic": "history", "depth": "intro", "title": "The Helgö treasure: a Viking-age Buddha", "why": "Archaeology piece on a 6th-century Buddha statue found at a Viking-era trading centre."}
+{"id": 59079, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Constitution of Ireland", "why": "Legal text."}
+{"id": 59080, "keep": 0, "q": 1, "kind": "journalism", "topic": "law", "depth": "intro", "title": "French men's insecurity over paternity", "why": "Opinion column tied to a news story about paternity testing law."}
+{"id": 59081, "keep": 0, "q": 2, "kind": "news", "topic": "health", "depth": "intro", "title": "Families fined for suicides in Japan", "why": "News story about a specific policy."}
+{"id": 59082, "keep": 0, "q": 2, "kind": "reference", "topic": "programming languages", "depth": "expert", "title": "Gambit-C manual", "why": "Language reference manual; a lookup rather than a teaching text."}
+{"id": 59083, "keep": 0, "q": 2, "kind": "docs", "topic": "networking", "depth": "intermediate", "title": "Iroh discovery docs", "why": "Product documentation for a networking library."}
+{"id": 59084, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "Homoglyph attack generator", "why": "Interactive tool that generates spoofed domain names."}
+{"id": 59085, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Institute for Research on Poverty FAQ", "why": "FAQ page; a reference lookup."}
+{"id": 59086, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS taxpayer identification numbers", "why": "Government tax guidance page."}
+{"id": 59087, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS W-2 health coverage reporting", "why": "Government tax guidance page."}
+{"id": 59088, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS gift tax", "why": "Government tax guidance page."}
+{"id": 59089, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS S corporations", "why": "Government tax guidance page."}
+{"id": 59090, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS single-member LLCs", "why": "Government tax guidance page."}
+{"id": 59091, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS tip recordkeeping", "why": "Government tax guidance page."}
+{"id": 59092, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS rental real estate deductions", "why": "Government tax guidance page."}
+{"id": 59093, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS international taxpayers", "why": "Government tax guidance page."}
+{"id": 59094, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS charitable contribution deductions", "why": "Government tax guidance page."}
+{"id": 59095, "keep": 0, "q": 1, "kind": "news", "topic": "law", "depth": "intro", "title": "IRS Free File", "why": "Government tax filing page; news about a program."}
+{"id": 59096, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "About Form 1040-EZ", "why": "Government form information page."}
+{"id": 59097, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "Foreign earned income exclusion", "why": "Government tax guidance page."}
+{"id": 59098, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS substantial presence test", "why": "Government tax guidance page."}
+{"id": 59099, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "US citizens and resident aliens abroad", "why": "Government tax guidance page."}
+{"id": 59100, "keep": 0, "q": 1, "kind": "docs", "topic": "crypto", "depth": "intro", "title": "IRS Notice 2014-21 on virtual currency", "why": "Tax ruling text; legal and regulatory."}
+{"id": 59101, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS standard mileage rates 2017", "why": "Annual rate announcement."}
+{"id": 59102, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS on charities and politics", "why": "Government guidance page."}
+{"id": 59103, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "IRS ends facial recognition verification", "why": "Press release about a policy change."}
+{"id": 59104, "keep": 0, "q": 1, "kind": "news", "topic": "law", "depth": "intro", "title": "IRS tax inflation adjustments for 2022", "why": "Annual adjustment announcement."}
+{"id": 59105, "keep": 0, "q": 1, "kind": "news", "topic": "law", "depth": "intro", "title": "IRS standard mileage rates for 2018", "why": "Annual rate announcement."}
+{"id": 59106, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS interest rates", "why": "Government reference page."}
+{"id": 59107, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "Pay your taxes with cash", "why": "Government payments page."}
+{"id": 59108, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS notice on rewards and taxation", "why": "Government legal memo."}
+{"id": 59109, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS Publication 15-B", "why": "Tax publication; a reference."}
+{"id": 59110, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS Publication 550", "why": "Tax publication; a reference."}
+{"id": 59111, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS Publication 15-B (chapter 2)", "why": "Tax publication section; a reference."}
+{"id": 59112, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS Publication 501", "why": "Tax publication; a reference."}
+{"id": 59113, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS Publication 525 (chapter 2)", "why": "Tax publication section; a reference."}
+{"id": 59114, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS Publication 535 (chapter 11)", "why": "Tax publication section; a reference."}
+{"id": 59115, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS one-participant 401(k) plans", "why": "Government retirement plan guidance."}
+{"id": 59116, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "IRS SOI individual tax statistics", "why": "Statistics tables; a data lookup."}
+{"id": 59117, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS ministers and withholding (TC 417)", "why": "Government tax topic page."}
+{"id": 59118, "keep": 0, "q": 1, "kind": "docs", "topic": "law", "depth": "intro", "title": "IRS traders in securities (TC 429)", "why": "Government tax topic page."}
+{"id": 59119, "keep": 0, "q": 1, "kind": "tool", "topic": "ai", "depth": "intro", "title": "Off-grid survival AI chatbot", "why": "Promotion for a chatbot product."}
+{"id": 59120, "keep": 0, "q": 2, "kind": "paper", "topic": "gender", "depth": "intermediate", "title": "Hakim 2006 work-lifestyle preferences", "why": "Contested sociology paper cited as evidence in a debate about gender and careers."}
+{"id": 59121, "keep": 0, "q": 2, "kind": "docs", "topic": "formal verification", "depth": "expert", "title": "Isabelle overview", "why": "Project overview page; a tool landing page."}
+{"id": 59122, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "Acxiom opt-out", "why": "Opt-out form."}
+{"id": 59123, "keep": 0, "q": 2, "kind": "visual", "topic": "perception", "depth": "intro", "title": "Sugihara's optical illusions", "why": "Gallery of illusions and printable images; a collection rather than an explanation."}
+{"id": 59124, "keep": 0, "q": 1, "kind": "tool", "topic": "networking", "depth": "intermediate", "title": "ISC Kea DHCP", "why": "Software project page."}
+{"id": 59125, "keep": 1, "q": 3, "kind": "reference", "topic": "energy", "depth": "intermediate", "title": "Levelized cost of electricity in Germany", "why": "Fraunhofer study comparing costs of electricity generation technologies with clear data."}
+{"id": 59126, "keep": 0, "q": 1, "kind": "other", "topic": "crypto", "depth": "intro", "title": "Canadian business registry record", "why": "Government registry lookup."}
+{"id": 59127, "keep": 1, "q": 5, "kind": "essay", "topic": "networking", "depth": "intermediate", "title": "Rise of the Stupid Network", "why": "Classic 1997 essay on why intelligence belongs at the edges of networks rather than in the core."}
+{"id": 59128, "keep": 0, "q": 1, "kind": "paper", "topic": "biology", "depth": "expert", "title": "Intranasal NSC-derived EV therapy", "why": "Narrow biomedical study cited for a single result."}
+{"id": 59129, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "Is Google Analytics illegal? alternatives", "why": "List of analytics alternatives; a product list."}
+{"id": 59130, "keep": 0, "q": 1, "kind": "news", "topic": "health", "depth": "intro", "title": "Easy COVID-19 mask hack", "why": "Project announcement for a DIY ventilator mask."}
+{"id": 59131, "keep": 0, "q": 1, "kind": "tool", "topic": "networking", "depth": "intro", "title": "Is it down right now? google.com", "why": "Status check tool."}
+{"id": 59132, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "Leaked password checker", "why": "Lookup tool for leaked credentials."}
+{"id": 59133, "keep": 0, "q": 1, "kind": "reference", "topic": "standards", "depth": "intro", "title": "ISO 62304 standard", "why": "Paywalled standard listing."}
+{"id": 59134, "keep": 0, "q": 1, "kind": "reference", "topic": "standards", "depth": "intro", "title": "ISO standard 73224", "why": "Paywalled standard listing."}
+{"id": 59135, "keep": 0, "q": 1, "kind": "reference", "topic": "programming languages", "depth": "intro", "title": "ISO C standard", "why": "Paywalled standard listing."}
+{"id": 59136, "keep": 0, "q": 1, "kind": "reference", "topic": "standards", "depth": "intro", "title": "ISO JPEG XL standard", "why": "Paywalled standard listing."}
+{"id": 59137, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "ISOC-NY event listing", "why": "Event page listing a talk."}
+{"id": 59138, "keep": 1, "q": 3, "kind": "docs", "topic": "programming languages", "depth": "intermediate", "title": "C++ FAQ: the big picture", "why": "Teaches what C++ is, how it compares to other languages, and its design choices."}
+{"id": 59139, "keep": 1, "q": 4, "kind": "essay", "topic": "web", "depth": "intermediate", "title": "Breaking the Web with hash-bangs", "why": "Explains why #! URLs break the web's resource model and why the approach is flawed."}
+{"id": 59140, "keep": 1, "q": 3, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "OpenBSD security mitigations", "why": "Overview of OpenBSD's exploit mitigations and what each one protects against."}
+{"id": 59141, "keep": 1, "q": 3, "kind": "blog", "topic": "networking", "depth": "expert", "title": "Cilium netkit: a new container networking paradigm", "why": "Explains netkit's design and tradeoffs versus veth bridges for container networking."}
+{"id": 59142, "keep": 0, "q": 1, "kind": "reference", "topic": "networking", "depth": "intro", "title": "Netflix ISP speed index", "why": "Live statistics tracker."}
+{"id": 59143, "keep": 1, "q": 3, "kind": "essay", "topic": "psychology", "depth": "intro", "title": "Estrangement: the estranged parents series", "why": "Essay series on how abusive parents describe their estrangement, with source discussion."}
+{"id": 59144, "keep": 0, "q": 1, "kind": "tool", "topic": "space", "depth": "intro", "title": "Artemis II tracker", "why": "Live mission tracker."}
+{"id": 59145, "keep": 0, "q": 1, "kind": "other", "topic": "image formats", "depth": "intro", "title": "Chromium JPEG XL issue", "why": "Bug tracker thread."}
+{"id": 59146, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Y Combinator funds drive-by crapware", "why": "News story about a funding controversy."}
+{"id": 59147, "keep": 0, "q": 1, "kind": "tool", "topic": "search", "depth": "intro", "title": "Bing live search", "why": "Search page."}
+{"id": 59148, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "HP TouchPad bill of materials", "why": "Teardown cost figures; news-style data."}
+{"id": 59149, "keep": 1, "q": 3, "kind": "paper", "topic": "environment", "depth": "intermediate", "title": "Plastic waste inputs from land into the ocean", "why": "Widely cited Science paper estimating how much plastic reaches the ocean from land, with method."}
+{"id": 59150, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "ITA Software puzzle archive", "why": "Recruiting puzzle archive."}
+{"id": 59151, "keep": 1, "q": 2, "kind": "talk", "topic": "startups", "depth": "intro", "title": "ArsDigita story (IT Conversations interview)", "why": "Interview with Philip Greenspun on the rise and fall of ArsDigita's business."}
+{"id": 59152, "keep": 0, "q": 1, "kind": "tool", "topic": "games", "depth": "intro", "title": "itch.io app", "why": "Software download page."}
+{"id": 59153, "keep": 0, "q": 1, "kind": "tool", "topic": "games", "depth": "intro", "title": "itch.io game assets", "why": "Asset marketplace listing."}
+{"id": 59154, "keep": 0, "q": 1, "kind": "other", "topic": "disability", "depth": "intro", "title": "Stanford IT community page", "why": "Community listing page."}
+{"id": 59155, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "ITEP undocumented immigrants and taxes 2024", "why": "Policy report data; cited as evidence in a debate."}
+{"id": 59156, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Who pays taxes in America in 2019", "why": "Policy report data; cited as evidence in a debate."}
+{"id": 59157, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Who pays taxes in America in 2020", "why": "Policy report data; cited as evidence in a debate."}
+{"id": 59158, "keep": 0, "q": 1, "kind": "reference", "topic": "fusion", "depth": "intro", "title": "ITER FAQ", "why": "Project FAQ; a reference lookup."}
+{"id": 59159, "keep": 0, "q": 1, "kind": "other", "topic": "fusion", "depth": "intro", "title": "ITER member countries", "why": "Project membership listing."}
+{"id": 59160, "keep": 0, "q": 1, "kind": "reference", "topic": "fusion", "depth": "intro", "title": "ITER goals", "why": "Project goals page; a reference lookup."}
+{"id": 59161, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Iterable job posting", "why": "Job listing."}
+{"id": 59162, "keep": 0, "q": 1, "kind": "docs", "topic": "terminals", "depth": "intro", "title": "iTerm2 hotkey window docs", "why": "Product documentation for a terminal feature."}
+{"id": 59163, "keep": 0, "q": 1, "kind": "docs", "topic": "terminals", "depth": "intro", "title": "iTerm2 triggers docs", "why": "Product documentation for a terminal feature."}
+{"id": 59164, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "iText AGPL licence terms", "why": "Licence text; legal."}
+{"id": 59165, "keep": 0, "q": 1, "kind": "reference", "topic": "transport", "depth": "intro", "title": "ITF road safety annual report 2018", "why": "Statistics report; data reference."}
+{"id": 59166, "keep": 1, "q": 4, "kind": "visual", "topic": "performance", "depth": "intermediate", "title": "Operation costs in CPU clock cycles", "why": "Infographic of approximate cycle costs for CPU operations, useful for performance intuition."}
+{"id": 59167, "keep": 0, "q": 2, "kind": "other", "topic": "law", "depth": "intro", "title": "Section 230 overview (ITIF)", "why": "Think-tank policy explainer, not a neutral teaching text."}
+{"id": 59168, "keep": 1, "q": 4, "kind": "reference", "topic": "algorithms", "depth": "intermediate", "title": "Dictionary of Algorithms and Data Structures", "why": "NIST's browsable reference of algorithms and data structures with definitions and links."}
+{"id": 59169, "keep": 0, "q": 2, "kind": "blog", "topic": "acoustics", "depth": "intro", "title": "Language Log: archaeoacoustics", "why": "Short blog note on sound in archaeology and a hoax."}
+{"id": 59170, "keep": 1, "q": 3, "kind": "book", "topic": "career", "depth": "intro", "title": "The Phoenix Project", "why": "Novel about IT operations and DevOps that teaches flow, bottlenecks, and work-in-progress limits."}
+{"id": 59171, "keep": 1, "q": 3, "kind": "explainer", "topic": "security", "depth": "intro", "title": "The Intel Management Engine case", "why": "Explains what the Intel Management Engine is and why its hidden firmware alarmed security researchers."}
+{"id": 59172, "keep": 0, "q": 1, "kind": "news", "topic": "browsers", "depth": "intro", "title": "Firefox Looking Glass controversy", "why": "News about an add-on controversy."}
+{"id": 59173, "keep": 0, "q": 1, "kind": "news", "topic": "linux", "depth": "intro", "title": "Munich Linux migration failure", "why": "News story about a city project."}
+{"id": 59174, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Amazon destroying unsold stock", "why": "News investigation summary."}
+{"id": 59175, "keep": 1, "q": 2, "kind": "essay", "topic": "software", "depth": "intro", "title": "Why Windows 10 sucks", "why": "Opinion essay critiquing Windows 10 updates and privacy, with concrete examples."}
+{"id": 59176, "keep": 1, "q": 4, "kind": "tutorial", "topic": "compilers", "depth": "expert", "title": "Indiana University compiler course", "why": "Full compiler course with book, lectures, and software, teaching how high-level constructs run on hardware."}
+{"id": 59177, "keep": 1, "q": 3, "kind": "explainer", "topic": "patents", "depth": "intro", "title": "Patent crash course: rights", "why": "Explains patent rights, including why there is no personal-use exception in US law."}
+{"id": 59178, "keep": 0, "q": 2, "kind": "blog", "topic": "haskell", "depth": "intermediate", "title": "Cabal is not a package manager", "why": "Opinion post about one tool's role in an ecosystem."}
+{"id": 59179, "keep": 0, "q": 1, "kind": "tool", "topic": "frontend", "depth": "intro", "title": "Select2 jQuery plugin", "why": "Project homepage for a UI widget."}
+{"id": 59180, "keep": 1, "q": 2, "kind": "docs", "topic": "embedded systems", "depth": "intermediate", "title": "Ivory language introduction", "why": "Introduces a Haskell-embedded DSL for safe embedded C code and its design."}
+{"id": 59181, "keep": 1, "q": 3, "kind": "blog", "topic": "cryptography", "depth": "intermediate", "title": "Proving Bitcoin reserves", "why": "Explains how a Merkle-tree style proof lets exchanges prove reserves without revealing everything."}
+{"id": 59182, "keep": 0, "q": 1, "kind": "other", "topic": "labor", "depth": "intro", "title": "IWW programmers union", "why": "Union branch listing."}
+{"id": 59183, "keep": 0, "q": 2, "kind": "blog", "topic": "neuroscience", "depth": "intermediate", "title": "Izhikevich on Blue Brain simulation", "why": "Short note on a large brain simulation with little detail."}
+{"id": 59184, "keep": 1, "q": 4, "kind": "tutorial", "topic": "graphics", "depth": "expert", "title": "How to build a BVH part 9b: massive", "why": "Tutorial on optimizing bounding volume hierarchies for large ray tracing scenes."}
+{"id": 59185, "keep": 1, "q": 4, "kind": "blog", "topic": "distributed systems", "depth": "intermediate", "title": "Understanding how Apache Pulsar works", "why": "Clear overview of Pulsar's architecture and how it compares to Kafka."}
+{"id": 59186, "keep": 0, "q": 1, "kind": "docs", "topic": "audio", "depth": "intro", "title": "JACK and PulseAudio FAQ", "why": "FAQ on audio server interoperability; a reference."}
+{"id": 59187, "keep": 0, "q": 1, "kind": "journalism", "topic": "law", "depth": "intro", "title": "Assange and English rape law", "why": "Legal commentary on a specific case."}
+{"id": 59188, "keep": 1, "q": 2, "kind": "journalism", "topic": "politics", "depth": "intermediate", "title": "Inside the pro-Israel information operation", "why": "Investigative write-up with documents on a campaign to influence workplace and online speech."}
+{"id": 59189, "keep": 1, "q": 5, "kind": "visual", "topic": "signal processing", "depth": "intermediate", "title": "Circles, Sines, and Signals", "why": "Interactive visual essay building intuition for the DFT and signal processing."}
+{"id": 59190, "keep": 1, "q": 4, "kind": "visual", "topic": "handwriting recognition", "depth": "intermediate", "title": "Handwriting recognition", "why": "Interactive essay on the 1960s GRAIL handwriting recognizer, how it worked without machine learning."}
+{"id": 59191, "keep": 0, "q": 1, "kind": "blog", "topic": "estimation", "depth": "intro", "title": "My estimation technique", "why": "Personal post about one approach to estimates."}
+{"id": 59192, "keep": 0, "q": 1, "kind": "journalism", "topic": "politics", "depth": "intro", "title": "Maidan protests and Ukraine conflict", "why": "Political opinion on a current conflict."}
+{"id": 59193, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Keys copied from photos", "why": "University press release about research."}
+{"id": 59194, "keep": 1, "q": 3, "kind": "essay", "topic": "career", "depth": "intro", "title": "Are you suffering from burn-out?", "why": "Practical essay describing burnout stages and how to recognise them."}
+{"id": 59195, "keep": 1, "q": 3, "kind": "essay", "topic": "startups", "depth": "intro", "title": "Double your price (and no, I'm not kidding)", "why": "Practical B2B pricing essay with a concrete process for setting prices."}
+{"id": 59196, "keep": 0, "q": 1, "kind": "other", "topic": "domains", "depth": "intro", "title": "Auction of domains for sale", "why": "Domain sales listing."}
+{"id": 59197, "keep": 0, "q": 1, "kind": "blog", "topic": "career", "depth": "intro", "title": "The story behind wwcom and camarades", "why": "Personal business history."}
+{"id": 59198, "keep": 1, "q": 3, "kind": "essay", "topic": "career", "depth": "intro", "title": "Dealing with burn-out", "why": "Personal essay on recovering from burnout and why the first stage of recovery looks like doing nothing."}
+{"id": 59199, "keep": 1, "q": 3, "kind": "blog", "topic": "machine learning", "depth": "intermediate", "title": "Sorting Lego: the software side", "why": "Walkthrough of building an image classifier to sort Lego pieces."}

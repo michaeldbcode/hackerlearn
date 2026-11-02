@@ -1,0 +1,200 @@
+{"id": 54200, "keep": 0, "q": 2, "kind": "docs", "topic": "cloud", "depth": "intermediate", "title": "Amazon EBS encryption", "why": "How AWS EBS volume encryption works: key management, snapshots, and what gets encrypted."}
+{"id": 54201, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intermediate", "title": "EBS-optimized instances", "why": "EBS-optimized instance bandwidth and IOPS limits per instance type."}
+{"id": 54202, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "EC2 Instance Metadata Service", "why": "Explains IMDSv2 session tokens and how they harden metadata access against SSRF."}
+{"id": 54203, "keep": 0, "q": 2, "kind": "docs", "topic": "cloud", "depth": "intermediate", "title": "EBS volume initialization", "why": "Explains lazy loading of EBS volumes from snapshots and the first-access latency it causes."}
+{"id": 54204, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "EBS volume pre-warming", "why": "Old guidance on pre-warming EBS volumes; mostly obsolete for current volume types."}
+{"id": 54205, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "EC2 Instance Connect methods", "why": "Lists ways to connect to EC2 instances and how each authenticates."}
+{"id": 54206, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "EC2 instance metadata", "why": "Describes instance metadata categories and how to query them from an instance."}
+{"id": 54207, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "Elastic IP addresses", "why": "What Elastic IPs are, how to attach them, and their pricing when unused."}
+{"id": 54208, "keep": 0, "q": 2, "kind": "docs", "topic": "linux", "depth": "expert", "title": "EC2 processor state control", "why": "Shows how to tune C-states and P-states on EC2 instances to reduce latency jitter."}
+{"id": 54209, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "T2 burstable instances", "why": "How T2 CPU credits and baseline performance work for burstable instances."}
+{"id": 54210, "keep": 0, "q": 1, "kind": "docs", "topic": "hosting", "depth": "intro", "title": "Migrating S3 sites to CloudFront", "why": "Steps for putting a CloudFront distribution in front of an S3 bucket."}
+{"id": 54211, "keep": 0, "q": 2, "kind": "docs", "topic": "networking", "depth": "intermediate", "title": "CloudFront custom origin behavior", "why": "Cache-Control rules CloudFront uses with custom origins, including minimum TTL effects."}
+{"id": 54212, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "CloudFront secure connections", "why": "Supported TLS protocols and key types for CloudFront viewer connections."}
+{"id": 54213, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "Amazon ECS welcome guide", "why": "Overview of ECS and its concepts for running containers on AWS."}
+{"id": 54214, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "Aurora Data API", "why": "HTTP-based Data API for Aurora, useful with serverless compute."}
+{"id": 54215, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intro", "title": "RDS storage types", "why": "Compares RDS storage types, including provisioned IOPS and gp volumes."}
+{"id": 54216, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "Importing S3 data into RDS PostgreSQL", "why": "How to load data from S3 into RDS PostgreSQL with the aws_s3 extension."}
+{"id": 54217, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "RDS read replicas", "why": "Read replicas and Multi-AZ failover on RDS, and how they differ."}
+{"id": 54218, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "RDS major version upgrades", "why": "How RDS instance upgrades work and what major version upgrades involve."}
+{"id": 54219, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "S3 GetObjectTorrent API", "why": "API that returns a BitTorrent file for an S3 object."}
+{"id": 54220, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "S3 Requester Pays buckets", "why": "Lets the requester, not the bucket owner, pay for data transfer and requests."}
+{"id": 54221, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "S3 server access logging", "why": "How S3 server access logs are generated and delivered, best-effort."}
+{"id": 54222, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "S3 cross-region replication", "why": "Overview of replicating S3 objects across regions."}
+{"id": 54223, "keep": 0, "q": 1, "kind": "docs", "topic": "hosting", "depth": "intro", "title": "S3 page redirects", "why": "How to set redirects for S3-hosted static website pages."}
+{"id": 54224, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "S3 lifecycle management", "why": "Rules for transitioning or expiring S3 objects automatically."}
+{"id": 54225, "keep": 0, "q": 2, "kind": "docs", "topic": "storage", "depth": "intermediate", "title": "S3 request rate performance", "why": "Guidance on request rates per prefix and how to scale S3 request throughput."}
+{"id": 54226, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "S3 data durability", "why": "S3 durability and availability design targets, as stated by AWS."}
+{"id": 54227, "keep": 0, "q": 1, "kind": "tutorial", "topic": "hosting", "depth": "intro", "title": "Hosting a website on S3", "why": "Step-by-step setup for serving a static site from an S3 bucket."}
+{"id": 54228, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "S3 requester pays", "why": "Requester Pays configuration for S3 buckets."}
+{"id": 54229, "keep": 0, "q": 2, "kind": "docs", "topic": "storage", "depth": "intermediate", "title": "S3 object integrity checksums", "why": "Checksum algorithms S3 supports and how to request integrity checks."}
+{"id": 54230, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "S3 lifecycle expiration rules", "why": "Edge cases for expiring S3 objects, including minimum storage duration charges."}
+{"id": 54231, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "S3 Object Lock", "why": "How Object Lock retention and legal hold modes prevent deletion."}
+{"id": 54232, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intermediate", "title": "S3 replication", "why": "Setup options for same-region and cross-region S3 replication."}
+{"id": 54233, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intermediate", "title": "S3 Tables", "why": "Managed Apache Iceberg tables stored in S3 with built-in maintenance."}
+{"id": 54234, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "S3 Inventory", "why": "Generates scheduled reports listing objects and metadata in a bucket."}
+{"id": 54235, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "IAM OIDC identity providers", "why": "How to set up OIDC identity providers to assume IAM roles without long-lived keys."}
+{"id": 54236, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "Route 53 domain registration", "why": "Route 53 domain registration service and registrar details."}
+{"id": 54237, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "AWS account identifiers", "why": "What AWS account IDs are and how they are handled."}
+{"id": 54238, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intro", "title": "AWS Certificate Manager overview", "why": "Overview of ACM for provisioning and renewing public TLS certificates."}
+{"id": 54239, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "DynamoDB service limits", "why": "Documented DynamoDB quotas, including throughput decrease limits."}
+{"id": 54240, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "Glacier data retrieval policy", "why": "Retrieval tiers and free-tier limits for Glacier restores."}
+{"id": 54241, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "AWS free tier alarms", "why": "Setting billing alarms to avoid unexpected charges on AWS."}
+{"id": 54242, "keep": 0, "q": 2, "kind": "docs", "topic": "cli", "depth": "intro", "title": "AWS CLI output and --query", "why": "Controlling AWS CLI output formats and filtering with JMESPath queries."}
+{"id": 54243, "keep": 0, "q": 1, "kind": "docs", "topic": "java", "depth": "intro", "title": "Corretto patches", "why": "Lists patches Amazon Corretto applies on top of OpenJDK 17."}
+{"id": 54244, "keep": 0, "q": 2, "kind": "docs", "topic": "cloud", "depth": "intermediate", "title": "AWS API retries", "why": "Retry guidance and backoff for AWS API throttling."}
+{"id": 54245, "keep": 0, "q": 1, "kind": "tutorial", "topic": "hosting", "depth": "intro", "title": "S3 website hosting introduction", "why": "Intro to hosting a static website from an S3 bucket."}
+{"id": 54246, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "Lambda supported runtime versions", "why": "Lists Lambda runtime versions and their support status."}
+{"id": 54247, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "Lambda container image testing", "why": "Testing Lambda container images locally with the runtime interface emulator."}
+{"id": 54248, "keep": 0, "q": 2, "kind": "docs", "topic": "cloud", "depth": "intermediate", "title": "Lambda scaling", "why": "Lambda concurrency burst limits and scaling rates."}
+{"id": 54249, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intro", "title": "Lambda runtimes", "why": "Overview of Lambda runtimes and how custom dependencies are packaged."}
+{"id": 54250, "keep": 0, "q": 2, "kind": "docs", "topic": "cloud", "depth": "expert", "title": "Lambda Runtime API", "why": "Protocol a custom Lambda runtime uses to poll for and respond to invocations."}
+{"id": 54251, "keep": 0, "q": 1, "kind": "docs", "topic": "cloud", "depth": "intermediate", "title": "Lambda runtime context", "why": "Fields available in the Lambda invocation context object."}
+{"id": 54252, "keep": 0, "q": 1, "kind": "docs", "topic": "messaging", "depth": "intro", "title": "Pinpoint SMS by country", "why": "Supported countries and SMS capabilities for Amazon Pinpoint."}
+{"id": 54253, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "AWS IP address ranges", "why": "Where AWS publishes its IP ranges as JSON and how to filter them."}
+{"id": 54254, "keep": 1, "q": 3, "kind": "paper", "topic": "cloud architecture", "depth": "intermediate", "title": "AWS fault isolation boundaries: global services", "why": "Shows which AWS global services depend on us-east-1 control planes and how data planes stay regional."}
+{"id": 54255, "keep": 1, "q": 3, "kind": "paper", "topic": "security", "depth": "expert", "title": "Nitro system: preventing side channels", "why": "AWS whitepaper on how the Nitro system mitigates side-channel attacks between EC2 instances."}
+{"id": 54256, "keep": 0, "q": 1, "kind": "docs", "topic": "hardware", "depth": "intro", "title": "Banana Pi OpenWRT One", "why": "Product documentation for the OpenWRT One router board."}
+{"id": 54257, "keep": 0, "q": 2, "kind": "docs", "topic": "bazel", "depth": "intermediate", "title": "Bazel remote caching", "why": "Setting up remote caching so builds share cached outputs."}
+{"id": 54258, "keep": 0, "q": 1, "kind": "docs", "topic": "bazel", "depth": "intro", "title": "Bazel on Windows", "why": "Notes on building with Bazel on Windows."}
+{"id": 54259, "keep": 0, "q": 1, "kind": "docs", "topic": "hardware", "depth": "intro", "title": "Brilliant Labs Monocle", "why": "Product docs for the Monocle wearable display."}
+{"id": 54260, "keep": 0, "q": 1, "kind": "other", "topic": "statistics", "depth": "intro", "title": "YouGov conspiracy poll report", "why": "Survey tables on vaccine microchip beliefs; a data report, not explanation."}
+{"id": 54261, "keep": 1, "q": 2, "kind": "docs", "topic": "storage", "depth": "intermediate", "title": "Ceph erasure coding", "why": "How Ceph erasure-coded pools trade storage overhead against CPU and recovery."}
+{"id": 54262, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "Ceph RADOS Gateway S3 API", "why": "Which S3 API features Ceph's RADOS Gateway supports."}
+{"id": 54263, "keep": 0, "q": 2, "kind": "docs", "topic": "llms", "depth": "intermediate", "title": "Cline memory bank", "why": "Keeping project context across coding-agent sessions with structured memory files."}
+{"id": 54264, "keep": 0, "q": 1, "kind": "docs", "topic": "databases", "depth": "intro", "title": "Conda documentation", "why": "Conda project documentation landing page."}
+{"id": 54265, "keep": 0, "q": 1, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "CozoDB v0.6 release notes", "why": "Release notes for CozoDB, a graph and vector database."}
+{"id": 54266, "keep": 0, "q": 1, "kind": "docs", "topic": "llms", "depth": "intro", "title": "Cursor rules for AI", "why": "How Cursor project rules work for steering AI coding."}
+{"id": 54267, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "intro", "title": "Cython quickstart", "why": "Compiling Python with Cython and reading its annotated output."}
+{"id": 54268, "keep": 1, "q": 3, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "Datomic overview", "why": "Explains Datomic's time-aware, immutable database model and its query approach."}
+{"id": 54269, "keep": 0, "q": 2, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "Datomic excision", "why": "How Datomic permanently removes data from history while leaving a record."}
+{"id": 54270, "keep": 0, "q": 2, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "Datomic query guide", "why": "Datalog query syntax with worked examples for Datomic."}
+{"id": 54271, "keep": 0, "q": 2, "kind": "docs", "topic": "networking", "depth": "intermediate", "title": "Dat project FAQ", "why": "Compares Dat with IPFS and BitTorrent for syncing datasets."}
+{"id": 54272, "keep": 0, "q": 1, "kind": "docs", "topic": "javascript", "depth": "intro", "title": "Deno compile", "why": "Packaging a Deno program into a standalone executable."}
+{"id": 54273, "keep": 0, "q": 1, "kind": "docs", "topic": "hosting", "depth": "intro", "title": "DigitalOcean App Platform", "why": "Product docs for DigitalOcean's app hosting service."}
+{"id": 54274, "keep": 0, "q": 1, "kind": "docs", "topic": "hosting", "depth": "intro", "title": "Why SMTP is blocked on DigitalOcean", "why": "DigitalOcean's explanation of its outbound SMTP port restrictions."}
+{"id": 54275, "keep": 0, "q": 2, "kind": "docs", "topic": "django", "depth": "intro", "title": "Django 1.3 documentation", "why": "Django documentation index for the 1.3 release."}
+{"id": 54276, "keep": 1, "q": 3, "kind": "tutorial", "topic": "django", "depth": "intro", "title": "Django tutorial part 1: polls app", "why": "Build a small polls web app step by step to learn Django basics."}
+{"id": 54277, "keep": 0, "q": 2, "kind": "docs", "topic": "django", "depth": "intro", "title": "Django 1.7 documentation", "why": "Django documentation index for the 1.7 release."}
+{"id": 54278, "keep": 0, "q": 2, "kind": "reference", "topic": "django", "depth": "intermediate", "title": "Django QuerySet reference", "why": "Reference for QuerySet methods, including prefetching and explain support."}
+{"id": 54279, "keep": 0, "q": 2, "kind": "docs", "topic": "django", "depth": "intro", "title": "Django 4.1 documentation", "why": "Django documentation index for the 4.1 release."}
+{"id": 54280, "keep": 0, "q": 2, "kind": "docs", "topic": "django", "depth": "intro", "title": "Django dev documentation", "why": "Django documentation index for the development version."}
+{"id": 54281, "keep": 0, "q": 1, "kind": "reference", "topic": "django", "depth": "intermediate", "title": "Django request and response reference", "why": "Reference for Django request and response objects and helpers."}
+{"id": 54282, "keep": 0, "q": 1, "kind": "reference", "topic": "django", "depth": "intro", "title": "Django template built-in tags", "why": "Reference for Django template tags and filters."}
+{"id": 54283, "keep": 0, "q": 1, "kind": "docs", "topic": "django", "depth": "intermediate", "title": "Django 1.11 release notes", "why": "Release notes for Django 1.11, including Python 2 LTS support."}
+{"id": 54284, "keep": 0, "q": 1, "kind": "docs", "topic": "django", "depth": "intermediate", "title": "Django 1.6 release notes", "why": "Release notes for Django 1.6 with migration notes."}
+{"id": 54285, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "Django password hashing", "why": "Django's password hashers and automatic upgrade on login."}
+{"id": 54286, "keep": 0, "q": 2, "kind": "docs", "topic": "django", "depth": "intermediate", "title": "Django raw SQL", "why": "How to run raw SQL queries within Django's ORM."}
+{"id": 54287, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intermediate", "title": "Docker container networking", "why": "Docker networking modes, including IPv6 handling."}
+{"id": 54288, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intro", "title": "Docker Compose environment variables", "why": "How Compose sets and substitutes environment variables."}
+{"id": 54289, "keep": 0, "q": 2, "kind": "docs", "topic": "docker", "depth": "intermediate", "title": "Docker Compose startup order", "why": "Controlling service startup order and why readiness is a separate problem."}
+{"id": 54290, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intro", "title": "Docker Desktop on Linux install", "why": "Installing Docker Desktop on Linux."}
+{"id": 54291, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intro", "title": "Docker Toolbox", "why": "Legacy Docker Toolbox on macOS and its VirtualBox setup."}
+{"id": 54292, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intro", "title": "Docker for Windows", "why": "Product docs for Docker Desktop on Windows."}
+{"id": 54293, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intro", "title": "Docker volumes", "why": "How named volumes persist container data."}
+{"id": 54294, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intro", "title": "Docker Engine static binaries", "why": "Installing Docker Engine from static binaries and its requirements."}
+{"id": 54295, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intro", "title": "Install Docker Engine on Debian", "why": "Install steps for Docker Engine on Debian."}
+{"id": 54296, "keep": 0, "q": 2, "kind": "docs", "topic": "docker", "depth": "intermediate", "title": "Docker Engine networking", "why": "Docker Engine networking, including how published ports interact with firewalls."}
+{"id": 54297, "keep": 0, "q": 1, "kind": "reference", "topic": "docker", "depth": "intro", "title": "Docker CLI reference", "why": "Reference for Docker CLI commands, flags and environment variables."}
+{"id": 54298, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "Docker AppArmor profiles", "why": "How Docker applies AppArmor profiles to containers."}
+{"id": 54299, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intermediate", "title": "Docker Swarm ingress", "why": "How Swarm routing mesh handles published ports across nodes."}
+{"id": 54300, "keep": 0, "q": 1, "kind": "tutorial", "topic": "docker", "depth": "intro", "title": "Docker Swarm tutorial", "why": "Getting started with Docker Swarm mode."}
+{"id": 54301, "keep": 0, "q": 2, "kind": "docs", "topic": "docker", "depth": "intermediate", "title": "Docker bind mounts", "why": "Bind mounts versus volumes, and their performance on Docker Desktop."}
+{"id": 54302, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intro", "title": "Docker Swarm", "why": "Overview of Docker's native orchestration tools."}
+{"id": 54303, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intro", "title": "Docker legacy links", "why": "Legacy container linking via environment variables."}
+{"id": 54304, "keep": 0, "q": 2, "kind": "docs", "topic": "build tools", "depth": "intermediate", "title": "Earthly Earthfile", "why": "Earthly build file syntax with targets, COPY and user-defined commands."}
+{"id": 54305, "keep": 0, "q": 1, "kind": "other", "topic": "policy", "depth": "intro", "title": "FCC speed metrics order", "why": "FCC order revising broadband speed thresholds."}
+{"id": 54306, "keep": 0, "q": 1, "kind": "other", "topic": "policy", "depth": "intro", "title": "FCC dissent statement", "why": "Dissenting statement on FCC broadband speed benchmarks."}
+{"id": 54307, "keep": 0, "q": 1, "kind": "docs", "topic": "linux", "depth": "intro", "title": "Fedora DNF system upgrade", "why": "How to upgrade Fedora releases with DNF system-upgrade."}
+{"id": 54308, "keep": 0, "q": 1, "kind": "docs", "topic": "linux", "depth": "intro", "title": "Flathub app requirements", "why": "Requirements for submitting apps to Flathub."}
+{"id": 54309, "keep": 1, "q": 3, "kind": "docs", "topic": "linux", "depth": "intermediate", "title": "Flatpak basic concepts", "why": "Explains Flatpak runtimes, sandboxing and portals, and how it compares to Snap and AppImage."}
+{"id": 54310, "keep": 0, "q": 1, "kind": "docs", "topic": "flutter", "depth": "intro", "title": "Flutter platform channels", "why": "How Flutter calls native platform APIs through platform channels."}
+{"id": 54311, "keep": 0, "q": 1, "kind": "docs", "topic": "flutter", "depth": "intro", "title": "Flutter FAQ", "why": "Flutter FAQ on design choices and adoption."}
+{"id": 54312, "keep": 0, "q": 2, "kind": "docs", "topic": "linux", "depth": "expert", "title": "FreeBSD Porter's Handbook", "why": "Guide to writing and maintaining FreeBSD ports."}
+{"id": 54313, "keep": 0, "q": 1, "kind": "docs", "topic": "hardware", "depth": "intro", "title": "C.H.I.P. computer docs", "why": "Setup docs for the C.H.I.P. single-board computer."}
+{"id": 54314, "keep": 0, "q": 2, "kind": "docs", "topic": "data", "depth": "intermediate", "title": "dbt tests", "why": "Writing and running data tests in dbt."}
+{"id": 54315, "keep": 0, "q": 1, "kind": "docs", "topic": "data", "depth": "intro", "title": "dbt introduction", "why": "Overview of dbt for transforming data with SQL."}
+{"id": 54316, "keep": 0, "q": 1, "kind": "docs", "topic": "git", "depth": "intro", "title": "Gitea documentation", "why": "Gitea feature overview and docs."}
+{"id": 54317, "keep": 0, "q": 1, "kind": "docs", "topic": "github", "depth": "intro", "title": "GitHub profile personalization", "why": "How to customize a GitHub profile page."}
+{"id": 54318, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "GitHub OIDC with AWS", "why": "Using OpenID Connect so GitHub Actions get short-lived AWS credentials."}
+{"id": 54319, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "GitHub workflow trigger events", "why": "Events that trigger workflows, including security implications for pull request runs."}
+{"id": 54320, "keep": 0, "q": 2, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "GitHub artifact attestations", "why": "Using artifact attestations to prove where build outputs came from."}
+{"id": 54321, "keep": 0, "q": 1, "kind": "reference", "topic": "github", "depth": "intermediate", "title": "GitHub Actions workflow syntax", "why": "Reference for workflow YAML syntax in GitHub Actions."}
+{"id": 54322, "keep": 0, "q": 1, "kind": "docs", "topic": "git", "depth": "intermediate", "title": "Git commit signature verification", "why": "How GitHub verifies signed commits and tags."}
+{"id": 54323, "keep": 0, "q": 1, "kind": "docs", "topic": "github", "depth": "intro", "title": "GitHub Actions billing", "why": "How GitHub bills Actions minutes by runner OS."}
+{"id": 54324, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intro", "title": "Dependabot alerts", "why": "What Dependabot alerts cover and how they work."}
+{"id": 54325, "keep": 0, "q": 1, "kind": "reference", "topic": "github", "depth": "intermediate", "title": "Dependabot options reference", "why": "Dependabot configuration options for update schedules and grouping."}
+{"id": 54326, "keep": 0, "q": 1, "kind": "reference", "topic": "security", "depth": "intermediate", "title": "Dependabot options reference", "why": "Dependabot configuration options, including minimum package age settings."}
+{"id": 54327, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intro", "title": "Secret scanning partner program", "why": "GitHub's program for partners to receive leaked secret reports."}
+{"id": 54328, "keep": 0, "q": 1, "kind": "docs", "topic": "llms", "depth": "intro", "title": "Copilot request billing", "why": "How premium request multipliers bill Copilot model usage."}
+{"id": 54329, "keep": 0, "q": 1, "kind": "docs", "topic": "github", "depth": "intro", "title": "Copilot settings", "why": "Copilot settings for public code matching and data retention."}
+{"id": 54330, "keep": 0, "q": 1, "kind": "docs", "topic": "github", "depth": "intro", "title": "Self-hosted GitHub Actions runners", "why": "Running Actions jobs on your own machines."}
+{"id": 54331, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "GitHub DMCA takedown policy", "why": "GitHub's policy on DMCA takedowns and repeat posting."}
+{"id": 54332, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "GitHub trade controls", "why": "GitHub's sanctions and trade-controls policy."}
+{"id": 54333, "keep": 0, "q": 1, "kind": "docs", "topic": "github", "depth": "intro", "title": "GitHub stars", "why": "How to star repositories and organize them."}
+{"id": 54334, "keep": 0, "q": 1, "kind": "reference", "topic": "markdown", "depth": "intro", "title": "GitHub Markdown syntax", "why": "Basic GitHub Flavored Markdown syntax reference."}
+{"id": 54335, "keep": 0, "q": 1, "kind": "docs", "topic": "github", "depth": "intro", "title": "GitHub GraphQL API", "why": "Entry point to the GitHub GraphQL API docs."}
+{"id": 54336, "keep": 0, "q": 1, "kind": "docs", "topic": "github", "depth": "intro", "title": "GitHub GraphQL explorer", "why": "Using the GitHub GraphQL explorer to build queries."}
+{"id": 54337, "keep": 0, "q": 1, "kind": "docs", "topic": "docker", "depth": "intermediate", "title": "GitHub container registry", "why": "Using GitHub's container registry and its authentication options."}
+{"id": 54338, "keep": 0, "q": 1, "kind": "reference", "topic": "github", "depth": "intermediate", "title": "GitHub REST repos API", "why": "Reference for the GitHub REST API's repository endpoints."}
+{"id": 54339, "keep": 0, "q": 1, "kind": "other", "topic": "legal", "depth": "intro", "title": "GitHub DMCA takedown notices", "why": "How to submit a DMCA takedown notice to GitHub."}
+{"id": 54340, "keep": 0, "q": 1, "kind": "docs", "topic": "gitlab", "depth": "intro", "title": "GitLab CI YAML reference", "why": "Reference for GitLab CI pipeline YAML keywords."}
+{"id": 54341, "keep": 0, "q": 1, "kind": "docs", "topic": "gitlab", "depth": "intermediate", "title": "GitLab CI for external repos", "why": "Running GitLab CI for repositories hosted on GitHub."}
+{"id": 54342, "keep": 0, "q": 2, "kind": "docs", "topic": "gitlab", "depth": "intermediate", "title": "GitLab merge trains", "why": "How merge trains queue and test merge requests in order."}
+{"id": 54343, "keep": 0, "q": 1, "kind": "docs", "topic": "gitlab", "depth": "intro", "title": "GitLab pipeline schedules", "why": "Scheduling GitLab pipelines with cron-like timing."}
+{"id": 54344, "keep": 0, "q": 1, "kind": "docs", "topic": "gitlab", "depth": "intermediate", "title": "GitLab CI variables", "why": "Defining and using CI/CD variables in GitLab."}
+{"id": 54345, "keep": 0, "q": 1, "kind": "docs", "topic": "gitlab", "depth": "intermediate", "title": "GitLab CI cache keys", "why": "Cache key configuration in GitLab CI, including key files."}
+{"id": 54346, "keep": 0, "q": 1, "kind": "docs", "topic": "kubernetes", "depth": "intro", "title": "GitLab Kubernetes clusters", "why": "Connecting Kubernetes clusters to GitLab."}
+{"id": 54347, "keep": 0, "q": 1, "kind": "docs", "topic": "devops", "depth": "intermediate", "title": "GitLab Runbooks", "why": "Describes GitLab Runbooks, notebook-style operational procedures run against a cluster."}
+{"id": 54348, "keep": 0, "q": 1, "kind": "docs", "topic": "gitlab", "depth": "intermediate", "title": "GitLab squash and merge", "why": "How squash and merge builds the commit message."}
+{"id": 54349, "keep": 0, "q": 1, "kind": "docs", "topic": "gitlab", "depth": "intro", "title": "GitLab Omnibus packaging", "why": "Omnibus packaging of GitLab for installation."}
+{"id": 54350, "keep": 0, "q": 1, "kind": "reference", "topic": "gitlab", "depth": "intermediate", "title": "GitLab Runner exec", "why": "Running CI jobs locally with gitlab-runner exec and its limits."}
+{"id": 54351, "keep": 0, "q": 1, "kind": "docs", "topic": "game dev", "depth": "intro", "title": "Godot console platforms", "why": "Godot's console export support and third-party porting options."}
+{"id": 54352, "keep": 0, "q": 1, "kind": "docs", "topic": "game dev", "depth": "intro", "title": "Godot C# support", "why": "Godot C# limits, including web export."}
+{"id": 54353, "keep": 0, "q": 1, "kind": "docs", "topic": "selfhosting", "depth": "intro", "title": "GoToSocial docs", "why": "Documentation for GoToSocial, a self-hosted social server."}
+{"id": 54354, "keep": 0, "q": 2, "kind": "docs", "topic": "build tools", "depth": "intermediate", "title": "Gradle dependency locking", "why": "Locking Gradle dependency versions for reproducible builds."}
+{"id": 54355, "keep": 0, "q": 1, "kind": "docs", "topic": "groovy", "depth": "intermediate", "title": "Groovy Grape", "why": "Groovy's Grape dependency manager for scripts."}
+{"id": 54356, "keep": 0, "q": 1, "kind": "docs", "topic": "c", "depth": "intro", "title": "GLib reference", "why": "Overview of GLib's data structures and utility functions."}
+{"id": 54357, "keep": 0, "q": 2, "kind": "docs", "topic": "python", "depth": "intermediate", "title": "Gunicorn settings", "why": "Gunicorn configuration, including preload and reload options."}
+{"id": 54358, "keep": 0, "q": 1, "kind": "other", "topic": "hosting", "depth": "intro", "title": "Hetzner data privacy FAQ", "why": "Hetzner's answers on data access and location under EU and US law."}
+{"id": 54359, "keep": 0, "q": 1, "kind": "docs", "topic": "hardware", "depth": "intro", "title": "Hetzner mainboard replacement", "why": "Hetzner's notice on replacing faulty motherboards in certain servers."}
+{"id": 54360, "keep": 0, "q": 1, "kind": "docs", "topic": "hardware", "depth": "intro", "title": "Hetzner root server hardware", "why": "Hardware specs and options for Hetzner dedicated servers."}
+{"id": 54361, "keep": 0, "q": 1, "kind": "docs", "topic": "networking", "depth": "intro", "title": "Hetzner 10G uplink", "why": "Upgrading Hetzner dedicated server uplinks to 10 Gbit."}
+{"id": 54362, "keep": 0, "q": 1, "kind": "docs", "topic": "storage", "depth": "intro", "title": "Hetzner object storage", "why": "Overview of Hetzner's object storage product."}
+{"id": 54363, "keep": 0, "q": 1, "kind": "other", "topic": "policy", "depth": "intro", "title": "House hearing on app stores", "why": "2019 House antitrust hearing testimony on Apple's App Store."}
+{"id": 54364, "keep": 0, "q": 2, "kind": "docs", "topic": "languages", "depth": "expert", "title": "Idris uniqueness types", "why": "Reference for Idris's experimental uniqueness types."}
+{"id": 54365, "keep": 1, "q": 2, "kind": "tutorial", "topic": "languages", "depth": "intermediate", "title": "Idris theorems and totality", "why": "Idris tutorial chapter on writing theorems and proofs and checking totality."}
+{"id": 54366, "keep": 0, "q": 1, "kind": "docs", "topic": "selfhosting", "depth": "intro", "title": "Immich backup and restore", "why": "Which Immich files to back up and how to restore them."}
+{"id": 54367, "keep": 0, "q": 1, "kind": "docs", "topic": "privacy", "depth": "intro", "title": "Invidious FAQ", "why": "Invidious FAQ on what data reaches Google when watching videos."}
+{"id": 54368, "keep": 0, "q": 1, "kind": "docs", "topic": "selfhosting", "depth": "intro", "title": "Invidious installation", "why": "Installation options for Invidious, a YouTube frontend."}
+{"id": 54369, "keep": 1, "q": 3, "kind": "docs", "topic": "distributed systems", "depth": "intermediate", "title": "IPNS concepts", "why": "Explains why content addresses change and how IPNS gives a stable name to updated content."}
+{"id": 54370, "keep": 0, "q": 2, "kind": "docs", "topic": "networking", "depth": "intro", "title": "What is iroh", "why": "Overview of the iroh peer-to-peer networking library."}
+{"id": 54371, "keep": 0, "q": 1, "kind": "docs", "topic": "linux", "depth": "intro", "title": "jj install and setup", "why": "Installing and setting up the jj version control tool."}
+{"id": 54372, "keep": 0, "q": 1, "kind": "docs", "topic": "selfhosting", "depth": "intermediate", "title": "Mastodon server config", "why": "Mastodon configuration options for federation and domains."}
+{"id": 54373, "keep": 0, "q": 1, "kind": "docs", "topic": "selfhosting", "depth": "intermediate", "title": "Mastodon installation", "why": "Mastodon server installation guide."}
+{"id": 54374, "keep": 0, "q": 1, "kind": "docs", "topic": "social", "depth": "intro", "title": "Mastodon posting guide", "why": "Guide to posting on Mastodon."}
+{"id": 54375, "keep": 0, "q": 1, "kind": "docs", "topic": "javascript", "depth": "intermediate", "title": "jQuery plugin authoring", "why": "Old jQuery guide to writing plugins with defaults and chaining."}
+{"id": 54376, "keep": 0, "q": 1, "kind": "tutorial", "topic": "javascript", "depth": "intro", "title": "jQuery getting started", "why": "Old jQuery intro tutorial."}
+{"id": 54377, "keep": 0, "q": 1, "kind": "news", "topic": "policy", "depth": "intro", "title": "JSTOR statement", "why": "JSTOR's statement on the Aaron Swartz case and academic paper downloads."}
+{"id": 54378, "keep": 0, "q": 1, "kind": "reference", "topic": "julia", "depth": "intro", "title": "Julia base library", "why": "Julia base library reference."}
+{"id": 54379, "keep": 0, "q": 2, "kind": "docs", "topic": "julia", "depth": "intermediate", "title": "Julia type system manual", "why": "Julia manual section on the type system and how it aids optimization."}
+{"id": 54380, "keep": 0, "q": 1, "kind": "docs", "topic": "julia", "depth": "intro", "title": "Julia arrays manual", "why": "Julia manual on arrays, broadcasting and map."}
+{"id": 54381, "keep": 0, "q": 1, "kind": "docs", "topic": "julia", "depth": "intermediate", "title": "Julia C and Fortran calls", "why": "Calling C and Fortran code from Julia with ccall."}
+{"id": 54382, "keep": 0, "q": 2, "kind": "docs", "topic": "julia", "depth": "intermediate", "title": "Julia methods manual", "why": "Julia manual on method dispatch and specificity rules."}
+{"id": 54383, "keep": 0, "q": 1, "kind": "docs", "topic": "julia", "depth": "intro", "title": "Julia modules manual", "why": "Julia manual on modules, import and using."}
+{"id": 54384, "keep": 0, "q": 1, "kind": "docs", "topic": "julia", "depth": "intermediate", "title": "Julia types manual", "why": "Julia manual on types, including named tuples."}
+{"id": 54385, "keep": 0, "q": 1, "kind": "reference", "topic": "julia", "depth": "intermediate", "title": "Julia InteractiveUtils", "why": "Reference for Julia's code introspection tools, like @code_native."}
+{"id": 54386, "keep": 0, "q": 1, "kind": "reference", "topic": "julia", "depth": "intermediate", "title": "Julia REPL stdlib", "why": "Julia REPL reference including shell mode and prompt handling."}
+{"id": 54387, "keep": 0, "q": 2, "kind": "docs", "topic": "linux", "depth": "expert", "title": "Kernel MG-LRU docs", "why": "Linux kernel docs for multi-generational LRU page reclaim."}
+{"id": 54388, "keep": 0, "q": 2, "kind": "docs", "topic": "linux", "depth": "expert", "title": "Kernel zswap docs", "why": "Linux kernel docs for zswap compressed swap cache."}
+{"id": 54389, "keep": 0, "q": 2, "kind": "docs", "topic": "linux", "depth": "expert", "title": "Kernel syscall user dispatch", "why": "Kernel docs for syscall user dispatch, used by Wine and others."}
+{"id": 54390, "keep": 0, "q": 2, "kind": "docs", "topic": "linux", "depth": "expert", "title": "Kernel VM sysctl docs", "why": "Kernel docs for vm.* sysctl tuning knobs."}
+{"id": 54391, "keep": 0, "q": 2, "kind": "docs", "topic": "networking", "depth": "expert", "title": "Kernel TLS offload", "why": "Linux kernel TLS offload for sockets."}
+{"id": 54392, "keep": 0, "q": 1, "kind": "docs", "topic": "graphics", "depth": "expert", "title": "Mesa llvmpipe driver", "why": "Mesa's LLVM-based software rasterizer driver."}
+{"id": 54393, "keep": 0, "q": 1, "kind": "docs", "topic": "graphics", "depth": "intro", "title": "Mesa supported systems", "why": "Platforms Mesa supports and its deprecations."}
+{"id": 54394, "keep": 1, "q": 4, "kind": "explainer", "topic": "software architecture", "depth": "intermediate", "title": "Strangler fig pattern", "why": "Explains replacing a legacy system incrementally by routing traffic to new components until the old one is gone."}
+{"id": 54395, "keep": 1, "q": 4, "kind": "visual", "topic": "databases", "depth": "intermediate", "title": "Cosmos DB consistency levels", "why": "Visual walkthrough of strong, bounded staleness, session, consistent prefix and eventual consistency."}
+{"id": 54396, "keep": 0, "q": 2, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "DocumentDB consistency levels", "why": "Older Azure docs on consistency levels and their tradeoffs with regions."}
+{"id": 54397, "keep": 0, "q": 1, "kind": "docs", "topic": "linux", "depth": "intro", "title": "Install .NET on Debian", "why": "Install steps for the .NET SDK on Debian."}
+{"id": 54398, "keep": 0, "q": 1, "kind": "reference", "topic": "dotnet", "depth": "intermediate", "title": "Runtime identifier catalog", "why": "Catalog of .NET runtime identifiers for cross-compiling."}
+{"id": 54399, "keep": 0, "q": 1, "kind": "docs", "topic": "dotnet", "depth": "intro", "title": "dotnet CLI tools", "why": "Overview of the dotnet command-line tools."}

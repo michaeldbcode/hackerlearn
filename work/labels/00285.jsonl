@@ -1,0 +1,200 @@
+{"id": 57000, "keep": 1, "q": 3, "kind": "reference", "topic": "haskell", "depth": "expert", "title": "Backpack (GHC wiki)", "why": "Design proposal for a Haskell module system with signatures and modular package composition."}
+{"id": 57001, "keep": 1, "q": 3, "kind": "reference", "topic": "haskell", "depth": "expert", "title": "GHC RTS commentary", "why": "Internals of GHC's runtime system, scheduler and lightweight threads."}
+{"id": 57002, "keep": 1, "q": 3, "kind": "docs", "topic": "haskell", "depth": "intermediate", "title": "View patterns (GHC wiki)", "why": "Explains the view patterns extension, which applies a function before matching a pattern."}
+{"id": 57003, "keep": 0, "q": 1, "kind": "tool", "topic": "self hosting", "depth": "intro", "title": "Ghost install on Ubuntu", "why": "Install steps for self-hosting the Ghost blogging platform on Ubuntu."}
+{"id": 57004, "keep": 0, "q": 1, "kind": "other", "topic": "blogging", "depth": "intro", "title": "Ghost vs WordPress", "why": "Marketing comparison page between two blogging platforms."}
+{"id": 57005, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Ghostery acquires Cliqz", "why": "Company announcement about a browser privacy acquisition."}
+{"id": 57006, "keep": 0, "q": 1, "kind": "reference", "topic": "privacy", "depth": "intro", "title": "Ghostery FAQ", "why": "Company FAQ about what data the tracker blocker sends."}
+{"id": 57007, "keep": 0, "q": 1, "kind": "tool", "topic": "operating systems", "depth": "intro", "title": "INTEGRITY RTOS", "why": "Vendor product page for a proprietary safety-critical RTOS."}
+{"id": 57008, "keep": 0, "q": 1, "kind": "reference", "topic": "road safety", "depth": "intro", "title": "Pedestrian fatalities report", "why": "Statistics report on pedestrian deaths and their recent trends."}
+{"id": 57009, "keep": 1, "q": 3, "kind": "blog", "topic": "llms", "depth": "intro", "title": "Cursed programming language", "why": "Account of building an odd programming language with an AI agent in a long loop, with lessons learned."}
+{"id": 57010, "keep": 1, "q": 3, "kind": "essay", "topic": "career", "depth": "intro", "title": "The loop", "why": "Argues that building software and engineering software are now different skills in the AI era."}
+{"id": 57011, "keep": 0, "q": 1, "kind": "comic", "topic": "humor", "depth": "intro", "title": "Order of the Stick 135", "why": "A single webcomic strip commenters use as a joke about a debate."}
+{"id": 57012, "keep": 1, "q": 4, "kind": "essay", "topic": "research integrity", "depth": "intermediate", "title": "Is ivermectin for COVID-19 based on fraudulent research?", "why": "Explains how a major ivermectin trial was built on fabricated data and why it matters for the evidence."}
+{"id": 57013, "keep": 0, "q": 1, "kind": "tool", "topic": "telecom", "depth": "intro", "title": "giffgaff SIM-only plans", "why": "Mobile operator pricing page."}
+{"id": 57014, "keep": 1, "q": 4, "kind": "book", "topic": "common lisp", "depth": "intermediate", "title": "Practical Common Lisp: object reorientation", "why": "Teaches Common Lisp classes and object-oriented design through practical examples."}
+{"id": 57015, "keep": 1, "q": 4, "kind": "book", "topic": "common lisp", "depth": "intermediate", "title": "Practical Common Lisp: packages and symbols", "why": "Explains Common Lisp packages, symbols and namespaces for larger programs."}
+{"id": 57016, "keep": 1, "q": 4, "kind": "journalism", "topic": "programming education", "depth": "intermediate", "title": "Code Quarterly interview with Hal Abelson", "why": "Long interview on teaching programming, SICP, and engineering versus computer science."}
+{"id": 57017, "keep": 0, "q": 1, "kind": "tool", "topic": "common lisp", "depth": "intro", "title": "Lispbox", "why": "Bundled Common Lisp setup download."}
+{"id": 57018, "keep": 1, "q": 5, "kind": "essay", "topic": "software history", "depth": "intermediate", "title": "A Tale of Two Rewrites", "why": "Peter Seibel's account of Netscape's browser rewrite and what went wrong, a classic on engineering judgment."}
+{"id": 57019, "keep": 1, "q": 3, "kind": "essay", "topic": "testing", "depth": "intermediate", "title": "Coders at Work: unit testing", "why": "Interview excerpts weighing unit testing and TDD, showing disagreement among experienced programmers."}
+{"id": 57020, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Dodgeball founder quits Google", "why": "Report on a founder leaving Google after an acquisition."}
+{"id": 57021, "keep": 0, "q": 2, "kind": "journalism", "topic": "broadband", "depth": "intro", "title": "Economics of Google Fiber", "why": "Business analysis of Google Fiber's pricing and costs, tied to 2012 news."}
+{"id": 57022, "keep": 1, "q": 2, "kind": "tutorial", "topic": "keyboards", "depth": "intro", "title": "Dvorak typing lessons", "why": "Typing tutor lessons for learning the Dvorak keyboard layout."}
+{"id": 57023, "keep": 0, "q": 1, "kind": "news", "topic": "hiv prevention", "depth": "intro", "title": "Gilead lenacapavir press release", "why": "Company press release about trial results."}
+{"id": 57024, "keep": 0, "q": 1, "kind": "essay", "topic": "startups", "depth": "intro", "title": "Never hate, only ever destroy", "why": "Opinion piece on TechCrunch and venture capital culture."}
+{"id": 57025, "keep": 0, "q": 2, "kind": "blog", "topic": "career", "depth": "intro", "title": "What programmers should do if fired", "why": "Short personal advice on freelancing after losing a job."}
+{"id": 57026, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "Gimlet: Facebook spying", "why": "Podcast episode on whether Facebook listens through microphones."}
+{"id": 57027, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "Gimlet: The Russian Passenger", "why": "Podcast episode about an account hijacking."}
+{"id": 57028, "keep": 0, "q": 1, "kind": "other", "topic": "scams", "depth": "intro", "title": "Gimlet: Long Distance", "why": "Podcast episode about tracking a phone scammer."}
+{"id": 57029, "keep": 0, "q": 1, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "Reply All", "why": "Podcast show homepage."}
+{"id": 57030, "keep": 0, "q": 1, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "Reply All: TurboTax", "why": "Podcast episode on free tax filing."}
+{"id": 57031, "keep": 0, "q": 1, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "Reply All: feral hogs", "why": "Podcast episode about wild hogs in the US."}
+{"id": 57032, "keep": 0, "q": 1, "kind": "other", "topic": "podcasts", "depth": "intro", "title": "Reply All: microphone ads", "why": "Podcast episode on whether phones listen to ads."}
+{"id": 57033, "keep": 0, "q": 1, "kind": "tool", "topic": "graphics", "depth": "intro", "title": "GIMP development downloads", "why": "Software download page."}
+{"id": 57034, "keep": 0, "q": 1, "kind": "news", "topic": "graphics", "depth": "intro", "title": "GIMP 2.8 release notes", "why": "Release notes for a software version."}
+{"id": 57035, "keep": 1, "q": 2, "kind": "tutorial", "topic": "scripting", "depth": "intro", "title": "GIMP basic batch processing", "why": "Shows how to script GIMP batch image processing with Scheme."}
+{"id": 57036, "keep": 1, "q": 2, "kind": "blog", "topic": "graphics", "depth": "intermediate", "title": "Goat invasion in GIMP", "why": "Developer account of porting GIMP's core to the GEGL pixel engine."}
+{"id": 57037, "keep": 0, "q": 1, "kind": "tool", "topic": "productivity", "depth": "intro", "title": "todo.txt-cli", "why": "Command-line todo tool homepage."}
+{"id": 57038, "keep": 0, "q": 1, "kind": "other", "topic": "jobs", "depth": "intro", "title": "Ginkgo Bioworks job posting", "why": "Job listing."}
+{"id": 57039, "keep": 0, "q": 1, "kind": "other", "topic": "jobs", "depth": "intro", "title": "Ginkgo Bioworks careers", "why": "Company careers page."}
+{"id": 57040, "keep": 1, "q": 2, "kind": "explainer", "topic": "economics", "depth": "intro", "title": "Antitrust and monopoly", "why": "Explains that monopoly is legal in the US while anticompetitive conduct is not."}
+{"id": 57041, "keep": 0, "q": 1, "kind": "other", "topic": "gis", "depth": "intro", "title": "US zip codes spanning states", "why": "Q&A about which zip codes cross boundaries, a lookup answer."}
+{"id": 57042, "keep": 0, "q": 1, "kind": "blog", "topic": "git", "depth": "intro", "title": "git-annex assistant development blog", "why": "Project status blog."}
+{"id": 57043, "keep": 1, "q": 3, "kind": "docs", "topic": "archiving", "depth": "expert", "title": "git-annex design for Internet Archive backup", "why": "Design proposal for backing up a huge archive with git-annex, with hashing and storage trade-offs."}
+{"id": 57044, "keep": 0, "q": 2, "kind": "docs", "topic": "git", "depth": "intermediate", "title": "git-annex special remotes", "why": "Reference page for git-annex storage backends."}
+{"id": 57045, "keep": 0, "q": 2, "kind": "tutorial", "topic": "git", "depth": "intro", "title": "git-annex with Amazon S3", "why": "Setup steps for an S3 backend."}
+{"id": 57046, "keep": 1, "q": 4, "kind": "blog", "topic": "git", "depth": "intermediate", "title": "Git rerere: reuse recorded resolution", "why": "Explains how git records and reuses conflict resolutions to avoid repeated merge work."}
+{"id": 57047, "keep": 1, "q": 4, "kind": "blog", "topic": "git", "depth": "intermediate", "title": "Git rerere: reuse recorded resolution", "why": "Explains how git records and reuses conflict resolutions to avoid repeated merge work."}
+{"id": 57048, "keep": 1, "q": 3, "kind": "book", "topic": "git", "depth": "intermediate", "title": "Pro Git: setting up the server", "why": "Practical guide to hosting Git repositories over SSH and managing users."}
+{"id": 57049, "keep": 1, "q": 4, "kind": "book", "topic": "git", "depth": "intermediate", "title": "Pro Git: Git references", "why": "Explains that branches and tags are just named pointers to commits."}
+{"id": 57050, "keep": 1, "q": 4, "kind": "book", "topic": "git", "depth": "expert", "title": "Pro Git: transfer protocols", "why": "Explains how Git's protocols move packfiles between client and server."}
+{"id": 57051, "keep": 1, "q": 3, "kind": "book", "topic": "git", "depth": "intermediate", "title": "Pro Git: interactive staging", "why": "Shows how to stage individual hunks to split tangled changes into clean commits."}
+{"id": 57052, "keep": 1, "q": 3, "kind": "book", "topic": "git", "depth": "intermediate", "title": "Pro Git: revision selection", "why": "Covers commit ranges, ancestry and abbreviated hashes in Git revision syntax."}
+{"id": 57053, "keep": 1, "q": 2, "kind": "book", "topic": "git", "depth": "intermediate", "title": "Pro Git: git daemon", "why": "Describes serving repositories over the git protocol with the git daemon."}
+{"id": 57054, "keep": 1, "q": 3, "kind": "book", "topic": "git", "depth": "expert", "title": "Pro Git: the protocols", "why": "Explains Git's SSH, HTTP and native protocols for serving repositories."}
+{"id": 57055, "keep": 0, "q": 2, "kind": "reference", "topic": "git", "depth": "intro", "title": "Git documentation index", "why": "Index page linking Git manuals and external tutorials."}
+{"id": 57056, "keep": 0, "q": 2, "kind": "docs", "topic": "git", "depth": "intermediate", "title": "Git SubmittingPatches", "why": "Contributor guidelines for sending patches to the Git project."}
+{"id": 57057, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intro", "title": "git-archive manual", "why": "Man page for exporting a tree as an archive."}
+{"id": 57058, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intro", "title": "git-instaweb manual", "why": "Man page for launching a web browser on a repository."}
+{"id": 57059, "keep": 0, "q": 2, "kind": "reference", "topic": "git", "depth": "intermediate", "title": "git-maintenance manual", "why": "Man page for scheduled repository maintenance tasks."}
+{"id": 57060, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intro", "title": "git-mergetool manual", "why": "Man page for configuring merge tools."}
+{"id": 57061, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intro", "title": "git-range-diff manual", "why": "Man page for comparing two versions of a commit range."}
+{"id": 57062, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intro", "title": "git-rev-parse manual", "why": "Man page for parsing revision arguments."}
+{"id": 57063, "keep": 0, "q": 1, "kind": "tool", "topic": "git", "depth": "intro", "title": "gitk", "why": "Documentation page for the gitk repository browser."}
+{"id": 57064, "keep": 1, "q": 3, "kind": "tutorial", "topic": "git", "depth": "intro", "title": "Git tutorial", "why": "Official introduction to basic Git commands and the repository model."}
+{"id": 57065, "keep": 1, "q": 3, "kind": "docs", "topic": "git", "depth": "intermediate", "title": "Git workflows", "why": "Official overview of branching and integrator workflows for collaborating with Git."}
+{"id": 57066, "keep": 1, "q": 4, "kind": "reference", "topic": "git internals", "depth": "expert", "title": "Git pack format", "why": "Specifies how Git stores objects in packfiles with delta compression."}
+{"id": 57067, "keep": 0, "q": 1, "kind": "other", "topic": "git", "depth": "intro", "title": "Git logos", "why": "Download page for logo files."}
+{"id": 57068, "keep": 0, "q": 1, "kind": "tool", "topic": "voice", "depth": "intro", "title": "ai-voice-cloning", "why": "Code repository for a voice cloning tool."}
+{"id": 57069, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "Linux kernel git (cgit)", "why": "Source repository browser homepage."}
+{"id": 57070, "keep": 0, "q": 2, "kind": "reference", "topic": "linux", "depth": "intro", "title": "Linux MAINTAINERS file", "why": "Index of kernel subsystem maintainers and their areas."}
+{"id": 57071, "keep": 1, "q": 3, "kind": "reference", "topic": "c libraries", "depth": "expert", "title": "musl vfprintf.c", "why": "Source of musl's printf, including bignum-based float formatting."}
+{"id": 57072, "keep": 0, "q": 1, "kind": "tool", "topic": "git", "depth": "intro", "title": "Cogito", "why": "Deprecated Git porcelain project page."}
+{"id": 57073, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "RaptorCS git", "why": "Hardware project repository index."}
+{"id": 57074, "keep": 1, "q": 2, "kind": "reference", "topic": "unix tools", "depth": "intermediate", "title": "GNU coreutils cat.c", "why": "Source of cat, showing its fast-path and unbuffered optimizations."}
+{"id": 57075, "keep": 0, "q": 1, "kind": "tool", "topic": "social media", "depth": "intro", "title": "Bibliogram docs", "why": "Documentation listing Instagram front-end instances."}
+{"id": 57076, "keep": 0, "q": 1, "kind": "tool", "topic": "linux phones", "depth": "intro", "title": "Megapixels camera app", "why": "Camera app code repository."}
+{"id": 57077, "keep": 0, "q": 1, "kind": "other", "topic": "sourcehut", "depth": "intro", "title": "sourcehut repositories", "why": "Repository index page."}
+{"id": 57078, "keep": 0, "q": 1, "kind": "other", "topic": "sourcehut", "depth": "intro", "title": "sourcehut repository list", "why": "Repository search list."}
+{"id": 57079, "keep": 0, "q": 1, "kind": "tool", "topic": "git", "depth": "intro", "title": "shit (git in POSIX shell)", "why": "Project repository for a Git implementation in shell."}
+{"id": 57080, "keep": 0, "q": 1, "kind": "tool", "topic": "operating systems", "depth": "intro", "title": "duskos", "why": "Hobby OS project repository."}
+{"id": 57081, "keep": 0, "q": 2, "kind": "tool", "topic": "unix tools", "depth": "intermediate", "title": "suckless sbase", "why": "Project homepage for a minimal Unix userland."}
+{"id": 57082, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "Decentraleyes", "why": "Browser add-on repository."}
+{"id": 57083, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intermediate", "title": "xz backdoor commit", "why": "A single commit cited as evidence in a security incident."}
+{"id": 57084, "keep": 1, "q": 4, "kind": "talk", "topic": "security", "depth": "intermediate", "title": "Linus Torvalds 2007 talk transcript", "why": "Torvalds discusses Linux, security habits and open source in a transcribed talk."}
+{"id": 57085, "keep": 0, "q": 1, "kind": "tool", "topic": "networking", "depth": "intro", "title": "wireguard-go", "why": "Code repository for a userspace WireGuard implementation."}
+{"id": 57086, "keep": 1, "q": 4, "kind": "book", "topic": "elm", "depth": "intro", "title": "An Introduction to Elm", "why": "Hands-on introduction to Elm's language and architecture for web apps."}
+{"id": 57087, "keep": 1, "q": 4, "kind": "book", "topic": "open source", "depth": "intermediate", "title": "Social Architecture", "why": "Hintjens on the social side of open source communities and how to run them."}
+{"id": 57088, "keep": 0, "q": 1, "kind": "blog", "topic": "hardware", "depth": "intro", "title": "Linux touchpad update", "why": "Personal update on laptop touchpad drivers."}
+{"id": 57089, "keep": 0, "q": 2, "kind": "journalism", "topic": "ai coding", "depth": "intermediate", "title": "Copilot code quality data", "why": "Data-driven report on code quality from AI assistants, cited as evidence."}
+{"id": 57090, "keep": 0, "q": 1, "kind": "tool", "topic": "ci", "depth": "intro", "title": "Gitea act_runner", "why": "CI runner code repository."}
+{"id": 57091, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "haproxy-protection", "why": "Proof-of-work bot protection project."}
+{"id": 57092, "keep": 0, "q": 1, "kind": "other", "topic": "jobs", "depth": "intro", "title": "GitHire user edit page", "why": "Site bug report about a user profile page."}
+{"id": 57093, "keep": 1, "q": 2, "kind": "blog", "topic": "devops", "depth": "intro", "title": "GitHub outage (2010)", "why": "Early GitHub outage postmortem about a production database mistake and the lack of transparency around it."}
+{"id": 57094, "keep": 0, "q": 1, "kind": "news", "topic": "web hosting", "depth": "intro", "title": "GitHub Pages custom domains with HTTPS", "why": "Product announcement for HTTPS on GitHub Pages."}
+{"id": 57095, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Behind the scenes of GitHub token scanning", "why": "How GitHub detects leaked credentials across public repositories, including scanning design and trade-offs."}
+{"id": 57096, "keep": 0, "q": 1, "kind": "news", "topic": "ci", "depth": "intro", "title": "GitHub Actions supports CI/CD", "why": "Product announcement for GitHub Actions."}
+{"id": 57097, "keep": 1, "q": 3, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "Automating MySQL schema migrations with GitHub Actions", "why": "Shows a CI workflow for reviewing and applying MySQL schema changes safely."}
+{"id": 57098, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "GitHub security update on sessions", "why": "Incident notice about logging users out after a bug."}
+{"id": 57099, "keep": 1, "q": 4, "kind": "blog", "topic": "concurrency", "depth": "intermediate", "title": "How we found a rare race condition in our session handling", "why": "Debugging story of a rare session race that returned wrong user data, with the fix and reasoning."}
+{"id": 57100, "keep": 0, "q": 2, "kind": "news", "topic": "security", "depth": "intermediate", "title": "Polkit privilege escalation advisory", "why": "Security advisory about a Linux privilege escalation bug."}
+{"id": 57101, "keep": 0, "q": 1, "kind": "blog", "topic": "open source", "depth": "intro", "title": "Arctic Code Vault", "why": "Announcement about an AI-generated art project in a code archive."}
+{"id": 57102, "keep": 0, "q": 1, "kind": "news", "topic": "devops", "depth": "intro", "title": "Addressing GitHub availability issues (2023)", "why": "Company incident update."}
+{"id": 57103, "keep": 0, "q": 1, "kind": "news", "topic": "ci", "depth": "intro", "title": "GitHub Actions deprecates set-env", "why": "Changelog entry about a deprecated command."}
+{"id": 57104, "keep": 0, "q": 1, "kind": "news", "topic": "dependencies", "depth": "intro", "title": "Dependabot minimum package age", "why": "Changelog entry for a configuration option."}
+{"id": 57105, "keep": 1, "q": 3, "kind": "blog", "topic": "rails", "depth": "intermediate", "title": "Building GitHub with Ruby and Rails", "why": "How GitHub keeps a large Rails monolith maintainable and why it invested in the framework."}
+{"id": 57106, "keep": 1, "q": 4, "kind": "blog", "topic": "databases", "depth": "expert", "title": "Partitioning GitHub's relational databases", "why": "How GitHub split MySQL by domain to scale, and the trade-offs of cross-partition joins."}
+{"id": 57107, "keep": 0, "q": 1, "kind": "news", "topic": "devops", "depth": "intro", "title": "Addressing GitHub availability issues (2026)", "why": "Company incident update about usage growth."}
+{"id": 57108, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "GitHub Copilot agent", "why": "Product announcement for an AI coding agent."}
+{"id": 57109, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Unauthorized access to GitHub internal repositories", "why": "Incident notice about unauthorized repository access."}
+{"id": 57110, "keep": 0, "q": 1, "kind": "reference", "topic": "devops", "depth": "intro", "title": "GitHub availability reports", "why": "Monthly availability report index."}
+{"id": 57111, "keep": 0, "q": 1, "kind": "tool", "topic": "ci", "depth": "intro", "title": "GitHub Agentic Workflows", "why": "Product homepage for agentic automation."}
+{"id": 57112, "keep": 0, "q": 1, "kind": "tool", "topic": "specs", "depth": "intro", "title": "GitHub spec-kit", "why": "Tool repository for spec-driven development."}
+{"id": 57113, "keep": 0, "q": 2, "kind": "tool", "topic": "web frontend", "depth": "intermediate", "title": "GitHub Catalyst", "why": "Library homepage for a lightweight web framework."}
+{"id": 57114, "keep": 0, "q": 1, "kind": "tool", "topic": "web frontend", "depth": "intro", "title": "Pace progress library docs", "why": "Library documentation for a loading bar."}
+{"id": 57115, "keep": 1, "q": 3, "kind": "blog", "topic": "markdown", "depth": "intermediate", "title": "A formal spec for GitHub Markdown", "why": "Explains why a Markdown dialect needs a formal spec and how CommonMark shaped it."}
+{"id": 57116, "keep": 1, "q": 3, "kind": "blog", "topic": "git", "depth": "intermediate", "title": "Counting objects", "why": "Explains how GitHub avoids storing duplicate objects for forked repositories."}
+{"id": 57117, "keep": 1, "q": 4, "kind": "blog", "topic": "databases", "depth": "expert", "title": "MySQL high availability at GitHub", "why": "Describes semi-synchronous replication, failover and orchestration of MySQL at scale."}
+{"id": 57118, "keep": 0, "q": 1, "kind": "tool", "topic": "llms", "depth": "intro", "title": "GitHub Next code brushes", "why": "Project page for an AI code-editing feature."}
+{"id": 57119, "keep": 0, "q": 1, "kind": "tool", "topic": "llms", "depth": "intro", "title": "GitHub Copilot for Docs", "why": "Project page for a documentation assistant."}
+{"id": 57120, "keep": 0, "q": 1, "kind": "news", "topic": "devops", "depth": "intro", "title": "GitHub status incident", "why": "Status page for a service outage."}
+{"id": 57121, "keep": 0, "q": 1, "kind": "news", "topic": "devops", "depth": "intro", "title": "GitHub status incident", "why": "Status page for a service outage."}
+{"id": 57122, "keep": 0, "q": 1, "kind": "news", "topic": "devops", "depth": "intro", "title": "GitHub status incident", "why": "Status page for a service outage."}
+{"id": 57123, "keep": 0, "q": 1, "kind": "tool", "topic": "android", "depth": "intro", "title": "NanoDroid", "why": "Android ROM build tool repository."}
+{"id": 57124, "keep": 0, "q": 1, "kind": "tool", "topic": "games", "depth": "intro", "title": "OpenMW", "why": "Game engine project repository."}
+{"id": 57125, "keep": 0, "q": 2, "kind": "tool", "topic": "security", "depth": "intermediate", "title": "Radamsa fuzzer", "why": "Project page for a general-purpose fuzzer."}
+{"id": 57126, "keep": 1, "q": 3, "kind": "reference", "topic": "decentralization", "depth": "intermediate", "title": "Decentralized ecosystem survey", "why": "Compares decentralized identity and social protocols feature by feature."}
+{"id": 57127, "keep": 0, "q": 1, "kind": "tool", "topic": "gitlab", "depth": "intro", "title": "GitLab downloads", "why": "Package download page."}
+{"id": 57128, "keep": 0, "q": 1, "kind": "tool", "topic": "build systems", "depth": "intro", "title": "autodafe", "why": "Build tool repository."}
+{"id": 57129, "keep": 0, "q": 1, "kind": "news", "topic": "android", "depth": "intro", "title": "F-Droid NSFW apps issue", "why": "Issue thread about app repository policy."}
+{"id": 57130, "keep": 0, "q": 1, "kind": "news", "topic": "android", "depth": "intro", "title": "F-Droid issue 593", "why": "Issue thread about app repository policy."}
+{"id": 57131, "keep": 0, "q": 1, "kind": "news", "topic": "android", "depth": "intro", "title": "F-Droid client issue", "why": "Issue thread about a client feature."}
+{"id": 57132, "keep": 0, "q": 1, "kind": "tool", "topic": "android", "depth": "intro", "title": "FLauncher", "why": "Launcher app repository."}
+{"id": 57133, "keep": 0, "q": 1, "kind": "other", "topic": "gitlab", "depth": "intro", "title": "GitLab SSH performance issue", "why": "Issue thread about infrastructure performance."}
+{"id": 57134, "keep": 0, "q": 1, "kind": "other", "topic": "gitlab", "depth": "intro", "title": "GitLab latency issue", "why": "Issue thread about infrastructure performance."}
+{"id": 57135, "keep": 0, "q": 1, "kind": "other", "topic": "gitlab", "depth": "intro", "title": "GitLab runbooks", "why": "Operations runbook repository."}
+{"id": 57136, "keep": 0, "q": 1, "kind": "news", "topic": "gitlab", "depth": "intro", "title": "GitLab merge request on blog post", "why": "Merge request diff for a blog post."}
+{"id": 57137, "keep": 0, "q": 1, "kind": "tool", "topic": "cloud", "depth": "intro", "title": "GitLab 5-minute production app", "why": "Deployment template repository."}
+{"id": 57138, "keep": 0, "q": 1, "kind": "docs", "topic": "gitlab", "depth": "intro", "title": "GitLab installation guide", "why": "Source installation documentation for GitLab."}
+{"id": 57139, "keep": 0, "q": 1, "kind": "other", "topic": "gitlab", "depth": "intro", "title": "GitLab feature request", "why": "Issue thread for a feature request."}
+{"id": 57140, "keep": 0, "q": 1, "kind": "other", "topic": "gitlab", "depth": "intro", "title": "GitLab monorepo CI issue", "why": "Issue thread for a CI feature."}
+{"id": 57141, "keep": 0, "q": 1, "kind": "other", "topic": "gitlab", "depth": "intro", "title": "GitLab performance issues", "why": "Issue list for performance work."}
+{"id": 57142, "keep": 0, "q": 1, "kind": "tool", "topic": "gitlab", "depth": "intro", "title": "GitLab CE source tree", "why": "Repository homepage."}
+{"id": 57143, "keep": 0, "q": 1, "kind": "tool", "topic": "gitlab", "depth": "intro", "title": "GitLab Development Kit", "why": "Developer environment project."}
+{"id": 57144, "keep": 0, "q": 1, "kind": "other", "topic": "gitlab", "depth": "intro", "title": "GitLab organization feature issue", "why": "Issue thread about project structure."}
+{"id": 57145, "keep": 0, "q": 1, "kind": "tool", "topic": "ci", "depth": "intro", "title": "GitLab Runner", "why": "CI runner repository."}
+{"id": 57146, "keep": 0, "q": 1, "kind": "other", "topic": "gitlab", "depth": "intro", "title": "GitLab issues", "why": "Issue tracker page."}
+{"id": 57147, "keep": 0, "q": 1, "kind": "other", "topic": "gitlab", "depth": "intro", "title": "GitLab non-developer accounts issue", "why": "Issue thread about account types."}
+{"id": 57148, "keep": 0, "q": 2, "kind": "docs", "topic": "terminals", "depth": "intermediate", "title": "iTerm2 tmux integration", "why": "Wiki page on iTerm2's tmux integration."}
+{"id": 57149, "keep": 0, "q": 1, "kind": "tool", "topic": "remote desktop", "depth": "intro", "title": "HopToDesk", "why": "Remote desktop project repository."}
+{"id": 57150, "keep": 0, "q": 1, "kind": "tool", "topic": "terminals", "depth": "intro", "title": "Jexer", "why": "Terminal UI library repository."}
+{"id": 57151, "keep": 0, "q": 1, "kind": "tool", "topic": "telephony", "depth": "intro", "title": "mmsd", "why": "MMS daemon repository."}
+{"id": 57152, "keep": 0, "q": 1, "kind": "tool", "topic": "browsers", "depth": "intro", "title": "Bypass Paywalls Clean issue", "why": "Browser extension issue about a fork."}
+{"id": 57153, "keep": 0, "q": 1, "kind": "tool", "topic": "browsers", "depth": "intro", "title": "Bypass Paywalls filter list", "why": "Filter list repository for paywall bypass."}
+{"id": 57154, "keep": 0, "q": 1, "kind": "tool", "topic": "browsers", "depth": "intro", "title": "Bypass Paywalls Firefox releases", "why": "Extension release page."}
+{"id": 57155, "keep": 0, "q": 1, "kind": "tool", "topic": "operating systems", "depth": "intro", "title": "Essence OS", "why": "Hobby operating system repository."}
+{"id": 57156, "keep": 0, "q": 1, "kind": "tool", "topic": "web hosting", "depth": "intro", "title": "GitLab Pages", "why": "Static hosting feature page."}
+{"id": 57157, "keep": 0, "q": 1, "kind": "tool", "topic": "health", "depth": "intro", "title": "OSCAR sleep tool", "why": "Sleep data viewer repository."}
+{"id": 57158, "keep": 0, "q": 1, "kind": "tool", "topic": "gui", "depth": "intro", "title": "Sciter JS SDK", "why": "SDK repository for a native UI engine."}
+{"id": 57159, "keep": 0, "q": 2, "kind": "tool", "topic": "programming languages", "depth": "intermediate", "title": "snigl", "why": "Language project repository."}
+{"id": 57160, "keep": 0, "q": 1, "kind": "tool", "topic": "scheme", "depth": "intro", "title": "Guile Hoot", "why": "Scheme to WebAssembly project."}
+{"id": 57161, "keep": 0, "q": 2, "kind": "other", "topic": "versioning", "depth": "intro", "title": "ComVer", "why": "Project page for a versioning scheme."}
+{"id": 57162, "keep": 0, "q": 1, "kind": "tool", "topic": "blockchain", "depth": "intro", "title": "Tezos", "why": "Blockchain project repository."}
+{"id": 57163, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "Veilid", "why": "Networking project repository."}
+{"id": 57164, "keep": 0, "q": 1, "kind": "tool", "topic": "privacy", "depth": "intro", "title": "VeilidChat", "why": "Chat app repository."}
+{"id": 57165, "keep": 0, "q": 1, "kind": "tool", "topic": "video", "depth": "intro", "title": "youtube-dl", "why": "Video downloader repository."}
+{"id": 57166, "keep": 0, "q": 1, "kind": "reference", "topic": "android", "depth": "intro", "title": "/e/ Foundation FAQ", "why": "Project FAQ page."}
+{"id": 57167, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "Syd sandbox", "why": "Sandboxing tool repository."}
+{"id": 57168, "keep": 0, "q": 1, "kind": "other", "topic": "drivers", "depth": "intro", "title": "AMDGPU issue list", "why": "Bug tracker for a graphics driver."}
+{"id": 57169, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "libei", "why": "Input emulation library repository."}
+{"id": 57170, "keep": 0, "q": 1, "kind": "tool", "topic": "graphics", "depth": "intro", "title": "librsvg", "why": "SVG library repository."}
+{"id": 57171, "keep": 0, "q": 1, "kind": "news", "topic": "licensing", "depth": "intro", "title": "libxml2 maintainer issue", "why": "Issue thread about a library's license."}
+{"id": 57172, "keep": 0, "q": 1, "kind": "other", "topic": "linux", "depth": "intro", "title": "Mutter merge request", "why": "Merge request for a window manager."}
+{"id": 57173, "keep": 1, "q": 3, "kind": "docs", "topic": "haskell", "depth": "expert", "title": "Linear types in GHC (wiki)", "why": "Design notes on adding linear types to GHC and what the ecosystem must adapt to."}
+{"id": 57174, "keep": 0, "q": 1, "kind": "other", "topic": "build systems", "depth": "intro", "title": "CMake modules issue", "why": "Issue thread about C++ module support."}
+{"id": 57175, "keep": 1, "q": 3, "kind": "docs", "topic": "cryptography", "depth": "expert", "title": "Megolm group ratchet spec", "why": "Specifies the Megolm group messaging ratchet and its security properties."}
+{"id": 57176, "keep": 0, "q": 1, "kind": "tool", "topic": "deployment", "depth": "intro", "title": "openDesk deployment", "why": "Deployment repository for an office suite."}
+{"id": 57177, "keep": 0, "q": 1, "kind": "tool", "topic": "operating systems", "depth": "intro", "title": "Redox OS", "why": "Operating system repository."}
+{"id": 57178, "keep": 1, "q": 4, "kind": "tutorial", "topic": "git internals", "depth": "intermediate", "title": "Gitlet: build git in JavaScript", "why": "Walks through a minimal git clone, showing how commits and refs work."}
+{"id": 57179, "keep": 0, "q": 1, "kind": "news", "topic": "developer tools", "depth": "intro", "title": "OpenVSCode Server launch", "why": "Product launch announcement."}
+{"id": 57180, "keep": 0, "q": 1, "kind": "other", "topic": "solid", "depth": "intro", "title": "Solid chat", "why": "Community chat room page."}
+{"id": 57181, "keep": 1, "q": 3, "kind": "tutorial", "topic": "build systems", "depth": "intro", "title": "Tup: a first Tupfile", "why": "Hands-on tutorial for writing a first build file in the tup build system."}
+{"id": 57182, "keep": 1, "q": 3, "kind": "docs", "topic": "security", "depth": "expert", "title": "Tor v3 onion service spec", "why": "Formal spec for v3 onion addresses, showing how keys are encoded in the hostname."}
+{"id": 57183, "keep": 1, "q": 4, "kind": "essay", "topic": "effective altruism", "depth": "intro", "title": "GiveWell: our shortcomings", "why": "A charity publicly listing its mistakes and planned fixes, a model of organisational honesty."}
+{"id": 57184, "keep": 0, "q": 2, "kind": "other", "topic": "effective altruism", "depth": "intro", "title": "GiveWell process", "why": "Organisation page describing its grant process."}
+{"id": 57185, "keep": 0, "q": 1, "kind": "tool", "topic": "economics", "depth": "intro", "title": "How rich am I", "why": "Calculator page placing income against global wealth."}
+{"id": 57186, "keep": 1, "q": 2, "kind": "journalism", "topic": "software history", "depth": "intro", "title": "A brief history of the Winamp llama", "why": "Story of Winamp's mascot and the media player's cultural history."}
+{"id": 57187, "keep": 0, "q": 1, "kind": "news", "topic": "apple", "depth": "intro", "title": "Apple's next iPhone (2007 rumour)", "why": "Early rumour coverage of a product launch."}
+{"id": 57188, "keep": 0, "q": 1, "kind": "news", "topic": "crime", "depth": "intro", "title": "John McAfee wanted for murder", "why": "Breaking news story."}
+{"id": 57189, "keep": 0, "q": 1, "kind": "news", "topic": "software bugs", "depth": "intro", "title": "Cellphone missing dot incident", "why": "News story about a character rendering incident."}
+{"id": 57190, "keep": 0, "q": 1, "kind": "journalism", "topic": "food", "depth": "intro", "title": "Orange juice flavoring", "why": "Consumer story about juice processing."}
+{"id": 57191, "keep": 0, "q": 1, "kind": "news", "topic": "diversity", "depth": "intro", "title": "Anti-diversity manifesto", "why": "News coverage of a controversial document."}
+{"id": 57192, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Marissa Mayer Yahoo acquisitions", "why": "News story about a company's acquisitions."}
+{"id": 57193, "keep": 0, "q": 1, "kind": "news", "topic": "apple", "depth": "intro", "title": "How Apple lost the iPhone 4", "why": "News story about a lost prototype."}
+{"id": 57194, "keep": 0, "q": 1, "kind": "news", "topic": "culture", "depth": "intro", "title": "Buying an iPhone for green bubbles", "why": "Opinion piece on phone status."}
+{"id": 57195, "keep": 0, "q": 2, "kind": "journalism", "topic": "gps", "depth": "intro", "title": "Jamming GPS signals", "why": "News feature on GPS jammer misuse."}
+{"id": 57196, "keep": 0, "q": 1, "kind": "news", "topic": "llms", "depth": "intro", "title": "OpenAI AGI definition leak", "why": "News story about leaked company documents."}
+{"id": 57197, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Parler users breached Capitol", "why": "News story about leaked app data."}
+{"id": 57198, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "Threads lost daily users", "why": "News story about social app usage."}
+{"id": 57199, "keep": 0, "q": 1, "kind": "journalism", "topic": "history", "depth": "intro", "title": "Coal gas and suicide history", "why": "Journalism about changes in coal gas composition."}

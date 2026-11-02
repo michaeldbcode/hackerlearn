@@ -1,0 +1,200 @@
+{"id": 55200, "keep": 0, "q": 2, "kind": "tool", "topic": "statistics", "depth": "intermediate", "title": "G-test calculator for A/B tests", "why": "Browser calculator for G-test significance; a tool page, not a lesson."}
+{"id": 55201, "keep": 0, "q": 1, "kind": "tool", "topic": "messaging", "depth": "intro", "title": "Element X", "why": "Product page for a messaging app."}
+{"id": 55202, "keep": 0, "q": 1, "kind": "news", "topic": "linux", "depth": "intro", "title": "elementary OS: When it's ready", "why": "Project release announcement with little to learn."}
+{"id": 55203, "keep": 0, "q": 1, "kind": "tool", "topic": "programming languages", "depth": "intro", "title": "Elements Compiler", "why": "Commercial Swift compiler product page."}
+{"id": 55204, "keep": 0, "q": 1, "kind": "tool", "topic": "databases", "depth": "intro", "title": "ElephantSQL plans", "why": "Pricing page for hosted PostgreSQL."}
+{"id": 55205, "keep": 0, "q": 2, "kind": "reference", "topic": "llms", "depth": "intermediate", "title": "EleutherAI FAQ", "why": "FAQ on licences of open model codebases; legal-adjacent reference."}
+{"id": 55206, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Elevr leaving YC", "why": "Startup funding news about a small VR company."}
+{"id": 55207, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Elgato Stream Deck", "why": "Product page for a macro keypad."}
+{"id": 55208, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Elgato Stream Deck", "why": "Product page for a macro keypad."}
+{"id": 55209, "keep": 1, "q": 2, "kind": "tutorial", "topic": "clojure", "depth": "intro", "title": "Clojure on Google App Engine", "why": "Walkthrough of running Clojure with Compojure on App Engine."}
+{"id": 55210, "keep": 1, "q": 3, "kind": "blog", "topic": "c", "depth": "intermediate", "title": "Using goto for error handling in C", "why": "Explains goto-based cleanup patterns for C error handling and resource release."}
+{"id": 55211, "keep": 1, "q": 4, "kind": "blog", "topic": "debuggers", "depth": "intermediate", "title": "How debuggers work, part 2: breakpoints", "why": "Shows how breakpoints are implemented at machine level by patching code."}
+{"id": 55212, "keep": 1, "q": 4, "kind": "blog", "topic": "linkers", "depth": "intermediate", "title": "Position independent code in shared libraries", "why": "Explains PIC, GOT and PLT so shared library calls and relocation make sense."}
+{"id": 55213, "keep": 1, "q": 3, "kind": "blog", "topic": "programming languages", "depth": "intermediate", "title": "A polyglot's guide to multiple dispatch", "why": "Compares how languages implement multiple dispatch, with concrete examples."}
+{"id": 55214, "keep": 1, "q": 4, "kind": "tutorial", "topic": "compilers", "depth": "intermediate", "title": "Adventures in JIT compilation, part 1", "why": "Builds a small interpreter as a basis for learning JIT compilation from scratch."}
+{"id": 55215, "keep": 0, "q": 2, "kind": "blog", "topic": "sicp", "depth": "intermediate", "title": "SICP tag page", "why": "Index page listing SICP journey posts; a listing rather than a single read."}
+{"id": 55216, "keep": 0, "q": 2, "kind": "other", "topic": "open source", "depth": "intro", "title": "Developer Certificate of Origin", "why": "Text of a contribution certification clause; legal text."}
+{"id": 55217, "keep": 0, "q": 1, "kind": "tool", "topic": "raspberry pi", "depth": "intro", "title": "RPi Cam Web Interface", "why": "Software project page for a Raspberry Pi camera app."}
+{"id": 55218, "keep": 1, "q": 3, "kind": "essay", "topic": "design", "depth": "intro", "title": "Fall of the Designer, part I: Fashionable Nonsense", "why": "Argues that designers and products are judged as one; poor design is poor design."}
+{"id": 55219, "keep": 0, "q": 2, "kind": "paper", "topic": "economics", "depth": "expert", "title": "Cowles discussion paper on bank lending", "why": "Economics paper cited as evidence in a debate on money creation."}
+{"id": 55220, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Leopold tenkeyless keyboard", "why": "Product listing for a keyboard."}
+{"id": 55221, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "HHKB Pro 2", "why": "Product listing for a keyboard."}
+{"id": 55222, "keep": 0, "q": 2, "kind": "news", "topic": "elixir", "depth": "intermediate", "title": "Welcome Elixir language server team", "why": "Announcement about forming an Elixir language server team."}
+{"id": 55223, "keep": 1, "q": 3, "kind": "docs", "topic": "elixir", "depth": "intro", "title": "Binaries, strings and char lists", "why": "Guide section explaining Elixir strings, binaries and charlists."}
+{"id": 55224, "keep": 1, "q": 3, "kind": "docs", "topic": "elixir", "depth": "intermediate", "title": "Config and releases", "why": "OTP docs explaining configuration and building BEAM releases."}
+{"id": 55225, "keep": 1, "q": 3, "kind": "docs", "topic": "elixir", "depth": "intro", "title": "Introduction to Mix", "why": "Walkthrough of Mix by building a small OTP key-value application."}
+{"id": 55226, "keep": 1, "q": 3, "kind": "tutorial", "topic": "elixir", "depth": "intro", "title": "Elixir getting started guide", "why": "Official introduction to Elixir syntax and concepts for newcomers."}
+{"id": 55227, "keep": 0, "q": 1, "kind": "tool", "topic": "elixir", "depth": "intro", "title": "Install Elixir", "why": "Installation instructions, not something to read and learn from."}
+{"id": 55228, "keep": 0, "q": 2, "kind": "tool", "topic": "linux", "depth": "expert", "title": "Linux kernel source cross-reference", "why": "Cross-reference tool for browsing kernel source; a tool, not an essay."}
+{"id": 55229, "keep": 1, "q": 3, "kind": "tutorial", "topic": "elixir", "depth": "intro", "title": "Elixir School", "why": "Crash course covering processes and the Erlang/Elixir runtime for newcomers."}
+{"id": 55230, "keep": 1, "q": 3, "kind": "tutorial", "topic": "elixir", "depth": "intro", "title": "Elixir pipe operator lesson", "why": "Lesson explaining the pipe operator with before-and-after examples."}
+{"id": 55231, "keep": 1, "q": 5, "kind": "essay", "topic": "programming languages", "depth": "intermediate", "title": "How do you color your functions?", "why": "Classic essay on async function colouring and why it hurts language design."}
+{"id": 55232, "keep": 0, "q": 2, "kind": "blog", "topic": "journalism", "depth": "intro", "title": "How News Genius silences writers", "why": "Personal account of a moderation dispute; mostly anecdote."}
+{"id": 55233, "keep": 1, "q": 4, "kind": "blog", "topic": "elm", "depth": "expert", "title": "Blazing fast HTML", "why": "Explains how Elm's rendering design achieves fast HTML updates."}
+{"id": 55234, "keep": 1, "q": 3, "kind": "tutorial", "topic": "elm", "depth": "intro", "title": "Elm examples", "why": "Interactive example gallery for learning Elm and its architecture."}
+{"id": 55235, "keep": 1, "q": 3, "kind": "visual", "topic": "linguistics", "depth": "intro", "title": "Lexical distance among languages of Europe", "why": "Visual map of lexical distance between European languages, clearly explained."}
+{"id": 55236, "keep": 1, "q": 2, "kind": "blog", "topic": "economics", "depth": "intermediate", "title": "Cost of launching a reused Falcon 9", "why": "Back-of-envelope analysis of reused rocket launch costs versus the Shuttle."}
+{"id": 55237, "keep": 1, "q": 5, "kind": "book", "topic": "javascript", "depth": "intro", "title": "Eloquent JavaScript, 3rd edition", "why": "Free, widely loved book teaching JavaScript from basics to advanced topics."}
+{"id": 55238, "keep": 1, "q": 5, "kind": "book", "topic": "javascript", "depth": "intro", "title": "Eloquent JavaScript chapter 1", "why": "Opening chapter introducing programs and JavaScript with an in-page console."}
+{"id": 55239, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "ELRepo kernel-ml", "why": "Package repository page for mainline kernel builds."}
+{"id": 55240, "keep": 0, "q": 1, "kind": "other", "topic": "publishing", "depth": "intro", "title": "Elsevier sharing policies", "why": "Publisher licensing and sharing policy text."}
+{"id": 55241, "keep": 0, "q": 1, "kind": "tool", "topic": "arm", "depth": "intro", "title": "ExaGear Desktop", "why": "Commercial emulator product page."}
+{"id": 55242, "keep": 1, "q": 2, "kind": "docs", "topic": "embedded systems", "depth": "expert", "title": "eLua architecture and LTR patch", "why": "Architecture note on memory reduction for Lua on embedded targets."}
+{"id": 55243, "keep": 1, "q": 3, "kind": "reference", "topic": "shells", "depth": "intermediate", "title": "Elvish language reference", "why": "Language reference covering modules and semantics of the Elvish shell."}
+{"id": 55244, "keep": 1, "q": 3, "kind": "essay", "topic": "science", "depth": "intro", "title": "Wolfram and Feynman letters", "why": "Two letters in a public debate on science and reasoning, read together."}
+{"id": 55245, "keep": 0, "q": 1, "kind": "news", "topic": "vaccines", "depth": "intro", "title": "EMA recommends AstraZeneca vaccine", "why": "Regulatory news release about a vaccine authorisation."}
+{"id": 55246, "keep": 1, "q": 4, "kind": "tutorial", "topic": "git", "depth": "intro", "title": "Magit walk-through", "why": "Walkthrough of Magit's interface showing how it makes git workflows clearer."}
+{"id": 55247, "keep": 1, "q": 2, "kind": "visual", "topic": "emacs", "depth": "intro", "title": "Emacs Rocks: restclient", "why": "Short screencast showing restclient-mode for making HTTP calls from Emacs."}
+{"id": 55248, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intermediate", "title": "SmartTabs", "why": "Emacs wiki page for an indentation mode; a tool description."}
+{"id": 55249, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "Vimpulse", "why": "Emacs wiki page for a Vim emulation package."}
+{"id": 55250, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "Anything", "why": "Emacs wiki page for a completion framework."}
+{"id": 55251, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "BackupDirectory", "why": "Emacs wiki page for backup configuration."}
+{"id": 55252, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "CSharpMode", "why": "Emacs wiki page for a C# mode."}
+{"id": 55253, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "CuaMode", "why": "Emacs wiki page for a CUA keybinding mode."}
+{"id": 55254, "keep": 0, "q": 2, "kind": "tool", "topic": "emacs", "depth": "intermediate", "title": "Dot Emacs Bankruptcy", "why": "Wiki page on starting an Emacs config over; a how-to for configs."}
+{"id": 55255, "keep": 1, "q": 3, "kind": "explainer", "topic": "emacs lisp", "depth": "intermediate", "title": "Dynamic binding vs lexical binding", "why": "Explains dynamic versus lexical scoping in Emacs Lisp with worked examples."}
+{"id": 55256, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "EasyPG", "why": "Emacs wiki page for GPG integration."}
+{"id": 55257, "keep": 0, "q": 2, "kind": "reference", "topic": "emacs", "depth": "intro", "title": "Emacs implementations", "why": "List of Emacs-like editors and reimplementations; a lookup."}
+{"id": 55258, "keep": 0, "q": 2, "kind": "reference", "topic": "emacs", "depth": "intro", "title": "Emacs release dates", "why": "Release history list; a reference lookup."}
+{"id": 55259, "keep": 0, "q": 2, "kind": "reference", "topic": "emacs", "depth": "intro", "title": "Emacs screencasts", "why": "Index of screencast links; a resource list."}
+{"id": 55260, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intermediate", "title": "Emacs xwidgets", "why": "Wiki page on embedding browsers in Emacs."}
+{"id": 55261, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "expert", "title": "GuileEmacs todo", "why": "Project to-do list for an Emacs variant."}
+{"id": 55262, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "HippieExpand", "why": "Emacs wiki page for an autocomplete command."}
+{"id": 55263, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "Htmlize", "why": "Emacs wiki page for exporting highlighted code to HTML."}
+{"id": 55264, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intermediate", "title": "Emacs HTTP server", "why": "Wiki page on web servers inside Emacs."}
+{"id": 55265, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intermediate", "title": "MozRepl", "why": "Wiki page for Firefox REPL integration with Emacs."}
+{"id": 55266, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "Smex", "why": "Wiki page for an M-x completion package."}
+{"id": 55267, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "SpreadSheet", "why": "Wiki page for spreadsheet modes in Emacs."}
+{"id": 55268, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "StickyModifiers", "why": "Wiki page for sticky modifier keys in Emacs."}
+{"id": 55269, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "Sunrise Commander", "why": "Wiki page for a dual-pane file manager in Emacs."}
+{"id": 55270, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "WindMove", "why": "Wiki page for window navigation package."}
+{"id": 55271, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "WinnerMode", "why": "Wiki page for window configuration undo."}
+{"id": 55272, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "Yasnippet", "why": "Wiki page for a snippet expansion package."}
+{"id": 55273, "keep": 0, "q": 1, "kind": "tool", "topic": "emacs", "depth": "intro", "title": "ZenCoding", "why": "Wiki page for an HTML abbreviation expansion mode."}
+{"id": 55274, "keep": 0, "q": 1, "kind": "tool", "topic": "c++", "depth": "intro", "title": "C++Builder", "why": "Commercial IDE product page."}
+{"id": 55275, "keep": 0, "q": 1, "kind": "tool", "topic": "c++", "depth": "intro", "title": "C++Builder Starter", "why": "Free edition product page."}
+{"id": 55276, "keep": 0, "q": 1, "kind": "tool", "topic": "delphi", "depth": "intro", "title": "RAD Studio", "why": "Commercial IDE product page."}
+{"id": 55277, "keep": 0, "q": 2, "kind": "tool", "topic": "c", "depth": "intermediate", "title": "Utah IOC tool", "why": "Project page for a C integer overflow checker; a tool, not a lesson."}
+{"id": 55278, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Apple's goto fail bug was easily preventable", "why": "Argues the goto fail SSL bug was preventable with simple coding rules."}
+{"id": 55279, "keep": 0, "q": 1, "kind": "tool", "topic": "climate", "depth": "intro", "title": "Carbon price viewer", "why": "Live dashboard of EU carbon prices."}
+{"id": 55280, "keep": 1, "q": 4, "kind": "blog", "topic": "security", "depth": "expert", "title": "Breaking MurmurHash flooding DoS", "why": "Shows why seeding fails to stop hash-flooding DoS in MurmurHash, with analysis."}
+{"id": 55281, "keep": 0, "q": 1, "kind": "blog", "topic": "security", "depth": "intro", "title": "Embrace The Red blog index", "why": "Blog index page; the individual posts are the content."}
+{"id": 55282, "keep": 1, "q": 4, "kind": "blog", "topic": "llms", "depth": "intermediate", "title": "Google Bard data exfiltration", "why": "Demonstrates prompt-injection data exfiltration in an LLM chatbot."}
+{"id": 55283, "keep": 0, "q": 1, "kind": "paper", "topic": "physics", "depth": "intro", "title": "EmDrive theory paper", "why": "Fringe physics paper; cited only to argue a point."}
+{"id": 55284, "keep": 0, "q": 1, "kind": "reference", "topic": "physics", "depth": "intro", "title": "EmDrive experimental results", "why": "Table of claimed experiments; a reference lookup."}
+{"id": 55285, "keep": 0, "q": 1, "kind": "reference", "topic": "health", "depth": "intro", "title": "CDC riot control agents factsheet", "why": "Government factsheet cited as evidence in an argument."}
+{"id": 55286, "keep": 0, "q": 1, "kind": "tool", "topic": "emergency", "depth": "intro", "title": "Victoria emergency map", "why": "Live emergency warnings map."}
+{"id": 55287, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Hardware RNG project page", "why": "Hobby hardware build notes; mostly a link."}
+{"id": 55288, "keep": 1, "q": 5, "kind": "essay", "topic": "philosophy", "depth": "intro", "title": "Self-Reliance", "why": "Emerson's classic essay on independent thinking and individuality."}
+{"id": 55289, "keep": 0, "q": 1, "kind": "other", "topic": "science", "depth": "intro", "title": "EMF scientist appeal", "why": "Petition signatures page; advocacy, not an explainer."}
+{"id": 55290, "keep": 0, "q": 1, "kind": "tool", "topic": "javascript", "depth": "intro", "title": "Stack Overflow autocomplete", "why": "Tool page for autocomplete from Stack Overflow."}
+{"id": 55291, "keep": 1, "q": 4, "kind": "blog", "topic": "security", "depth": "expert", "title": "Tailscale vulnerability write-up", "why": "Technical write-up of a security researcher's findings on Tailscale."}
+{"id": 55292, "keep": 0, "q": 2, "kind": "tool", "topic": "verification", "depth": "expert", "title": "Rosette", "why": "Project page for a solver-aided language; a tool, not a lesson."}
+{"id": 55293, "keep": 0, "q": 2, "kind": "news", "topic": "ev", "depth": "intro", "title": "Gaining traction, losing tread", "why": "Industry news about tyre emissions data."}
+{"id": 55294, "keep": 0, "q": 1, "kind": "tool", "topic": "emoji", "depth": "intro", "title": "Emoji Kitchen", "why": "Emoji mixing tool."}
+{"id": 55295, "keep": 0, "q": 1, "kind": "reference", "topic": "emoji", "depth": "intro", "title": "Emojipedia: love hotel", "why": "Emoji definition lookup."}
+{"id": 55296, "keep": 0, "q": 1, "kind": "reference", "topic": "emoji", "depth": "intro", "title": "Emojipedia: smiling face with smiling eyes", "why": "Emoji definition lookup."}
+{"id": 55297, "keep": 0, "q": 2, "kind": "other", "topic": "energy", "depth": "intermediate", "title": "Utility-scale solar report", "why": "Data report on solar project pipeline; a statistics tracker."}
+{"id": 55298, "keep": 0, "q": 1, "kind": "blog", "topic": "nutrition", "depth": "intro", "title": "Eat meat, not too little, mostly fat", "why": "Diet advocacy post; not clearly educational."}
+{"id": 55299, "keep": 0, "q": 1, "kind": "tool", "topic": "messaging", "depth": "intro", "title": "Matrix migration tool", "why": "Tool for migrating a Matrix account; a service page."}
+{"id": 55299, "keep": 0, "q": 1, "kind": "tool", "topic": "messaging", "depth": "intro", "title": "Matrix migration tool", "why": "Tool for migrating a Matrix account; a service page."}
+{"id": 55300, "keep": 1, "q": 3, "kind": "docs", "topic": "webassembly", "depth": "expert", "title": "Emscripten pthreads porting guide", "why": "Explains porting multithreaded C and C++ to WebAssembly with pthreads and SharedArrayBuffer."}
+{"id": 55301, "keep": 1, "q": 3, "kind": "reference", "topic": "bitcoin", "depth": "intermediate", "title": "Change (Bitcoin wiki)", "why": "Explains change outputs and why wallets send change to new addresses."}
+{"id": 55302, "keep": 0, "q": 1, "kind": "other", "topic": "bitcoin", "depth": "intro", "title": "Craig Wright", "why": "Biographical page about a disputed figure."}
+{"id": 55303, "keep": 1, "q": 3, "kind": "reference", "topic": "bitcoin", "depth": "intermediate", "title": "Economic majority", "why": "Explains how users and miners jointly decide which consensus rules win."}
+{"id": 55304, "keep": 1, "q": 2, "kind": "reference", "topic": "bitcoin", "depth": "intermediate", "title": "Green address", "why": "Explains zero-confirmation payment trust models for merchants."}
+{"id": 55305, "keep": 0, "q": 2, "kind": "reference", "topic": "bitcoin", "depth": "intro", "title": "Bitcoin wiki FAQ", "why": "FAQ lookup page; answers are short."}
+{"id": 55306, "keep": 1, "q": 3, "kind": "tutorial", "topic": "bitcoin", "depth": "intermediate", "title": "Secure offline savings wallet", "why": "Practical guide to keeping bitcoin keys offline with cold storage."}
+{"id": 55307, "keep": 1, "q": 2, "kind": "reference", "topic": "bitcoin", "depth": "expert", "title": "OP_RETURN", "why": "Explains OP_RETURN data outputs and their use for timestamping."}
+{"id": 55308, "keep": 0, "q": 2, "kind": "reference", "topic": "bitcoin", "depth": "intro", "title": "Private key", "why": "Lookup page on valid private key ranges."}
+{"id": 55309, "keep": 1, "q": 3, "kind": "reference", "topic": "bitcoin", "depth": "intermediate", "title": "Seed phrase", "why": "Explains seed phrases, passphrases and multisig tradeoffs."}
+{"id": 55310, "keep": 1, "q": 3, "kind": "reference", "topic": "bitcoin", "depth": "expert", "title": "Softfork", "why": "Explains how soft forks are deployed without splitting the network."}
+{"id": 55311, "keep": 0, "q": 2, "kind": "reference", "topic": "bitcoin", "depth": "intro", "title": "Testnet", "why": "Reference page on testnet usage."}
+{"id": 55312, "keep": 0, "q": 2, "kind": "reference", "topic": "bitcoin", "depth": "intermediate", "title": "Timelock", "why": "Short reference entry on timelocks."}
+{"id": 55313, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intro", "title": "cppreference archives", "why": "Archive download list for documentation."}
+{"id": 55314, "keep": 0, "q": 2, "kind": "reference", "topic": "c", "depth": "intermediate", "title": "C identifier rules", "why": "Reference entry on reserved C identifiers."}
+{"id": 55315, "keep": 0, "q": 2, "kind": "reference", "topic": "c", "depth": "intermediate", "title": "C struct initialization", "why": "Reference entry on initializers."}
+{"id": 55316, "keep": 0, "q": 2, "kind": "reference", "topic": "c", "depth": "intermediate", "title": "C union", "why": "Reference entry on union semantics."}
+{"id": 55317, "keep": 0, "q": 2, "kind": "reference", "topic": "c", "depth": "intermediate", "title": "C11 threads", "why": "Reference entry for the C11 thread API."}
+{"id": 55318, "keep": 0, "q": 2, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "std::nth_element", "why": "API reference entry."}
+{"id": 55319, "keep": 0, "q": 2, "kind": "reference", "topic": "c++", "depth": "expert", "title": "std::memory_order", "why": "API reference entry on atomic memory orderings."}
+{"id": 55320, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "expert", "title": "Freestanding C++", "why": "Reference page on freestanding implementations."}
+{"id": 55321, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "nodiscard attribute", "why": "Attribute reference entry."}
+{"id": 55322, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "const_cast", "why": "Language reference entry."}
+{"id": 55323, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "cv qualifiers", "why": "Language reference entry."}
+{"id": 55324, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "expert", "title": "Dependent names", "why": "Language reference entry."}
+{"id": 55325, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "expert", "title": "Language linkage", "why": "Language reference entry."}
+{"id": 55326, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "noexcept specifier", "why": "Language reference entry."}
+{"id": 55327, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "Pointer arithmetic", "why": "Language reference entry."}
+{"id": 55328, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "Parameter packs", "why": "Language reference entry."}
+{"id": 55329, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "Static initialization order fiasco", "why": "Language reference entry."}
+{"id": 55330, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "Template parameters", "why": "Language reference entry."}
+{"id": 55331, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intro", "title": "Fundamental types", "why": "Language reference entry."}
+{"id": 55332, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "shared_ptr", "why": "API reference entry."}
+{"id": 55333, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intro", "title": "popcount", "why": "API reference entry."}
+{"id": 55334, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "Random number library", "why": "API reference entry."}
+{"id": 55335, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "std::async", "why": "API reference entry."}
+{"id": 55336, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intermediate", "title": "condition_variable", "why": "API reference entry."}
+{"id": 55337, "keep": 0, "q": 1, "kind": "reference", "topic": "c++", "depth": "intro", "title": "std::bitset", "why": "API reference entry."}
+{"id": 55338, "keep": 0, "q": 1, "kind": "docs", "topic": "web", "depth": "intro", "title": "Gravatar default images", "why": "Developer docs for Gravatar image URLs."}
+{"id": 55339, "keep": 0, "q": 1, "kind": "tool", "topic": "censorship", "depth": "intro", "title": "GreatFire: news.ycombinator.com", "why": "Monitoring page on site accessibility."}
+{"id": 55340, "keep": 0, "q": 2, "kind": "reference", "topic": "language", "depth": "intro", "title": "Euphemism treadmill", "why": "Dictionary entry for a linguistic concept."}
+{"id": 55341, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "openSUSE Tumbleweed", "why": "Distribution portal page."}
+{"id": 55342, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Racism definition", "why": "Dictionary definition lookup."}
+{"id": 55343, "keep": 0, "q": 1, "kind": "docs", "topic": "web", "depth": "intro", "title": "WordPress LaTeX support", "why": "Support page on LaTeX in WordPress."}
+{"id": 55344, "keep": 0, "q": 1, "kind": "news", "topic": "geology", "depth": "intro", "title": "Grindavik seismic swarm", "why": "Agency news about seismic activity."}
+{"id": 55345, "keep": 1, "q": 3, "kind": "book", "topic": "ada", "depth": "intermediate", "title": "Ada programming: type system", "why": "Wikibook section on Ada's type system and subtypes."}
+{"id": 55346, "keep": 1, "q": 2, "kind": "tutorial", "topic": "ada", "depth": "intermediate", "title": "Ada programming: ranges", "why": "Wikibook section on range constraints in Ada."}
+{"id": 55347, "keep": 1, "q": 2, "kind": "book", "topic": "clojure", "depth": "intro", "title": "Clojure Programming", "why": "Wikibook index for learning Clojure."}
+{"id": 55348, "keep": 1, "q": 4, "kind": "tutorial", "topic": "haskell", "depth": "intermediate", "title": "Haskell/Monoids", "why": "Clear explanation of monoids in Haskell with examples."}
+{"id": 55349, "keep": 1, "q": 4, "kind": "tutorial", "topic": "haskell", "depth": "intro", "title": "Haskell/The Functor class", "why": "Explains functors in Haskell with worked examples."}
+{"id": 55350, "keep": 1, "q": 4, "kind": "tutorial", "topic": "haskell", "depth": "intermediate", "title": "Haskell/Understanding monads", "why": "Explains monads in Haskell with an approachable intuition."}
+{"id": 55351, "keep": 0, "q": 2, "kind": "reference", "topic": "language", "depth": "intro", "title": "Language learning difficulty", "why": "Ranking of language difficulty; a data table."}
+{"id": 55352, "keep": 0, "q": 2, "kind": "reference", "topic": "hardware", "depth": "intermediate", "title": "WikiChip", "why": "Wiki-style hardware reference."}
+{"id": 55353, "keep": 0, "q": 2, "kind": "reference", "topic": "hardware", "depth": "expert", "title": "Sunny Cove microarchitecture", "why": "Microarchitecture reference entry."}
+{"id": 55354, "keep": 0, "q": 2, "kind": "reference", "topic": "hardware", "depth": "expert", "title": "Intel process technology", "why": "Process node reference page."}
+{"id": 55355, "keep": 0, "q": 2, "kind": "reference", "topic": "security", "depth": "expert", "title": "AMD SME (x86)", "why": "Reference entry for a memory encryption extension."}
+{"id": 55356, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "Alan Kay quotes", "why": "Quotation list."}
+{"id": 55357, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "Eleanor Roosevelt quotes", "why": "Quotation list."}
+{"id": 55358, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "George Box quotes", "why": "Quotation list."}
+{"id": 55359, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "Howard Aiken quotes", "why": "Quotation list."}
+{"id": 55360, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "James Nicoll quotes", "why": "Quotation list."}
+{"id": 55361, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Jean-Claude Juncker quotes", "why": "Quotation list."}
+{"id": 55362, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "John von Neumann quotes", "why": "Quotation list."}
+{"id": 55363, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "Nathaniel Borenstein quotes", "why": "Quotation list."}
+{"id": 55364, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "Socrates quotes", "why": "Quotation list."}
+{"id": 55365, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "Dalai Lama quotes", "why": "Quotation list."}
+{"id": 55366, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "Hitchhiker's Guide quotes", "why": "Quotation list."}
+{"id": 55367, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "Voltaire quotes", "why": "Quotation list."}
+{"id": 55368, "keep": 0, "q": 1, "kind": "reference", "topic": "quotes", "depth": "intro", "title": "William Thomson quotes", "why": "Quotation list."}
+{"id": 55369, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "US constitutional amendments", "why": "Legal text."}
+{"id": 55370, "keep": 1, "q": 4, "kind": "essay", "topic": "economics", "depth": "intro", "title": "That Which Is Seen, and That Which Is Not Seen", "why": "Bastiat's classic essay on the hidden costs of economic decisions."}
+{"id": 55371, "keep": 1, "q": 5, "kind": "paper", "topic": "programming languages", "depth": "expert", "title": "Lambda: The Ultimate GOTO", "why": "Classic paper on tail calls and state machines via lambda."}
+{"id": 55372, "keep": 0, "q": 1, "kind": "reference", "topic": "library", "depth": "intro", "title": "Wikisource main page", "why": "Portal page for a public domain text library."}
+{"id": 55373, "keep": 1, "q": 4, "kind": "book", "topic": "philosophy", "depth": "intro", "title": "Moral letters to Lucilius", "why": "Seneca's letters on living well, freely available to read."}
+{"id": 55374, "keep": 1, "q": 3, "kind": "book", "topic": "philosophy", "depth": "intro", "title": "Moral letters, letter 2", "why": "Seneca on needing little and being content with what is enough."}
+{"id": 55375, "keep": 1, "q": 5, "kind": "book", "topic": "philosophy", "depth": "intermediate", "title": "On Liberty, chapter 2", "why": "Mill's argument for freedom of thought and discussion."}
+{"id": 55376, "keep": 1, "q": 4, "kind": "book", "topic": "philosophy", "depth": "intermediate", "title": "Phaedrus", "why": "Plato's dialogue including the argument about writing and memory."}
+{"id": 55377, "keep": 1, "q": 3, "kind": "book", "topic": "history", "depth": "intro", "title": "Simple Sabotage Field Manual", "why": "Historical OSS manual on organisational inefficiency and resistance."}
+{"id": 55378, "keep": 1, "q": 4, "kind": "other", "topic": "internet", "depth": "intro", "title": "The Machine Stops", "why": "E.M. Forster's short story anticipating networked life."}
+{"id": 55379, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Wiktionary: 生", "why": "Dictionary entry."}
+{"id": 55380, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Wiktionary: 馬", "why": "Dictionary entry."}
+{"id": 55381, "keep": 0, "q": 1, "kind": "reference", "topic": "wiki", "depth": "intro", "title": "Wiktionary FAQ", "why": "FAQ lookup."}
+{"id": 55382, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "clbuttic", "why": "Dictionary entry."}
+{"id": 55383, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "concern troll", "why": "Dictionary entry."}
+{"id": 55384, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "deepity", "why": "Dictionary entry."}
+{"id": 55385, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "hill to die on", "why": "Dictionary entry."}
+{"id": 55386, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "If all you have is a hammer", "why": "Dictionary entry."}
+{"id": 55387, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "libre", "why": "Dictionary entry."}
+{"id": 55388, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "master", "why": "Dictionary entry."}
+{"id": 55389, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "sonder", "why": "Dictionary entry."}
+{"id": 55390, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "stochastic terrorism", "why": "Dictionary entry."}
+{"id": 55391, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "sunlight is the best disinfectant", "why": "Dictionary entry."}
+{"id": 55392, "keep": 0, "q": 1, "kind": "news", "topic": "compression", "depth": "intermediate", "title": "rANS patent thread", "why": "Forum thread about a compression patent."}
+{"id": 55393, "keep": 1, "q": 3, "kind": "reference", "topic": "history", "depth": "intro", "title": "The press in the Third Reich", "why": "Encyclopedia article on how the Nazi state controlled German newspapers."}
+{"id": 55394, "keep": 0, "q": 1, "kind": "other", "topic": "homelessness", "depth": "intro", "title": "State of homelessness 2021", "why": "Statistics report."}
+{"id": 55395, "keep": 0, "q": 1, "kind": "other", "topic": "homelessness", "depth": "intro", "title": "State of homelessness, legacy report", "why": "Statistics report."}
+{"id": 55396, "keep": 0, "q": 2, "kind": "tool", "topic": "software", "depth": "intro", "title": "Node.js end-of-life dates", "why": "Release lifecycle lookup."}
+{"id": 55397, "keep": 0, "q": 1, "kind": "news", "topic": "energy", "depth": "intro", "title": "France nuclear cost forecast", "why": "Energy news item."}
+{"id": 55398, "keep": 0, "q": 1, "kind": "other", "topic": "energy", "depth": "intermediate", "title": "Norwegian energy production facts", "why": "Statistics and facts page."}

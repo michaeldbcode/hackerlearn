@@ -1,0 +1,200 @@
+{"id":51800,"keep":1,"q":4,"kind":"essay","topic":"career","depth":"intermediate","title":"If Management Isn't a Promotion, Then Engineering Isn't a Demotion","why":"Argues management and engineering are separate career tracks, and that moving into management is not automatically advancement."}
+{"id":51801,"keep":0,"q":1,"kind":"tool","topic":"charities","depth":"intro","title":"Charity Navigator profile","why":"Single charity rating lookup page with no lasting reading value."}
+{"id":51802,"keep":0,"q":1,"kind":"tool","topic":"charities","depth":"intro","title":"Charity Navigator profile (Heifer)","why":"Single charity rating lookup page with no lasting reading value."}
+{"id":51803,"keep":0,"q":2,"kind":"essay","topic":"society","depth":"intro","title":"The Ubiquitous Matrix of Lies","why":"Polemical essay on everyday deception; more opinion than something a technical reader learns from."}
+{"id":51804,"keep":1,"q":2,"kind":"blog","topic":"databases","depth":"intermediate","title":"Un-scientific Benchmarks of Embedded Databases with Python","why":"Informal benchmark of embedded key-value and SQL stores from Python, showing measurement pitfalls."}
+{"id":51805,"keep":0,"q":1,"kind":"docs","topic":"networking","depth":"intro","title":"Using Charles Proxy from an iPhone","why":"Setup FAQ for routing iPhone traffic through Charles Proxy."}
+{"id":51806,"keep":0,"q":1,"kind":"tool","topic":"analytics","depth":"intro","title":"Chartbeat demo","why":"Vendor demo page for a real-time web analytics product."}
+{"id":51807,"keep":1,"q":4,"kind":"blog","topic":"cpu architecture","depth":"intermediate","title":"The Neural Network in Your CPU","why":"Explains how AMD CPUs use perceptron branch predictors, traced back to a 2001 paper."}
+{"id":51808,"keep":0,"q":1,"kind":"tool","topic":"browsers","depth":"intro","title":"ChatGPT Atlas","why":"Product download page for a browser."}
+{"id":51809,"keep":0,"q":1,"kind":"other","topic":"llms","depth":"intro","title":"Shared ChatGPT conversation","why":"Chat transcript share link; a conversation, not a source to learn from."}
+{"id":51810,"keep":0,"q":1,"kind":"tool","topic":"self-hosting","depth":"intro","title":"CHATONS ethical hosting list","why":"Directory of privacy-friendly hosting providers."}
+{"id":51811,"keep":0,"q":1,"kind":"tool","topic":"ssl certificates","depth":"intro","title":"PositiveSSL certificate sales page","why":"Vendor sales page for SSL certificates."}
+{"id":51812,"keep":1,"q":4,"kind":"reference","topic":"security","depth":"intermediate","title":"Docker Security Cheat Sheet","why":"Concise OWASP checklist of practical Docker hardening guidance."}
+{"id":51813,"keep":0,"q":2,"kind":"journalism","topic":"housing","depth":"intro","title":"Fact check: homeless vs vacant homes","why":"Fact-check article cited as evidence in a debate; topical rather than instructive."}
+{"id":51814,"keep":0,"q":2,"kind":"reference","topic":"safety","depth":"intro","title":"Decibel levels of firearms (Purdue)","why":"Safety training page on noise levels, cited only as evidence in an argument."}
+{"id":51815,"keep":0,"q":2,"kind":"news","topic":"wikipedia","depth":"intro","title":"Female scientists' pages deleted from Wikipedia","why":"News item on deletion of biographies; topical, not a lasting read."}
+{"id":51816,"keep":0,"q":2,"kind":"news","topic":"science history","depth":"intro","title":"Science advances one funeral at a time","why":"News coverage of a study, cited as evidence in a discussion."}
+{"id":51817,"keep":1,"q":3,"kind":"reference","topic":"history","depth":"intro","title":"Chernobyl disaster timeline","why":"Detailed dated timeline of the 1986 accident and the response that followed."}
+{"id":51818,"keep":1,"q":3,"kind":"journalism","topic":"machine learning","depth":"intermediate","title":"AlphaZero crushes Stockfish in 1,000-game match","why":"Summarises AlphaZero's match results against Stockfish and its more human-like playstyle."}
+{"id":51819,"keep":0,"q":1,"kind":"tool","topic":"javascript","depth":"intro","title":"chessboard.js examples","why":"Library demo page showing board rendering."}
+{"id":51820,"keep":1,"q":3,"kind":"essay","topic":"risk","depth":"intro","title":"The risk of dying doing what we love","why":"Compares fatality rates across hobbies using per-hour and per-mile metrics."}
+{"id":51821,"keep":1,"q":5,"kind":"reference","topic":"chess programming","depth":"expert","title":"Bitboards","why":"Definitive reference on bitboard representation and fast sliding-piece attack computation."}
+{"id":51822,"keep":0,"q":1,"kind":"tool","topic":"ui","depth":"intro","title":"Hacker panels UI","why":"Demo of a single UI theme."}
+{"id":51823,"keep":0,"q":1,"kind":"tool","topic":"networking","depth":"intro","title":"Sidestep","why":"macOS SSH tunnel utility."}
+{"id":51824,"keep":1,"q":3,"kind":"docs","topic":"c programming","depth":"expert","title":"mp: multiple-precision preprocessor macros","why":"Explains how C preprocessor macros can implement arbitrary-precision arithmetic."}
+{"id":51825,"keep":0,"q":2,"kind":"tool","topic":"numerics","depth":"intermediate","title":"Spigot exact real calculator","why":"Software utility for exact real arithmetic, not a reading."}
+{"id":51826,"keep":0,"q":1,"kind":"news","topic":"elections","depth":"intro","title":"Dead voters in Chicago","why":"Local news about voter fraud claims."}
+{"id":51827,"keep":0,"q":1,"kind":"news","topic":"immigration","depth":"intro","title":"Chicago apartment immigration raid","why":"News report on a recent raid."}
+{"id":51828,"keep":1,"q":3,"kind":"journalism","topic":"life advice","depth":"intro","title":"Wear Sunscreen (Schmich column)","why":"Famous tongue-in-cheek column of life advice, widely reread."}
+{"id":51829,"keep":1,"q":3,"kind":"paper","topic":"law","depth":"intermediate","title":"Torture and Plea Bargaining","why":"Argues US plea bargaining coerces defendants, contrasting it with German criminal procedure."}
+{"id":51830,"keep":0,"q":1,"kind":"reference","topic":"statistics","depth":"intro","title":"Teen suicide indicator (Child Trends)","why":"Statistical indicator page; a data point rather than something to read."}
+{"id":51831,"keep":0,"q":2,"kind":"docs","topic":"copyright","depth":"intro","title":"Chilling Effects linking FAQ","why":"Legal FAQ on linking to copyrighted material."}
+{"id":51832,"keep":0,"q":2,"kind":"reference","topic":"copyright","depth":"intro","title":"Chilling Effects notice database","why":"Searchable database of takedown notices, a lookup rather than a read."}
+{"id":51833,"keep":0,"q":1,"kind":"docs","topic":"copyright","depth":"intro","title":"Chilling Effects DMCA question","why":"Legal Q&A on DMCA counter-notices."}
+{"id":51834,"keep":1,"q":4,"kind":"paper","topic":"ai history","depth":"intermediate","title":"Lighthill Report","why":"1973 critique of AI research that shaped UK funding for decades."}
+{"id":51835,"keep":1,"q":4,"kind":"book","topic":"bitcoin","depth":"intermediate","title":"Mastering Bitcoin","why":"Free book explaining bitcoin keys, transactions, mining and the protocol in depth."}
+{"id":51836,"keep":1,"q":2,"kind":"book","topic":"software development","depth":"intermediate","title":"O'Reilly book (Dave and Ade)","why":"Practical O'Reilly book on structured learning and skill building; title uncertain."}
+{"id":51837,"keep":0,"q":2,"kind":"news","topic":"china regulation","depth":"intro","title":"China recommendation algorithm rules","why":"News summary of recommendation algorithm regulation effective 2022."}
+{"id":51838,"keep":0,"q":2,"kind":"blog","topic":"legal","depth":"intro","title":"China stock option restrictions","why":"Niche legal blog on equity compensation rules for foreign staff."}
+{"id":51839,"keep":0,"q":2,"kind":"news","topic":"china regulation","depth":"intro","title":"China cybersecurity inspections","why":"Legal news on cybersecurity inspection rules."}
+{"id":51840,"keep":1,"q":3,"kind":"essay","topic":"china politics","depth":"intermediate","title":"Dramatic Actions (China Media Project)","why":"Essay comparing China's Covid lockdown response with Western government failures."}
+{"id":51841,"keep":0,"q":2,"kind":"reference","topic":"human rights","depth":"intro","title":"China Tribunal final judgment","why":"Legal judgment summary of organ harvesting allegations; a source document, not a lesson."}
+{"id":51842,"keep":0,"q":2,"kind":"reference","topic":"human rights","depth":"intro","title":"China Tribunal judgment (PDF)","why":"Full legal judgment document; primary source only."}
+{"id":51843,"keep":1,"q":4,"kind":"tutorial","topic":"graphics","depth":"intermediate","title":"Dual Quaternion Shader Explained","why":"Explains dual quaternions for combined translation and rotation, with shader code."}
+{"id":51844,"keep":0,"q":2,"kind":"tool","topic":"python","depth":"intro","title":"Chinese Python","why":"Chinese-language Python keyword and docs project."}
+{"id":51845,"keep":1,"q":4,"kind":"blog","topic":"cpu architecture","depth":"expert","title":"AMD Zen 4 Part 1: Frontend and Execution Engine","why":"Deep microarchitecture analysis of Zen 4's frontend and execution engine."}
+{"id":51846,"keep":1,"q":4,"kind":"blog","topic":"cpu architecture","depth":"expert","title":"AMD Ryzen 9950X (Zen 5) on desktop","why":"Measured cache and memory latency analysis of the Zen 5 desktop chip."}
+{"id":51847,"keep":1,"q":4,"kind":"blog","topic":"cpu architecture","depth":"expert","title":"IBM Telum II at Hot Chips 2024","why":"Architecture analysis of Telum II's unusual caching strategy."}
+{"id":51848,"keep":0,"q":1,"kind":"tool","topic":"version control","depth":"intro","title":"Chiselapp repositories","why":"Public project listing on a hosting service."}
+{"id":51849,"keep":1,"q":3,"kind":"blog","topic":"security","depth":"intermediate","title":"A Month with BadOnions","why":"First-hand account of running a Tor onion service and what sniffing and MitM attempts it saw."}
+{"id":51850,"keep":0,"q":1,"kind":"tool","topic":"installers","depth":"intro","title":"Chocolatey install page","why":"Installation instructions for a Windows package manager."}
+{"id":51851,"keep":0,"q":2,"kind":"news","topic":"consumer","depth":"intro","title":"CHOICE sunscreen test","why":"Consumer test results on sunscreen brands; topical product news."}
+{"id":51852,"keep":1,"q":4,"kind":"paper","topic":"linguistics","depth":"intermediate","title":"Chomsky on Skinner (1967)","why":"Chomsky's critique of behaviourist accounts of language and their limits."}
+{"id":51853,"keep":0,"q":2,"kind":"essay","topic":"politics","depth":"intro","title":"Chomsky 1986 political essay","why":"Political essay on socialism and US policy; opinion rather than technical learning."}
+{"id":51854,"keep":0,"q":2,"kind":"essay","topic":"politics","depth":"intro","title":"Chomsky 1990 political essay","why":"Political commentary on US foreign policy and military spending."}
+{"id":51855,"keep":0,"q":2,"kind":"news","topic":"vaccines","depth":"intro","title":"Long-term side effects of COVID vaccines","why":"Health news on vaccine safety timelines, topical and cited as evidence."}
+{"id":51856,"keep":1,"q":3,"kind":"blog","topic":"developer tools","depth":"intermediate","title":"Light Table: A New IDE Concept","why":"Early design pitch for a live, visual programming environment."}
+{"id":51857,"keep":1,"q":4,"kind":"blog","topic":"game architecture","depth":"intermediate","title":"Anatomy of a Knockout","why":"Explains entity-component and data-centric game architecture using a real project."}
+{"id":51858,"keep":1,"q":3,"kind":"essay","topic":"programming tools","depth":"intermediate","title":"Toward a Better Programming","why":"Vision essay on visual, direct-manipulation programming environments."}
+{"id":51859,"keep":1,"q":4,"kind":"tutorial","topic":"type theory","depth":"intermediate","title":"The Algebra of Algebraic Data Types","why":"Shows how sum and product types obey algebraic rules by counting values."}
+{"id":51860,"keep":1,"q":4,"kind":"explainer","topic":"haskell","depth":"intro","title":"Monads are Burritos","why":"Playful analogy-driven introduction to the monad abstraction."}
+{"id":51861,"keep":1,"q":3,"kind":"blog","topic":"shell scripting","depth":"intermediate","title":"Shell scripting with Haskell (shell-conduit)","why":"Argues for typed Haskell scripting over bash, with a shell-conduit example."}
+{"id":51862,"keep":1,"q":3,"kind":"essay","topic":"css","depth":"intermediate","title":"Why Stylesheet Abstraction Matters","why":"Explains why CSS needs abstraction tools such as Sass and Compass."}
+{"id":51863,"keep":0,"q":1,"kind":"tool","topic":"browser extensions","depth":"intro","title":"YouTube Comment Snob","why":"Browser extension for filtering comments."}
+{"id":51864,"keep":1,"q":4,"kind":"paper","topic":"hci","depth":"intermediate","title":"Faster Progress Bars: Manipulating Perceived Duration","why":"Shows how progress bar design changes perceived waiting time, backed by experiments."}
+{"id":51865,"keep":0,"q":1,"kind":"other","topic":"humor","depth":"intro","title":"Godel is laughing (Wolfram parody)","why":"Satirical page about Stephen Wolfram."}
+{"id":51866,"keep":0,"q":1,"kind":"tool","topic":"browsers","depth":"intro","title":"uBlock","why":"Ad-blocker download page."}
+{"id":51867,"keep":1,"q":3,"kind":"blog","topic":"economics","depth":"intermediate","title":"Basic Income vs Basic Job","why":"Back-of-envelope comparison of basic income and basic job policies."}
+{"id":51868,"keep":0,"q":1,"kind":"tool","topic":"linux","depth":"intro","title":"ARandR","why":"GUI tool for configuring monitor layouts."}
+{"id":51869,"keep":0,"q":1,"kind":"blog","topic":"customer service","depth":"intro","title":"My experience with PayPal customer service","why":"Personal complaint post about support."}
+{"id":51870,"keep":0,"q":1,"kind":"other","topic":"auctions","depth":"intro","title":"Christie's auction lot","why":"Auction listing for historical documents."}
+{"id":51871,"keep":1,"q":5,"kind":"book","topic":"machine learning","depth":"intermediate","title":"Interpretable Machine Learning","why":"Free guide to explaining black-box models, with methods and their trade-offs."}
+{"id":51872,"keep":0,"q":2,"kind":"docs","topic":"browser automation","depth":"intermediate","title":"Chrome DevTools Protocol: Page domain","why":"API reference lookup for one protocol domain."}
+{"id":51873,"keep":0,"q":2,"kind":"visual","topic":"visualization","depth":"intro","title":"Chrome Experiments: Globe","why":"Interactive data globe demo; fun but shallow."}
+{"id":51874,"keep":0,"q":2,"kind":"docs","topic":"linux","depth":"intro","title":"Linux on ChromeOS FAQ","why":"FAQ on running Linux containers on ChromeOS."}
+{"id":51875,"keep":0,"q":1,"kind":"news","topic":"browser security","depth":"intro","title":"Chrome stable release notes","why":"Release notes with CVE listings."}
+{"id":51876,"keep":0,"q":1,"kind":"reference","topic":"web platform","depth":"intro","title":"Chrome feature status page","why":"Feature tracker entry, not a read."}
+{"id":51877,"keep":0,"q":1,"kind":"reference","topic":"webassembly","depth":"intro","title":"WebAssembly SIMD feature status","why":"Feature tracker entry, not a read."}
+{"id":51878,"keep":0,"q":1,"kind":"other","topic":"browsers","depth":"intro","title":"Chromium code review (video decoding patch)","why":"Single code-review thread."}
+{"id":51879,"keep":0,"q":1,"kind":"tool","topic":"web audio","depth":"intro","title":"Web Audio API samples","why":"Early demo page for the Web Audio API."}
+{"id":51880,"keep":0,"q":2,"kind":"docs","topic":"web audio","depth":"intermediate","title":"Web Audio API specification draft","why":"Draft spec; reference material rather than explanation."}
+{"id":51881,"keep":0,"q":1,"kind":"tool","topic":"terminal","depth":"intro","title":"hterm terminal emulator","why":"Project page for a JavaScript terminal."}
+{"id":51882,"keep":0,"q":1,"kind":"other","topic":"security","depth":"intermediate","title":"Chromium commit (localbattle.net)","why":"Single commit page from a security discussion."}
+{"id":51883,"keep":1,"q":4,"kind":"docs","topic":"security","depth":"expert","title":"Chromium Sandbox Design","why":"Explains how Chrome's process sandbox is built differently on each operating system."}
+{"id":51884,"keep":1,"q":3,"kind":"docs","topic":"operating systems","depth":"intermediate","title":"Chromium Linux Zygote Process","why":"Explains the zygote fork-server design for fast, sandboxed child processes."}
+{"id":51885,"keep":0,"q":2,"kind":"docs","topic":"web security","depth":"intermediate","title":"EV certificates to page info","why":"Policy note on removing the EV certificate UI."}
+{"id":51886,"keep":0,"q":2,"kind":"docs","topic":"c++","depth":"intermediate","title":"Chromium C++ features guide","why":"Style rules for which C++ features Chromium allows."}
+{"id":51887,"keep":0,"q":2,"kind":"docs","topic":"chromeos","depth":"intermediate","title":"Lacros design doc","why":"Design notes on the ChromeOS browser split."}
+{"id":51888,"keep":1,"q":3,"kind":"docs","topic":"security","depth":"intermediate","title":"Linux Sandboxing (Chromium)","why":"Explains seccomp, namespaces and sandbox layers in Chromium on Linux."}
+{"id":51889,"keep":0,"q":2,"kind":"docs","topic":"rust","depth":"intermediate","title":"Chromium Rust toolchain","why":"Setup notes for building Rust inside Chromium."}
+{"id":51890,"keep":0,"q":2,"kind":"docs","topic":"virtualization","depth":"intermediate","title":"crosvm README","why":"Project README for a Rust virtual machine monitor."}
+{"id":51891,"keep":0,"q":2,"kind":"tool","topic":"linux","depth":"intermediate","title":"linux-syscall-support","why":"Small library for raw syscalls without libc; a project page rather than an essay."}
+{"id":51892,"keep":0,"q":1,"kind":"docs","topic":"chrome","depth":"intro","title":"Turning off Chrome auto-updates","why":"Admin how-to for disabling updates."}
+{"id":51893,"keep":0,"q":1,"kind":"docs","topic":"chromeos","depth":"intro","title":"Chromium OS FAQ","why":"Differences between Chromium OS and Chrome OS."}
+{"id":51894,"keep":1,"q":3,"kind":"docs","topic":"operating systems","depth":"intermediate","title":"ChromeOS Developer Mode design","why":"Explains the design of developer mode and why a few keystrokes wipe the device."}
+{"id":51895,"keep":1,"q":2,"kind":"docs","topic":"operating systems","depth":"expert","title":"ChromeOS disk format","why":"Partition layout and kernel slot design document."}
+{"id":51896,"keep":0,"q":1,"kind":"docs","topic":"chromeos","depth":"intro","title":"Chromium OS developer guide","why":"Setup instructions for building Chromium OS."}
+{"id":51897,"keep":0,"q":1,"kind":"docs","topic":"chromeos","depth":"intro","title":"Chromebook Pixel developer info","why":"Hardware-specific developer information page."}
+{"id":51898,"keep":0,"q":1,"kind":"docs","topic":"chromeos","depth":"intro","title":"Samsung ARM Chromebook developer info","why":"Developer-mode notes for one device."}
+{"id":51899,"keep":1,"q":4,"kind":"docs","topic":"browsers","depth":"intermediate","title":"Chromium Multi-process Architecture","why":"Explains why Chrome isolates tabs and risky parsing code in separate processes."}
+{"id":51900,"keep":1,"q":3,"kind":"docs","topic":"privacy","depth":"intermediate","title":"RAPPOR","why":"Explains randomized response for privately collecting usage statistics."}
+{"id":51901,"keep":1,"q":3,"kind":"docs","topic":"security","depth":"intermediate","title":"Safe Browsing Design","why":"Explains how Chrome checks URLs client-side against hashed blocklists."}
+{"id":51902,"keep":0,"q":2,"kind":"docs","topic":"browsers","depth":"intermediate","title":"Chrome site engagement score","why":"Design doc on per-site engagement scoring."}
+{"id":51903,"keep":0,"q":1,"kind":"docs","topic":"web","depth":"intro","title":"Chrome Frame getting started","why":"Setup guide for a deprecated IE plugin."}
+{"id":51904,"keep":0,"q":2,"kind":"reference","topic":"security","depth":"expert","title":"Native Client research papers","why":"Listing page of papers on native code sandboxing."}
+{"id":51905,"keep":0,"q":1,"kind":"other","topic":"web platform","depth":"intro","title":"Chromium web capabilities team page","why":"Team page on native-like web APIs."}
+{"id":51906,"keep":1,"q":3,"kind":"essay","topic":"writing","depth":"intro","title":"50 Years of Stupid Grammar Advice","why":"Argues that prescriptive grammar rules often break their own advice."}
+{"id":51907,"keep":1,"q":3,"kind":"journalism","topic":"psychology","depth":"intermediate","title":"The Power of Suggestion","why":"Explains the scrutiny of priming studies and the replication movement."}
+{"id":51908,"keep":0,"q":2,"kind":"journalism","topic":"social science","depth":"intermediate","title":"Robert Putnam says his research was twisted","why":"Short piece about a misreported study, cited as evidence in argument."}
+{"id":51909,"keep":0,"q":1,"kind":"reference","topic":"education","depth":"intro","title":"Chronicle tuition and fees tracker","why":"Interactive statistics page."}
+{"id":51910,"keep":0,"q":2,"kind":"other","topic":"sleep health","depth":"intro","title":"Chronobiology official statements","why":"Position statements on daylight saving time."}
+{"id":51911,"keep":0,"q":2,"kind":"tool","topic":"randomness","depth":"intermediate","title":"Jitterentropy","why":"Project page for a CPU-jitter random number generator."}
+{"id":51912,"keep":1,"q":4,"kind":"essay","topic":"analysis","depth":"intermediate","title":"Words of Estimative Probability","why":"Sherman Kent on how vague probability words mislead analysts, with proposed fixes."}
+{"id":51913,"keep":0,"q":1,"kind":"reference","topic":"geography","depth":"intro","title":"CIA World Factbook: China","why":"Country reference lookup."}
+{"id":51914,"keep":0,"q":1,"kind":"other","topic":"immigration","depth":"intro","title":"Canada start-up visa","why":"Government visa program page."}
+{"id":51915,"keep":0,"q":1,"kind":"reference","topic":"immigration","depth":"intro","title":"Canada skilled worker occupation list","why":"Government eligibility list."}
+{"id":51916,"keep":0,"q":1,"kind":"docs","topic":"immigration","depth":"intro","title":"Canada skilled immigration","why":"Government eligibility page."}
+{"id":51917,"keep":0,"q":1,"kind":"docs","topic":"immigration","depth":"intro","title":"Canada permanent residency","why":"Government residency rules page."}
+{"id":51918,"keep":0,"q":2,"kind":"reference","topic":"biology","depth":"intro","title":"Periodical cicada broods","why":"Reference table of emergence schedules."}
+{"id":51919,"keep":0,"q":1,"kind":"news","topic":"covid origins","depth":"intro","title":"No evidence COVID came from a lab (CIDRAP)","why":"News report on early origins claims."}
+{"id":51920,"keep":0,"q":1,"kind":"news","topic":"covid","depth":"intro","title":"Antibodies fade quickly in COVID patients","why":"News on an early serology study."}
+{"id":51921,"keep":1,"q":5,"kind":"visual","topic":"graphics","depth":"intermediate","title":"Alpha Compositing","why":"Interactive explainer of alpha blending and the hard problems of coverage."}
+{"id":51922,"keep":1,"q":5,"kind":"visual","topic":"color","depth":"intermediate","title":"Color Spaces","why":"Interactive explanation of RGB, HSL and perceptual color models."}
+{"id":51923,"keep":0,"q":1,"kind":"other","topic":"javascript","depth":"intermediate","title":"gears.js source","why":"Source file for an interactive page."}
+{"id":51924,"keep":0,"q":1,"kind":"other","topic":"javascript","depth":"intermediate","title":"moon.js source","why":"Source file for a Moon simulation."}
+{"id":51925,"keep":0,"q":1,"kind":"other","topic":"webgl","depth":"intermediate","title":"watch.js source","why":"Source file for a WebGL watch demo."}
+{"id":51926,"keep":0,"q":1,"kind":"tool","topic":"pricing","depth":"intro","title":"Cineworld Unlimited","why":"Cinema subscription page."}
+{"id":51927,"keep":0,"q":1,"kind":"other","topic":"crypto","depth":"intro","title":"Circle USDC transparency","why":"Company reserve disclosures."}
+{"id":51928,"keep":0,"q":2,"kind":"news","topic":"security","depth":"intermediate","title":"CircleCI Jan 2023 incident report","why":"Incident postmortem; topical rather than a lasting read."}
+{"id":51929,"keep":0,"q":1,"kind":"tool","topic":"ci","depth":"intro","title":"CircleCI pricing","why":"Pricing page."}
+{"id":51930,"keep":1,"q":3,"kind":"journalism","topic":"surveillance","depth":"intermediate","title":"License Plate Readers Let Police Collect Millions of Records","why":"Investigation into how police license-plate readers gather and share location data."}
+{"id":51931,"keep":0,"q":1,"kind":"reference","topic":"education","depth":"intro","title":"CIRR bootcamp outcomes data","why":"Statistics on bootcamp job placement."}
+{"id":51932,"keep":0,"q":2,"kind":"journalism","topic":"internet censorship","depth":"intermediate","title":"Reliance Jio SNI inspection","why":"Policy blog about network blocking; topical."}
+{"id":51933,"keep":0,"q":2,"kind":"reference","topic":"file sync","depth":"expert","title":"Benjamin Pierce papers index","why":"Publication list page; the individual papers are the reads."}
+{"id":51934,"keep":0,"q":1,"kind":"docs","topic":"file sync","depth":"intermediate","title":"Unison manual","why":"Tool manual listing caveats."}
+{"id":51935,"keep":0,"q":1,"kind":"tool","topic":"file sync","depth":"intro","title":"Unison file synchronizer","why":"Project homepage."}
+{"id":51936,"keep":1,"q":5,"kind":"tutorial","topic":"haskell","depth":"intermediate","title":"CIS 194: Haskell Course (Spring 2013)","why":"Full lecture notes and assignments teaching functional programming in Haskell."}
+{"id":51937,"keep":1,"q":3,"kind":"book","topic":"geometry","depth":"expert","title":"Geometric Methods and Applications","why":"Textbook linking projective and conformal geometry with exterior algebra."}
+{"id":51938,"keep":0,"q":2,"kind":"news","topic":"security","depth":"intermediate","title":"CISA advisory AA23-270A","why":"Advisory on state-linked router compromises; topical."}
+{"id":51939,"keep":0,"q":1,"kind":"news","topic":"cyber","depth":"intermediate","title":"CISA advisory AA26-097A","why":"Current advisory on Iranian cyber activity."}
+{"id":51940,"keep":0,"q":1,"kind":"other","topic":"networking","depth":"intro","title":"Cisco VNI hyperconnectivity","why":"Vendor forecast white paper."}
+{"id":51941,"keep":0,"q":1,"kind":"docs","topic":"hardware","depth":"intro","title":"Cisco field notice FN63697","why":"Vendor product notice."}
+{"id":51942,"keep":1,"q":3,"kind":"paper","topic":"compilers","depth":"expert","title":"Deforestation / fusion paper (CiteSeer)","why":"Program-transformation paper on eliminating intermediate data structures; title uncertain."}
+{"id":51943,"keep":1,"q":5,"kind":"paper","topic":"programming","depth":"intermediate","title":"Structured Programming with go to Statements","why":"Knuth's classic essay on when goto is justified, and why."}
+{"id":51944,"keep":1,"q":4,"kind":"paper","topic":"operating systems","depth":"expert","title":"Synthesis: An Efficient Implementation of OS Services","why":"Runtime code generation and specialised system calls for a very fast kernel."}
+{"id":51945,"keep":1,"q":3,"kind":"paper","topic":"programming languages","depth":"expert","title":"Pre-Scheme","why":"Describes a Scheme-like systems language with explicit memory and static types, aimed at C's niche."}
+{"id":51946,"keep":0,"q":1,"kind":"other","topic":"payments","depth":"intro","title":"Citibank virtual card numbers","why":"Bank service page."}
+{"id":51947,"keep":0,"q":1,"kind":"docs","topic":"api","depth":"intro","title":"Citi Bike stations JSON","why":"Data endpoint and terms."}
+{"id":51948,"keep":0,"q":2,"kind":"journalism","topic":"healthcare policy","depth":"intro","title":"Fact-check: Medicare for All savings","why":"Policy fact-check, political and cited as evidence in argument."}
+{"id":51949,"keep":0,"q":1,"kind":"other","topic":"drug prices","depth":"intro","title":"Public Citizen drug pricing report","why":"Advocacy publication on pharma costs."}
+{"id":51950,"keep":1,"q":3,"kind":"journalism","topic":"security","depth":"intermediate","title":"NSO Group's Pegasus Spyware Returns in 2022","why":"Technical investigation of spyware attacks and how Lockdown Mode blocked them."}
+{"id":51951,"keep":0,"q":1,"kind":"other","topic":"policy","depth":"intro","title":"Ireland basic income for artists","why":"Government scheme page."}
+{"id":51952,"keep":0,"q":1,"kind":"other","topic":"cars","depth":"intro","title":"Citroen Ami","why":"Car product page."}
+{"id":51953,"keep":0,"q":1,"kind":"news","topic":"stocks","depth":"intro","title":"Citron Research on Shopify","why":"Short-seller report; accusation and opinion."}
+{"id":51954,"keep":1,"q":4,"kind":"blog","topic":"databases","depth":"intermediate","title":"Count Performance in PostgreSQL","why":"Explains why count(*) is slow in Postgres and techniques to speed it up."}
+{"id":51955,"keep":1,"q":4,"kind":"blog","topic":"databases","depth":"expert","title":"Analyzing Connection Scalability","why":"Measures why many Postgres connections hurt throughput and what limits scaling."}
+{"id":51956,"keep":0,"q":1,"kind":"other","topic":"databases","depth":"intro","title":"Citus Cloud product page","why":"Managed service product page."}
+{"id":51957,"keep":0,"q":1,"kind":"journalism","topic":"science politics","depth":"intro","title":"City Journal: the real war on science","why":"Opinion piece on science politics."}
+{"id":51958,"keep":0,"q":1,"kind":"news","topic":"genetics","depth":"intro","title":"NIH blocks genetics database access","why":"News piece on data access policy."}
+{"id":51959,"keep":0,"q":2,"kind":"journalism","topic":"urban design","depth":"intro","title":"12-foot traffic lanes are dangerous","why":"Opinion article on road safety design."}
+{"id":51960,"keep":0,"q":2,"kind":"journalism","topic":"urban density","depth":"intro","title":"America's densest metros","why":"Population statistics commentary."}
+{"id":51961,"keep":1,"q":3,"kind":"journalism","topic":"infrastructure","depth":"intro","title":"From $250 Million to $6.5 Billion: The Bay Bridge Cost Overrun","why":"Explains how a bridge project's costs ballooned, with lessons on estimation."}
+{"id":51962,"keep":0,"q":2,"kind":"news","topic":"urbanism","depth":"intro","title":"Portland Anarchist Road Care","why":"News feature on volunteers fixing potholes."}
+{"id":51963,"keep":0,"q":1,"kind":"journalism","topic":"housing","depth":"intro","title":"US urban population: what does urban mean?","why":"Article built on statistics, cited as evidence in argument."}
+{"id":51964,"keep":0,"q":2,"kind":"journalism","topic":"venture capital","depth":"intro","title":"Geographic inequality of tech venture capital","why":"Statistics-driven article cited as evidence."}
+{"id":51965,"keep":0,"q":1,"kind":"journalism","topic":"politics","depth":"intro","title":"Bay Bridge cost overrun (politics)","why":"Comment-style article about one example in a debate."}
+{"id":51966,"keep":1,"q":3,"kind":"journalism","topic":"urbanism","depth":"intro","title":"The Invention of Jaywalking","why":"History of how automakers helped redefine street use and jaywalking laws."}
+{"id":51967,"keep":0,"q":1,"kind":"other","topic":"batteries","depth":"intro","title":"City Labs betavoltaic products","why":"Product page for betavoltaic batteries."}
+{"id":51968,"keep":0,"q":2,"kind":"essay","topic":"free speech","depth":"intro","title":"Shouting fire in a crowded theater","why":"Legal explainer on speech limits; generic and cited as argument."}
+{"id":51969,"keep":0,"q":1,"kind":"news","topic":"emergency alerts","depth":"intro","title":"Hawaii phony missile warning screen","why":"News about a mock-up alert screen; topical."}
+{"id":51970,"keep":1,"q":3,"kind":"reference","topic":"history","depth":"intro","title":"Declaration of the Causes of Secession","why":"Primary source text from 1860 that readers can read directly."}
+{"id":51971,"keep":0,"q":1,"kind":"other","topic":"careers","depth":"intro","title":"Civis Analytics careers","why":"Job post listing."}
+{"id":51972,"keep":1,"q":4,"kind":"tutorial","topic":"python","depth":"intermediate","title":"Hypermodern Python: Setup","why":"Walks through modern Python project setup with Poetry, pyenv and tooling."}
+{"id":51973,"keep":1,"q":4,"kind":"journalism","topic":"journalism","depth":"intermediate","title":"Rolling Stone's UVA Story Investigation","why":"Investigation into how a retracted campus story passed editorial checks."}
+{"id":51974,"keep":1,"q":3,"kind":"journalism","topic":"media industry","depth":"intermediate","title":"The Decline of Newsweek","why":"Long-form account of how a magazine lost its newsroom and standing."}
+{"id":51975,"keep":0,"q":2,"kind":"journalism","topic":"social media","depth":"intro","title":"Platform bias and censorship claims","why":"Media column cited in a debate about moderation."}
+{"id":51976,"keep":0,"q":1,"kind":"tool","topic":"education","depth":"intro","title":"CK-12 student site","why":"Education platform landing page."}
+{"id":51977,"keep":1,"q":4,"kind":"blog","topic":"collaborative editing","depth":"expert","title":"Lessons Learned from Creating a Rich Text Editor with Real-Time Collaboration","why":"Engineering lessons on operational transformation and server architecture for collaborative editing."}
+{"id":51978,"keep":0,"q":1,"kind":"tool","topic":"editors","depth":"intro","title":"CKEditor Letters","why":"Project page for a collaborative editing product."}
+{"id":51979,"keep":0,"q":1,"kind":"tool","topic":"languages","depth":"intro","title":"GorillaScript","why":"Language home page."}
+{"id":51980,"keep":1,"q":3,"kind":"reference","topic":"common lisp","depth":"intermediate","title":"Common Lisp Cookbook: Strings","why":"Practical recipes for string handling in Common Lisp."}
+{"id":51981,"keep":1,"q":3,"kind":"reference","topic":"internet history","depth":"intro","title":"Trojan Room coffee pot","why":"History of the first webcam, a coffee pot wired to the network in 1991."}
+{"id":51982,"keep":1,"q":4,"kind":"tutorial","topic":"operating systems","depth":"intermediate","title":"Raspberry Pi OS Tutorials","why":"Step-by-step lessons on writing a small operating system in assembly on the Pi."}
+{"id":51983,"keep":0,"q":2,"kind":"docs","topic":"security hardware","depth":"intermediate","title":"CHERI Morello project page","why":"Research project page; no explanation in itself."}
+{"id":51984,"keep":0,"q":1,"kind":"docs","topic":"security hardware","depth":"intermediate","title":"CheriBSD project page","why":"Project page for a capability-based OS."}
+{"id":51985,"keep":1,"q":4,"kind":"paper","topic":"webassembly","depth":"expert","title":"Mechanising and Verifying the WebAssembly Specification","why":"Formal mechanisation of WebAssembly's semantics and a verified interpreter."}
+{"id":51986,"keep":1,"q":4,"kind":"paper","topic":"type systems","depth":"expert","title":"Lightweight Higher-Kinded Polymorphism","why":"Shows how to emulate higher-kinded types in languages that lack them."}
+{"id":51987,"keep":1,"q":3,"kind":"reference","topic":"dates and time","depth":"intro","title":"ISO 8601 Date and Time Format","why":"Clear explanation of the ISO date format and why it sorts well."}
+{"id":51988,"keep":0,"q":1,"kind":"other","topic":"unicode","depth":"intro","title":"UTF-8 demo text","why":"Test text file of Unicode characters."}
+{"id":51989,"keep":1,"q":3,"kind":"docs","topic":"c semantics","depth":"expert","title":"Cerberus C Semantics Project","why":"Research project clarifying what C defines and leaves undefined."}
+{"id":51990,"keep":1,"q":4,"kind":"reference","topic":"c semantics","depth":"expert","title":"C Semantics Survey Discussion","why":"Discussion of survey answers on tricky C semantics and why obvious rules contradict."}
+{"id":51991,"keep":1,"q":5,"kind":"paper","topic":"concurrency","depth":"expert","title":"x86-TSO: A Programmer's Model for x86 Multiprocessors","why":"Clear, rigorous model of x86 memory ordering that programmers can actually use."}
+{"id":51992,"keep":0,"q":1,"kind":"other","topic":"security","depth":"intro","title":"Ross Anderson homepage","why":"Personal homepage."}
+{"id":51993,"keep":0,"q":1,"kind":"other","topic":"security","depth":"intro","title":"Chip and PIN takedown notice","why":"Legal takedown document."}
+{"id":51994,"keep":0,"q":1,"kind":"tool","topic":"security","depth":"intro","title":"ClamAV","why":"Antivirus software homepage."}
+{"id":51995,"keep":0,"q":2,"kind":"docs","topic":"c","depth":"intermediate","title":"Clang blocks language spec","why":"Language spec; reference rather than explanation."}
+{"id":51996,"keep":0,"q":1,"kind":"reference","topic":"surveillance","depth":"intro","title":"How many CCTV cameras are in London","why":"Statistics page on camera counts."}
+{"id":51997,"keep":0,"q":1,"kind":"other","topic":"careers","depth":"intro","title":"Clarity.fm","why":"Consulting marketplace homepage."}
+{"id":51998,"keep":1,"q":3,"kind":"blog","topic":"databases","depth":"intermediate","title":"What Can You Do with PostgreSQL and JSON","why":"Shows when JSON columns with indexes and views beat a rigid schema in Postgres."}
+{"id":51999,"keep":1,"q":4,"kind":"essay","topic":"linguistics","depth":"intermediate","title":"The Missing Word for Blue","why":"Explores why ancient Greek lacked a word for blue and what that says about perception."}

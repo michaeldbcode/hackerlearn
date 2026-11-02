@@ -1,0 +1,199 @@
+{"id": 55400, "keep": 0, "q": 1, "kind": "tool", "topic": "energy", "depth": "intro", "title": "Energy-Charts Germany", "why": "Live chart dashboard of German electricity generation, not an explanation."}
+{"id": 55401, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "California Total System Power", "why": "Statistics page of California electricity data."}
+{"id": 55402, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "California 2020 Electricity Generation", "why": "Yearly generation statistics for California."}
+{"id": 55403, "keep": 0, "q": 1, "kind": "other", "topic": "energy", "depth": "intermediate", "title": "California Coal Energy Projections", "why": "Government projection document cited as evidence in an argument."}
+{"id": 55404, "keep": 0, "q": 1, "kind": "news", "topic": "energy", "depth": "intro", "title": "DOE Data Center Electricity Report", "why": "Government report news on data center electricity use."}
+{"id": 55405, "keep": 1, "q": 3, "kind": "explainer", "topic": "history", "depth": "intro", "title": "History of Air Conditioning", "why": "Concise history of air conditioning: origins, window units, and spread across homes."}
+{"id": 55406, "keep": 1, "q": 2, "kind": "explainer", "topic": "energy", "depth": "intro", "title": "Space-Based Solar Power", "why": "Overview of beaming solar power from orbit and its efficiency challenges."}
+{"id": 55407, "keep": 1, "q": 3, "kind": "explainer", "topic": "energy", "depth": "intro", "title": "Bigger Wind Turbines", "why": "Why turbines keep growing: rotor size, output per acre, and economics."}
+{"id": 55408, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "Zero Energy Ready Home", "why": "Program landing page with a short definition of zero energy homes."}
+{"id": 55409, "keep": 1, "q": 2, "kind": "explainer", "topic": "energy", "depth": "intermediate", "title": "Hydrogen Storage", "why": "Why hydrogen storage is hard for vehicles: density, volume, and conversion losses."}
+{"id": 55410, "keep": 1, "q": 3, "kind": "explainer", "topic": "energy", "depth": "intro", "title": "Pumped Storage Hydropower", "why": "How pumped hydro stores grid energy and why it remains a cheap default."}
+{"id": 55411, "keep": 1, "q": 2, "kind": "reference", "topic": "energy", "depth": "intro", "title": "Heat Pump Systems", "why": "Consumer guide to how heat pumps work and their efficiency."}
+{"id": 55412, "keep": 1, "q": 2, "kind": "reference", "topic": "energy", "depth": "intro", "title": "Home Air Conditioning", "why": "Consumer guide to residential air conditioning energy use."}
+{"id": 55413, "keep": 1, "q": 2, "kind": "explainer", "topic": "energy", "depth": "intro", "title": "Advanced Small Modular Reactors", "why": "Overview of SMR designs and why modular reactors are proposed."}
+{"id": 55414, "keep": 0, "q": 1, "kind": "other", "topic": "energy", "depth": "expert", "title": "Large Power Transformer Study", "why": "Government study cited as evidence about grid transformer risk."}
+{"id": 55415, "keep": 1, "q": 3, "kind": "paper", "topic": "careers", "depth": "intermediate", "title": "Stemming the Tide: Why Women Leave Engineering", "why": "NSF research report on why women leave engineering careers, with measured findings."}
+{"id": 55416, "keep": 1, "q": 3, "kind": "explainer", "topic": "energy", "depth": "intro", "title": "Deaths from Nuclear Energy Compared", "why": "Compares death tolls per unit of electricity across energy sources."}
+{"id": 55417, "keep": 1, "q": 2, "kind": "explainer", "topic": "energy", "depth": "intro", "title": "Lifespan of Solar Panels", "why": "Explains how long panels last and why they are often retired early."}
+{"id": 55418, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "UK Offshore Wind Capacity Factors", "why": "Statistics page on UK offshore wind output."}
+{"id": 55419, "keep": 1, "q": 3, "kind": "essay", "topic": "energy", "depth": "intermediate", "title": "Nuclear Baseload Myth", "why": "Argues baseload is unnecessary and explains grid flexibility versus renewables."}
+{"id": 55420, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Energy Savvy Careers", "why": "Job posting from a software company."}
+{"id": 55421, "keep": 1, "q": 2, "kind": "essay", "topic": "rust", "depth": "intermediate", "title": "Rust Evangelism Strike Force", "why": "Satirical catalogue of Rust community arguments and how they go wrong."}
+{"id": 55422, "keep": 1, "q": 3, "kind": "blog", "topic": "ml platforms", "depth": "intermediate", "title": "Michelangelo ML Platform", "why": "Uber engineering account of building an end-to-end machine learning platform."}
+{"id": 55423, "keep": 0, "q": 1, "kind": "news", "topic": "apple", "depth": "intro", "title": "Apple Drops Computer From Name", "why": "News coverage of a 2007 rebranding, with no lasting lesson."}
+{"id": 55424, "keep": 0, "q": 1, "kind": "news", "topic": "microsoft", "depth": "intro", "title": "Windows Phone 7 Launch", "why": "News coverage of a product launch event."}
+{"id": 55425, "keep": 0, "q": 1, "kind": "news", "topic": "google", "depth": "intro", "title": "Skyhook Lawsuit Emails", "why": "News on internal emails in a location-services dispute."}
+{"id": 55426, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "Nokia N9 Review", "why": "Product review of a 2011 phone."}
+{"id": 55427, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "NSA Bugged Cisco Routers", "why": "News report on NSA interception of network hardware."}
+{"id": 55428, "keep": 0, "q": 1, "kind": "news", "topic": "aviation", "depth": "intro", "title": "Boeing 787 Software Bug", "why": "News on a reported 787 power software issue."}
+{"id": 55429, "keep": 0, "q": 1, "kind": "news", "topic": "aviation", "depth": "intro", "title": "Boeing 787 Software Bug", "why": "News on the same 787 power software issue, duplicate story."}
+{"id": 55430, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "HP The Machine", "why": "News about HP dropping its memristor plans."}
+{"id": 55431, "keep": 0, "q": 1, "kind": "news", "topic": "fintech", "depth": "intro", "title": "PayPal and Square Versus the Sex Industry", "why": "News on payment processors cutting off businesses."}
+{"id": 55432, "keep": 0, "q": 1, "kind": "news", "topic": "youtube", "depth": "intro", "title": "YouTube Reinstates Banned Accounts", "why": "News on automated account bans and reinstatements."}
+{"id": 55433, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "FBI Encrypted Chat App Anom", "why": "News on an FBI-run encrypted messaging operation."}
+{"id": 55434, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "HP Spectre One Photos", "why": "Product photo gallery."}
+{"id": 55435, "keep": 0, "q": 1, "kind": "tool", "topic": "water", "depth": "intro", "title": "California Reservoir Dashboard", "why": "Data dashboard of reservoir levels."}
+{"id": 55436, "keep": 1, "q": 3, "kind": "blog", "topic": "css", "depth": "intermediate", "title": "CSS Architecture", "why": "Engineering post on structuring CSS and avoiding parent-dependent styles."}
+{"id": 55437, "keep": 1, "q": 2, "kind": "blog", "topic": "php", "depth": "intermediate", "title": "PHP 7 Deployment at Dailymotion", "why": "Engineering account of migrating a large video site to PHP 7."}
+{"id": 55438, "keep": 1, "q": 3, "kind": "blog", "topic": "computer vision", "depth": "intermediate", "title": "Scaling ConvNets", "why": "Explains neural network image upscaling and why it beats classical kernels."}
+{"id": 55439, "keep": 1, "q": 3, "kind": "tutorial", "topic": "payments", "depth": "intermediate", "title": "How ACH Works: A Developer Perspective", "why": "Multi-part guide to ACH payment mechanics for developers."}
+{"id": 55440, "keep": 1, "q": 3, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "Memcache Games", "why": "Engineering discussion of memcache usage and serialization tradeoffs."}
+{"id": 55441, "keep": 1, "q": 4, "kind": "blog", "topic": "testing", "depth": "intermediate", "title": "Automated Testing for League of Legends", "why": "Engineering account of a large automated testing infrastructure and its design."}
+{"id": 55442, "keep": 1, "q": 3, "kind": "essay", "topic": "engineering culture", "depth": "intro", "title": "The Fear of Breaking Things", "why": "Essay on fearless development and an experimentation-friendly engineering culture."}
+{"id": 55443, "keep": 1, "q": 3, "kind": "tutorial", "topic": "distributed computing", "depth": "intro", "title": "mrjob: Distributed Computing for Everybody", "why": "Introduction to MapReduce in Python using mrjob."}
+{"id": 55444, "keep": 0, "q": 1, "kind": "reference", "topic": "physics", "depth": "intro", "title": "Boiling Point of Water", "why": "Reference table of boiling points."}
+{"id": 55445, "keep": 0, "q": 1, "kind": "reference", "topic": "chemistry", "depth": "intro", "title": "Gas Solubility in Water", "why": "Reference tables of gas solubility."}
+{"id": 55446, "keep": 0, "q": 1, "kind": "reference", "topic": "engineering", "depth": "intro", "title": "Wire Rope Strength", "why": "Reference table of rope strength values."}
+{"id": 55447, "keep": 0, "q": 1, "kind": "reference", "topic": "careers", "depth": "intro", "title": "Engineers Canada FAQ", "why": "Regulatory FAQ on engineering licensing."}
+{"id": 55448, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "SystemSix eInk Computer", "why": "Product page for a hobby eInk computer."}
+{"id": 55449, "keep": 1, "q": 4, "kind": "essay", "topic": "devops", "depth": "intro", "title": "Pets vs Cattle", "why": "Classic analogy on treating servers as disposable instead of cherished."}
+{"id": 55450, "keep": 0, "q": 1, "kind": "tool", "topic": "software", "depth": "intro", "title": "Kupfer Launcher", "why": "Software page for a Linux application launcher."}
+{"id": 55451, "keep": 0, "q": 1, "kind": "reference", "topic": "epidemiology", "depth": "intro", "title": "NHS COVID Daily Deaths", "why": "Statistical page of daily COVID deaths."}
+{"id": 55452, "keep": 0, "q": 1, "kind": "news", "topic": "internet", "depth": "intro", "title": "Real Names and Comment Quality", "why": "News article on a real-name policy debate."}
+{"id": 55453, "keep": 1, "q": 3, "kind": "journalism", "topic": "epidemiology", "depth": "intro", "title": "How the Coronavirus Is Spread Through the Air", "why": "Explains indoor transmission risk by setting, masks, and ventilation."}
+{"id": 55454, "keep": 1, "q": 3, "kind": "other", "topic": "linguistics", "depth": "intermediate", "title": "Rule for Adjective Order", "why": "Q&A explaining adjective ordering theories with the strongest answer."}
+{"id": 55455, "keep": 0, "q": 1, "kind": "reference", "topic": "psychology", "depth": "intro", "title": "Term for Newly Noticing Things", "why": "Generic word lookup."}
+{"id": 55456, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Mixing K and MM", "why": "Style question about abbreviations, a usage lookup."}
+{"id": 55457, "keep": 0, "q": 1, "kind": "reference", "topic": "language", "depth": "intro", "title": "Is Performant a Word", "why": "Usage debate about a single word."}
+{"id": 55458, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intro", "title": "Master in Git", "why": "Short etymology lookup."}
+{"id": 55459, "keep": 1, "q": 2, "kind": "paper", "topic": "safety", "depth": "intermediate", "title": "Tesla Safety Preprint", "why": "Preprint critiquing Tesla safety claims and their crash-rate assumptions."}
+{"id": 55460, "keep": 1, "q": 3, "kind": "essay", "topic": "audio", "depth": "intro", "title": "Listening to Storage", "why": "Essay separating measurable audio effects from placebo in hi-fi claims."}
+{"id": 55461, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intermediate", "title": "JSFuck Decoder", "why": "Interactive decoder for JSFuck obfuscated code."}
+{"id": 55462, "keep": 0, "q": 1, "kind": "tool", "topic": "programming languages", "depth": "intro", "title": "Enso Language", "why": "Product page for a visual programming language."}
+{"id": 55463, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "Ente Auth", "why": "Product page for a two-factor authentication app."}
+{"id": 55464, "keep": 1, "q": 3, "kind": "blog", "topic": "machine learning", "depth": "intermediate", "title": "Image Search with CLIP and GGML", "why": "Explains on-device CLIP embeddings for private photo search."}
+{"id": 55465, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Ente Open-Sources Its Server", "why": "Announcement that a photo service open-sourced its server."}
+{"id": 55466, "keep": 0, "q": 1, "kind": "reference", "topic": "storage", "depth": "intro", "title": "Ente Reliability", "why": "Product page on backup replication."}
+{"id": 55467, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Enternships Listings", "why": "Internship listings page."}
+{"id": 55468, "keep": 0, "q": 1, "kind": "blog", "topic": "databases", "depth": "intermediate", "title": "Postgres Outperforms MongoDB", "why": "Vendor marketing post about Postgres JSON performance."}
+{"id": 55469, "keep": 0, "q": 1, "kind": "tool", "topic": "python", "depth": "intro", "title": "Enthought EPD", "why": "Python distribution product page."}
+{"id": 55470, "keep": 0, "q": 2, "kind": "news", "topic": "business", "depth": "intro", "title": "Van Halen Brown M&Ms", "why": "Business article retelling the M&M contract anecdote."}
+{"id": 55471, "keep": 1, "q": 2, "kind": "journalism", "topic": "startups", "depth": "intro", "title": "Founder Age and Startup Success", "why": "Summarizes studies on entrepreneur age and startup outcomes."}
+{"id": 55472, "keep": 0, "q": 1, "kind": "tool", "topic": "careers", "depth": "intro", "title": "Labor Cost Simulator", "why": "French government salary cost calculator."}
+{"id": 55473, "keep": 1, "q": 3, "kind": "essay", "topic": "teaching", "depth": "intro", "title": "The Gutenberg Method", "why": "Describes a teaching method built on reading before class and annotation."}
+{"id": 55474, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "Entroware Laptops", "why": "Laptop store page."}
+{"id": 55475, "keep": 1, "q": 3, "kind": "other", "topic": "power grids", "depth": "expert", "title": "ENTSO-E Iberian Blackout Report", "why": "Official analysis of the 2025 Iberian blackout and its grid causes."}
+{"id": 55476, "keep": 1, "q": 3, "kind": "paper", "topic": "agriculture", "depth": "expert", "title": "Impacts of Genetically Engineered Crops on Herbicide Use", "why": "Paper showing herbicide use rising on Roundup Ready farms."}
+{"id": 55477, "keep": 0, "q": 2, "kind": "essay", "topic": "energy", "depth": "intermediate", "title": "The War on Nuclear", "why": "Advocacy essay on anti-nuclear politics."}
+{"id": 55478, "keep": 1, "q": 4, "kind": "essay", "topic": "history", "depth": "intro", "title": "The Worst Mistake in the History of the Human Race", "why": "Diamond essay arguing agriculture damaged human health and nutrition."}
+{"id": 55479, "keep": 0, "q": 1, "kind": "visual", "topic": "space", "depth": "intro", "title": "ISS HD Earth Livestream", "why": "Live stream page for ISS video."}
+{"id": 55480, "keep": 1, "q": 5, "kind": "paper", "topic": "programming languages", "depth": "expert", "title": "Recursive Functions of Symbolic Expressions", "why": "McCarthy's Lisp paper, including the metacircular interpreter in Lisp."}
+{"id": 55481, "keep": 1, "q": 4, "kind": "book", "topic": "lisp", "depth": "expert", "title": "On Lisp", "why": "Paul Graham's book on Lisp, especially macros and embedded languages."}
+{"id": 55482, "keep": 0, "q": 1, "kind": "reference", "topic": "pollution", "depth": "intro", "title": "EPA Clean Air Progress", "why": "Government statistics page on air quality progress."}
+{"id": 55483, "keep": 0, "q": 1, "kind": "reference", "topic": "climate", "depth": "intro", "title": "EPA Heat-Related Deaths Indicator", "why": "Statistics page on heat-related deaths."}
+{"id": 55484, "keep": 0, "q": 1, "kind": "reference", "topic": "climate", "depth": "intro", "title": "EPA Sea Level Indicator", "why": "Statistics page on sea level change."}
+{"id": 55485, "keep": 0, "q": 1, "kind": "reference", "topic": "climate", "depth": "intro", "title": "EPA Greenhouse Gas Sources", "why": "Government reference on emission sources."}
+{"id": 55486, "keep": 0, "q": 1, "kind": "reference", "topic": "electric vehicles", "depth": "intro", "title": "EPA EV Range Testing", "why": "Government page on EPA range methodology."}
+{"id": 55487, "keep": 0, "q": 1, "kind": "reference", "topic": "water", "depth": "intro", "title": "EPA Drinking Water Regulations", "why": "List of federal drinking water rules."}
+{"id": 55488, "keep": 1, "q": 2, "kind": "explainer", "topic": "energy", "depth": "intro", "title": "Solar Panel Recycling", "why": "Overview of how end-of-life solar panels are recycled and why it is hard."}
+{"id": 55489, "keep": 0, "q": 1, "kind": "reference", "topic": "pesticides", "depth": "intro", "title": "EPA Glyphosate Page", "why": "Regulatory status page on glyphosate."}
+{"id": 55490, "keep": 0, "q": 1, "kind": "reference", "topic": "radiation", "depth": "intro", "title": "EPA Radon Zones Map", "why": "Map of radon risk zones."}
+{"id": 55491, "keep": 0, "q": 1, "kind": "tool", "topic": "water", "depth": "intro", "title": "UCMR3 Occurrence Data", "why": "Raw government dataset of water samples."}
+{"id": 55492, "keep": 0, "q": 1, "kind": "tool", "topic": "internet", "depth": "intro", "title": "EPB Chattanooga Internet", "why": "ISP service page."}
+{"id": 55493, "keep": 0, "q": 1, "kind": "other", "topic": "jobs", "depth": "intro", "title": "Blue Brain Job Posting", "why": "Job posting."}
+{"id": 55494, "keep": 0, "q": 2, "kind": "news", "topic": "labor", "depth": "intermediate", "title": "H-1B Employers and Layoffs", "why": "Advocacy analysis cited as evidence in a debate."}
+{"id": 55495, "keep": 0, "q": 2, "kind": "reference", "topic": "labor economics", "depth": "intro", "title": "Union Decline and Inequality Charts", "why": "Advocacy charts cited as evidence in an argument."}
+{"id": 55496, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Child Care Costs in the United States", "why": "Statistics on child care costs."}
+{"id": 55497, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Minimum Wage Tracker", "why": "Tracker of state minimum wages."}
+{"id": 55498, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Nominal Wage Tracker", "why": "Tracker of wage growth over time."}
+{"id": 55499, "keep": 0, "q": 1, "kind": "news", "topic": "labor", "depth": "intro", "title": "Wage Theft Costs American Workers", "why": "Press release on wage theft totals."}
+{"id": 55500, "keep": 0, "q": 2, "kind": "paper", "topic": "labor economics", "depth": "intermediate", "title": "Briefing Paper on Unions and Wages", "why": "Think-tank briefing paper cited as evidence in a debate."}
+{"id": 55501, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "CEO Pay in 2023", "why": "Statistics on CEO pay."}
+{"id": 55502, "keep": 0, "q": 2, "kind": "paper", "topic": "law", "depth": "intermediate", "title": "The Arbitration Epidemic", "why": "Think-tank study of arbitration outcomes, cited as evidence in a debate."}
+{"id": 55503, "keep": 0, "q": 2, "kind": "paper", "topic": "economics", "depth": "intermediate", "title": "Seattle Minimum Wage Study Critique", "why": "Economic study cited in a policy debate, not a learning piece."}
+{"id": 55504, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Minimum Wage Workers by Age", "why": "Statistics summary about minimum wage workers."}
+{"id": 55505, "keep": 1, "q": 2, "kind": "explainer", "topic": "privacy", "depth": "intro", "title": "EPIC on Data Brokers", "why": "Explains how data brokers collect and sell personal information."}
+{"id": 55506, "keep": 1, "q": 2, "kind": "explainer", "topic": "privacy", "depth": "intermediate", "title": "National Security Letters Primer", "why": "Primer on NSLs and how companies report their impact."}
+{"id": 55507, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "EPIC Street View Privacy", "why": "Timeline of a past privacy controversy."}
+{"id": 55508, "keep": 1, "q": 3, "kind": "docs", "topic": "version control", "depth": "intermediate", "title": "Lore System Design", "why": "Epic Games docs on version control architecture and its tradeoffs."}
+{"id": 55509, "keep": 0, "q": 1, "kind": "tool", "topic": "games", "depth": "intro", "title": "Dune 2 in Browser", "why": "Browser game."}
+{"id": 55510, "keep": 1, "q": 4, "kind": "essay", "topic": "decision making", "depth": "intro", "title": "Chesterton's Fence", "why": "Essay on why you should understand a rule before removing it."}
+{"id": 55511, "keep": 1, "q": 3, "kind": "essay", "topic": "web frameworks", "depth": "intermediate", "title": "Why I Won't Use Next.js", "why": "Argues for platform-based web development over heavy frameworks."}
+{"id": 55512, "keep": 0, "q": 1, "kind": "tool", "topic": "machine learning", "depth": "intro", "title": "TPOT AutoML", "why": "Software package page."}
+{"id": 55513, "keep": 1, "q": 4, "kind": "blog", "topic": "llms", "depth": "intermediate", "title": "Can AI Scaling Continue Through 2030", "why": "Analysis of data, power, and compute bottlenecks for AI scaling."}
+{"id": 55514, "keep": 0, "q": 1, "kind": "reference", "topic": "benchmarks", "depth": "intro", "title": "FrontierMath", "why": "Benchmark page."}
+{"id": 55515, "keep": 0, "q": 1, "kind": "reference", "topic": "benchmarks", "depth": "intro", "title": "Epoch AI Trends", "why": "Dashboard of AI trend data."}
+{"id": 55516, "keep": 1, "q": 4, "kind": "blog", "topic": "hardware", "depth": "intermediate", "title": "Trends in GPU Price-Performance", "why": "Analysis of how GPU cost per computation has changed over time."}
+{"id": 55517, "keep": 1, "q": 4, "kind": "paper", "topic": "cryptography", "depth": "expert", "title": "Fully Homomorphic Encryption Without Bootstrapping", "why": "Brakerski, Gentry, Vaikuntanathan paper on managing noise in homomorphic encryption."}
+{"id": 55518, "keep": 1, "q": 5, "kind": "paper", "topic": "blockchain", "depth": "expert", "title": "The Bitcoin Backbone Protocol", "why": "Formal analysis of Bitcoin's security properties and assumptions."}
+{"id": 55519, "keep": 1, "q": 3, "kind": "paper", "topic": "cryptography", "depth": "expert", "title": "Ring Confidential Transactions", "why": "Monero's ring signature confidential transaction design."}
+{"id": 55520, "keep": 1, "q": 3, "kind": "paper", "topic": "security", "depth": "expert", "title": "Last-Level Cache Side-Channel Attacks", "why": "Explains cache side channels and how Intel cache design affects them."}
+{"id": 55521, "keep": 1, "q": 4, "kind": "paper", "topic": "security", "depth": "expert", "title": "Intel SGX Explained", "why": "Explains SGX design and threat model, and why hardware vendors must be trusted."}
+{"id": 55522, "keep": 1, "q": 3, "kind": "paper", "topic": "blockchain", "depth": "expert", "title": "SPECTRE: Serialization of Proof-of-Work Events", "why": "DAG-based proof-of-work protocol with formal security proofs."}
+{"id": 55523, "keep": 1, "q": 3, "kind": "paper", "topic": "security", "depth": "expert", "title": "A Memory Encryption Engine for General Purpose Processors", "why": "Describes memory encryption and integrity trees that defend against physical attacks."}
+{"id": 55524, "keep": 1, "q": 3, "kind": "paper", "topic": "security", "depth": "expert", "title": "Timing Channel Mitigation Survey", "why": "Survey of ideas for closing timing side channels and their costs."}
+{"id": 55525, "keep": 1, "q": 2, "kind": "paper", "topic": "blockchain", "depth": "intermediate", "title": "Proof of Useful Work", "why": "Proposes replacing wasted mining work with useful computation."}
+{"id": 55526, "keep": 1, "q": 3, "kind": "paper", "topic": "cryptography", "depth": "expert", "title": "TLS-N", "why": "Proposes verifiable TLS transcripts that third parties can check."}
+{"id": 55527, "keep": 1, "q": 3, "kind": "paper", "topic": "security", "depth": "expert", "title": "Group Messaging Security Analysis", "why": "Analysis of group chat security across messaging apps."}
+{"id": 55528, "keep": 1, "q": 3, "kind": "paper", "topic": "security", "depth": "expert", "title": "Protonmail Web Crypto Analysis", "why": "Analysis of password exposure in web-based crypto apps."}
+{"id": 55529, "keep": 1, "q": 4, "kind": "paper", "topic": "cryptography", "depth": "expert", "title": "Chosen-Prefix Collisions and the PGP Web of Trust", "why": "Shows cheaper hash collisions and their impact on PGP web of trust."}
+{"id": 55530, "keep": 0, "q": 1, "kind": "paper", "topic": "cryptography", "depth": "expert", "title": "RSA Attack Preprint", "why": "Contested preprint whose claims were disputed; not settled."}
+{"id": 55531, "keep": 1, "q": 3, "kind": "explainer", "topic": "parsing", "depth": "expert", "title": "GLL Parsing", "why": "Explains generalized LL parsing and how it handles left recursion."}
+{"id": 55532, "keep": 1, "q": 3, "kind": "essay", "topic": "politics", "depth": "intermediate", "title": "Things Fall Apart", "why": "Essay series on political polarization and us-versus-them dynamics."}
+{"id": 55533, "keep": 0, "q": 1, "kind": "reference", "topic": "benchmarks", "depth": "intro", "title": "Creative Writing Benchmark", "why": "Benchmark leaderboard page."}
+{"id": 55534, "keep": 0, "q": 1, "kind": "reference", "topic": "personal finance", "depth": "intro", "title": "Credit Freeze", "why": "Generic consumer reference for freezing credit."}
+{"id": 55535, "keep": 1, "q": 4, "kind": "book", "topic": "decision making", "depth": "intermediate", "title": "Inadequate Equilibria: Inadequacy and Modesty", "why": "Explains when institutions fail and when to trust your own judgment against experts."}
+{"id": 55536, "keep": 1, "q": 4, "kind": "book", "topic": "coordination", "depth": "intermediate", "title": "Moloch's Toolbox", "why": "Explains coordination failures and how competitive systems trap people."}
+{"id": 55537, "keep": 0, "q": 1, "kind": "other", "topic": "aging", "depth": "intro", "title": "Sixty", "why": "Personal page about aging."}
+{"id": 55538, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "ERCOT Day-Ahead Data", "why": "Grid data page."}
+{"id": 55539, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "ERCOT Generation Mix", "why": "Grid data page with fuel mix spreadsheets."}
+{"id": 55540, "keep": 0, "q": 1, "kind": "tool", "topic": "energy", "depth": "intro", "title": "ERCOT Grid Conditions", "why": "Live grid dashboard."}
+{"id": 55541, "keep": 0, "q": 1, "kind": "tool", "topic": "keyboards", "depth": "intro", "title": "FingerWorks TouchStream", "why": "Product page for a keyboard."}
+{"id": 55542, "keep": 0, "q": 1, "kind": "tool", "topic": "keyboards", "depth": "intro", "title": "Planck EZ Keyboard", "why": "Product page for a keyboard."}
+{"id": 55543, "keep": 1, "q": 5, "kind": "blog", "topic": "programming languages", "depth": "intermediate", "title": "Closing Over the Loop Variable Considered Harmful", "why": "Explains why closures over loop variables cause bugs and the design decision behind it."}
+{"id": 55544, "keep": 1, "q": 3, "kind": "essay", "topic": "software design", "depth": "intermediate", "title": "Wizards and Warriors, Part Five", "why": "Shows how OOP class design breaks down around cross-cutting concerns."}
+{"id": 55545, "keep": 1, "q": 4, "kind": "essay", "topic": "startups", "depth": "intermediate", "title": "Success and Failure at Pebble", "why": "Founder reflection on why Pebble succeeded and why it was hard to repeat."}
+{"id": 55546, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "Bringing Pebble Back", "why": "Company announcement."}
+{"id": 55547, "keep": 1, "q": 4, "kind": "essay", "topic": "web development", "depth": "intermediate", "title": "Modern Health Frameworks: Performance and Harm", "why": "Argues modern front-end frameworks hurt accessibility and performance for users."}
+{"id": 55548, "keep": 1, "q": 4, "kind": "essay", "topic": "security", "depth": "intermediate", "title": "Capability Myths Demolished", "why": "Explains capability security and corrects common misconceptions about it."}
+{"id": 55549, "keep": 1, "q": 3, "kind": "docs", "topic": "distributed systems", "depth": "expert", "title": "E Language Pipelining", "why": "Explains promise pipelining and mobile almost-code in the E language."}
+{"id": 55550, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "E Language Homepage", "why": "Project homepage."}
+{"id": 55551, "keep": 1, "q": 4, "kind": "essay", "topic": "software engineering", "depth": "intermediate", "title": "The Half-Life of Code", "why": "Measures how code rots over time and how long lines survive in large projects."}
+{"id": 55552, "keep": 0, "q": 1, "kind": "reference", "topic": "lectures", "depth": "intro", "title": "Erik Demaine Classes", "why": "Index of course pages."}
+{"id": 55553, "keep": 1, "q": 4, "kind": "paper", "topic": "algorithms", "depth": "expert", "title": "Cache-Oblivious Algorithms and Data Structures", "why": "Explains algorithms that perform well across memory hierarchies without tuning."}
+{"id": 55554, "keep": 1, "q": 3, "kind": "blog", "topic": "erlang", "depth": "intermediate", "title": "Erlang 19 Garbage Collector", "why": "Explains how the BEAM garbage collector works, with illustrations."}
+{"id": 55555, "keep": 0, "q": 1, "kind": "reference", "topic": "erlang", "depth": "intro", "title": "Companies Using Erlang", "why": "Marketing list of companies."}
+{"id": 55556, "keep": 1, "q": 3, "kind": "docs", "topic": "erlang", "depth": "expert", "title": "Erlang Efficiency Guide: Advanced", "why": "Advanced guide to Erlang VM performance and system limits."}
+{"id": 55557, "keep": 0, "q": 1, "kind": "reference", "topic": "erlang", "depth": "intro", "title": "Erlang global Module", "why": "Module reference."}
+{"id": 55558, "keep": 0, "q": 1, "kind": "reference", "topic": "erlang", "depth": "intro", "title": "Erlang lists Module", "why": "Module reference."}
+{"id": 55559, "keep": 0, "q": 1, "kind": "reference", "topic": "erlang", "depth": "intro", "title": "Erlang queue Module", "why": "Module reference."}
+{"id": 55560, "keep": 1, "q": 3, "kind": "other", "topic": "oop", "depth": "intermediate", "title": "Joe Armstrong on OOP", "why": "Mailing list post on message passing and what object orientation should mean."}
+{"id": 55561, "keep": 1, "q": 3, "kind": "docs", "topic": "erlang", "depth": "intermediate", "title": "Erlang Programming Rules", "why": "Rules that explain how Erlang is meant to be used and why."}
+{"id": 55562, "keep": 0, "q": 1, "kind": "reference", "topic": "drugs", "depth": "intro", "title": "Ketamine Dose Reference", "why": "Dosage reference."}
+{"id": 55563, "keep": 0, "q": 1, "kind": "reference", "topic": "drugs", "depth": "intro", "title": "LSD Death Reference", "why": "Drug safety reference."}
+{"id": 55564, "keep": 0, "q": 1, "kind": "reference", "topic": "drugs", "depth": "intro", "title": "LSD Dose Reference", "why": "Dosage reference."}
+{"id": 55565, "keep": 0, "q": 1, "kind": "other", "topic": "drugs", "depth": "intro", "title": "LSD Trip Experiences", "why": "Personal experience reports."}
+{"id": 55566, "keep": 0, "q": 2, "kind": "book", "topic": "chemistry", "depth": "intermediate", "title": "TiHKAL (Abridged)", "why": "Synthesis-focused book on psychoactive compounds, not a clear learning piece."}
+{"id": 55567, "keep": 1, "q": 2, "kind": "explainer", "topic": "film", "depth": "intro", "title": "The Interrotron", "why": "Explains Morris's interview device and why it creates direct eye contact."}
+{"id": 55568, "keep": 0, "q": 1, "kind": "reference", "topic": "agriculture", "depth": "intro", "title": "GE Crop Adoption Trends", "why": "Statistics on genetically engineered crop adoption."}
+{"id": 55569, "keep": 0, "q": 1, "kind": "reference", "topic": "agriculture", "depth": "intro", "title": "USDA Agricultural Trade", "why": "Trade statistics."}
+{"id": 55570, "keep": 0, "q": 1, "kind": "tool", "topic": "food", "depth": "intro", "title": "USDA Food Access Atlas", "why": "Interactive data atlas."}
+{"id": 55571, "keep": 0, "q": 1, "kind": "reference", "topic": "agriculture", "depth": "intro", "title": "Farmland Ownership and Tenure", "why": "Statistics on farmland ownership."}
+{"id": 55572, "keep": 0, "q": 1, "kind": "reference", "topic": "rural economics", "depth": "intro", "title": "Rural Poverty and Well-Being", "why": "Statistics on rural poverty."}
+{"id": 55573, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Fuse Root Personal Post", "why": "Personal profile linked in a CV-style comment."}
+{"id": 55574, "keep": 1, "q": 3, "kind": "journalism", "topic": "space", "depth": "intermediate", "title": "The Radiation Showstopper for Mars Exploration", "why": "Explains radiation risks for Mars missions and the limits of shielding."}
+{"id": 55575, "keep": 0, "q": 1, "kind": "visual", "topic": "space", "depth": "intro", "title": "Korolev Crater Image", "why": "Image page."}
+{"id": 55576, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "expert", "title": "Dumping the Starlink User Terminal Firmware", "why": "Writeup of extracting and analyzing Starlink terminal firmware."}
+{"id": 55577, "keep": 1, "q": 3, "kind": "docs", "topic": "javascript", "depth": "intro", "title": "esbuild Getting Started", "why": "Getting-started guide to esbuild bundling and transforms."}
+{"id": 55578, "keep": 0, "q": 1, "kind": "reference", "topic": "survey data", "depth": "intro", "title": "Taiwan Identity Survey", "why": "Survey data page."}
+{"id": 55579, "keep": 0, "q": 1, "kind": "news", "topic": "payments", "depth": "intro", "title": "PayPal Freezes Minecraft Developer Account", "why": "News on an account freeze."}
+{"id": 55580, "keep": 0, "q": 1, "kind": "news", "topic": "piracy", "depth": "intro", "title": "Gabe Newell on Piracy", "why": "News article quoting an executive."}
+{"id": 55581, "keep": 0, "q": 2, "kind": "reference", "topic": "medicine", "depth": "intro", "title": "ESC Statement on ACE Inhibitors", "why": "Clinical position statement; time-sensitive guidance, not a learning piece."}
+{"id": 55582, "keep": 0, "q": 1, "kind": "reference", "topic": "startups", "depth": "intro", "title": "New York Startup Program", "why": "Government program page."}
+{"id": 55583, "keep": 1, "q": 3, "kind": "tutorial", "topic": "security", "depth": "intermediate", "title": "PGP SSH Key on YubiKey NEO", "why": "Tutorial for storing a PGP SSH key on a YubiKey smart card."}
+{"id": 55584, "keep": 0, "q": 1, "kind": "reference", "topic": "macos", "depth": "intro", "title": "Mac OS X Compatibility", "why": "Compatibility table."}
+{"id": 55585, "keep": 0, "q": 1, "kind": "tool", "topic": "storage", "depth": "intro", "title": "OWC Mercury Extreme SSD", "why": "Product page."}
+{"id": 55586, "keep": 0, "q": 1, "kind": "tool", "topic": "hardware", "depth": "intro", "title": "OWC Thunderbolt Hub", "why": "Product page."}
+{"id": 55587, "keep": 0, "q": 1, "kind": "reference", "topic": "javascript", "depth": "intro", "title": "ESLint eqeqeq Rule", "why": "Lint rule documentation."}
+{"id": 55588, "keep": 0, "q": 1, "kind": "reference", "topic": "esoteric languages", "depth": "intro", "title": "C2BF", "why": "Esolang wiki entry."}
+{"id": 55589, "keep": 0, "q": 1, "kind": "reference", "topic": "esoteric languages", "depth": "intro", "title": "Chef", "why": "Esolang wiki entry."}
+{"id": 55590, "keep": 0, "q": 1, "kind": "reference", "topic": "esoteric languages", "depth": "intro", "title": "FlipJump", "why": "Esolang wiki entry."}
+{"id": 55591, "keep": 0, "q": 1, "kind": "reference", "topic": "esoteric languages", "depth": "intro", "title": "Malbolge", "why": "Esolang wiki entry."}
+{"id": 55592, "keep": 0, "q": 1, "kind": "reference", "topic": "esoteric languages", "depth": "intro", "title": "Thue", "why": "Esolang wiki entry."}
+{"id": 55593, "keep": 1, "q": 2, "kind": "journalism", "topic": "creative computing", "depth": "intro", "title": "100 Rabbits Interview", "why": "Interview with an artist-programmer team on minimal computing practice."}
+{"id": 55594, "keep": 1, "q": 4, "kind": "blog", "topic": "programming languages", "depth": "expert", "title": "The 128-Language Quine Relay", "why": "Explains a program that outputs its own source through 128 languages."}
+{"id": 55595, "keep": 0, "q": 1, "kind": "tool", "topic": "networking", "depth": "intro", "title": "NeverBlock", "why": "Library page."}
+{"id": 55596, "keep": 0, "q": 1, "kind": "docs", "topic": "iot", "depth": "intro", "title": "ESPHome Bluetooth Proxy", "why": "Component documentation for a device feature."}
+{"id": 55597, "keep": 0, "q": 1, "kind": "reference", "topic": "gaming", "depth": "intro", "title": "Esports Earnings Database", "why": "Statistics database of player earnings."}
+{"id": 55598, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "ESP32-C5 Announcement", "why": "Product announcement."}

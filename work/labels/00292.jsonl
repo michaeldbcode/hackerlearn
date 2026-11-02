@@ -1,0 +1,200 @@
+{"id":58400,"keep":0,"q":1,"kind":"tool","topic":"data visualization","depth":"intro","title":"Flotr2","why":"Charting library homepage; a software download rather than something to read."}
+{"id":58401,"keep":1,"q":3,"kind":"comic","topic":"geology","depth":"intro","title":"Mother Gaia","why":"Comic walking through Earth's climate history via major extinctions and oxygen events."}
+{"id":58402,"keep":0,"q":2,"kind":"tool","topic":"machine learning","depth":"intermediate","title":"Vowpal Wabbit","why":"Project homepage for a fast learning library; nothing to learn from the page itself."}
+{"id":58403,"keep":0,"q":2,"kind":"tool","topic":"music software","depth":"intro","title":"Orca","why":"Itch.io page for an esoteric sequencer language; a tool download."}
+{"id":58404,"keep":0,"q":1,"kind":"other","topic":"urban transport","depth":"intro","title":"Car Light NYC infographics","why":"Statistics infographic on car ownership; evidence in a debate, not a read."}
+{"id":58405,"keep":0,"q":1,"kind":"tool","topic":"games","depth":"intro","title":"2048 4D","why":"Browser puzzle game; no learning content."}
+{"id":58406,"keep":1,"q":3,"kind":"book","topic":"economics","depth":"intermediate","title":"The Great Reversal","why":"Philippon's argument that US markets lost competitiveness, with data on concentration and lobbying."}
+{"id":58407,"keep":1,"q":3,"kind":"book","topic":"social science","depth":"intermediate","title":"Private Truths, Public Lies","why":"Explains preference falsification and why public opinion can shift suddenly."}
+{"id":58408,"keep":1,"q":2,"kind":"docs","topic":"http testing","depth":"intro","title":"Hurl: capturing responses","why":"Shows how to capture response values like tokens into variables for chained HTTP tests."}
+{"id":58409,"keep":1,"q":2,"kind":"docs","topic":"http testing","depth":"intro","title":"Hurl manual","why":"Reference for writing plain-text HTTP tests, variables and assertions."}
+{"id":58410,"keep":0,"q":1,"kind":"other","topic":"careers","depth":"intro","title":"Hustle careers","why":"Hiring page for a startup; no content to learn from."}
+{"id":58411,"keep":1,"q":4,"kind":"paper","topic":"ai theory","depth":"expert","title":"A Gentle Introduction to AIXI","why":"Hutter's accessible account of universal AI based on Solomonoff induction and its limits."}
+{"id":58412,"keep":0,"q":2,"kind":"tool","topic":"parsing","depth":"intermediate","title":"Lemon parser generator","why":"Parser generator project page; a software download rather than a read."}
+{"id":58413,"keep":0,"q":1,"kind":"news","topic":"llms","depth":"intro","title":"Tencent Hy3 research","why":"Model release announcement; news of the moment."}
+{"id":58414,"keep":0,"q":2,"kind":"blog","topic":"journalism","depth":"intro","title":"He said, they said","why":"Commentary tied to a 2016 controversy; mostly news-driven."}
+{"id":58415,"keep":0,"q":2,"kind":"essay","topic":"software projects","depth":"intro","title":"Ladybird inclusivity review","why":"Controversy-driven review of a software project's inclusivity; not a lasting explainer."}
+{"id":58416,"keep":1,"q":5,"kind":"essay","topic":"macos","depth":"intermediate","title":"OS X Reviewed","why":"Siracusa's exhaustive OS X review, a classic of long-form software criticism."}
+{"id":58417,"keep":0,"q":1,"kind":"tool","topic":"macos","depth":"intro","title":"SwitchGlass","why":"App product page; a tool download."}
+{"id":58418,"keep":0,"q":1,"kind":"other","topic":"startups","depth":"intro","title":"HyperDev about","why":"Company about page for a beta product; no substantive content."}
+{"id":58419,"keep":1,"q":3,"kind":"talk","topic":"cryptography","depth":"expert","title":"Bernstein on NSA and cryptography","why":"Talk slides on cryptographic standards and how NSA influence affected trust in curves."}
+{"id":58420,"keep":1,"q":3,"kind":"essay","topic":"open source","depth":"intro","title":"Who invented the term open source","why":"Traces the earliest known uses of open source before OSI adopted the term."}
+{"id":58421,"keep":0,"q":2,"kind":"tool","topic":"machine learning","depth":"intermediate","title":"Hyperopt","why":"Library docs homepage; a tool rather than an explainer."}
+{"id":58422,"keep":1,"q":4,"kind":"reference","topic":"physics","depth":"intro","title":"HyperPhysics","why":"Concept-map style physics reference linking topics from mechanics to quantum physics."}
+{"id":58423,"keep":1,"q":3,"kind":"reference","topic":"vision","depth":"intermediate","title":"HyperPhysics: colour and cone response","why":"Explains how cone cells respond to overlapping wavelengths, so colour is not simply RGB."}
+{"id":58424,"keep":0,"q":2,"kind":"docs","topic":"javascript","depth":"intermediate","title":"Hyperscript comparison","why":"Comparison page for a scripting library; mostly product positioning."}
+{"id":58425,"keep":1,"q":2,"kind":"explainer","topic":"biomechanics","depth":"intro","title":"Energy use of walking","why":"Compares human walking energy efficiency with machines and explains passive dynamic walking."}
+{"id":58426,"keep":1,"q":3,"kind":"docs","topic":"testing","depth":"intermediate","title":"Hypothesis: data strategies","why":"Explains how to generate structured test data for property-based tests."}
+{"id":58427,"keep":1,"q":4,"kind":"essay","topic":"testing","depth":"intro","title":"What is property-based testing?","why":"Clear explanation of checking invariants over many generated inputs instead of fixed examples."}
+{"id":58428,"keep":1,"q":3,"kind":"talk","topic":"databases","depth":"intermediate","title":"How to query almost everything","why":"Talk on querying arbitrary systems with a GraphQL-style language, Trustfall."}
+{"id":58429,"keep":1,"q":3,"kind":"talk","topic":"programming languages","depth":"intermediate","title":"Programming without pointers","why":"Argues for pointer-free, flat data formats and what that means for serialization."}
+{"id":58430,"keep":0,"q":2,"kind":"news","topic":"programming languages","depth":"intro","title":"Which languages are bug prone","why":"Summary of a contested study; commenters dispute its reading."}
+{"id":58431,"keep":1,"q":4,"kind":"paper","topic":"graphics","depth":"expert","title":"Smooth, Easy to Compute Interpolating Splines","why":"Hobby's original paper defining the spline used in METAFONT and many drawing tools."}
+{"id":58432,"keep":1,"q":3,"kind":"essay","topic":"internationalization","depth":"intro","title":"Origin of i18n","why":"Traces where the numeronym i18n came from and how DEC popularised it."}
+{"id":58433,"keep":0,"q":1,"kind":"docs","topic":"linux desktop","depth":"intro","title":"i3 layout saving","why":"Feature docs for one window manager setting; too narrow to teach much."}
+{"id":58434,"keep":0,"q":2,"kind":"blog","topic":"typography","depth":"intro","title":"A typographic Christmas","why":"Font release announcement; a product update."}
+{"id":58435,"keep":0,"q":1,"kind":"other","topic":"law","depth":"intro","title":"Criminal complaint PDF","why":"Court filing; primary legal document, not something to learn from."}
+{"id":58436,"keep":1,"q":3,"kind":"book","topic":"civil defense","depth":"intro","title":"Nuclear War Survival Skills","why":"Practical civil-defence guide on shelter and protective measures, with its critical reception to weigh."}
+{"id":58437,"keep":1,"q":3,"kind":"book","topic":"fiction","depth":"intro","title":"The Feeling of Power","why":"Short Asimov story about automation and a society that has forgotten how to do arithmetic."}
+{"id":58438,"keep":0,"q":1,"kind":"other","topic":"advertising","depth":"intro","title":"IAB RTB project","why":"Industry standards project page; no explanation to learn from."}
+{"id":58439,"keep":0,"q":1,"kind":"news","topic":"advertising","depth":"intro","title":"IAB LEAN ads","why":"Industry announcement of an ad standard; news rather than explainer."}
+{"id":58440,"keep":0,"q":1,"kind":"news","topic":"nuclear policy","depth":"intro","title":"IAEA Iran report","why":"Agency report on current enrichment levels; news of the moment."}
+{"id":58441,"keep":0,"q":1,"kind":"other","topic":"nuclear energy","depth":"intro","title":"IAEA reactor ages PDF","why":"Statistical report on reactor ages; evidence rather than explanation."}
+{"id":58442,"keep":1,"q":2,"kind":"essay","topic":"web design","depth":"intro","title":"Life Below 600","why":"Argues against over-weighting the fold and discusses what belongs on the first screen."}
+{"id":58443,"keep":0,"q":1,"kind":"news","topic":"driving safety","depth":"intro","title":"IAM RoadSmart infotainment study","why":"Campaign page for a driving study; news-style, not a read."}
+{"id":58444,"keep":0,"q":1,"kind":"reference","topic":"serialization","depth":"expert","title":"CBOR tags registry","why":"Registry lookup page; a generic reference, not an explainer."}
+{"id":58445,"keep":0,"q":1,"kind":"reference","topic":"file formats","depth":"intro","title":"TSV media type","why":"Short registration record for a file type; a lookup, not a lesson."}
+{"id":58446,"keep":0,"q":1,"kind":"reference","topic":"domain names","depth":"expert","title":"IDN tables","why":"Registry of permitted characters per TLD; a lookup table."}
+{"id":58447,"keep":0,"q":1,"kind":"reference","topic":"domain names","depth":"intro","title":"IANA .dev TLD","why":"Registry entry for a top-level domain; a lookup."}
+{"id":58448,"keep":0,"q":1,"kind":"news","topic":"domain names","depth":"intro","title":"ccTLD retirement","why":"Policy notice about a country domain being removed; news-driven."}
+{"id":58449,"keep":0,"q":1,"kind":"reference","topic":"domain names","depth":"intro","title":"Example domains","why":"Short policy page on reserved example domains; too thin to learn from."}
+{"id":58450,"keep":0,"q":1,"kind":"reference","topic":"internet protocols","depth":"intro","title":"IANA protocol registries","why":"Index of protocol registries; a lookup page."}
+{"id":58451,"keep":1,"q":3,"kind":"paper","topic":"accounting","depth":"intermediate","title":"Triple Entry Accounting","why":"Grigg's proposal for shared ledgers between two parties, a precursor of blockchain ideas."}
+{"id":58452,"keep":0,"q":2,"kind":"tool","topic":"parsing","depth":"intermediate","title":"Owl try page","why":"Interactive playground for a parser language; a tool rather than an explainer."}
+{"id":58453,"keep":1,"q":3,"kind":"reference","topic":"cryptography","depth":"expert","title":"Ed25519 deployment","why":"Survey of software using Ed25519 and Curve25519, with notes on the quality of alternatives."}
+{"id":58454,"keep":1,"q":4,"kind":"tutorial","topic":"nix","depth":"intermediate","title":"How to learn Nix","why":"Explains why Nix feels alien to newcomers and suggests a practical path to learning it."}
+{"id":58455,"keep":0,"q":1,"kind":"reference","topic":"privacy law","depth":"intro","title":"US state privacy tracker","why":"Tracker of state laws that updates over time; a status page."}
+{"id":58456,"keep":0,"q":2,"kind":"paper","topic":"psychometrics","depth":"expert","title":"Koenig et al. 2008 IQ and ACT","why":"Paper cited mainly as evidence in a debate about test validity."}
+{"id":58457,"keep":0,"q":1,"kind":"news","topic":"health","depth":"intro","title":"IARC glyphosate news","why":"Agency press release on a carcinogen review; news of the moment."}
+{"id":58458,"keep":0,"q":1,"kind":"news","topic":"airlines","depth":"intro","title":"IATA press release","why":"Industry press release; news rather than explanation."}
+{"id":58459,"keep":1,"q":4,"kind":"reference","topic":"space software","depth":"intro","title":"Virtual AGC: Apollo Guidance Computer","why":"Archive of Apollo Guidance Computer software, documentation and mission history."}
+{"id":58460,"keep":0,"q":2,"kind":"reference","topic":"space software","depth":"intro","title":"Apollo links","why":"Index of external resource links; a directory, not an explainer."}
+{"id":58461,"keep":0,"q":1,"kind":"tool","topic":"productivity","depth":"intro","title":"Freedom app","why":"Mac app for blocking networking; a tool download."}
+{"id":58462,"keep":1,"q":3,"kind":"book","topic":"electronics","depth":"intro","title":"Socratic Electronics","why":"Kuphaldt's free textbook teaching electronics through guided questions."}
+{"id":58463,"keep":1,"q":5,"kind":"book","topic":"economics","depth":"intermediate","title":"The Wealth of Nations","why":"Smith's foundational account of division of labour, markets and national wealth."}
+{"id":58464,"keep":1,"q":4,"kind":"book","topic":"programming","depth":"intro","title":"How to Think Like a Computer Scientist","why":"Free Python textbook that teaches programming from first principles for beginners."}
+{"id":58465,"keep":1,"q":3,"kind":"paper","topic":"compilers","depth":"expert","title":"FORTRAN for the IBM 1401","why":"Describes a 63-phase FORTRAN compiler, a detailed look at early compiler construction."}
+{"id":58466,"keep":0,"q":1,"kind":"tool","topic":"blockchain","depth":"intro","title":"IBM Food Trust","why":"Marketing page for an enterprise product; no substance."}
+{"id":58467,"keep":0,"q":1,"kind":"other","topic":"mainframes","depth":"intro","title":"IBM zXplore","why":"Training landing page for a vendor programme."}
+{"id":58468,"keep":0,"q":1,"kind":"tool","topic":"file transfer","depth":"intro","title":"IBM Aspera","why":"Product page for a commercial transfer tool."}
+{"id":58469,"keep":0,"q":1,"kind":"tool","topic":"cobol","depth":"intro","title":"watsonx Code Assistant for Z","why":"Product page for a commercial code-conversion tool."}
+{"id":58470,"keep":0,"q":1,"kind":"tool","topic":"llms","depth":"intro","title":"IBM Watson Developer Cloud","why":"Product marketing for a discontinued API suite."}
+{"id":58471,"keep":0,"q":1,"kind":"other","topic":"mainframes","depth":"intro","title":"IBM zXplore resources","why":"Vendor training landing page; not a lesson in itself."}
+{"id":58472,"keep":0,"q":1,"kind":"tool","topic":"llms","depth":"intro","title":"Chef Watson community","why":"Community page for a product; no content to learn from."}
+{"id":58473,"keep":0,"q":1,"kind":"news","topic":"business","depth":"intro","title":"Amazon profits news","why":"Business news piece on profitability; news rather than explainer."}
+{"id":58474,"keep":0,"q":1,"kind":"news","topic":"labor","depth":"intro","title":"Amazon employee turnover","why":"News report on turnover statistics."}
+{"id":58475,"keep":0,"q":1,"kind":"news","topic":"defense","depth":"intro","title":"Clinton foundation arms deals","why":"Political news story about arms deals."}
+{"id":58476,"keep":0,"q":1,"kind":"news","topic":"history","depth":"intro","title":"How many people did Stalin kill","why":"Listicle of death toll estimates; news-style rather than analysis."}
+{"id":58477,"keep":0,"q":1,"kind":"news","topic":"economics","depth":"intro","title":"US food spending","why":"News piece on household spending statistics."}
+{"id":58478,"keep":0,"q":1,"kind":"reference","topic":"communities","depth":"intro","title":"IC.org directory","why":"Directory of intentional communities; a lookup."}
+{"id":58479,"keep":0,"q":1,"kind":"tool","topic":"ios","depth":"intro","title":"iCab Mobile","why":"App product page; a tool download."}
+{"id":58480,"keep":1,"q":2,"kind":"reference","topic":"calendars","depth":"expert","title":"iCalendar recurrence rules (RFC 5545)","why":"Spec section defining how recurring events are expressed; useful for scheduling notation."}
+{"id":58481,"keep":0,"q":1,"kind":"news","topic":"domain names","depth":"intro","title":"ICANN IO domain notice","why":"Policy blog post about a country domain being phased out; news-driven."}
+{"id":58482,"keep":0,"q":1,"kind":"other","topic":"domain names","depth":"intro","title":"ICANN public comment","why":"Public comment proceeding page; procedural."}
+{"id":58483,"keep":0,"q":1,"kind":"reference","topic":"domain names","depth":"intro","title":"ICANN accredited registrars","why":"Accreditation list; a lookup."}
+{"id":58484,"keep":0,"q":1,"kind":"reference","topic":"domain names","depth":"intro","title":"ICANN accredited registrars list","why":"Accreditation list; a lookup."}
+{"id":58485,"keep":0,"q":1,"kind":"other","topic":"domain names","depth":"intro","title":"ICANN accreditation process","why":"Procedural and fee details for registrars; policy page."}
+{"id":58486,"keep":0,"q":1,"kind":"other","topic":"domain names","depth":"intro","title":"ICANN registrant rights","why":"Policy statement on registrant rights; procedural."}
+{"id":58487,"keep":0,"q":1,"kind":"other","topic":"domain names","depth":"intro","title":"ICANN registrar financials","why":"Financial requirements for registrars; policy page."}
+{"id":58488,"keep":0,"q":1,"kind":"other","topic":"domain names","depth":"intro","title":"ICANN gTLD registration data specs","why":"Technical policy spec for registration data; procedural."}
+{"id":58489,"keep":0,"q":1,"kind":"other","topic":"domain names","depth":"intro","title":"ICANN registry agreement termination","why":"Policy document on terminating TLD agreements; procedural."}
+{"id":58490,"keep":0,"q":1,"kind":"other","topic":"domain names","depth":"intro","title":"ICANN trademark infringement","why":"Policy page on trademark protections; procedural."}
+{"id":58491,"keep":0,"q":1,"kind":"reference","topic":"carbon offsets","depth":"intro","title":"ICAO carbon offset scheme","why":"Scheme page with calculations to check; a reference lookup."}
+{"id":58492,"keep":0,"q":1,"kind":"reference","topic":"carbon offsets","depth":"intro","title":"ICAO carbon offset scheme","why":"Scheme page for offset programme; reference lookup."}
+{"id":58493,"keep":0,"q":1,"kind":"news","topic":"law","depth":"intro","title":"ICC arrest warrant","why":"Court announcement of a warrant; news of the moment."}
+{"id":58494,"keep":0,"q":1,"kind":"other","topic":"law","depth":"expert","title":"ICC panel report","why":"Legal panel report; a primary legal document."}
+{"id":58495,"keep":1,"q":4,"kind":"book","topic":"c++","depth":"intermediate","title":"C++ Annotations","why":"Opinionated, continually updated C++ book covering language features and when to use them."}
+{"id":58496,"keep":0,"q":1,"kind":"other","topic":"linux","depth":"intermediate","title":"FatELF proposal","why":"Advocacy page for a binary format; the arguments did not persuade commenters."}
+{"id":58497,"keep":0,"q":2,"kind":"tool","topic":"game development","depth":"intermediate","title":"PhysicsFS","why":"Library homepage for a filesystem abstraction; a tool."}
+{"id":58498,"keep":0,"q":1,"kind":"other","topic":"careers","depth":"intro","title":"IceCube jobs","why":"Job page; no learning content."}
+{"id":58499,"keep":0,"q":1,"kind":"other","topic":"physics","depth":"intro","title":"IceCube project","why":"Project homepage for a detector; no explanation in itself."}
+{"id":58500,"keep":1,"q":3,"kind":"journalism","topic":"finance","depth":"intro","title":"FinCEN Files","why":"ICIJ investigation into suspicious activity reports and how large banks moved illicit money."}
+{"id":58501,"keep":1,"q":4,"kind":"journalism","topic":"finance","depth":"intro","title":"Panama Papers","why":"ICIJ's landmark investigation into offshore companies and tax avoidance by the wealthy."}
+{"id":58502,"keep":1,"q":3,"kind":"journalism","topic":"finance","depth":"intro","title":"What happened after the Panama Papers","why":"Follow-up on the legal and political consequences of the Panama Papers leak."}
+{"id":58503,"keep":0,"q":1,"kind":"tool","topic":"mobile","depth":"intro","title":"Apple Find My","why":"Product page for a device-tracking service."}
+{"id":58504,"keep":0,"q":1,"kind":"news","topic":"privacy","depth":"intro","title":"ICO Imgur statement","why":"Regulator statement on an ongoing investigation; news of the moment."}
+{"id":58505,"keep":1,"q":2,"kind":"reference","topic":"data protection","depth":"intro","title":"Data protection officers","why":"Explains when organisations must appoint a data protection officer under GDPR."}
+{"id":58506,"keep":1,"q":3,"kind":"reference","topic":"data protection","depth":"intro","title":"GDPR principles","why":"Summarises the core GDPR principles such as data minimisation and purpose limitation."}
+{"id":58507,"keep":0,"q":1,"kind":"reference","topic":"data protection","depth":"expert","title":"GDPR exemptions","why":"Detail on legal derogations; too specific to learn from casually."}
+{"id":58508,"keep":1,"q":2,"kind":"reference","topic":"data protection","depth":"intro","title":"Automated decision-making under GDPR","why":"Explains rights around solely automated decisions and profiling, with examples."}
+{"id":58509,"keep":1,"q":2,"kind":"reference","topic":"data protection","depth":"intro","title":"Consent under GDPR","why":"Explains valid consent: opt-in, not a precondition of service, and freely given."}
+{"id":58510,"keep":1,"q":2,"kind":"reference","topic":"data protection","depth":"intro","title":"Legitimate interests under GDPR","why":"Explains the balancing test as an alternative lawful basis to consent."}
+{"id":58511,"keep":0,"q":1,"kind":"reference","topic":"data protection","depth":"intro","title":"Personal data breaches","why":"Breach-notification guidance; procedural rather than explanatory."}
+{"id":58512,"keep":0,"q":1,"kind":"reference","topic":"law enforcement","depth":"expert","title":"Sharing data with law enforcement","why":"Narrow guidance on a specific legal regime."}
+{"id":58513,"keep":0,"q":1,"kind":"other","topic":"data protection","depth":"expert","title":"Draft GDPR consent guidance","why":"Consultation draft; not a finished explainer."}
+{"id":58514,"keep":0,"q":1,"kind":"reference","topic":"privacy","depth":"intro","title":"Domestic CCTV guidance","why":"Practical compliance guidance for CCTV owners."}
+{"id":58515,"keep":0,"q":1,"kind":"reference","topic":"data protection","depth":"intro","title":"Right to get copies of your data","why":"Practical guidance on subject access requests."}
+{"id":58516,"keep":0,"q":1,"kind":"other","topic":"retro computing","depth":"intro","title":"C64 Reloaded Mk2","why":"Shop page for a computer kit."}
+{"id":58517,"keep":0,"q":1,"kind":"tool","topic":"competitive programming","depth":"intro","title":"Kattis problems","why":"Online judge problem index; a practice platform, not an explainer."}
+{"id":58518,"keep":0,"q":1,"kind":"tool","topic":"data","depth":"intro","title":"ICPSR QuickTables","why":"Data query tool for survey statistics."}
+{"id":58519,"keep":1,"q":5,"kind":"paper","topic":"distributed systems","depth":"intermediate","title":"Time, Clocks, and the Ordering of Events in a Distributed System","why":"Lamport's classic paper defining happened-before and logical clocks."}
+{"id":58520,"keep":1,"q":4,"kind":"paper","topic":"productivity","depth":"intermediate","title":"The Cost of Interrupted Work","why":"Study measuring how long it takes workers to resume after interruptions; a classic in HCI."}
+{"id":58521,"keep":1,"q":3,"kind":"paper","topic":"data structures","depth":"expert","title":"Tiered Vectors","why":"Paper on tiered vectors, a deque-like structure with fast insertion and indexing."}
+{"id":58522,"keep":0,"q":1,"kind":"other","topic":"law","depth":"intro","title":"Ulbricht criminal complaint","why":"Court filing; primary legal document."}
+{"id":58523,"keep":0,"q":1,"kind":"tool","topic":"payments","depth":"intro","title":"iDEAL","why":"Payment scheme homepage; no explanation to learn from."}
+{"id":58524,"keep":0,"q":1,"kind":"other","topic":"toys","depth":"intro","title":"LEGO Ideas project","why":"Fan idea page for a toy set; no learning content."}
+{"id":58525,"keep":1,"q":2,"kind":"blog","topic":"security","depth":"intro","title":"Zip bomb protection","why":"Practical notes on defending a server against decompression bombs."}
+{"id":58526,"keep":0,"q":1,"kind":"other","topic":"games","depth":"intro","title":"Idle Thumbs designer notes","why":"Podcast homepage; no substantive text."}
+{"id":58527,"keep":1,"q":4,"kind":"essay","topic":"language learning","depth":"intro","title":"Why Arabic Is Terrific","why":"Witty essay on learning Arabic and why its script and grammar reward effort."}
+{"id":58528,"keep":0,"q":1,"kind":"other","topic":"blogging","depth":"intro","title":"Idle Words feed","why":"Feed URL; no content on its own."}
+{"id":58529,"keep":1,"q":4,"kind":"talk","topic":"web history","depth":"intermediate","title":"The Ancient Web","why":"Ceglowski's talk comparing early web culture with modern platforms."}
+{"id":58530,"keep":0,"q":1,"kind":"tool","topic":"cryptography","depth":"intro","title":"Quantis RNG","why":"Product page for a hardware random number generator."}
+{"id":58531,"keep":1,"q":2,"kind":"docs","topic":"programming languages","depth":"intermediate","title":"Idris examples","why":"Shows dependently typed programming with length-indexed vectors and types as values."}
+{"id":58532,"keep":0,"q":1,"kind":"tool","topic":"browsers","depth":"intro","title":"IE test drive downloads","why":"Browser download page; a tool."}
+{"id":58533,"keep":0,"q":1,"kind":"other","topic":"economics","depth":"intro","title":"Interactive welfare PDF","why":"Report on a country's welfare history presented as data; evidence rather than explainer."}
+{"id":58534,"keep":0,"q":1,"kind":"news","topic":"climate","depth":"intro","title":"Global CO2 emissions 2019","why":"Short analysis of one year's emissions; news-driven."}
+{"id":58535,"keep":0,"q":1,"kind":"news","topic":"batteries","depth":"intro","title":"Global battery markets","why":"Commentary on market supply risks; news-driven."}
+{"id":58536,"keep":0,"q":1,"kind":"news","topic":"climate","depth":"intro","title":"Top 1% of emitters","why":"Commentary on emissions inequality; argument-driven."}
+{"id":58537,"keep":0,"q":1,"kind":"reference","topic":"energy","depth":"intro","title":"IEA Germany country page","why":"Country statistics page; a lookup."}
+{"id":58538,"keep":0,"q":1,"kind":"reference","topic":"energy","depth":"intro","title":"IEA Germany energy mix","why":"Country statistics page; a lookup."}
+{"id":58539,"keep":0,"q":1,"kind":"reference","topic":"batteries","depth":"intro","title":"Lithium-ion manufacturing capacity chart","why":"Chart of production data; a statistic."}
+{"id":58540,"keep":0,"q":1,"kind":"reference","topic":"batteries","depth":"intro","title":"EV outlook: trends in batteries","why":"Report section of statistics; evidence rather than explanation."}
+{"id":58541,"keep":0,"q":1,"kind":"reference","topic":"climate","depth":"intro","title":"Methane and climate change","why":"Report section of data; evidence rather than explanation."}
+{"id":58542,"keep":0,"q":2,"kind":"reference","topic":"carbon capture","depth":"intro","title":"Putting CO2 to use","why":"Report on CO2 uses with statistics; a reference more than a lesson."}
+{"id":58543,"keep":0,"q":1,"kind":"reference","topic":"energy","depth":"intro","title":"Solar PV report","why":"Statistical report on installed capacity; evidence rather than explanation."}
+{"id":58544,"keep":0,"q":1,"kind":"reference","topic":"minerals","depth":"intro","title":"Critical minerals for clean energy","why":"Policy report on mineral supply; news-driven analysis."}
+{"id":58545,"keep":0,"q":1,"kind":"tool","topic":"energy","depth":"intro","title":"IEA Sankey diagrams","why":"Interactive data tool for energy flows."}
+{"id":58546,"keep":0,"q":1,"kind":"other","topic":"wireless","depth":"expert","title":"IEEE 802.11bf update","why":"Working group status page for a standard."}
+{"id":58547,"keep":0,"q":1,"kind":"other","topic":"academic publishing","depth":"intro","title":"IEEE Xplore login","why":"Login and search page; no content."}
+{"id":58548,"keep":0,"q":1,"kind":"news","topic":"nuclear energy","depth":"intro","title":"NuScale cost estimates","why":"Think-tank cost analysis tied to a project; news-driven."}
+{"id":58549,"keep":1,"q":2,"kind":"book","topic":"fiction","depth":"intro","title":"Zombies","why":"Short time-travel story exploring self-referential family loops; enjoyable as fiction."}
+{"id":58550,"keep":1,"q":4,"kind":"reference","topic":"logic","depth":"intro","title":"Fallacies (Internet Encyclopedia of Philosophy)","why":"Catalogue of informal fallacies with explanations of what makes an argument flawed."}
+{"id":58551,"keep":1,"q":4,"kind":"reference","topic":"philosophy of mind","depth":"intermediate","title":"The Hard Problem of Consciousness","why":"Overview of Chalmers' hard problem and why reductive explanations seem to fall short."}
+{"id":58552,"keep":1,"q":4,"kind":"reference","topic":"philosophy","depth":"intro","title":"Social Contract Theory","why":"Overview of social contract theories from Hobbes to Rawls and their notions of consent."}
+{"id":58553,"keep":1,"q":3,"kind":"reference","topic":"logic","depth":"intro","title":"Validity and Soundness","why":"Clarifies the difference between a valid argument and a sound one."}
+{"id":58554,"keep":0,"q":1,"kind":"docs","topic":"http","depth":"expert","title":"HTTP safe methods with body draft","why":"Working draft of a spec; not finished."}
+{"id":58555,"keep":0,"q":1,"kind":"docs","topic":"uuid","depth":"expert","title":"New UUID format draft","why":"Working draft of a spec; not finished."}
+{"id":58556,"keep":0,"q":1,"kind":"other","topic":"cryptography","depth":"expert","title":"CFRG mailing list post","why":"Mailing list message; discussion, not a lesson."}
+{"id":58557,"keep":0,"q":1,"kind":"other","topic":"websockets","depth":"expert","title":"WebSocket mailing list post","why":"Mailing list message; discussion, not a lesson."}
+{"id":58558,"keep":0,"q":1,"kind":"other","topic":"cryptography","depth":"intermediate","title":"IETF mailing list post","why":"Mailing list message; discussion, not a lesson."}
+{"id":58559,"keep":0,"q":2,"kind":"other","topic":"tls","depth":"expert","title":"TLS working group exchange","why":"Mailing list thread on passive monitoring; discussion rather than explainer."}
+{"id":58560,"keep":1,"q":4,"kind":"reference","topic":"dns","depth":"expert","title":"RFC 1034: Domain Names, Concepts and Facilities","why":"Foundational DNS concepts including zones, caching and TTL reasoning."}
+{"id":58561,"keep":1,"q":3,"kind":"reference","topic":"http","depth":"expert","title":"RFC 1945: HTTP/1.0","why":"Original HTTP/1.0 spec, showing early design choices like redirects and status codes."}
+{"id":58562,"keep":1,"q":2,"kind":"reference","topic":"calendars","depth":"expert","title":"RFC 2445: iCalendar","why":"Original iCalendar spec, including floating time and recurrence definitions."}
+{"id":58563,"keep":1,"q":3,"kind":"other","topic":"humor","depth":"intro","title":"Etymology of 'Foo' (RFC 3092)","why":"Tongue-in-cheek RFC on the etymology of foo and bar; a light, enjoyable read."}
+{"id":58564,"keep":1,"q":2,"kind":"reference","topic":"urls","depth":"expert","title":"RFC 3987: Internationalized Resource Identifiers","why":"Defines IRIs and how they map to URIs, including domain name conversion rules."}
+{"id":58565,"keep":0,"q":1,"kind":"reference","topic":"networking","depth":"expert","title":"RFC 4436: network attachment detection","why":"Narrow spec on detecting network attachment; too niche to teach much."}
+{"id":58566,"keep":1,"q":3,"kind":"reference","topic":"json","depth":"expert","title":"RFC 4627: application/json","why":"Original JSON specification, including rules on uniqueness and top-level values."}
+{"id":58567,"keep":1,"q":3,"kind":"essay","topic":"internet governance","depth":"intro","title":"The Tao of the IETF","why":"Describes IETF culture: rough consensus, running code and its founding beliefs."}
+{"id":58568,"keep":0,"q":1,"kind":"tool","topic":"finance data","depth":"intermediate","title":"IEX Cloud API","why":"API docs homepage for a data service; a tool."}
+{"id":58569,"keep":0,"q":1,"kind":"tool","topic":"finance data","depth":"intermediate","title":"IEX developer data","why":"Developer data portal; a tool."}
+{"id":58570,"keep":0,"q":2,"kind":"tool","topic":"interactive fiction","depth":"intro","title":"Anchorhead","why":"Game page for interactive fiction; entertainment rather than learning."}
+{"id":58571,"keep":0,"q":2,"kind":"tool","topic":"interactive fiction","depth":"intro","title":"Interactive fiction game page","why":"Game page for interactive fiction; entertainment rather than learning."}
+{"id":58572,"keep":1,"q":3,"kind":"essay","topic":"tech strategy","depth":"intro","title":"Pandas and Lobsters","why":"Argues Google's mission to enable action clashes with products that let people do nothing."}
+{"id":58573,"keep":0,"q":1,"kind":"other","topic":"repair","depth":"intro","title":"iFixit guides index","why":"Directory of repair guides; a lookup."}
+{"id":58574,"keep":0,"q":1,"kind":"tutorial","topic":"repair","depth":"intro","title":"MacBook Pro battery replacement","why":"Model-specific repair steps; not a general lesson."}
+{"id":58575,"keep":0,"q":1,"kind":"tutorial","topic":"repair","depth":"intro","title":"iPhone 6 battery replacement","why":"Model-specific repair steps; not a general lesson."}
+{"id":58576,"keep":0,"q":2,"kind":"news","topic":"repair","depth":"intro","title":"Is this the end of the repairable iPhone","why":"Commentary on a product trend; news-driven."}
+{"id":58577,"keep":0,"q":2,"kind":"news","topic":"hardware","depth":"intro","title":"LPCAMM2 memory","why":"Product news about a memory standard; news of the moment."}
+{"id":58578,"keep":1,"q":3,"kind":"essay","topic":"right to repair","depth":"intro","title":"Right to Repair","why":"Explains the case for repairability and the policy levers used to support it."}
+{"id":58579,"keep":1,"q":2,"kind":"visual","topic":"hardware","depth":"intro","title":"AirPods teardown","why":"Photo-driven teardown showing how the parts are assembled and why repairs are hard."}
+{"id":58580,"keep":1,"q":2,"kind":"visual","topic":"hardware","depth":"intro","title":"Galaxy S20 Ultra teardown","why":"Teardown comparing internal components and repairability with iPhones."}
+{"id":58581,"keep":1,"q":2,"kind":"visual","topic":"hardware","depth":"intro","title":"iPhone 11 Pro Max teardown","why":"Teardown showing component layout and why a thin phone limits camera design."}
+{"id":58582,"keep":0,"q":1,"kind":"tutorial","topic":"batteries","depth":"intro","title":"Swollen battery guide","why":"Safety instructions for one situation; practical rather than explanatory."}
+{"id":58583,"keep":1,"q":2,"kind":"blog","topic":"hardware repair","depth":"intro","title":"Apple's diabolical plan to screw your iPhone","why":"Explains why Apple chose pentalobe screws and how that hampers repair."}
+{"id":58584,"keep":0,"q":1,"kind":"tool","topic":"music","depth":"intro","title":"iFlash Quad","why":"Hardware store page for an MP3 device mod."}
+{"id":58585,"keep":0,"q":1,"kind":"other","topic":"demographics","depth":"intro","title":"Children and happiness","why":"Advocacy blog with survey data; argument rather than explanation."}
+{"id":58586,"keep":0,"q":1,"kind":"other","topic":"demographics","depth":"intro","title":"How many kids do women want","why":"Survey summary used as evidence in a debate."}
+{"id":58587,"keep":0,"q":1,"kind":"other","topic":"demographics","depth":"intro","title":"Conservative fertility advantage","why":"Advocacy blog with statistics; argument rather than explanation."}
+{"id":58588,"keep":0,"q":1,"kind":"reference","topic":"covid","depth":"intro","title":"FT coronavirus chart","why":"Live statistics tracker; a dashboard."}
+{"id":58589,"keep":0,"q":1,"kind":"reference","topic":"polling","depth":"intro","title":"FT Brexit polling","why":"Polling dashboard; statistics tracker."}
+{"id":58590,"keep":1,"q":3,"kind":"essay","topic":"game development","depth":"intro","title":"Crunch: six lessons","why":"Summarises evidence that 40-hour weeks maximise output and crunch hurts productivity."}
+{"id":58591,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"IGM minimum wage survey","why":"Expert survey results; evidence rather than explanation."}
+{"id":58592,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"IGM free trade survey","why":"Expert survey results; evidence rather than explanation."}
+{"id":58593,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"IGM tax reform survey","why":"Expert survey results; evidence rather than explanation."}
+{"id":58594,"keep":0,"q":1,"kind":"other","topic":"design","depth":"intro","title":"Ignore the Code blog","why":"Blog homepage and personal links; no single piece to read."}
+{"id":58595,"keep":1,"q":3,"kind":"essay","topic":"ux design","depth":"intro","title":"Google Wave's scrollbars","why":"Critique of Google Wave's scrollbars and why they felt jarring to use."}
+{"id":58596,"keep":1,"q":3,"kind":"blog","topic":"security","depth":"expert","title":"Windows secure boot deep dive","why":"Walkthrough of the Intel/Windows platform secure boot chain and its security features."}
+{"id":58597,"keep":1,"q":4,"kind":"docs","topic":"management","depth":"intro","title":"Netflix culture deck","why":"The influential Netflix culture slides on freedom, responsibility and candor."}
+{"id":58598,"keep":1,"q":3,"kind":"reference","topic":"history","depth":"intro","title":"Pliny the Younger's letters on Vesuvius","why":"Primary-source letters describing the 79 CE eruption as observed by a witness."}
+{"id":58599,"keep":0,"q":1,"kind":"blog","topic":"systemd","depth":"intro","title":"TSO and Linus and systemd","why":"Rant about a community dispute; opinion rather than explainer."}
