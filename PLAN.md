@@ -227,7 +227,8 @@ How bulk labelling runs (no API key needed):
 4. ~~Topic taxonomy~~ DONE. To refresh after many new labels: regenerate `work/topics_raw.tsv` and have Sonnet extend `map`.
    (Old note:) Collect raw `topic` values with counts from `work/{labels,clabels,slabels}`. Have a Sonnet subagent map them to ~40 canonical topics → `work/topic_map.json` (raw → canonical). Make `served/build.py` apply it in `norm_topic` (unmapped → raw). Rebuild.
 5. QA: a Sonnet re-label of ~3 random link batches, comparing keep agreement → `work/qa.md`. If Haiku is too loose or strict, adjust the threshold (`q`) in build.py.
-6. Extend coverage if budget allows: the next 6,000 great-comment candidates (`served/comments.py`, raise N, write new batch numbers), and links with 3–4 distinct users (`served/batches.py 3`, but keep the existing numbering: only append new batches for URLs not yet covered).
+6. Session 2: pending link batches were trimmed to 2 snippets × ≤240 chars to save tokens. Comment extension (cbatches 60+) skipped for cost; optional.
+   Extend coverage if budget allows: the next 6,000 great-comment candidates (`served/comments.py`, raise N, write new batch numbers), and links with 3–4 distinct users (`served/batches.py 3`, but keep the existing numbering: only append new batches for URLs not yet covered).
 7. Separate sections later: Wikipedia "rabbit holes" (most-linked articles), books (Amazon/Goodreads links → titles), GitHub repos.
 8. Daily updates from the HN API, and deploy (owner to decide: GitHub Pages / VPS / domain).
 9. Personalisation from browser history (Chrome/Safari) to re-rank the feed.

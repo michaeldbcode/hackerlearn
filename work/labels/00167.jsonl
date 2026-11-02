@@ -1,0 +1,200 @@
+{"id": 33400, "keep": 1, "q": 3, "kind": "reference", "topic": "energy", "depth": "intro", "title": "Carbon dioxide emissions from electricity", "why": "Compares lifecycle CO2 emissions of power sources, with nuclear figures and sources."}
+{"id": 33401, "keep": 1, "q": 3, "kind": "reference", "topic": "nuclear energy", "depth": "intro", "title": "Fukushima accident", "why": "Explains how the 2011 Fukushima Daiichi accident unfolded and what it taught about reactor safety."}
+{"id": 33402, "keep": 1, "q": 3, "kind": "essay", "topic": "programming", "depth": "intro", "title": "The One-Person Framework", "why": "Argues Rails lets a solo founder build and run a full product without a team."}
+{"id": 33403, "keep": 0, "q": 1, "kind": "tool", "topic": "data", "depth": "intro", "title": "Open Food Facts data", "why": "Download and API page for a food database; no explanatory content."}
+{"id": 33404, "keep": 1, "q": 3, "kind": "paper", "topic": "psychology", "depth": "intermediate", "title": "The sad state of happiness in the US and digital media", "why": "World Happiness Report chapter linking internet use with lower wellbeing, backed by data analysis."}
+{"id": 33405, "keep": 0, "q": 1, "kind": "reference", "topic": "poverty", "depth": "intro", "title": "World hunger and poverty facts", "why": "Statistics lookup page of hunger figures."}
+{"id": 33406, "keep": 0, "q": 1, "kind": "reference", "topic": "poverty", "depth": "intro", "title": "US hunger facts", "why": "Statistics page on US household food insecurity figures."}
+{"id": 33407, "keep": 0, "q": 1, "kind": "reference", "topic": "health", "depth": "intro", "title": "Alcohol consumption by country", "why": "Country ranking table; a statistics lookup."}
+{"id": 33408, "keep": 0, "q": 1, "kind": "reference", "topic": "health", "depth": "intro", "title": "Alcoholism by country", "why": "Country ranking table; a statistics lookup."}
+{"id": 33409, "keep": 0, "q": 1, "kind": "reference", "topic": "healthcare", "depth": "intro", "title": "Best healthcare by country", "why": "Country ranking table; a statistics lookup."}
+{"id": 33410, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Countries that recognize Taiwan", "why": "List page of diplomatic recognition; a lookup."}
+{"id": 33411, "keep": 0, "q": 1, "kind": "reference", "topic": "crime", "depth": "intro", "title": "Crime rate by country", "why": "Country ranking table; a statistics lookup."}
+{"id": 33412, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Gini coefficient by country", "why": "Country ranking table; a statistics lookup."}
+{"id": 33413, "keep": 0, "q": 1, "kind": "reference", "topic": "internet", "depth": "intro", "title": "Internet speeds by country", "why": "Country ranking table; a statistics lookup."}
+{"id": 33414, "keep": 0, "q": 1, "kind": "reference", "topic": "health", "depth": "intro", "title": "Obesity rates by country", "why": "Country ranking table; a statistics lookup."}
+{"id": 33415, "keep": 0, "q": 1, "kind": "reference", "topic": "crime", "depth": "intro", "title": "Stabbing deaths by country", "why": "Country ranking table; a statistics lookup."}
+{"id": 33416, "keep": 0, "q": 1, "kind": "reference", "topic": "health", "depth": "intro", "title": "Suicide rate by country", "why": "Country ranking table; a statistics lookup."}
+{"id": 33417, "keep": 0, "q": 1, "kind": "reference", "topic": "demographics", "depth": "intro", "title": "Total fertility rate by country", "why": "Country ranking table; a statistics lookup."}
+{"id": 33418, "keep": 1, "q": 4, "kind": "essay", "topic": "geopolitics", "depth": "intermediate", "title": "Geopolitics of the United States, Part 1: Inevitable Empire", "why": "Argues US river geography, not policy alone, explains its rise to continental power."}
+{"id": 33419, "keep": 0, "q": 1, "kind": "reference", "topic": "poverty", "depth": "intro", "title": "Global poverty facts", "why": "Statistics page from a charity's news section."}
+{"id": 33420, "keep": 1, "q": 4, "kind": "essay", "topic": "interaction design", "depth": "intro", "title": "Ten Brighter Ideas", "why": "Bret Victor's case for interactive, reactive documents as the future of textbooks and explanations."}
+{"id": 33421, "keep": 1, "q": 3, "kind": "essay", "topic": "web", "depth": "intermediate", "title": "The Web of Alexandria", "why": "Bret Victor on how the web should structure and preserve knowledge, using the Library of Alexandria analogy."}
+{"id": 33422, "keep": 1, "q": 5, "kind": "paper", "topic": "software engineering", "depth": "intermediate", "title": "No Silver Bullet", "why": "Brooks's classic on essential versus accidental complexity and why no single technique gives order-of-magnitude gains."}
+{"id": 33423, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "Groq letter to Elon Musk", "why": "Company letter about a trademark dispute over the name Grok."}
+{"id": 33424, "keep": 1, "q": 4, "kind": "essay", "topic": "writing", "depth": "intro", "title": "Shitty First Drafts", "why": "Anne Lamott on accepting imperfect first drafts as the way writing actually gets done."}
+{"id": 33425, "keep": 0, "q": 2, "kind": "blog", "topic": "productivity", "depth": "intro", "title": "Don't Break the Chain", "why": "Short note on daily habit tracking, mostly anecdote."}
+{"id": 33426, "keep": 1, "q": 3, "kind": "docs", "topic": "documentation", "depth": "intro", "title": "Docs as Code", "why": "Introduces treating documentation like source code: versioning, review and automated builds."}
+{"id": 33427, "keep": 0, "q": 2, "kind": "tool", "topic": "shells", "depth": "intro", "title": "es shell", "why": "Project homepage for the es shell; little explanation."}
+{"id": 33428, "keep": 0, "q": 2, "kind": "journalism", "topic": "law", "depth": "intro", "title": "WSJ article on criminal law", "why": "Paywalled WSJ article on criminal law, mostly cited in arguments."}
+{"id": 33429, "keep": 0, "q": 1, "kind": "news", "topic": "audio", "depth": "intro", "title": "Personal utility pole (WSJ)", "why": "Light feature story about luxury audio gear."}
+{"id": 33430, "keep": 0, "q": 1, "kind": "news", "topic": "gaming", "depth": "intro", "title": "Activision and Bobby Kotick allegations (WSJ)", "why": "Time-sensitive news report on misconduct allegations."}
+{"id": 33431, "keep": 0, "q": 2, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Facebook's Onavo (WSJ)", "why": "News report on Facebook's analytics VPN app; time-bound."}
+{"id": 33432, "keep": 0, "q": 2, "kind": "news", "topic": "education", "depth": "intro", "title": "Foreign students seen cheating more (WSJ)", "why": "News report whose figures are cited in arguments."}
+{"id": 33433, "keep": 0, "q": 2, "kind": "journalism", "topic": "search", "depth": "intro", "title": "How Google interferes with search (WSJ)", "why": "Paywalled investigation, cited as evidence in debate rather than taught from."}
+{"id": 33434, "keep": 0, "q": 1, "kind": "news", "topic": "housing", "depth": "intro", "title": "Pension funds buying houses (WSJ)", "why": "Market news on institutional home buying."}
+{"id": 33435, "keep": 0, "q": 1, "kind": "news", "topic": "covid", "depth": "intro", "title": "Intelligence on sick Wuhan lab staff (WSJ)", "why": "Breaking news report; debated and time-bound."}
+{"id": 33436, "keep": 0, "q": 2, "kind": "news", "topic": "covid", "depth": "intro", "title": "Is the coronavirus as deadly as they say (WSJ)", "why": "Opinion-laced 2020 news piece on fatality estimates."}
+{"id": 33437, "keep": 0, "q": 1, "kind": "news", "topic": "media", "depth": "intro", "title": "Spotify Joe Rogan deal (WSJ)", "why": "Business news about a licensing deal."}
+{"id": 33438, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "The University's New Loyalty Oath (WSJ)", "why": "Opinion piece on diversity statements in hiring."}
+{"id": 33439, "keep": 0, "q": 1, "kind": "news", "topic": "economics", "depth": "intro", "title": "Top 20% of earners pay 84% of income tax (WSJ)", "why": "News statistic cited in tax arguments."}
+{"id": 33440, "keep": 1, "q": 3, "kind": "journalism", "topic": "china", "depth": "intro", "title": "Twelve Days in Xinjiang", "why": "Day-by-day reporting on how surveillance shapes everyday life in Xinjiang; paywalled."}
+{"id": 33441, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Elon Musk illegal drugs (WSJ)", "why": "Breaking profile news about a public figure."}
+{"id": 33442, "keep": 1, "q": 4, "kind": "visual", "topic": "climate", "depth": "intro", "title": "Are Electric Cars Really Better for the Environment?", "why": "Visual lifetime-emissions comparison of EVs and petrol cars, showing where the impact comes from."}
+{"id": 33443, "keep": 0, "q": 1, "kind": "news", "topic": "politics", "depth": "intro", "title": "Google censoring WSWS", "why": "Political news piece on search censorship claims."}
+{"id": 33444, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "WTFPL licence text", "why": "Licence text with no explanation."}
+{"id": 33445, "keep": 0, "q": 2, "kind": "tool", "topic": "security", "depth": "intro", "title": "Wuala learn: technology", "why": "Product page on client-side encryption; service promotion."}
+{"id": 33446, "keep": 1, "q": 5, "kind": "book", "topic": "probability", "depth": "expert", "title": "Probability Theory: The Logic of Science", "why": "Jaynes's foundational treatment of probability as extended logic and Bayesian inference."}
+{"id": 33447, "keep": 0, "q": 2, "kind": "paper", "topic": "ai", "depth": "intermediate", "title": "Anthropic PDF (unidentified)", "why": "Document cited in a debate about AI coding productivity; content unclear from snippets."}
+{"id": 33448, "keep": 0, "q": 1, "kind": "other", "topic": "programming", "depth": "intro", "title": "Donald Knuth homepage", "why": "Personal homepage with no learning content."}
+{"id": 33449, "keep": 0, "q": 2, "kind": "tool", "topic": "programming", "depth": "intermediate", "title": "CWEB", "why": "Knuth's CWEB project page for literate programming in C; minimal teaching content."}
+{"id": 33450, "keep": 0, "q": 2, "kind": "tool", "topic": "cryptography", "depth": "intermediate", "title": "jsbn", "why": "JavaScript big-number library page; a code download."}
+{"id": 33451, "keep": 1, "q": 4, "kind": "essay", "topic": "programming languages", "depth": "intermediate", "title": "History of Lisp", "why": "McCarthy's account of designing Lisp and bootstrapping its first implementation."}
+{"id": 33452, "keep": 1, "q": 3, "kind": "visual", "topic": "politics", "depth": "intro", "title": "2016 election maps", "why": "Maps arguing red-blue state maps are partly an artifact of the voting system."}
+{"id": 33453, "keep": 0, "q": 2, "kind": "paper", "topic": "politics", "depth": "expert", "title": "Benford's law and the 2020 election", "why": "Contested statistics paper cited in a political argument."}
+{"id": 33454, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Cosmo Communicator", "why": "Product page for a handheld device."}
+{"id": 33455, "keep": 1, "q": 3, "kind": "visual", "topic": "graphics", "depth": "intro", "title": "Image formats comparison", "why": "Side-by-side visual comparison of JPEG and newer image codecs at various bitrates."}
+{"id": 33456, "keep": 1, "q": 4, "kind": "essay", "topic": "aerospace", "depth": "intro", "title": "Flying on Mars", "why": "Physics-based look at why winged flight on Mars is hard and what it would take."}
+{"id": 33457, "keep": 1, "q": 3, "kind": "essay", "topic": "graphics", "depth": "intermediate", "title": "X12 (Development/X12)", "why": "Critique of X11's design problems and the reasoning behind the new protocol, Wayland."}
+{"id": 33458, "keep": 0, "q": 2, "kind": "reference", "topic": "graphics", "depth": "intro", "title": "RadeonFeature matrix", "why": "Feature-support table for open-source AMD drivers; a lookup."}
+{"id": 33459, "keep": 1, "q": 3, "kind": "blog", "topic": "video compression", "depth": "intermediate", "title": "VP8 vs x264 vs JPEG", "why": "Developer's comparison of VP8, x264 and JPEG image quality, with comments worth reading."}
+{"id": 33460, "keep": 0, "q": 2, "kind": "other", "topic": "software history", "depth": "intro", "title": "GIMP name origin", "why": "Trivia about the name GIMP; a short history note."}
+{"id": 33461, "keep": 0, "q": 1, "kind": "other", "topic": "mobile", "depth": "intro", "title": "Xamarin platform", "why": "Product marketing page."}
+{"id": 33462, "keep": 1, "q": 3, "kind": "reference", "topic": "data structures", "depth": "expert", "title": "ZigZag structure", "why": "Ted Nelson's ZigZag data structure for representing associative, thought-like knowledge."}
+{"id": 33463, "keep": 0, "q": 1, "kind": "other", "topic": "social", "depth": "intro", "title": "Tweet via xcancel", "why": "Social media post."}
+{"id": 33464, "keep": 0, "q": 1, "kind": "tool", "topic": "windows", "depth": "intro", "title": "Notepad2-mod", "why": "Editor download page."}
+{"id": 33465, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Copy Fail (CVE-2026-31431) writeup", "why": "Technical walkthrough of a Linux privilege-escalation bug and which distributions are affected."}
+{"id": 33466, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1022", "why": "Joke comic referenced in a thread."}
+{"id": 33467, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1027", "why": "Joke comic on dark patterns with no explanation."}
+{"id": 33468, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1037", "why": "Comic referenced in a disaster-discussion thread."}
+{"id": 33469, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1057", "why": "Joke comic about Klout with no lesson."}
+{"id": 33470, "keep": 1, "q": 3, "kind": "visual", "topic": "politics", "depth": "intro", "title": "xkcd 1127: American political parties", "why": "Dense visual history of US political parties and their names over time."}
+{"id": 33471, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 114", "why": "Joke comic."}
+{"id": 33472, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1215", "why": "Comic referenced in a discussion; no lesson."}
+{"id": 33473, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1216", "why": "Comic about words and bullying; opinion."}
+{"id": 33474, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1240", "why": "Joke comic about quantum effects in brains."}
+{"id": 33475, "keep": 0, "q": 2, "kind": "comic", "topic": "computing", "depth": "intro", "title": "xkcd 1266", "why": "Joke comic about the halting problem; a light touch."}
+{"id": 33476, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1273", "why": "Joke comic."}
+{"id": 33477, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1289", "why": "Joke comic."}
+{"id": 33478, "keep": 0, "q": 1, "kind": "comic", "topic": "math", "depth": "intro", "title": "xkcd 135", "why": "Joke comic about a math exercise."}
+{"id": 33479, "keep": 1, "q": 3, "kind": "visual", "topic": "space", "depth": "intro", "title": "Solar system land area (xkcd 1389)", "why": "Visual comparing usable surface area across the solar system, grounding space-resource debates."}
+{"id": 33480, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1447", "why": "Joke comic."}
+{"id": 33481, "keep": 1, "q": 3, "kind": "visual", "topic": "statistics", "depth": "intro", "title": "P-values (xkcd 1478)", "why": "Comic and linked explainer on reading p-values and effect sizes in A/B tests."}
+{"id": 33482, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1495", "why": "Joke comic about a broken router."}
+{"id": 33483, "keep": 0, "q": 2, "kind": "comic", "topic": "statistics", "depth": "intro", "title": "xkcd 1520", "why": "Joke comic about statistical significance thresholds."}
+{"id": 33484, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1656", "why": "Joke comic."}
+{"id": 33485, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 178", "why": "Joke comic."}
+{"id": 33486, "keep": 0, "q": 2, "kind": "comic", "topic": "science", "depth": "intro", "title": "xkcd 182", "why": "Joke comic about explaining things to an audience."}
+{"id": 33487, "keep": 0, "q": 2, "kind": "comic", "topic": "networking", "depth": "intro", "title": "xkcd 1865", "why": "Joke comic about LTE versus WiFi."}
+{"id": 33488, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 1963", "why": "Joke comic."}
+{"id": 33489, "keep": 0, "q": 1, "kind": "comic", "topic": "politics", "depth": "intro", "title": "xkcd 2015", "why": "Joke comic on upload filters."}
+{"id": 33490, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 2043", "why": "Joke comic on moons and trains."}
+{"id": 33491, "keep": 0, "q": 2, "kind": "comic", "topic": "math", "depth": "intro", "title": "xkcd 2117", "why": "Joke comic about rote integration tricks."}
+{"id": 33492, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 2159", "why": "Joke comic."}
+{"id": 33493, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 2278", "why": "Joke comic about progress."}
+{"id": 33494, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 2304", "why": "Joke comic."}
+{"id": 33495, "keep": 1, "q": 3, "kind": "visual", "topic": "statistics", "depth": "intro", "title": "Vaccine efficacy (xkcd 2400)", "why": "Comic showing how an effective vaccine's case counts look in early trial data."}
+{"id": 33496, "keep": 1, "q": 3, "kind": "visual", "topic": "biology", "depth": "intro", "title": "mRNA vaccines (xkcd 2425)", "why": "Comic explaining mRNA vaccines as blueprints that train the immune system."}
+{"id": 33497, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 256", "why": "Joke map comic."}
+{"id": 33498, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 2730", "why": "Joke comic on software momentum."}
+{"id": 33499, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 331", "why": "Joke comic."}
+{"id": 33500, "keep": 0, "q": 1, "kind": "comic", "topic": "programming", "depth": "intro", "title": "xkcd 341", "why": "Joke comic about netcat."}
+{"id": 33501, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 369", "why": "Joke comic about blogging."}
+{"id": 33502, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 447", "why": "Joke comic."}
+{"id": 33503, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 670", "why": "Joke comic about engineers."}
+{"id": 33504, "keep": 0, "q": 1, "kind": "comic", "topic": "science", "depth": "intro", "title": "xkcd 683", "why": "Joke comic about how long science takes."}
+{"id": 33505, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 690", "why": "Joke comic."}
+{"id": 33506, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 721", "why": "Joke comic about 4D games."}
+{"id": 33507, "keep": 0, "q": 1, "kind": "comic", "topic": "language", "depth": "intro", "title": "xkcd 739", "why": "Joke comic about word usage."}
+{"id": 33508, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 750", "why": "Joke comic."}
+{"id": 33509, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 77", "why": "Joke comic."}
+{"id": 33510, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 794", "why": "Joke comic about inside jokes."}
+{"id": 33511, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 801", "why": "Joke comic about overengineering."}
+{"id": 33512, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 871", "why": "Joke comic on charity motives."}
+{"id": 33513, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 891", "why": "Joke comic about movie release dates."}
+{"id": 33514, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 898", "why": "Joke comic on losing talent to industry."}
+{"id": 33515, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 906", "why": "Joke comic on citations."}
+{"id": 33516, "keep": 0, "q": 1, "kind": "comic", "topic": "other", "depth": "intro", "title": "xkcd 910", "why": "Joke comic."}
+{"id": 33517, "keep": 1, "q": 3, "kind": "visual", "topic": "statistics", "depth": "intro", "title": "Percentage points (xkcd 985)", "why": "Comic clarifying percentage points versus percent change."}
+{"id": 33518, "keep": 1, "q": 2, "kind": "blog", "topic": "messaging", "depth": "intro", "title": "No, it's not the end of XMPP for Google Talk", "why": "Explains what Google's 2015 change meant for XMPP clients and interoperability."}
+{"id": 33519, "keep": 1, "q": 2, "kind": "reference", "topic": "messaging", "depth": "expert", "title": "XEP-0277: Microblogging over XMPP", "why": "Protocol spec for microblogging; a design reference for decentralised social feeds."}
+{"id": 33520, "keep": 1, "q": 2, "kind": "reference", "topic": "messaging", "depth": "expert", "title": "XEP-0280: Message Carbons", "why": "Spec for copying messages to all of a user's connected clients."}
+{"id": 33521, "keep": 1, "q": 3, "kind": "reference", "topic": "mobile", "depth": "expert", "title": "XEP-0286: Mobile optimizations", "why": "Explains how radio state and open sockets affect mobile battery and messaging design."}
+{"id": 33522, "keep": 0, "q": 1, "kind": "reference", "topic": "messaging", "depth": "intro", "title": "XMPP software", "why": "Directory of client and server software."}
+{"id": 33523, "keep": 1, "q": 3, "kind": "blog", "topic": "distributed systems", "depth": "intermediate", "title": "Introducing Doozer", "why": "Announcement of a Paxos-based consistent datastore, with design notes and context."}
+{"id": 33524, "keep": 1, "q": 3, "kind": "essay", "topic": "programming", "depth": "intermediate", "title": "Ron Jeffries' Sudoku TDD attempt", "why": "Famous attempt to solve Sudoku with TDD, read alongside Norvig's engineering approach."}
+{"id": 33525, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "X210 motherboard mod", "why": "Vendor product page for a ThinkPad motherboard."}
+{"id": 33526, "keep": 0, "q": 1, "kind": "other", "topic": "economics", "depth": "intro", "title": "Yang: What is UBI", "why": "Campaign policy page, not an independent explainer."}
+{"id": 33527, "keep": 0, "q": 2, "kind": "essay", "topic": "crypto", "depth": "intermediate", "title": "Proof of stake is a scam", "why": "Polemic against proof of stake; opinion rather than a teaching piece."}
+{"id": 33528, "keep": 1, "q": 2, "kind": "essay", "topic": "security", "depth": "intermediate", "title": "Linus Torvalds on security bugs", "why": "Torvalds's argument that security bugs should be handled as normal bugs, quoted from mailing lists."}
+{"id": 33529, "keep": 0, "q": 1, "kind": "news", "topic": "hardware", "depth": "intro", "title": "YASA motor power density record", "why": "Press release on a motor record."}
+{"id": 33530, "keep": 0, "q": 1, "kind": "reference", "topic": "finance", "depth": "intro", "title": "Tesla gross margin", "why": "Stats tracker page."}
+{"id": 33531, "keep": 0, "q": 1, "kind": "reference", "topic": "crypto", "depth": "intro", "title": "Ethereum transaction fee", "why": "Stats tracker page."}
+{"id": 33532, "keep": 0, "q": 1, "kind": "tool", "topic": "css", "depth": "intro", "title": "Tacit CSS", "why": "Framework homepage; a product to try."}
+{"id": 33533, "keep": 1, "q": 3, "kind": "blog", "topic": "web frameworks", "depth": "intermediate", "title": "Rails and Merb Merge", "why": "Yehuda Katz on merging Merb into Rails and the design ideas carried over."}
+{"id": 33534, "keep": 0, "q": 1, "kind": "news", "topic": "javascript", "depth": "intro", "title": "Amber.js renamed Ember.js", "why": "Naming announcement; news."}
+{"id": 33535, "keep": 0, "q": 1, "kind": "tool", "topic": "javascript", "depth": "intro", "title": "Yeoman generators", "why": "Directory of project generators."}
+{"id": 33536, "keep": 1, "q": 4, "kind": "essay", "topic": "economics", "depth": "intermediate", "title": "Part 1: My Life Is a Lie", "why": "Argues the US poverty line is outdated, showing how the benchmark understates the cost of living."}
+{"id": 33537, "keep": 1, "q": 2, "kind": "docs", "topic": "haskell", "depth": "intermediate", "title": "Yesod Persistent book chapter", "why": "Explains type-safe database access in Haskell with the Persistent library."}
+{"id": 33538, "keep": 0, "q": 2, "kind": "book", "topic": "fiction", "depth": "intro", "title": "The Last Ringbearer", "why": "Fiction novel; not informational."}
+{"id": 33539, "keep": 1, "q": 3, "kind": "essay", "topic": "c", "depth": "expert", "title": "Torvalds on aliasing", "why": "Torvalds's rant on C strict aliasing rules and why undefined behaviour hurts systems code."}
+{"id": 33540, "keep": 1, "q": 3, "kind": "essay", "topic": "career", "depth": "intro", "title": "Do call yourself a programmer", "why": "Argues for calling yourself a programmer and why 'delivering value' framing misleads."}
+{"id": 33541, "keep": 1, "q": 3, "kind": "blog", "topic": "databases", "depth": "expert", "title": "Using MySQL as a NoSQL store", "why": "Explains using InnoDB directly through HandlerSocket for key-value access without SQL."}
+{"id": 33542, "keep": 1, "q": 3, "kind": "essay", "topic": "psychology", "depth": "intro", "title": "Confirmation Bias", "why": "Accessible overview of confirmation bias and how it shapes beliefs and reading."}
+{"id": 33543, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "YouBetrayUs Facebook", "why": "Advocacy page making a surveillance claim."}
+{"id": 33544, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "How Britons reacted to age verification", "why": "Survey results page; time-bound."}
+{"id": 33545, "keep": 1, "q": 2, "kind": "reference", "topic": "logic", "depth": "intro", "title": "Black or white fallacy", "why": "Short explainer of the false dichotomy fallacy with examples."}
+{"id": 33546, "keep": 1, "q": 2, "kind": "reference", "topic": "logic", "depth": "intro", "title": "Tu quoque fallacy", "why": "Short explainer of the tu quoque fallacy and how it gets misused."}
+{"id": 33547, "keep": 0, "q": 1, "kind": "other", "topic": "ide", "depth": "intro", "title": "IntelliJ remote development issue", "why": "Issue tracker entry."}
+{"id": 33548, "keep": 1, "q": 2, "kind": "essay", "topic": "philosophy", "depth": "intermediate", "title": "Yehuda (Yudkowsky)", "why": "Reflective essay on death and meaning that commenters find helpful."}
+{"id": 33549, "keep": 1, "q": 3, "kind": "blog", "topic": "web performance", "depth": "intermediate", "title": "Performance Research, Part 2", "why": "Yahoo's 2007 data on empty-cache page views and what it implies for web performance."}
+{"id": 33550, "keep": 0, "q": 1, "kind": "tool", "topic": "app", "depth": "intro", "title": "Yuka app", "why": "App homepage."}
+{"id": 33551, "keep": 1, "q": 3, "kind": "talk", "topic": "management", "depth": "intro", "title": "Firing People", "why": "Zach Holman's talk on firing people and the realities of managing them out."}
+{"id": 33552, "keep": 0, "q": 1, "kind": "other", "topic": "games", "depth": "intro", "title": "EXAPUNKS", "why": "Game product page."}
+{"id": 33553, "keep": 0, "q": 1, "kind": "other", "topic": "games", "depth": "intro", "title": "Dordle", "why": "Game page."}
+{"id": 33554, "keep": 0, "q": 1, "kind": "tool", "topic": "ai", "depth": "intro", "title": "ZCode", "why": "Product page for an AI coding app."}
+{"id": 33555, "keep": 0, "q": 2, "kind": "news", "topic": "web", "depth": "intermediate", "title": "Apple declined to implement 16 web APIs", "why": "News article on Safari API decisions; time-bound."}
+{"id": 33556, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Facebook passwords are not case-sensitive", "why": "News article about a password quirk; a single fact."}
+{"id": 33557, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Zoom defends local web server", "why": "News article on a product controversy."}
+{"id": 33558, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "Facebook passwords update", "why": "News blog update on a password quirk."}
+{"id": 33559, "keep": 0, "q": 1, "kind": "blog", "topic": "ai", "depth": "intro", "title": "Disable AI features in Zed", "why": "Product announcement."}
+{"id": 33560, "keep": 0, "q": 1, "kind": "news", "topic": "tooling", "depth": "intro", "title": "Zed roadmap", "why": "Product roadmap page."}
+{"id": 33561, "keep": 1, "q": 3, "kind": "tutorial", "topic": "parsing", "depth": "intermediate", "title": "Ragel State Charts", "why": "Walkthrough of modelling state machines in Ragel, a DSL that generates parsers."}
+{"id": 33562, "keep": 0, "q": 1, "kind": "news", "topic": "javascript", "depth": "intro", "title": "Next.js release post", "why": "Release announcement."}
+{"id": 33563, "keep": 1, "q": 3, "kind": "visual", "topic": "privacy", "depth": "intro", "title": "Malte Spitz's phone data", "why": "Visualizes six months of one politician's phone location data, showing what tracking reveals."}
+{"id": 33564, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "German energy monitor", "why": "Live statistics dashboard; time-bound."}
+{"id": 33565, "keep": 0, "q": 1, "kind": "reference", "topic": "energy", "depth": "intro", "title": "German electricity price monitor", "why": "Statistics dashboard; time-bound."}
+{"id": 33566, "keep": 0, "q": 1, "kind": "news", "topic": "finance", "depth": "intro", "title": "Braeburn hedge fund", "why": "Blogspam news about a fund."}
+{"id": 33567, "keep": 1, "q": 3, "kind": "docs", "topic": "messaging", "depth": "intro", "title": "ZeroMQ get started", "why": "Introduces ZeroMQ sockets, messaging patterns and CurveZMQ encryption."}
+{"id": 33568, "keep": 0, "q": 1, "kind": "reference", "topic": "economics", "depth": "intro", "title": "Debt as percent of GDP", "why": "Statistics tracker."}
+{"id": 33569, "keep": 1, "q": 3, "kind": "docs", "topic": "programming", "depth": "intermediate", "title": "Zig build system", "why": "Guide to using Zig as a build system for C and C++ projects."}
+{"id": 33570, "keep": 0, "q": 1, "kind": "reference", "topic": "housing", "depth": "intro", "title": "Palo Alto home values", "why": "Statistics tracker."}
+{"id": 33571, "keep": 0, "q": 1, "kind": "reference", "topic": "housing", "depth": "intro", "title": "Seattle home values", "why": "Statistics tracker."}
+{"id": 33572, "keep": 0, "q": 1, "kind": "tool", "topic": "notes", "depth": "intro", "title": "Zim wiki", "why": "Notes tool homepage."}
+{"id": 33573, "keep": 0, "q": 1, "kind": "reference", "topic": "transport", "depth": "intro", "title": "Average commute time", "why": "Statistics page."}
+{"id": 33574, "keep": 1, "q": 2, "kind": "reference", "topic": "economics", "depth": "intermediate", "title": "Usury FAQ", "why": "Catholic-perspective FAQ on the history and ethics of interest and usury."}
+{"id": 33575, "keep": 1, "q": 3, "kind": "journalism", "topic": "russia", "depth": "intermediate", "title": "The sad fate of Yandex", "why": "Analysis of how Yandex went from independent startup to a state-aligned tool."}
+{"id": 33576, "keep": 0, "q": 1, "kind": "other", "topic": "jobs", "depth": "intro", "title": "Zonar jobs", "why": "Job listings."}
+{"id": 33577, "keep": 0, "q": 1, "kind": "other", "topic": "pricing", "depth": "intro", "title": "Zoom pricing", "why": "Pricing page."}
+{"id": 33578, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "Zorin OS Pro", "why": "Product page for a paid Linux edition."}
+{"id": 33579, "keep": 0, "q": 1, "kind": "tool", "topic": "research", "depth": "intro", "title": "Zotero download", "why": "Software download page."}
+{"id": 33580, "keep": 1, "q": 3, "kind": "docs", "topic": "shells", "depth": "intermediate", "title": "Zsh Line Editor manual", "why": "Zsh manual section on line editing and key bindings."}
+{"id": 33581, "keep": 0, "q": 1, "kind": "docs", "topic": "chat", "depth": "intro", "title": "Zulip public access", "why": "Product help page on one feature."}
+{"id": 33582, "keep": 0, "q": 1, "kind": "other", "topic": "chat", "depth": "intro", "title": "Zulip plans", "why": "Pricing page."}
+{"id": 33583, "keep": 1, "q": 2, "kind": "blog", "topic": "developer tools", "depth": "intermediate", "title": "C IDE evolution: semantic highlighting", "why": "Shows how KDevelop's semantic highlighting and code navigation make C code easier to read."}
+{"id": 33584, "keep": 1, "q": 3, "kind": "blog", "topic": "unix", "depth": "expert", "title": "File locking", "why": "Explains POSIX fcntl and flock locking pitfalls and why BerkeleyDB can't be made safe."}
+{"id": 33585, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "expert", "title": "Authenticated boot and disk encryption on Linux", "why": "Explains TPM-based authenticated boot and disk encryption, with the motivation for end users."}
+{"id": 33586, "keep": 1, "q": 3, "kind": "essay", "topic": "linux", "depth": "expert", "title": "Stateless systems", "why": "Poettering on stateless Linux systems and verifiable, reproducible OS builds."}
+{"id": 33587, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "expert", "title": "Unlocking LUKS2 with TPM2 and FIDO2", "why": "Explains unlocking encrypted disks with TPM2 and hardware security keys in systemd."}
+{"id": 33588, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Human Web proxy network", "why": "Rebuttal to a privacy controversy; time-bound."}
+{"id": 33589, "keep": 1, "q": 2, "kind": "blog", "topic": "search", "depth": "intermediate", "title": "A new search engine", "why": "Describes building a search index from browser query data and its privacy trade-offs."}
+{"id": 33590, "keep": 1, "q": 3, "kind": "blog", "topic": "performance", "depth": "expert", "title": "SSE popcount", "why": "Wojciech Mula's SSSE3 popcount and when it beats the POPCNT instruction."}
+{"id": 33591, "keep": 0, "q": 2, "kind": "tool", "topic": "terminal", "depth": "intro", "title": "ttyrec", "why": "Tool page for recording terminal sessions."}
+{"id": 33592, "keep": 0, "q": 1, "kind": "tool", "topic": "dns", "depth": "intro", "title": "1.1.1.1 purge cache", "why": "Tool page to clear a DNS cache."}
+{"id": 33593, "keep": 1, "q": 3, "kind": "essay", "topic": "data structures", "depth": "expert", "title": "Piece tables", "why": "Explains the piece table structure Word used for fast editing and saves."}
+{"id": 33594, "keep": 0, "q": 1, "kind": "other", "topic": "databases", "depth": "intro", "title": "MongoDB jobs", "why": "Job listings."}
+{"id": 33595, "keep": 1, "q": 4, "kind": "reference", "topic": "devops", "depth": "intro", "title": "The Twelve-Factor App: Dependencies", "why": "Principle for explicitly declaring and isolating dependencies in any language."}
+{"id": 33596, "keep": 1, "q": 3, "kind": "paper", "topic": "cryptography", "depth": "expert", "title": "SipHash", "why": "Paper on a fast keyed hash for hash tables, with comparisons to other hash functions."}
+{"id": 33597, "keep": 1, "q": 4, "kind": "docs", "topic": "databases", "depth": "expert", "title": "CMU 15-721 Advanced Database Systems", "why": "Andy Pavlo's course on database internals, with lectures and reading materials."}
+{"id": 33598, "keep": 0, "q": 1, "kind": "tool", "topic": "diet", "depth": "intro", "title": "Calorie calculator", "why": "Calculator tool page."}
+{"id": 33599, "keep": 0, "q": 1, "kind": "other", "topic": "robotics", "depth": "intro", "title": "1X Neo", "why": "Product page for a humanoid robot."}
