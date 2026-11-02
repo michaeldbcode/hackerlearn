@@ -1,0 +1,200 @@
+{"id": 38600, "keep": 0, "q": 1, "kind": "tool", "topic": "version control", "depth": "intro", "title": "Fuchsia commit log", "why": "Raw commit history listing; nothing to learn from it directly."}
+{"id": 38601, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "FullContact careers", "why": "Company jobs and perks page, not instructive content."}
+{"id": 38602, "keep": 1, "q": 3, "kind": "blog", "topic": "economics", "depth": "intermediate", "title": "No, the Real Inflation Rate Isn't 14 Percent", "why": "Explains CPI index math and why shadowstats-style inflation claims are flawed."}
+{"id": 38603, "keep": 0, "q": 1, "kind": "other", "topic": "open source funding", "depth": "intro", "title": "Django REST Framework funding", "why": "Donation appeal page for a web framework."}
+{"id": 38604, "keep": 0, "q": 1, "kind": "tool", "topic": "shell", "depth": "intro", "title": "Keychain (funtoo wiki)", "why": "Wiki page for an ssh-agent helper; a tool reference."}
+{"id": 38605, "keep": 0, "q": 1, "kind": "other", "topic": "phones", "depth": "intro", "title": "FURI Labs FLX1s shop", "why": "Product sales page for a phone."}
+{"id": 38606, "keep": 1, "q": 3, "kind": "blog", "topic": "embedded linux", "depth": "intermediate", "title": "Raspberry Pi 3 Boot in Under 2 Seconds", "why": "Walks through Pi boot stages and techniques for cutting boot time."}
+{"id": 38607, "keep": 1, "q": 3, "kind": "paper", "topic": "housing economics", "depth": "intermediate", "title": "Supply Skepticism", "why": "Literature review answering objections that new housing supply does not lower prices."}
+{"id": 38608, "keep": 0, "q": 2, "kind": "other", "topic": "open source licensing", "depth": "intro", "title": "FUTO statement on open source", "why": "Organization's position statement on its source-first license."}
+{"id": 38609, "keep": 0, "q": 2, "kind": "other", "topic": "erlang", "depth": "intro", "title": "FutureLearn Functional Programming in Erlang", "why": "Course enrolment landing page rather than teaching content."}
+{"id": 38610, "keep": 1, "q": 3, "kind": "talk", "topic": "programming languages", "depth": "intro", "title": "Future of Coding #45: Orca", "why": "Interview on the Orca esoteric language and its creator's design thinking."}
+{"id": 38611, "keep": 0, "q": 1, "kind": "news", "topic": "elon musk", "depth": "intro", "title": "Elon Musk's father and the emerald mine", "why": "Celebrity news story about a family business."}
+{"id": 38612, "keep": 0, "q": 1, "kind": "news", "topic": "self-driving cars", "depth": "intro", "title": "Musk promises self-driving cars again", "why": "News item about a repeated public promise."}
+{"id": 38613, "keep": 0, "q": 2, "kind": "news", "topic": "epidemiology", "depth": "intermediate", "title": "Conference call with coronavirus expert", "why": "Dated 2020 pandemic call; news of the moment."}
+{"id": 38614, "keep": 0, "q": 1, "kind": "tool", "topic": "json tools", "depth": "intro", "title": "fx getting started", "why": "Getting-started page for a JSON command-line tool."}
+{"id": 38615, "keep": 1, "q": 3, "kind": "journalism", "topic": "generative video", "depth": "intermediate", "title": "Actually Using Sora", "why": "Practical account of how filmmakers used Sora in real production work."}
+{"id": 38616, "keep": 0, "q": 1, "kind": "other", "topic": "terms of service", "depth": "intro", "title": "Gab Terms of Service", "why": "Legal terms of service text."}
+{"id": 38617, "keep": 1, "q": 5, "kind": "tutorial", "topic": "game networking", "depth": "intermediate", "title": "Client-Side Prediction and Server Reconciliation", "why": "Explains how games hide latency with prediction and reconciliation, with a live demo."}
+{"id": 38618, "keep": 1, "q": 2, "kind": "blog", "topic": "startups", "depth": "intro", "title": "My DuckDuckGo Reddit Ad by the Numbers", "why": "Concrete data from one startup's Reddit ad campaign and what it showed."}
+{"id": 38619, "keep": 1, "q": 3, "kind": "blog", "topic": "startups", "depth": "intro", "title": "In the Pursuit of Traction: Have You Considered All Verticals?", "why": "Framework for finding early growth channels by listing many distribution verticals."}
+{"id": 38620, "keep": 1, "q": 2, "kind": "blog", "topic": "privacy advertising", "depth": "intro", "title": "A FB Ad Targeted at One Person", "why": "Shows how fine-grained ad targeting can single out an individual."}
+{"id": 38621, "keep": 0, "q": 1, "kind": "blog", "topic": "privacy", "depth": "intro", "title": "DuckDuckGo operates a Tor exit enclave", "why": "Announcement of a Tor exit node run by DuckDuckGo."}
+{"id": 38622, "keep": 0, "q": 1, "kind": "reference", "topic": "wearables", "depth": "intro", "title": "Gadgetbridge supported devices", "why": "Device compatibility list for an app."}
+{"id": 38623, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Who is behind Meta's lobbying for age verification", "why": "Current news about lobbying and age verification."}
+{"id": 38624, "keep": 0, "q": 1, "kind": "tool", "topic": "javascript", "depth": "intro", "title": "react-hot-loader", "why": "Library homepage for a React dev tool."}
+{"id": 38625, "keep": 0, "q": 1, "kind": "tool", "topic": "dns", "depth": "intro", "title": "hostsblock", "why": "Project page for a hosts-file blocklist tool."}
+{"id": 38626, "keep": 1, "q": 5, "kind": "explainer", "topic": "game networking", "depth": "intermediate", "title": "UDP vs. TCP", "why": "Explains why games use UDP and how to handle packet loss and stale data."}
+{"id": 38627, "keep": 1, "q": 5, "kind": "essay", "topic": "game networking", "depth": "intermediate", "title": "What Every Programmer Needs to Know About Game Networking", "why": "Foundational tour of multiplayer networking: latency, state sync, prediction and interpolation."}
+{"id": 38628, "keep": 1, "q": 4, "kind": "essay", "topic": "networking", "depth": "expert", "title": "Why Can't I Send UDP Packets From a Browser?", "why": "Explains browser networking limits and how a signed handshake authenticates UDP peers."}
+{"id": 38629, "keep": 0, "q": 1, "kind": "reference", "topic": "public opinion", "depth": "intro", "title": "Gallup poll on marriage", "why": "Statistics table of poll results."}
+{"id": 38630, "keep": 0, "q": 1, "kind": "reference", "topic": "public opinion", "depth": "intro", "title": "Gallup poll on creationist views", "why": "Poll statistics page."}
+{"id": 38631, "keep": 0, "q": 1, "kind": "reference", "topic": "politics", "depth": "intro", "title": "Gallup daily Trump job approval", "why": "Live polling tracker."}
+{"id": 38632, "keep": 0, "q": 1, "kind": "other", "topic": "online culture", "depth": "intro", "title": "HN em dash user leaderboard", "why": "Fun statistics leaderboard about punctuation use on HN."}
+{"id": 38633, "keep": 1, "q": 3, "kind": "essay", "topic": "game design", "depth": "intermediate", "title": "Monetization in Free-to-Play Games", "why": "Critiques coercive revenue strategies and how games monetize players."}
+{"id": 38634, "keep": 1, "q": 4, "kind": "journalism", "topic": "game industry", "depth": "intermediate", "title": "Keeping the Pirates at Bay", "why": "History and design of game copy protection, including Spyro's layered anti-piracy scheme."}
+{"id": 38635, "keep": 1, "q": 2, "kind": "journalism", "topic": "tech history", "depth": "intro", "title": "Steve Jobs, Atari Employee Number 40", "why": "Account of Jobs' Atari years and his collaboration with Wozniak."}
+{"id": 38636, "keep": 1, "q": 4, "kind": "explainer", "topic": "game ai", "depth": "intermediate", "title": "Understanding Pac-Man Ghost Behavior", "why": "Explains how each Pac-Man ghost picks its target and switches between chase and flee modes."}
+{"id": 38637, "keep": 1, "q": 3, "kind": "explainer", "topic": "economics", "depth": "intermediate", "title": "Can Land Value Tax Be Passed On to Tenants?", "why": "Reviews evidence on whether land taxes fall on renters or landlords."}
+{"id": 38638, "keep": 0, "q": 2, "kind": "docs", "topic": "version control", "depth": "intro", "title": "Got FAQ", "why": "Project FAQ for a Git-like tool; project-specific rather than teaching."}
+{"id": 38639, "keep": 1, "q": 5, "kind": "book", "topic": "design patterns", "depth": "intermediate", "title": "Command (Game Programming Patterns)", "why": "Explains the Command pattern with game examples, contrasting it with the GoF book."}
+{"id": 38640, "keep": 1, "q": 2, "kind": "explainer", "topic": "hardware", "depth": "intermediate", "title": "PCI-E 3.0 x8 vs x16 Performance Impact on GPUs", "why": "Benchmarks showing how much PCIe lane count affects GPU performance."}
+{"id": 38641, "keep": 0, "q": 1, "kind": "tool", "topic": "games", "depth": "intro", "title": "Dice-O-Matic", "why": "Random number generator tool page."}
+{"id": 38642, "keep": 0, "q": 2, "kind": "news", "topic": "game industry", "depth": "intro", "title": "Gabe Newell: piracy is a service issue", "why": "Mostly a single quoted remark from a 2011 conference."}
+{"id": 38643, "keep": 0, "q": 1, "kind": "other", "topic": "keyboards", "depth": "intro", "title": "Kinesis Freestyle Edge", "why": "Product sales page."}
+{"id": 38644, "keep": 1, "q": 3, "kind": "comic", "topic": "management", "depth": "intro", "title": "Company Hierarchy (MacLeod Model)", "why": "Single cartoon describing the MacLeod model of how organizations really work."}
+{"id": 38645, "keep": 0, "q": 2, "kind": "reference", "topic": "management", "depth": "intro", "title": "Hugh MacLeod cartoon archive", "why": "Index of cartoon links without commentary."}
+{"id": 38646, "keep": 1, "q": 4, "kind": "book", "topic": "statistics", "depth": "intro", "title": "Factfulness", "why": "Explains ten instincts that distort views of global development, backed by data."}
+{"id": 38647, "keep": 1, "q": 3, "kind": "talk", "topic": "demographics", "depth": "intro", "title": "What Stops Population Growth?", "why": "Hans Rosling video on how fertility falls as living standards rise."}
+{"id": 38648, "keep": 1, "q": 3, "kind": "docs", "topic": "distributed storage", "depth": "expert", "title": "Garage Design Goals", "why": "Explains explicit non-goals and tradeoffs in the Garage distributed object store."}
+{"id": 38649, "keep": 1, "q": 2, "kind": "explainer", "topic": "science myths", "depth": "intro", "title": "Do Houseplants Increase Oxygen Levels?", "why": "Quantifies how little oxygen houseplants produce compared with human needs."}
+{"id": 38650, "keep": 1, "q": 3, "kind": "essay", "topic": "teaching", "depth": "intro", "title": "Socratic Method: Teaching Binary to Third Graders", "why": "Transcript-style example of Socratic teaching for binary numbers."}
+{"id": 38651, "keep": 0, "q": 1, "kind": "other", "topic": "satellite messaging", "depth": "intro", "title": "Garmin inReach plans", "why": "Product and plan pricing page."}
+{"id": 38652, "keep": 1, "q": 3, "kind": "essay", "topic": "game engines", "depth": "intermediate", "title": "Unity 2020", "why": "Game developer's critique of Unity's declining quality and version churn."}
+{"id": 38653, "keep": 0, "q": 1, "kind": "reference", "topic": "mobile market", "depth": "intro", "title": "Gartner smartphone market share", "why": "Market share statistics page."}
+{"id": 38654, "keep": 0, "q": 1, "kind": "blog", "topic": "ai industry", "depth": "intro", "title": "The Whole Thing Was a Scam", "why": "Commentary on a current AI industry dispute."}
+{"id": 38655, "keep": 1, "q": 2, "kind": "essay", "topic": "global development", "depth": "intro", "title": "Bill Gates 2016 Annual Letter", "why": "Gates on inequality, work and climate, with data and arguments."}
+{"id": 38656, "keep": 1, "q": 2, "kind": "book", "topic": "psychology", "depth": "intro", "title": "Mindset: The New Psychology of Success (Gates review)", "why": "Summarizes growth versus fixed mindset ideas from Dweck's book."}
+{"id": 38657, "keep": 1, "q": 2, "kind": "book", "topic": "science communication", "depth": "intro", "title": "Thing Explainer (Gates review)", "why": "Review of Munroe's book explaining complex things with the 1000 most common words."}
+{"id": 38658, "keep": 0, "q": 1, "kind": "news", "topic": "public health", "depth": "intro", "title": "How to respond to COVID-19", "why": "Dated 2020 pandemic commentary."}
+{"id": 38659, "keep": 0, "q": 1, "kind": "reference", "topic": "cloud storage", "depth": "intro", "title": "Object store comparison", "why": "Pricing comparison table of storage providers."}
+{"id": 38660, "keep": 0, "q": 1, "kind": "news", "topic": "vaccines", "depth": "intro", "title": "Covid vaccines reduce transmission", "why": "Dated pandemic news item."}
+{"id": 38661, "keep": 0, "q": 1, "kind": "news", "topic": "tech news", "depth": "intro", "title": "Google CEO: secrets are for filthy people", "why": "Dated gossip-style news story."}
+{"id": 38662, "keep": 0, "q": 2, "kind": "journalism", "topic": "crime", "depth": "intro", "title": "Underground drug website", "why": "Dated 2011 news about Silk Road."}
+{"id": 38663, "keep": 0, "q": 2, "kind": "journalism", "topic": "startups", "depth": "intermediate", "title": "Uber internal documents", "why": "News about leaked financials of a specific company."}
+{"id": 38664, "keep": 0, "q": 1, "kind": "news", "topic": "airbnb", "depth": "intro", "title": "Man unwittingly rents apartment on Airbnb", "why": "Single news incident."}
+{"id": 38665, "keep": 0, "q": 1, "kind": "other", "topic": "keyboards", "depth": "intro", "title": "GergoPlex keyboard", "why": "Product page for a keyboard."}
+{"id": 38666, "keep": 0, "q": 1, "kind": "tool", "topic": "compilers", "depth": "intro", "title": "GCC Bugzilla", "why": "Bug tracker homepage."}
+{"id": 38667, "keep": 0, "q": 1, "kind": "docs", "topic": "compilers", "depth": "intro", "title": "GCC development versions", "why": "Version numbering reference."}
+{"id": 38668, "keep": 0, "q": 1, "kind": "docs", "topic": "compilers", "depth": "intro", "title": "GCC 4.6 changes", "why": "Release notes."}
+{"id": 38669, "keep": 0, "q": 2, "kind": "other", "topic": "free software", "depth": "intro", "title": "Stallman on Java bytecode in GCC", "why": "Short 2001 mailing list message."}
+{"id": 38670, "keep": 0, "q": 1, "kind": "reference", "topic": "compilers", "depth": "expert", "title": "GCC common type attributes", "why": "Compiler attribute reference lookup."}
+{"id": 38671, "keep": 0, "q": 1, "kind": "reference", "topic": "compilers", "depth": "expert", "title": "GCC unnamed fields", "why": "Compiler extension reference lookup."}
+{"id": 38672, "keep": 0, "q": 1, "kind": "reference", "topic": "compilers", "depth": "expert", "title": "GCC x86 options", "why": "Compiler flag reference lookup."}
+{"id": 38673, "keep": 1, "q": 2, "kind": "docs", "topic": "compilers", "depth": "expert", "title": "libgccjit documentation", "why": "Manual for embedding GCC as a JIT compiler library."}
+{"id": 38674, "keep": 0, "q": 1, "kind": "other", "topic": "open source governance", "depth": "intro", "title": "GCC steering committee mailing list", "why": "Mailing list thread on governance politics."}
+{"id": 38675, "keep": 0, "q": 1, "kind": "reference", "topic": "compilers", "depth": "intermediate", "title": "GCC C11 status", "why": "Feature support table."}
+{"id": 38676, "keep": 1, "q": 2, "kind": "docs", "topic": "compilers", "depth": "expert", "title": "Link Time Optimization (GCC wiki)", "why": "Overview of optimizing across object files at link time."}
+{"id": 38677, "keep": 0, "q": 1, "kind": "other", "topic": "tech industry", "depth": "intro", "title": "Google Cemetery", "why": "Tracker of discontinued Google products."}
+{"id": 38678, "keep": 1, "q": 4, "kind": "book", "topic": "garbage collection", "depth": "expert", "title": "The Garbage Collection Handbook", "why": "Comprehensive book on GC algorithms and their trade-offs."}
+{"id": 38679, "keep": 0, "q": 1, "kind": "tool", "topic": "education", "depth": "intro", "title": "GCompris", "why": "Educational software homepage."}
+{"id": 38680, "keep": 1, "q": 4, "kind": "talk", "topic": "game development", "depth": "intermediate", "title": "Classic Game Postmortem: Out of This World", "why": "Original programmer's talk on the technical decisions behind the game."}
+{"id": 38681, "keep": 0, "q": 1, "kind": "other", "topic": "privacy law", "depth": "intro", "title": "GDPR Article 21", "why": "Legal text."}
+{"id": 38682, "keep": 0, "q": 1, "kind": "other", "topic": "privacy law", "depth": "intro", "title": "GDPR Recital 47", "why": "Legal text."}
+{"id": 38683, "keep": 0, "q": 1, "kind": "other", "topic": "privacy law", "depth": "intro", "title": "GDPR Article 3", "why": "Legal text."}
+{"id": 38684, "keep": 0, "q": 1, "kind": "other", "topic": "privacy law", "depth": "intro", "title": "GDPR Article 6", "why": "Legal text."}
+{"id": 38685, "keep": 0, "q": 1, "kind": "other", "topic": "privacy law", "depth": "intro", "title": "GDPR email encryption", "why": "Regulatory guidance page on one narrow topic."}
+{"id": 38686, "keep": 0, "q": 1, "kind": "other", "topic": "privacy law", "depth": "intro", "title": "GDPR privacy notice template", "why": "Template legal document."}
+{"id": 38687, "keep": 1, "q": 2, "kind": "explainer", "topic": "privacy", "depth": "intro", "title": "What is GDPR?", "why": "Plain overview of GDPR's data rights and scope."}
+{"id": 38688, "keep": 0, "q": 1, "kind": "other", "topic": "privacy law", "depth": "intro", "title": "Brussels appeals court bank ruling", "why": "Court decision text."}
+{"id": 38689, "keep": 0, "q": 1, "kind": "other", "topic": "privacy law", "depth": "intro", "title": "Schrems II summary", "why": "Summary of a legal ruling; legal text."}
+{"id": 38690, "keep": 1, "q": 4, "kind": "essay", "topic": "web development", "depth": "intro", "title": "Why We Use Progressive Enhancement to Build GOV.UK", "why": "Explains progressive enhancement and why it keeps sites usable for everyone."}
+{"id": 38691, "keep": 0, "q": 1, "kind": "other", "topic": "audio", "depth": "intro", "title": "Gearslutz forum", "why": "Forum index page."}
+{"id": 38692, "keep": 0, "q": 1, "kind": "news", "topic": "security", "depth": "intro", "title": "TSA randomizer app", "why": "Single news item about a government purchase."}
+{"id": 38693, "keep": 0, "q": 1, "kind": "news", "topic": "linux hardware", "depth": "intro", "title": "Ubuntu on Surface Pro 3", "why": "Old hardware-compatibility news."}
+{"id": 38694, "keep": 1, "q": 3, "kind": "blog", "topic": "mobile hardware", "depth": "intermediate", "title": "iPhone Performance and Battery Age", "why": "Explains iOS throttling based on battery health and why it happens."}
+{"id": 38695, "keep": 1, "q": 2, "kind": "docs", "topic": "benchmarking", "depth": "intermediate", "title": "Geekbench 4 CPU Workloads", "why": "Describes what each CPU benchmark workload measures and why."}
+{"id": 38696, "keep": 1, "q": 3, "kind": "docs", "topic": "benchmarking", "depth": "expert", "title": "Geekbench 6 Benchmark Internals", "why": "Explains GB6 workload design and why it scales differently across cores."}
+{"id": 38697, "keep": 0, "q": 1, "kind": "other", "topic": "keyboards", "depth": "intro", "title": "Geekhack keyboard thread", "why": "Forum thread about keyboard purchases."}
+{"id": 38698, "keep": 1, "q": 4, "kind": "essay", "topic": "type systems", "depth": "intermediate", "title": "Make Invalid States Unrepresentable", "why": "Shows how type design rules out impossible program states at compile time."}
+{"id": 38699, "keep": 1, "q": 2, "kind": "tutorial", "topic": "algorithms", "depth": "intro", "title": "Fundamentals of Algorithms", "why": "Collection of algorithm explanations and practice problems."}
+{"id": 38699, "keep": 1, "q": 2, "kind": "tutorial", "topic": "algorithms", "depth": "intro", "title": "Fundamentals of Algorithms", "why": "Collection of algorithm explanations and practice problems."}
+{"id": 38700, "keep": 0, "q": 1, "kind": "blog", "topic": "git", "depth": "intro", "title": "Profanity in git commit messages", "why": "Light analysis of commit message tone."}
+{"id": 38701, "keep": 1, "q": 3, "kind": "talk", "topic": "security policy", "depth": "intermediate", "title": "Dan Geer, Black Hat 2014 talk", "why": "Argues ISPs must pick carriage or content business models, not both."}
+{"id": 38702, "keep": 0, "q": 1, "kind": "other", "topic": "privacy law", "depth": "intro", "title": "Belgian DPA TCF decision", "why": "Regulatory decision text and press release."}
+{"id": 38703, "keep": 0, "q": 1, "kind": "reference", "topic": "gemini protocol", "depth": "intro", "title": "Gemini clients list", "why": "Directory of client software."}
+{"id": 38704, "keep": 0, "q": 1, "kind": "tool", "topic": "piracy", "depth": "intro", "title": "Library Genesis database dumps", "why": "Download page for database dumps."}
+{"id": 38705, "keep": 0, "q": 1, "kind": "tool", "topic": "piracy", "depth": "intro", "title": "Library Genesis torrents", "why": "Download index page."}
+{"id": 38706, "keep": 1, "q": 3, "kind": "explainer", "topic": "banking", "depth": "intro", "title": "How Money Moves Around the Banking System", "why": "Plain walkthrough of how money settles between banks."}
+{"id": 38707, "keep": 0, "q": 1, "kind": "journalism", "topic": "nonprofits", "depth": "intro", "title": "JSTOR where does your money go", "why": "Financial breakdown of one organization."}
+{"id": 38708, "keep": 0, "q": 1, "kind": "other", "topic": "genetic programming", "depth": "intro", "title": "John Koza homepage", "why": "Researcher homepage."}
+{"id": 38709, "keep": 1, "q": 4, "kind": "journalism", "topic": "unix history", "depth": "intermediate", "title": "Ken Thompson: Unix and Beyond", "why": "Thompson on Unix origins, language design and advice on research."}
+{"id": 38710, "keep": 1, "q": 5, "kind": "essay", "topic": "research", "depth": "intermediate", "title": "Feynman's Letter on Choosing Research Problems", "why": "Feynman advises which research problems are worth solving and why."}
+{"id": 38711, "keep": 0, "q": 2, "kind": "other", "topic": "music", "depth": "intro", "title": "Gil Scott-Heron annotated lyrics", "why": "Annotated song lyrics."}
+{"id": 38712, "keep": 0, "q": 1, "kind": "news", "topic": "middle east", "depth": "intro", "title": "IAGS resolution on Gaza", "why": "Current political resolution text."}
+{"id": 38713, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Genomics plc jobs", "why": "Job post."}
+{"id": 38714, "keep": 1, "q": 3, "kind": "essay", "topic": "science history", "depth": "intermediate", "title": "A Whig History of CRISPR", "why": "Critiques how CRISPR's discovery gets framed as heroic progress."}
+{"id": 38715, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intro", "title": "Gentoo Prefix", "why": "Project page for a portable Gentoo install."}
+{"id": 38716, "keep": 0, "q": 1, "kind": "news", "topic": "postal data", "depth": "intro", "title": "Geocoder.ca lawsuit", "why": "Single news story about a lawsuit."}
+{"id": 38717, "keep": 0, "q": 1, "kind": "blog", "topic": "personal", "depth": "intro", "title": "geohot blog index", "why": "Personal blog index page."}
+{"id": 38718, "keep": 1, "q": 3, "kind": "blog", "topic": "gpu drivers", "depth": "intermediate", "title": "A Dive into AMD's Drivers", "why": "Hands-on account of AMD driver code quality and what breaks in practice."}
+{"id": 38719, "keep": 0, "q": 1, "kind": "other", "topic": "networking", "depth": "intro", "title": "Starlink geofeed", "why": "Raw data feed of IP geolocation."}
+{"id": 38720, "keep": 1, "q": 2, "kind": "explainer", "topic": "geology", "depth": "intro", "title": "Helium", "why": "Explains helium sources, radioactive production and gas-field extraction."}
+{"id": 38721, "keep": 0, "q": 1, "kind": "paper", "topic": "physics", "depth": "intermediate", "title": "Geometric Unity draft", "why": "Unreviewed physics draft by a non-physicist."}
+{"id": 38722, "keep": 0, "q": 2, "kind": "tool", "topic": "c++ metaprogramming", "depth": "expert", "title": "metafun", "why": "Project page for a compile-time metaprogramming library."}
+{"id": 38723, "keep": 1, "q": 2, "kind": "docs", "topic": "code review", "depth": "intermediate", "title": "NoteDb", "why": "Explains storing code review metadata in Git for replication."}
+{"id": 38724, "keep": 0, "q": 1, "kind": "other", "topic": "code review", "depth": "intro", "title": "Gerrit about page", "why": "History page for a code review tool."}
+{"id": 38725, "keep": 0, "q": 1, "kind": "other", "topic": "german law", "depth": "intro", "title": "German Civil Code translation", "why": "Legal text."}
+{"id": 38726, "keep": 0, "q": 1, "kind": "other", "topic": "german law", "depth": "intro", "title": "German criminal code section 130", "why": "Legal text."}
+{"id": 38727, "keep": 0, "q": 1, "kind": "other", "topic": "security law", "depth": "intro", "title": "German criminal code section 202c", "why": "Legal text."}
+{"id": 38728, "keep": 0, "q": 1, "kind": "other", "topic": "ai law", "depth": "intro", "title": "German copyright law section 44b", "why": "Legal text."}
+{"id": 38729, "keep": 0, "q": 1, "kind": "docs", "topic": "scala", "depth": "intro", "title": "Scala 2.12 release notes", "why": "Release notes."}
+{"id": 38730, "keep": 0, "q": 1, "kind": "docs", "topic": "chat", "depth": "intro", "title": "Slack IRC and XMPP gateways", "why": "Support article for a product feature."}
+{"id": 38731, "keep": 0, "q": 1, "kind": "other", "topic": "saas", "depth": "intro", "title": "Slack SLA", "why": "Service-level agreement text."}
+{"id": 38732, "keep": 0, "q": 1, "kind": "other", "topic": "ride-hailing", "depth": "intro", "title": "Uber XCHANGE leasing", "why": "Company leasing information page."}
+{"id": 38733, "keep": 0, "q": 1, "kind": "tool", "topic": "webgl", "depth": "intro", "title": "WebGL2 test page", "why": "Browser capability test page."}
+{"id": 38734, "keep": 0, "q": 1, "kind": "tool", "topic": "css frameworks", "depth": "intro", "title": "Bootstrap theme example", "why": "Example page for a CSS framework."}
+{"id": 38735, "keep": 0, "q": 1, "kind": "other", "topic": "hardware", "depth": "intro", "title": "C.H.I.P. Pro", "why": "Product page for a board."}
+{"id": 38736, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Getchute jobs", "why": "Job listings."}
+{"id": 38737, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Cruise careers", "why": "Job listings."}
+{"id": 38738, "keep": 1, "q": 3, "kind": "blog", "topic": "document ocr", "depth": "intermediate", "title": "OCR Benchmark", "why": "Benchmarks OCR and LLM extraction accuracy on documents."}
+{"id": 38739, "keep": 0, "q": 1, "kind": "docs", "topic": "messaging", "depth": "intro", "title": "Session FAQ", "why": "Product FAQ."}
+{"id": 38740, "keep": 1, "q": 3, "kind": "book", "topic": "writing", "depth": "intro", "title": "Getting Real: Wordsmiths", "why": "Argues for plain, precise writing in product teams."}
+{"id": 38741, "keep": 0, "q": 1, "kind": "tool", "topic": "github", "depth": "intro", "title": "GitHub stats query tool", "why": "Interactive query page."}
+{"id": 38742, "keep": 1, "q": 3, "kind": "docs", "topic": "data formats", "depth": "intermediate", "title": "UUID Version 6", "why": "Proposes sortable UUIDs and explains their database indexing benefits."}
+{"id": 38743, "keep": 1, "q": 2, "kind": "tutorial", "topic": "privacy", "depth": "intro", "title": "How to enable first-party isolation in Firefox", "why": "Steps to block cross-site tracking via a Firefox setting."}
+{"id": 38744, "keep": 0, "q": 1, "kind": "tutorial", "topic": "browsers", "depth": "intro", "title": "Restore old Firefox address bar", "why": "UI fix tip, not teaching content."}
+{"id": 38745, "keep": 0, "q": 1, "kind": "news", "topic": "browsers", "depth": "intro", "title": "Firefox Android add-on collections", "why": "Product news item."}
+{"id": 38746, "keep": 0, "q": 1, "kind": "docs", "topic": "self-hosting", "depth": "intro", "title": "Ghost install docs", "why": "Install instructions for a product."}
+{"id": 38747, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "Ghostery", "why": "Product homepage."}
+{"id": 38748, "keep": 0, "q": 1, "kind": "reference", "topic": "terminal", "depth": "intro", "title": "Ghostty keybind reference", "why": "Configuration reference lookup."}
+{"id": 38749, "keep": 0, "q": 1, "kind": "docs", "topic": "terminal", "depth": "intro", "title": "Ghostty 1.2.0 release notes", "why": "Release notes."}
+{"id": 38750, "keep": 0, "q": 1, "kind": "reference", "topic": "road safety", "depth": "intro", "title": "Pedestrian fatalities report", "why": "Statistics report."}
+{"id": 38751, "keep": 0, "q": 1, "kind": "tool", "topic": "aurora", "depth": "intro", "title": "Aurora forecast", "why": "Live forecast dashboard."}
+{"id": 38752, "keep": 1, "q": 5, "kind": "book", "topic": "lisp", "depth": "intermediate", "title": "Practical: A Simple Database", "why": "Builds a small database in Common Lisp and shows macros removing boilerplate."}
+{"id": 38753, "keep": 1, "q": 3, "kind": "explainer", "topic": "startups", "depth": "intro", "title": "5 Mistakes You Can't Afford to Make with Stock Options", "why": "Common equity option pitfalls for startup employees, including tax effects."}
+{"id": 38754, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "GitHub funding news", "why": "Funding news item."}
+{"id": 38755, "keep": 0, "q": 2, "kind": "journalism", "topic": "product history", "depth": "intro", "title": "Chris Wetherell on Google Reader", "why": "Dated commentary on a product shutdown."}
+{"id": 38756, "keep": 0, "q": 1, "kind": "news", "topic": "cloud", "depth": "intro", "title": "Compute Engine vs EC2", "why": "Dated benchmark news."}
+{"id": 38757, "keep": 0, "q": 1, "kind": "news", "topic": "media", "depth": "intro", "title": "Gigaom next chapter", "why": "Company news."}
+{"id": 38758, "keep": 1, "q": 3, "kind": "journalism", "topic": "databases", "depth": "intermediate", "title": "Facebook Trapped in MySQL", "why": "Covers Facebook's MySQL scaling problems and the tradeoffs of staying on it."}
+{"id": 38759, "keep": 0, "q": 1, "kind": "blog", "topic": "online culture", "depth": "intro", "title": "Hacker Newspaper", "why": "Short blog post about an HN reader layout."}
+{"id": 38760, "keep": 0, "q": 1, "kind": "journalism", "topic": "podcast", "depth": "intro", "title": "Reply All: Shine On You Crazy Goldman", "why": "Podcast episode; content unclear from the snippets."}
+{"id": 38761, "keep": 1, "q": 2, "kind": "journalism", "topic": "privacy", "depth": "intro", "title": "In the Desert", "why": "Podcast investigation tracing a find-my-phone app incident to its cause."}
+{"id": 38762, "keep": 1, "q": 2, "kind": "journalism", "topic": "privacy", "depth": "intro", "title": "Facebook Spying", "why": "Reply All episode on how Facebook tracks users across the web."}
+{"id": 38763, "keep": 1, "q": 2, "kind": "journalism", "topic": "scams", "depth": "intro", "title": "The World's Most Expensive Free Watch", "why": "Story of a free-watch scam showing how online shop schemes work."}
+{"id": 38764, "keep": 1, "q": 2, "kind": "journalism", "topic": "cybercrime", "depth": "intro", "title": "Reply All: IT guy turned informant", "why": "Narrative of an informant working inside a scam network."}
+{"id": 38765, "keep": 0, "q": 1, "kind": "journalism", "topic": "podcast", "depth": "intro", "title": "Reply All: song earworm", "why": "Entertaining story with little to learn."}
+{"id": 38766, "keep": 1, "q": 3, "kind": "journalism", "topic": "policing data", "depth": "intro", "title": "Reply All: history of predictive policing", "why": "Traces how a data project became an arrest quota system."}
+{"id": 38767, "keep": 0, "q": 1, "kind": "journalism", "topic": "podcast", "depth": "intro", "title": "Reply All: Adam Pisces episode", "why": "Anecdotal story about private collections."}
+{"id": 38768, "keep": 1, "q": 3, "kind": "reference", "topic": "c programming", "depth": "intermediate", "title": "Bug of the Month", "why": "Collection of subtle C bugs with explanations."}
+{"id": 38769, "keep": 0, "q": 1, "kind": "other", "topic": "metalworking", "depth": "intro", "title": "Metal Working From Scrap series", "why": "Book series sales listing."}
+{"id": 38770, "keep": 1, "q": 3, "kind": "paper", "topic": "energy", "depth": "intermediate", "title": "Prevented Mortality from Nuclear Power", "why": "Estimates lives saved by nuclear power versus fossil fuel alternatives."}
+{"id": 38771, "keep": 0, "q": 1, "kind": "other", "topic": "git", "depth": "intro", "title": "Git about page", "why": "Project history page."}
+{"id": 38772, "keep": 1, "q": 5, "kind": "book", "topic": "git", "depth": "intermediate", "title": "Git Internals: Git Objects", "why": "Explains git's object model: blobs, trees and commits, and how they link."}
+{"id": 38773, "keep": 1, "q": 3, "kind": "book", "topic": "git", "depth": "intermediate", "title": "Distributed Git: Distributed Workflows", "why": "Describes multi-peer git workflows and how to set them up."}
+{"id": 38774, "keep": 1, "q": 3, "kind": "book", "topic": "git", "depth": "intro", "title": "A Short History of Git", "why": "Explains why Git was built and the design choices behind it."}
+{"id": 38775, "keep": 1, "q": 4, "kind": "book", "topic": "git", "depth": "intro", "title": "Git Branching: Branches in a Nutshell", "why": "Explains what a branch is in Git's commit and ref model."}
+{"id": 38776, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intermediate", "title": "git-bundle", "why": "Man page for a git command."}
+{"id": 38777, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intermediate", "title": "git-merge", "why": "Command reference."}
+{"id": 38778, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intermediate", "title": "git-restore", "why": "Command reference."}
+{"id": 38779, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intermediate", "title": "git-revert", "why": "Command reference."}
+{"id": 38780, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "expert", "title": "git-update-index", "why": "Command reference."}
+{"id": 38781, "keep": 1, "q": 3, "kind": "docs", "topic": "git", "depth": "intro", "title": "Git Everyday", "why": "Quick guide to everyday git commands and workflows."}
+{"id": 38782, "keep": 0, "q": 2, "kind": "reference", "topic": "git", "depth": "intro", "title": "Git glossary", "why": "Term lookup list."}
+{"id": 38783, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intermediate", "title": "gitmailmap", "why": "Config reference."}
+{"id": 38784, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "expert", "title": "Git merge strategies", "why": "Reference for merge strategy options."}
+{"id": 38785, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "expert", "title": "Git partial clone", "why": "Reference for partial clone options."}
+{"id": 38786, "keep": 0, "q": 1, "kind": "tool", "topic": "git", "depth": "intro", "title": "Git for Windows download", "why": "Download page."}
+{"id": 38787, "keep": 1, "q": 2, "kind": "other", "topic": "version control", "depth": "expert", "title": "Git performance on a large repository", "why": "Facebook engineer's mailing list post on Git scaling in huge repositories."}
+{"id": 38788, "keep": 0, "q": 1, "kind": "other", "topic": "kernel", "depth": "expert", "title": "Linux RNG commit", "why": "Single commit page."}
+{"id": 38789, "keep": 1, "q": 2, "kind": "docs", "topic": "security", "depth": "expert", "title": "Linux random.c", "why": "Annotated kernel source showing how the entropy pool is mixed."}
+{"id": 38790, "keep": 0, "q": 1, "kind": "other", "topic": "man pages", "depth": "intermediate", "title": "man-db commit", "why": "Commit page for a removed change."}
+{"id": 38791, "keep": 0, "q": 1, "kind": "tool", "topic": "build systems", "depth": "intro", "title": "muon", "why": "Project page for a build tool."}
+{"id": 38792, "keep": 0, "q": 1, "kind": "tool", "topic": "linux", "depth": "intermediate", "title": "dwm source files", "why": "Source file listing."}
+{"id": 38793, "keep": 0, "q": 1, "kind": "reference", "topic": "git hosting", "depth": "intro", "title": "Git hosting options", "why": "Wiki list of hosting services."}
+{"id": 38794, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intro", "title": "Git interfaces and frontends", "why": "List of tools."}
+{"id": 38795, "keep": 0, "q": 1, "kind": "tool", "topic": "passwords", "depth": "intro", "title": "pass password store", "why": "Project homepage."}
+{"id": 38796, "keep": 0, "q": 1, "kind": "tool", "topic": "crypto", "depth": "intro", "title": "Gitcoin grants", "why": "Product page."}
+{"id": 38797, "keep": 0, "q": 1, "kind": "tool", "topic": "android", "depth": "intro", "title": "OpenEUICC", "why": "Project repository page."}
+{"id": 38798, "keep": 0, "q": 1, "kind": "reference", "topic": "git", "depth": "intro", "title": "Awesome Gitea", "why": "Curated link list."}

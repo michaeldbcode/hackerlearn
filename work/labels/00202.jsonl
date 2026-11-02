@@ -1,0 +1,199 @@
+{"id": 40400, "keep": 1, "q": 4, "kind": "docs", "topic": "kubernetes", "depth": "intro", "title": "What is Kubernetes", "why": "Official overview of what Kubernetes is, what it isn't, and the problems it solves."}
+{"id": 40401, "keep": 1, "q": 3, "kind": "docs", "topic": "kubernetes", "depth": "intermediate", "title": "Network Policies", "why": "How Kubernetes network policies restrict pod-to-pod traffic at layer 4."}
+{"id": 40402, "keep": 1, "q": 3, "kind": "docs", "topic": "kubernetes", "depth": "intermediate", "title": "Storage Classes", "why": "Explains how storage classes provision persistent volumes dynamically in Kubernetes."}
+{"id": 40403, "keep": 1, "q": 3, "kind": "docs", "topic": "kubernetes", "depth": "intermediate", "title": "StatefulSets", "why": "Explains StatefulSets for stable identity and storage in stateful workloads."}
+{"id": 40404, "keep": 0, "q": 1, "kind": "docs", "topic": "kubernetes", "depth": "intro", "title": "Kubernetes on AWS (legacy guide)", "why": "Outdated 2016 setup guide for an old cluster tooling workflow."}
+{"id": 40405, "keep": 0, "q": 2, "kind": "docs", "topic": "kubernetes", "depth": "intermediate", "title": "Scheduling GPUs", "why": "Task recipe for GPU scheduling; narrow and mostly procedural."}
+{"id": 40406, "keep": 0, "q": 1, "kind": "docs", "topic": "kubernetes", "depth": "intro", "title": "PetSet user guide", "why": "Obsolete alpha-era guide to a renamed Kubernetes feature."}
+{"id": 40407, "keep": 1, "q": 3, "kind": "blog", "topic": "privacy", "depth": "intermediate", "title": "Privacy-friendly does not mean secure: custom ROMs", "why": "Technical breakdown of hidden Google connections in supposedly privacy-focused Android ROMs."}
+{"id": 40408, "keep": 0, "q": 2, "kind": "other", "topic": "science fiction", "depth": "intro", "title": "Kuro5hin sci-fi story thread", "why": "Discussion page for a fiction story; not a learning resource."}
+{"id": 40409, "keep": 0, "q": 1, "kind": "other", "topic": "audio", "depth": "intro", "title": "KVR Audio DSP forum", "why": "Forum index page with no single learnable piece of content."}
+{"id": 40410, "keep": 0, "q": 2, "kind": "other", "topic": "literature", "depth": "intro", "title": "Borges fables (course PDF)", "why": "Short fiction; not technical reading, and outside the learning criteria."}
+{"id": 40411, "keep": 0, "q": 2, "kind": "news", "topic": "covid", "depth": "intro", "title": "Do face masks work? 49 studies", "why": "News-site list of pandemic studies, time-bound and link-heavy."}
+{"id": 40412, "keep": 0, "q": 1, "kind": "news", "topic": "covid", "depth": "intro", "title": "Il Sole 24 Ore coronavirus dashboard", "why": "Live pandemic dashboard, not something to read and learn from."}
+{"id": 40413, "keep": 0, "q": 1, "kind": "other", "topic": "labor law", "depth": "intro", "title": "California ABC employment test", "why": "Legal regulatory text describing a worker classification test."}
+{"id": 40414, "keep": 0, "q": 1, "kind": "tool", "topic": "flash", "depth": "intro", "title": "Flash CS5 apps for iPhone", "why": "Old product announcement page for an Adobe tool."}
+{"id": 40415, "keep": 0, "q": 1, "kind": "tool", "topic": "search", "depth": "intro", "title": "Kagi ContextAI", "why": "Product page for a search/AI tool."}
+{"id": 40416, "keep": 1, "q": 3, "kind": "blog", "topic": "networking", "depth": "intermediate", "title": "WebVM with networking via Tailscale", "why": "Engineering write-up on giving an in-browser Linux VM real networking."}
+{"id": 40417, "keep": 0, "q": 1, "kind": "tool", "topic": "design", "depth": "intro", "title": "TinEye Multicolr", "why": "Color-search tool page; a utility rather than something to read."}
+{"id": 40418, "keep": 0, "q": 2, "kind": "other", "topic": "hardware", "depth": "intro", "title": "Wave bubble project", "why": "Personal project page for a hardware art demo; little to learn."}
+{"id": 40419, "keep": 1, "q": 3, "kind": "blog", "topic": "rust", "depth": "intermediate", "title": "Adopting Rust (Ladybird)", "why": "Browser project's reasoning and experience adopting Rust, with trade-offs discussed."}
+{"id": 40420, "keep": 0, "q": 2, "kind": "other", "topic": "gender statistics", "depth": "intermediate", "title": "Women in the technical workforce (math)", "why": "Statistical argument cited as evidence in a debate; not a learning piece."}
+{"id": 40421, "keep": 0, "q": 1, "kind": "tool", "topic": "machine learning", "depth": "intro", "title": "LAION aesthetic datasette", "why": "Data browser for an image dataset."}
+{"id": 40422, "keep": 1, "q": 4, "kind": "essay", "topic": "satellites", "depth": "intro", "title": "Extra-Terrestrial Relays", "why": "Arthur C. Clarke's 1945 paper proposing geostationary communications satellites."}
+{"id": 40423, "keep": 0, "q": 2, "kind": "tool", "topic": "fingerprinting", "depth": "intermediate", "title": "JavaScript CSS font detection", "why": "Demo page for a font-fingerprinting technique; mostly a live tool."}
+{"id": 40424, "keep": 0, "q": 2, "kind": "other", "topic": "programming languages", "depth": "intermediate", "title": "LtU discussion on Nelson's ideas", "why": "Forum thread discussion, not a structured explainer."}
+{"id": 40425, "keep": 0, "q": 2, "kind": "other", "topic": "type theory", "depth": "intermediate", "title": "LtU getting started thread", "why": "Forum thread of reading suggestions; the reading itself is elsewhere."}
+{"id": 40426, "keep": 0, "q": 2, "kind": "other", "topic": "modules", "depth": "expert", "title": "LtU discussion on module versioning", "why": "Discussion thread about Armstrong's module versioning ideas."}
+{"id": 40427, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Lambda School about page", "why": "Company recruiting and marketing page."}
+{"id": 40428, "keep": 0, "q": 1, "kind": "other", "topic": "education", "depth": "intro", "title": "Lambda School ISA", "why": "Company page explaining its financing model."}
+{"id": 40429, "keep": 1, "q": 3, "kind": "essay", "topic": "academia", "depth": "intro", "title": "Why I Am Not a Professor", "why": "Essay on decline of the British university and what it means for scholarship."}
+{"id": 40430, "keep": 1, "q": 5, "kind": "paper", "topic": "distributed systems", "depth": "expert", "title": "The Part-Time Parliament (Paxos)", "why": "Lamport's original Paxos paper on reaching consensus with unreliable nodes."}
+{"id": 40431, "keep": 1, "q": 4, "kind": "paper", "topic": "distributed systems", "depth": "expert", "title": "Implementing a State Machine (Lamport)", "why": "Foundational paper on building fault-tolerant services via replicated state machines."}
+{"id": 40432, "keep": 1, "q": 3, "kind": "other", "topic": "linux", "depth": "intermediate", "title": "Aboriginal Linux about", "why": "Project philosophy of a minimal, self-hosting Linux build system."}
+{"id": 40433, "keep": 0, "q": 1, "kind": "other", "topic": "licensing", "depth": "intro", "title": "Toybox license", "why": "License text; legal reference only."}
+{"id": 40434, "keep": 0, "q": 1, "kind": "tool", "topic": "java", "depth": "intro", "title": "SoyLatte JVM port", "why": "Project page for an old OpenJDK port on macOS."}
+{"id": 40435, "keep": 0, "q": 2, "kind": "docs", "topic": "llms", "depth": "intro", "title": "LangChain agents getting started", "why": "Early 2023 framework docs, now largely superseded."}
+{"id": 40436, "keep": 0, "q": 2, "kind": "tool", "topic": "origami", "depth": "intermediate", "title": "TreeMaker by Robert Lang", "why": "Software page for an origami design tool; more a utility than an essay."}
+{"id": 40437, "keep": 1, "q": 3, "kind": "paper", "topic": "information theory", "depth": "expert", "title": "Shannon 1950 paper (Language Log copy)", "why": "Shannon's information theory work, discussed alongside how languages encode information."}
+{"id": 40438, "keep": 1, "q": 5, "kind": "paper", "topic": "lisp", "depth": "expert", "title": "Recursive Functions of Symbolic Expressions (McCarthy)", "why": "McCarthy's founding Lisp paper: a small core language and evaluator design."}
+{"id": 40439, "keep": 1, "q": 3, "kind": "blog", "topic": "linguistics", "depth": "intermediate", "title": "Blue-green color myth (Language Log)", "why": "Debunks a popular claim about tribes unable to tell blue from green, with evidence."}
+{"id": 40440, "keep": 0, "q": 2, "kind": "blog", "topic": "linguistics", "depth": "intro", "title": "Vaccine definition change (Language Log)", "why": "Commentary on a dictionary change, tied to a current debate."}
+{"id": 40441, "keep": 0, "q": 1, "kind": "reference", "topic": "dictionaries", "depth": "intro", "title": "Oxford Languages Google dictionary", "why": "Generic dictionary lookup page."}
+{"id": 40442, "keep": 1, "q": 2, "kind": "other", "topic": "criminal justice", "depth": "intermediate", "title": "California three strikes (LAO)", "why": "Non-partisan legislative analysis of the three-strikes law and its budget effects."}
+{"id": 40443, "keep": 0, "q": 2, "kind": "other", "topic": "economics", "depth": "intermediate", "title": "LAO migration article", "why": "Short policy note cited as evidence in a discussion."}
+{"id": 40444, "keep": 1, "q": 3, "kind": "paper", "topic": "housing", "depth": "intermediate", "title": "California's High Housing Costs: Causes and Consequences", "why": "Legislative analyst report explaining land-use causes of California housing shortage."}
+{"id": 40445, "keep": 0, "q": 1, "kind": "other", "topic": "libraries", "depth": "intro", "title": "LAPL NYT digital access", "why": "Library access page, not learning content."}
+{"id": 40446, "keep": 1, "q": 2, "kind": "essay", "topic": "physics", "depth": "intermediate", "title": "EMP effects on power lines", "why": "Student physics write-up on EMP and power transmission losses."}
+{"id": 40447, "keep": 0, "q": 1, "kind": "other", "topic": "medicine", "depth": "intro", "title": "Nuclear pacemakers", "why": "Short course Q&A; marginal and trivia-level."}
+{"id": 40448, "keep": 0, "q": 2, "kind": "tool", "topic": "networking", "depth": "intro", "title": "Wondershaper", "why": "Script page for a traffic-shaping utility."}
+{"id": 40449, "keep": 1, "q": 3, "kind": "other", "topic": "security", "depth": "intermediate", "title": "Keyboard emanations attack (EPFL)", "why": "Research demo of recovering keystrokes from keyboard electromagnetic emissions."}
+{"id": 40450, "keep": 1, "q": 3, "kind": "explainer", "topic": "semiconductors", "depth": "intermediate", "title": "Laser technology in EUV lithography", "why": "Explains how EUV light sources work and their role in chip fabrication."}
+{"id": 40451, "keep": 0, "q": 2, "kind": "docs", "topic": "crdts", "depth": "expert", "title": "Lasp programming system", "why": "Project home page for a research CRDT language."}
+{"id": 40452, "keep": 1, "q": 3, "kind": "tutorial", "topic": "embedded", "depth": "intermediate", "title": "ESP32 sleep modes and power consumption", "why": "Practical guide to ESP32 deep sleep and what it means for battery life."}
+{"id": 40453, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "LastPass password hints", "why": "Marketing lookup tool for breached-site password hints."}
+{"id": 40454, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "LastPass emergency access", "why": "Product feature page."}
+{"id": 40455, "keep": 1, "q": 3, "kind": "blog", "topic": "cloud", "depth": "intermediate", "title": "AWS cross-AZ data transfer costs more than AWS says", "why": "Analysis of hidden inter-availability-zone bandwidth costs in AWS billing."}
+{"id": 40456, "keep": 1, "q": 2, "kind": "blog", "topic": "cloud security", "depth": "intermediate", "title": "Azure's security vulnerabilities are out of control", "why": "Opinion piece on recurring Azure security problems and their impact on customers."}
+{"id": 40457, "keep": 1, "q": 3, "kind": "blog", "topic": "cloud", "depth": "intro", "title": "The 17 ways to run containers on AWS", "why": "Map of AWS container services and when each fits."}
+{"id": 40458, "keep": 1, "q": 2, "kind": "blog", "topic": "aws", "depth": "intermediate", "title": "The AWS service I hate the most", "why": "Insider-flavored critique of AWS account provisioning and why it is hard to use."}
+{"id": 40459, "keep": 1, "q": 2, "kind": "blog", "topic": "cloud", "depth": "intro", "title": "Why Zoom chose Oracle Cloud over AWS", "why": "Explains egress pricing as a driver of cloud provider choice."}
+{"id": 40460, "keep": 0, "q": 2, "kind": "other", "topic": "ai", "depth": "intro", "title": "Latent Space podcast", "why": "Podcast homepage, not a specific piece to read."}
+{"id": 40461, "keep": 0, "q": 1, "kind": "news", "topic": "history", "depth": "intro", "title": "LA Times 1990 Acorn archive", "why": "Old news archive item about a business deal."}
+{"id": 40462, "keep": 0, "q": 1, "kind": "news", "topic": "space", "depth": "intro", "title": "LA Times 1999 Mars orbiter archive", "why": "Old news archive item about a unit-conversion failure."}
+{"id": 40463, "keep": 0, "q": 1, "kind": "news", "topic": "ev", "depth": "intro", "title": "Tesla battery swap (LA Times)", "why": "News report on a battery-swap facility."}
+{"id": 40464, "keep": 0, "q": 2, "kind": "journalism", "topic": "music economics", "depth": "intro", "title": "Streaming royalties (LA Times)", "why": "News coverage of streaming pay, tied to a current dispute."}
+{"id": 40465, "keep": 0, "q": 1, "kind": "news", "topic": "education", "depth": "intro", "title": "UC spending (LA Times)", "why": "News report on university budgets."}
+{"id": 40466, "keep": 0, "q": 1, "kind": "news", "topic": "transit", "depth": "intro", "title": "Electric buses (LA Times)", "why": "News report on transit fleet electrification."}
+{"id": 40467, "keep": 0, "q": 1, "kind": "news", "topic": "water", "depth": "intro", "title": "Rainwater loss (LA Times)", "why": "News feature on water policy after a wet winter."}
+{"id": 40468, "keep": 0, "q": 1, "kind": "news", "topic": "covid", "depth": "intro", "title": "Hospitals seize coronavirus supplies", "why": "Time-bound news on pandemic supply policy."}
+{"id": 40469, "keep": 1, "q": 3, "kind": "journalism", "topic": "energy", "depth": "intermediate", "title": "California's solar and gas power plants", "why": "Investigative piece on how gas plant approvals shape California's electricity grid."}
+{"id": 40470, "keep": 0, "q": 1, "kind": "tool", "topic": "web development", "depth": "intro", "title": "Launchaco builder", "why": "Product page for an open-source WYSIWYG tool."}
+{"id": 40471, "keep": 0, "q": 1, "kind": "tool", "topic": "ethereum", "depth": "intro", "title": "Ethereum staking launchpad", "why": "Staking product page."}
+{"id": 40472, "keep": 0, "q": 2, "kind": "blog", "topic": "career", "depth": "intro", "title": "What is a full stack developer", "why": "Short opinion post on a job-title term; thin."}
+{"id": 40473, "keep": 0, "q": 1, "kind": "other", "topic": "email security", "depth": "intro", "title": "Lavabit secure email", "why": "Company page describing its email security setup."}
+{"id": 40474, "keep": 0, "q": 1, "kind": "other", "topic": "aviation", "depth": "expert", "title": "14 CFR 25.173", "why": "Aviation regulation text."}
+{"id": 40475, "keep": 0, "q": 1, "kind": "other", "topic": "aviation", "depth": "expert", "title": "14 CFR 25.175", "why": "Aviation regulation text."}
+{"id": 40476, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "14 CFR 250.5", "why": "Regulation text on passenger rights."}
+{"id": 40477, "keep": 0, "q": 1, "kind": "other", "topic": "aviation", "depth": "expert", "title": "14 CFR 91.119", "why": "Aviation regulation text on minimum altitudes."}
+{"id": 40478, "keep": 0, "q": 1, "kind": "other", "topic": "aviation", "depth": "expert", "title": "49 CFR 830.2", "why": "Regulation text on accident definitions."}
+{"id": 40479, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "8 CFR 287.1", "why": "Regulation text on border zone definitions."}
+{"id": 40480, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Federal Rules of Civil Procedure", "why": "Legal rules index page."}
+{"id": 40481, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intermediate", "title": "FRCP Rule 45 (subpoenas)", "why": "Legal rule text on subpoenas."}
+{"id": 40482, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intermediate", "title": "FRCrP Rule 41 (warrants)", "why": "Legal rule text on search warrants."}
+{"id": 40483, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "MGM v. Grokster", "why": "Court opinion text; legal document."}
+{"id": 40484, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "District of Columbia v. Heller", "why": "Court opinion text; legal document."}
+{"id": 40485, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "Campbell v. Acuff-Rose", "why": "Court opinion text; legal document."}
+{"id": 40486, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "Supreme Court corporate law opinion", "why": "Court opinion text; legal document."}
+{"id": 40487, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "18 USC 1030 (computer fraud)", "why": "Statute text."}
+{"id": 40488, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "15 USC 1 (Sherman Act)", "why": "Statute text."}
+{"id": 40489, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "17 USC 110", "why": "Statute text on copyright exemptions."}
+{"id": 40490, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "17 USC 1203", "why": "Statute text on DMCA remedies."}
+{"id": 40491, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "17 USC 302", "why": "Statute text on copyright term."}
+{"id": 40492, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "17 USC 412", "why": "Statute text on registration and damages."}
+{"id": 40493, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "18 USC 1512", "why": "Statute text on witness tampering."}
+{"id": 40494, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "18 USC 202", "why": "Statute text on officials."}
+{"id": 40495, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "18 USC 2261A (cyberstalking)", "why": "Statute text."}
+{"id": 40496, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "18 USC 2441 (war crimes)", "why": "Statute text."}
+{"id": 40497, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "18 USC 795", "why": "Statute text on photographing military sites."}
+{"id": 40498, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "18 USC 921", "why": "Statute text defining destructive devices."}
+{"id": 40499, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "2 USC 2c", "why": "Statute text on congressional districts."}
+{"id": 40500, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "26 USC (Internal Revenue Code)", "why": "Tax code index page."}
+{"id": 40501, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "28 USC 1498", "why": "Statute text on government copyright claims."}
+{"id": 40502, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "39 USC 3009", "why": "Statute text on unsolicited mail."}
+{"id": 40503, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "42 USC 2000a", "why": "Statute text on public accommodations."}
+{"id": 40504, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "47 USC 1002 (CALEA)", "why": "Statute text on carrier decryption duties."}
+{"id": 40505, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "47 USC 153 (definitions)", "why": "Statute definitions text."}
+{"id": 40506, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "5 USC 7311", "why": "Statute text on federal employee strikes."}
+{"id": 40507, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "8 USC 1101 (definitions)", "why": "Immigration statute text."}
+{"id": 40508, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "8 USC 1187", "why": "Immigration statute text."}
+{"id": 40509, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Adhesion contract (Cornell LII)", "why": "Legal dictionary entry; generic reference lookup."}
+{"id": 40510, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Commercial speech (Cornell LII)", "why": "Legal dictionary entry; generic reference lookup."}
+{"id": 40511, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Fixed in a tangible medium (Cornell LII)", "why": "Legal dictionary entry; generic reference lookup."}
+{"id": 40512, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Insider trading (Cornell LII)", "why": "Legal dictionary entry; generic reference lookup."}
+{"id": 40513, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Piercing the corporate veil (Cornell LII)", "why": "Legal dictionary entry; generic reference lookup."}
+{"id": 40514, "keep": 0, "q": 1, "kind": "reference", "topic": "law", "depth": "intro", "title": "Stare decisis (Cornell LII)", "why": "Legal dictionary entry; generic reference lookup."}
+{"id": 40515, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "Warner-Lambert v. Reynolds", "why": "Court opinion text; legal document."}
+{"id": 40516, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intermediate", "title": "Stack Exchange cookie consent answer", "why": "Single Q&A answer on a legal point."}
+{"id": 40517, "keep": 0, "q": 2, "kind": "other", "topic": "criminal justice", "depth": "intermediate", "title": "Starr on gender disparities in sentencing", "why": "Research summary cited as evidence in an argument."}
+{"id": 40518, "keep": 1, "q": 3, "kind": "paper", "topic": "criminal justice", "depth": "intermediate", "title": "Race and Wrongful Convictions", "why": "Study of exoneration data showing racial disparities in wrongful convictions."}
+{"id": 40519, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "Canada Emergencies Act", "why": "Statute text."}
+{"id": 40520, "keep": 0, "q": 2, "kind": "other", "topic": "energy", "depth": "intermediate", "title": "Lazard levelized cost of energy", "why": "Industry price report cited as evidence in a debate."}
+{"id": 40521, "keep": 0, "q": 1, "kind": "tool", "topic": "bitcoin", "depth": "intro", "title": "Large Bitcoin Collider", "why": "Project about page for a key-search tool."}
+{"id": 40522, "keep": 1, "q": 3, "kind": "blog", "topic": "machine learning", "depth": "intermediate", "title": "Using genetic algorithms to find StarCraft 2 build orders", "why": "Shows how a genetic algorithm produced unexpected game strategies, and why players should check them."}
+{"id": 40523, "keep": 1, "q": 4, "kind": "visual", "topic": "networking", "depth": "intermediate", "title": "Strange attractors: TCP sequence numbers", "why": "Visualizes how TCP sequence number generators behave, revealing weak randomness."}
+{"id": 40524, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "Utah SB 65 (2018)", "why": "Bill text on child neglect statutes."}
+{"id": 40525, "keep": 0, "q": 2, "kind": "tool", "topic": "css", "depth": "intro", "title": "CSS3 patterns gallery", "why": "Gallery of CSS background patterns; a library, not a read."}
+{"id": 40526, "keep": 1, "q": 5, "kind": "paper", "topic": "software engineering", "depth": "intermediate", "title": "Managing the Development of Large Software Systems", "why": "Royce's 1970 paper, the original source of the waterfall model and its caveats."}
+{"id": 40527, "keep": 0, "q": 1, "kind": "news", "topic": "covid", "depth": "intro", "title": "BMJ vaccine trial fact-check", "why": "Time-bound fact-check of a pandemic news claim."}
+{"id": 40528, "keep": 0, "q": 1, "kind": "tool", "topic": "maps", "depth": "intro", "title": "Leaflet providers preview", "why": "Tile-provider preview tool."}
+{"id": 40529, "keep": 1, "q": 4, "kind": "tutorial", "topic": "parsing", "depth": "intermediate", "title": "Parsing Expression Grammars guide", "why": "Clear guide to PEG parsing with examples in Lua and LPeg."}
+{"id": 40530, "keep": 1, "q": 3, "kind": "blog", "topic": "async programming", "depth": "intermediate", "title": "itch.io and coroutines", "why": "Write-up on using Lua coroutines to get async IO without nested callbacks."}
+{"id": 40531, "keep": 1, "q": 4, "kind": "book", "topic": "functional programming", "depth": "intermediate", "title": "Functional Programming in Lean", "why": "Free book teaching functional programming through the Lean language."}
+{"id": 40532, "keep": 0, "q": 1, "kind": "tool", "topic": "webassembly", "depth": "intro", "title": "CheerpJ", "why": "Product page for a Java-in-browser runtime."}
+{"id": 40533, "keep": 1, "q": 4, "kind": "book", "topic": "functional programming", "depth": "intermediate", "title": "Functional Programming in Lean", "why": "Free book teaching functional programming through the Lean language."}
+{"id": 40534, "keep": 1, "q": 2, "kind": "book", "topic": "laravel", "depth": "intro", "title": "CodeBright (Laravel book)", "why": "Introductory book on modern Laravel for PHP developers."}
+{"id": 40535, "keep": 1, "q": 3, "kind": "book", "topic": "c++", "depth": "expert", "title": "C++ initialization book", "why": "Book-length treatment of C++ object initialization rules and their quirks."}
+{"id": 40536, "keep": 1, "q": 3, "kind": "book", "topic": "event sourcing", "depth": "intermediate", "title": "Versioning in an Event Sourced System", "why": "Covers how to evolve events and domain models in event-sourced systems."}
+{"id": 40537, "keep": 1, "q": 2, "kind": "book", "topic": "career", "depth": "intro", "title": "career.fork()", "why": "Book on freelancing and the soft skills self-employment demands."}
+{"id": 40538, "keep": 1, "q": 5, "kind": "book", "topic": "javascript", "depth": "intermediate", "title": "JavaScript Allonge", "why": "Concise, deep book on JavaScript's functional idioms and semantics."}
+{"id": 40539, "keep": 1, "q": 3, "kind": "book", "topic": "lisp", "depth": "intermediate", "title": "Lisp for the Web", "why": "Short book on building web applications with Common Lisp."}
+{"id": 40540, "keep": 1, "q": 3, "kind": "book", "topic": "lisp", "depth": "intermediate", "title": "Loving Common Lisp", "why": "Practical book on Common Lisp development and the SBCL environment."}
+{"id": 40541, "keep": 1, "q": 2, "kind": "reference", "topic": "markup", "depth": "intro", "title": "Markua spec", "why": "Specification of a plain-text book authoring format."}
+{"id": 40542, "keep": 1, "q": 4, "kind": "book", "topic": "functional programming", "depth": "intermediate", "title": "Optics By Example", "why": "Book explaining lenses and optics in Haskell, with worked examples."}
+{"id": 40543, "keep": 1, "q": 4, "kind": "book", "topic": "javascript", "depth": "intro", "title": "Understanding ECMAScript 6", "why": "Clear walkthrough of ES6 features and their rationale."}
+{"id": 40544, "keep": 1, "q": 3, "kind": "explainer", "topic": "web development", "depth": "intermediate", "title": "htmz", "why": "Explains a minimal HTML-only approach to updating page content with iframes."}
+{"id": 40545, "keep": 1, "q": 2, "kind": "blog", "topic": "javascript", "depth": "intermediate", "title": "forEach, map, reduce vs for loops", "why": "Benchmarks loop styles in JavaScript and what the numbers do and do not show."}
+{"id": 40546, "keep": 1, "q": 3, "kind": "tutorial", "topic": "ada", "depth": "intro", "title": "Learn Ada: tasking", "why": "Interactive chapter on Ada's built-in concurrency via tasks."}
+{"id": 40547, "keep": 1, "q": 3, "kind": "tutorial", "topic": "ada", "depth": "intro", "title": "Introduction to Ada", "why": "Interactive introductory course covering Ada and Ada 2012 features."}
+{"id": 40548, "keep": 1, "q": 3, "kind": "tutorial", "topic": "formal verification", "depth": "intermediate", "title": "Introduction to SPARK", "why": "Introduces proving program correctness with contracts in SPARK."}
+{"id": 40549, "keep": 1, "q": 3, "kind": "docs", "topic": "security", "depth": "intermediate", "title": "1Password keychain design", "why": "Documents how a password manager's encrypted data format and key handling work."}
+{"id": 40550, "keep": 1, "q": 2, "kind": "docs", "topic": "cloud", "depth": "intermediate", "title": "Azure Durable Functions overview", "why": "Overview of stateful orchestration patterns in Azure Durable Functions."}
+{"id": 40551, "keep": 1, "q": 2, "kind": "docs", "topic": "c++", "depth": "intermediate", "title": "Structured exception handling (C++)", "why": "Explains Windows structured exception handling and how it interacts with C++."}
+{"id": 40552, "keep": 0, "q": 1, "kind": "docs", "topic": "windows", "depth": "intermediate", "title": "Universal CRT deployment", "why": "Deployment instructions for a runtime; procedural."}
+{"id": 40553, "keep": 1, "q": 2, "kind": "docs", "topic": "dotnet", "depth": "intermediate", "title": "Single-file .NET deployment", "why": "Explains single-file and AOT deployment options for .NET apps."}
+{"id": 40554, "keep": 1, "q": 2, "kind": "docs", "topic": "c#", "depth": "intermediate", "title": "C# ref struct", "why": "Explains ref structs and why they stay on the stack."}
+{"id": 40555, "keep": 1, "q": 2, "kind": "docs", "topic": "c#", "depth": "intro", "title": "LINQ in C#", "why": "Introduces language-integrated query and how it works in C#."}
+{"id": 40556, "keep": 1, "q": 2, "kind": "docs", "topic": "c#", "depth": "intermediate", "title": "What's new in C# 12", "why": "Summary of C# 12 language features and their motivations."}
+{"id": 40557, "keep": 1, "q": 3, "kind": "docs", "topic": "f#", "depth": "intermediate", "title": "F# computation expressions", "why": "Explains F#'s monad-like syntax for workflows."}
+{"id": 40558, "keep": 0, "q": 1, "kind": "docs", "topic": "f#", "depth": "intro", "title": "F# Interactive", "why": "Setup and tooling instructions for the F# REPL."}
+{"id": 40559, "keep": 1, "q": 2, "kind": "docs", "topic": "databases", "depth": "intermediate", "title": "EF Core single vs split queries", "why": "Explains query-splitting trade-offs in EF Core and their transaction implications."}
+{"id": 40560, "keep": 0, "q": 1, "kind": "docs", "topic": "windows", "depth": "intro", "title": "Visual Basic 6 support policy", "why": "Support policy page."}
+{"id": 40561, "keep": 0, "q": 1, "kind": "docs", "topic": "windows", "depth": "expert", "title": "DTrace for Windows", "why": "Tool documentation with licensing discussion."}
+{"id": 40562, "keep": 0, "q": 1, "kind": "docs", "topic": "security", "depth": "intro", "title": "Microsoft Pluton", "why": "Product marketing page for a security chip."}
+{"id": 40563, "keep": 0, "q": 1, "kind": "news", "topic": "windows", "depth": "intro", "title": "Windows 10 extended security updates", "why": "Support-lifecycle notice."}
+{"id": 40564, "keep": 0, "q": 2, "kind": "reference", "topic": "windows", "depth": "intermediate", "title": "Maximum file path limitation", "why": "Reference lookup for Windows path length limits."}
+{"id": 40565, "keep": 1, "q": 3, "kind": "docs", "topic": "windows", "depth": "expert", "title": "Processor groups", "why": "Explains Windows processor groups and how threads span more than 64 CPUs."}
+{"id": 40566, "keep": 0, "q": 1, "kind": "tool", "topic": "node.js", "depth": "intro", "title": "cluster.js", "why": "Project page for a Node.js clustering module."}
+{"id": 40567, "keep": 1, "q": 3, "kind": "tutorial", "topic": "webgl", "depth": "intro", "title": "Learning WebGL", "why": "Tutorial series introducing WebGL from first principles."}
+{"id": 40568, "keep": 1, "q": 3, "kind": "book", "topic": "python", "depth": "intro", "title": "Learn Python the Hard Way", "why": "Beginner book teaching Python through exercises."}
+{"id": 40569, "keep": 1, "q": 2, "kind": "reference", "topic": "clojure", "depth": "intro", "title": "Learn X in Y minutes: EDN", "why": "Quick syntax reference for the EDN data format."}
+{"id": 40570, "keep": 1, "q": 2, "kind": "reference", "topic": "elixir", "depth": "intro", "title": "Learn X in Y minutes: Elixir", "why": "Quick syntax reference for Elixir."}
+{"id": 40571, "keep": 1, "q": 2, "kind": "reference", "topic": "go", "depth": "intro", "title": "Learn X in Y minutes: Go", "why": "Dense overview of Go syntax and features."}
+{"id": 40572, "keep": 1, "q": 3, "kind": "reference", "topic": "javascript", "depth": "intro", "title": "Learn X in Y minutes: JavaScript", "why": "Compact overview of JavaScript syntax and core features."}
+{"id": 40573, "keep": 1, "q": 3, "kind": "reference", "topic": "python", "depth": "intro", "title": "Learn Python 3 in Y minutes", "why": "Compact primer covering Python 3 syntax and features."}
+{"id": 40574, "keep": 1, "q": 2, "kind": "reference", "topic": "ruby", "depth": "intro", "title": "Learn X in Y minutes: Ruby", "why": "Quick syntax reference for Ruby."}
+{"id": 40575, "keep": 1, "q": 4, "kind": "book", "topic": "haskell", "depth": "intermediate", "title": "Making Our Own Types and Typeclasses", "why": "Chapter explaining Haskell typeclasses through hands-on examples."}
+{"id": 40576, "keep": 1, "q": 3, "kind": "book", "topic": "erlang", "depth": "intro", "title": "Recursion (Learn You Some Erlang)", "why": "Clear explanation of recursion and tail calls in Erlang."}
+{"id": 40577, "keep": 1, "q": 3, "kind": "book", "topic": "erlang", "depth": "expert", "title": "Release handling (relups)", "why": "Explains Erlang release upgrades and the trade-offs of hot code reloading."}
+{"id": 40578, "keep": 0, "q": 1, "kind": "tool", "topic": "hosting", "depth": "intro", "title": "Leaseweb dedicated servers", "why": "Hosting provider product page."}
+{"id": 40579, "keep": 0, "q": 1, "kind": "tool", "topic": "crypto", "depth": "intro", "title": "Ledger Nano S", "why": "Hardware wallet product page."}
+{"id": 40580, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "intro", "title": "Nevada NRS 465", "why": "Statute text on gambling devices."}
+{"id": 40581, "keep": 0, "q": 1, "kind": "tool", "topic": "latex", "depth": "intro", "title": "LaTeX coffee stain scripts", "why": "Small script page; trivial."}
+{"id": 40582, "keep": 1, "q": 3, "kind": "essay", "topic": "game development", "depth": "intermediate", "title": "Why crunch modes don't work: six lessons", "why": "Summarizes research on overtime and productivity, with references."}
+{"id": 40583, "keep": 1, "q": 4, "kind": "tutorial", "topic": "image processing", "depth": "intermediate", "title": "Fourier transforms in ImageMagick", "why": "Walks through frequency-domain image processing and periodic noise removal."}
+{"id": 40584, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "California SB 962 (phones)", "why": "Bill text."}
+{"id": 40585, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "California SB 9 (housing)", "why": "Bill text."}
+{"id": 40586, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "California SB 827 (housing)", "why": "Bill text."}
+{"id": 40587, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "California AB 1346 (engines)", "why": "Bill text."}
+{"id": 40588, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "California SB 1162 (pay transparency)", "why": "Bill text."}
+{"id": 40589, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "California SB 1047 (AI safety)", "why": "Bill text."}
+{"id": 40590, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "California AB 1921 (game servers)", "why": "Bill text."}
+{"id": 40591, "keep": 0, "q": 1, "kind": "other", "topic": "law", "depth": "expert", "title": "California Civil Code 1798.82", "why": "Statute text on breach notification."}
+{"id": 40592, "keep": 0, "q": 1, "kind": "tool", "topic": "toys", "depth": "intro", "title": "LEGO Classic theme", "why": "Product category page."}
+{"id": 40593, "keep": 0, "q": 1, "kind": "tool", "topic": "toys", "depth": "intro", "title": "LEGO Bugatti Chiron media", "why": "Product media download page."}
+{"id": 40594, "keep": 1, "q": 4, "kind": "blog", "topic": "performance", "depth": "expert", "title": "The dangers of AVX-512 throttling", "why": "Measures how AVX-512 instructions can slow whole programs through CPU frequency drops."}
+{"id": 40595, "keep": 1, "q": 4, "kind": "blog", "topic": "algorithms", "depth": "intermediate", "title": "Nearly divisionless random integer generation", "why": "Explains an efficient unbiased method for bounded random integers using multiplication."}
+{"id": 40596, "keep": 1, "q": 5, "kind": "book", "topic": "operating systems", "depth": "intermediate", "title": "Lions' Commentary on UNIX 6th Edition", "why": "Annotated walkthrough of the complete 6th Edition Unix kernel source."}
+{"id": 40597, "keep": 0, "q": 2, "kind": "journalism", "topic": "energy", "depth": "intermediate", "title": "France dependence on Niger uranium", "why": "Current-affairs explainer tied to a live geopolitical story."}
+{"id": 40598, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Lending Home careers", "why": "Job posting."}

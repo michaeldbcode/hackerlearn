@@ -1,0 +1,200 @@
+{"id": 35400, "keep": 1, "q": 5, "kind": "essay", "topic": "data visualization", "depth": "intermediate", "title": "Towards Reusable Charts", "why": "Shows how to build reusable D3 charts as closures with getter-setter methods."}
+{"id": 35401, "keep": 1, "q": 5, "kind": "essay", "topic": "data visualization", "depth": "intermediate", "title": "Object Constancy", "why": "Explains change blindness and object constancy as principles for smooth data visualization transitions."}
+{"id": 35402, "keep": 1, "q": 4, "kind": "tutorial", "topic": "data visualization", "depth": "intermediate", "title": "Path Transitions", "why": "Walks through animating SVG paths with D3 transitions and feeding them dynamic data."}
+{"id": 35403, "keep": 1, "q": 3, "kind": "visual", "topic": "data visualization", "depth": "intermediate", "title": "Sankey Diagram", "why": "Interactive D3 Sankey diagram showing how flow-based layouts encode quantities between nodes."}
+{"id": 35404, "keep": 1, "q": 3, "kind": "journalism", "topic": "node.js", "depth": "intermediate", "title": "Node.js Interview with Ryan Dahl", "why": "Node.js creator candidly discusses build tooling pains, design choices and early language considerations."}
+{"id": 35405, "keep": 1, "q": 3, "kind": "visual", "topic": "photography history", "depth": "intro", "title": "Russia in Color a Century Ago", "why": "Early colour photographs of Russia with commentary on the three-exposure process and its artifacts."}
+{"id": 35406, "keep": 0, "q": 1, "kind": "other", "topic": "robotics", "depth": "intro", "title": "Boston Dynamics Spot", "why": "Product page for a commercial quadruped robot; nothing to learn beyond marketing."}
+{"id": 35407, "keep": 1, "q": 3, "kind": "journalism", "topic": "higher education", "depth": "intro", "title": "How Northeastern Gamed the College Rankings", "why": "Shows how one university engineered a rankings climb by optimizing a single metric."}
+{"id": 35408, "keep": 1, "q": 2, "kind": "blog", "topic": "career", "depth": "intro", "title": "Never Hire Job Hoppers", "why": "Hiring-side view on job-hopping perceptions, useful for understanding recruiter biases."}
+{"id": 35409, "keep": 1, "q": 3, "kind": "docs", "topic": "web development", "depth": "intro", "title": "Bottle Documentation", "why": "Teaches how to build small Python web apps with the minimalist Bottle framework."}
+{"id": 35410, "keep": 0, "q": 1, "kind": "other", "topic": "open source funding", "depth": "intro", "title": "Neovim Bountysource Fundraiser", "why": "Crowdfunding page for a software project; no technical content."}
+{"id": 35411, "keep": 0, "q": 1, "kind": "other", "topic": "networking", "depth": "intro", "title": "SSH Port Forwarding Bounty Issue", "why": "Bounty-tracker issue page about a long-open mosh feature request."}
+{"id": 35412, "keep": 0, "q": 1, "kind": "tool", "topic": "security", "depth": "intro", "title": "Boxcryptor", "why": "Commercial encryption product homepage."}
+{"id": 35413, "keep": 0, "q": 1, "kind": "other", "topic": "film", "depth": "intro", "title": "Box Office Mojo All-Time Adjusted", "why": "Table of inflation-adjusted box office grosses; a data lookup."}
+{"id": 35414, "keep": 0, "q": 1, "kind": "other", "topic": "film", "depth": "intro", "title": "Box Office Mojo Yearly", "why": "Yearly box office totals table; a statistics tracker."}
+{"id": 35415, "keep": 1, "q": 4, "kind": "essay", "topic": "open source", "depth": "intro", "title": "The Three F's of Open Source", "why": "Practical guidance on getting maintainers to respond and when to fork or walk away."}
+{"id": 35416, "keep": 1, "q": 4, "kind": "paper", "topic": "programming languages", "depth": "expert", "title": "Pluggable Types", "why": "Bracha's position on optional type systems separated from language semantics."}
+{"id": 35417, "keep": 0, "q": 1, "kind": "other", "topic": "psychology", "depth": "intro", "title": "Average IQ by Country", "why": "Statistics table of national IQ estimates with no explanation of method."}
+{"id": 35418, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Braintree Careers", "why": "Job listing page."}
+{"id": 35419, "keep": 0, "q": 1, "kind": "other", "topic": "payments", "depth": "intro", "title": "Braintree Pricing", "why": "Pricing page for a payment processor."}
+{"id": 35420, "keep": 0, "q": 2, "kind": "blog", "topic": "payments", "depth": "intermediate", "title": "High-Risk Merchant Accounts", "why": "Niche payments-industry post on aggregator risk; mostly business-specific."}
+{"id": 35421, "keep": 1, "q": 3, "kind": "tool", "topic": "typography", "depth": "intermediate", "title": "Typeset.js", "why": "Demos optimal justified-text line breaking implemented in JavaScript on canvas."}
+{"id": 35422, "keep": 1, "q": 4, "kind": "essay", "topic": "databases", "depth": "intermediate", "title": "Soft Deletion Probably Isn't Worth It", "why": "Argues soft deletes add hidden costs to data models and when hard deletes are better."}
+{"id": 35423, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intro", "title": "Brave About", "why": "Company about page."}
+{"id": 35424, "keep": 0, "q": 1, "kind": "other", "topic": "advertising", "depth": "intro", "title": "Brave Ads Waitlist", "why": "Signup page for an advertising product."}
+{"id": 35425, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intro", "title": "Brave First-Run Network Traffic", "why": "Vendor marketing benchmark of browser network calls."}
+{"id": 35426, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Brave Careers", "why": "Job listing page."}
+{"id": 35427, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "Brave Privacy Policy", "why": "Legal privacy policy text."}
+{"id": 35428, "keep": 0, "q": 2, "kind": "blog", "topic": "privacy", "depth": "intro", "title": "Blocking Cookie Notices", "why": "Vendor product update on cookie banner blocking with limited standalone substance."}
+{"id": 35429, "keep": 0, "q": 2, "kind": "blog", "topic": "browsers", "depth": "intro", "title": "The Road to Brave 1.0", "why": "Vendor history post about Brave's Chromium-based rebuild."}
+{"id": 35430, "keep": 0, "q": 1, "kind": "other", "topic": "privacy", "depth": "intro", "title": "Tor Tabs Beta", "why": "Feature announcement for a browser mode."}
+{"id": 35431, "keep": 0, "q": 2, "kind": "blog", "topic": "privacy", "depth": "intro", "title": "Why Brave Disables FLoC", "why": "Vendor position post on a since-retired ad-targeting proposal."}
+{"id": 35432, "keep": 1, "q": 3, "kind": "blog", "topic": "security", "depth": "intermediate", "title": "Adventures with Daisy in Thunderbolt DMA Land", "why": "Hands-on hacking write-up on abusing Thunderbolt DMA to bypass macOS login."}
+{"id": 35433, "keep": 1, "q": 3, "kind": "essay", "topic": "security", "depth": "intermediate", "title": "Trust but Verify", "why": "Brendan Eich on reproducible builds and why users should verify shipped browser binaries."}
+{"id": 35434, "keep": 1, "q": 5, "kind": "blog", "topic": "systems performance", "depth": "expert", "title": "Brendan Gregg's Blog", "why": "Index of a leading performance engineer's deep posts on tracing, profiling and eBPF."}
+{"id": 35435, "keep": 1, "q": 3, "kind": "blog", "topic": "cloud", "depth": "expert", "title": "The PMCs of EC2", "why": "Explains which hardware performance counters EC2 exposes and what that means for profiling."}
+{"id": 35436, "keep": 1, "q": 4, "kind": "blog", "topic": "systems performance", "depth": "intermediate", "title": "DTrace for Linux 2018", "why": "Overview of DTrace-style tracing arriving on Linux through eBPF and bpftrace."}
+{"id": 35437, "keep": 1, "q": 5, "kind": "tutorial", "topic": "ebpf", "depth": "intermediate", "title": "Learn eBPF Tracing", "why": "Practical introduction to eBPF tracing with bpftrace one-liners and tools."}
+{"id": 35438, "keep": 1, "q": 3, "kind": "blog", "topic": "systems performance", "depth": "intermediate", "title": "An Unbelievable Demo", "why": "Gregg post on a striking performance-analysis demo; read for his systems-profiling perspective."}
+{"id": 35439, "keep": 1, "q": 5, "kind": "book", "topic": "systems performance", "depth": "expert", "title": "Systems Performance", "why": "Method-driven guide to diagnosing performance problems across CPU, memory, disk and network."}
+{"id": 35440, "keep": 0, "q": 1, "kind": "other", "topic": "voting", "depth": "intro", "title": "Myth of Voter Fraud", "why": "Advocacy page arguing a policy position; cited as evidence rather than explaining a topic."}
+{"id": 35441, "keep": 0, "q": 2, "kind": "journalism", "topic": "criminal justice", "depth": "intro", "title": "Pay to Stay Incarceration", "why": "Advocacy analysis of fees charged to incarcerated people; policy argument."}
+{"id": 35442, "keep": 0, "q": 2, "kind": "journalism", "topic": "voting", "depth": "intro", "title": "Documents Proving Citizenship", "why": "Advocacy analysis on voter ID policy; argument rather than explanation."}
+{"id": 35443, "keep": 0, "q": 2, "kind": "paper", "topic": "voting", "depth": "intro", "title": "Debunking the Voter Fraud Myth", "why": "Advocacy research report used as evidence in political arguments."}
+{"id": 35444, "keep": 0, "q": 1, "kind": "paper", "topic": "voting", "depth": "intro", "title": "Briefing Memo: Debunking Voter Fraud", "why": "Advocacy briefing memo supporting a policy position."}
+{"id": 35445, "keep": 0, "q": 1, "kind": "other", "topic": "voting", "depth": "intro", "title": "Voter ID and Driver's Licenses", "why": "Advocacy document about voter ID policy."}
+{"id": 35446, "keep": 1, "q": 2, "kind": "blog", "topic": "privacy regulation", "depth": "intro", "title": "GDPR Stopped Selling Stuff in Europe", "why": "Small-company account of compliance costs leading one business to stop serving EU customers."}
+{"id": 35447, "keep": 1, "q": 4, "kind": "essay", "topic": "productivity", "depth": "intro", "title": "The Cult of Done Manifesto", "why": "Short manifesto arguing for shipping and finishing work over perfecting it."}
+{"id": 35448, "keep": 0, "q": 1, "kind": "news", "topic": "collectibles", "depth": "intro", "title": "Bricks and Minifigs Salem Statement", "why": "Business statement in a consignment dispute; news of the moment."}
+{"id": 35449, "keep": 1, "q": 3, "kind": "tool", "topic": "regular expressions", "depth": "intermediate", "title": "dk.brics.automaton", "why": "Java library treating regexes as automata, supporting intersection, union and shortest matches."}
+{"id": 35450, "keep": 0, "q": 1, "kind": "other", "topic": "proxies", "depth": "intro", "title": "Residential Proxies", "why": "Commercial product page."}
+{"id": 35451, "keep": 1, "q": 2, "kind": "explainer", "topic": "energy", "depth": "intro", "title": "Efficiency of Different Power Plants", "why": "Explains thermal efficiency and losses across different power plant types."}
+{"id": 35452, "keep": 0, "q": 1, "kind": "visual", "topic": "politics", "depth": "intro", "title": "2016 County Election Map", "why": "Election map of county results with no analysis."}
+{"id": 35453, "keep": 1, "q": 3, "kind": "reference", "topic": "information theory", "depth": "intermediate", "title": "Information Theory and Physiology", "why": "Encyclopedia overview of human information processing rates and what they imply."}
+{"id": 35454, "keep": 1, "q": 2, "kind": "explainer", "topic": "biology", "depth": "intro", "title": "Why Cilantro Tastes Like Soap", "why": "Explains the genetic and olfactory basis of cilantro aversion."}
+{"id": 35455, "keep": 0, "q": 1, "kind": "reference", "topic": "history", "depth": "intro", "title": "Concentration Camp", "why": "Generic dictionary-style definition lookup."}
+{"id": 35456, "keep": 0, "q": 1, "kind": "other", "topic": "copyright", "depth": "intro", "title": "British Museum Copyright Terms", "why": "Legal terms of use."}
+{"id": 35457, "keep": 0, "q": 1, "kind": "tool", "topic": "physics engines", "depth": "intro", "title": "Matter.js", "why": "Project homepage for a 2D physics engine."}
+{"id": 35458, "keep": 0, "q": 1, "kind": "other", "topic": "statistics", "depth": "intro", "title": "Mobile vs Desktop Usage Statistics", "why": "Usage statistics table."}
+{"id": 35459, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Broadway Technology Careers", "why": "Job listing page."}
+{"id": 35460, "keep": 1, "q": 5, "kind": "reference", "topic": "programming", "depth": "expert", "title": "TeX: The Program", "why": "Knuth's literate program for TeX; reading it shows typesetting internals and literate programming."}
+{"id": 35461, "keep": 1, "q": 3, "kind": "essay", "topic": "hobbies", "depth": "intro", "title": "Hobbies", "why": "Brooker's four-quadrant framework on how hobbies split between tinkering and consuming."}
+{"id": 35462, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intermediate", "title": "Deciphering the Fall and Rise in the Net Capital Share", "why": "Shows housing prices drive wealth concentration, challenging Piketty's account."}
+{"id": 35463, "keep": 1, "q": 3, "kind": "journalism", "topic": "geopolitics", "depth": "intermediate", "title": "Did NATO Promise Not to Enlarge?", "why": "Examines primary evidence on the alleged 1990 assurances given to Gorbachev."}
+{"id": 35464, "keep": 1, "q": 3, "kind": "journalism", "topic": "education", "depth": "intermediate", "title": "The Black-White Test Score Gap", "why": "Reviews explanations for the test score gap and what evidence says about interventions."}
+{"id": 35465, "keep": 1, "q": 2, "kind": "paper", "topic": "economics", "depth": "intermediate", "title": "Make Elites Compete", "why": "Policy research arguing rent-seeking explains top-earner income, with cross-country comparisons."}
+{"id": 35466, "keep": 1, "q": 2, "kind": "paper", "topic": "education", "depth": "intermediate", "title": "Race Gaps in SAT Scores", "why": "Research brief on SAT score gaps and their link to upward mobility."}
+{"id": 35467, "keep": 1, "q": 3, "kind": "paper", "topic": "happiness economics", "depth": "intermediate", "title": "Subjective Well-Being and Income", "why": "Research paper on whether income keeps raising subjective well-being."}
+{"id": 35468, "keep": 1, "q": 2, "kind": "docs", "topic": "browsers", "depth": "intro", "title": "Browsh Introduction", "why": "Explains Browsh, a text-based browser that renders modern web pages in a terminal."}
+{"id": 35469, "keep": 0, "q": 1, "kind": "other", "topic": "benchmarks", "depth": "intro", "title": "MacBook Air Late 2020 Benchmark", "why": "Benchmark results table."}
+{"id": 35470, "keep": 0, "q": 1, "kind": "other", "topic": "benchmarks", "depth": "intro", "title": "Geekbench v5 Single-Core", "why": "Benchmark leaderboard."}
+{"id": 35471, "keep": 0, "q": 1, "kind": "other", "topic": "benchmarks", "depth": "intro", "title": "iOS Browser Benchmarks", "why": "Benchmark results table."}
+{"id": 35472, "keep": 0, "q": 1, "kind": "tool", "topic": "browser extensions", "depth": "intro", "title": "Browserext", "why": "Project page with minimal explanatory content."}
+{"id": 35473, "keep": 0, "q": 2, "kind": "journalism", "topic": "privacy", "depth": "intro", "title": "Browsergate Extensions", "why": "Tracker list of extensions rather than an explanation."}
+{"id": 35474, "keep": 0, "q": 1, "kind": "tool", "topic": "browser fingerprinting", "depth": "intro", "title": "BrowserLeaks Chrome", "why": "Diagnostic tool page."}
+{"id": 35475, "keep": 1, "q": 4, "kind": "essay", "topic": "web performance", "depth": "intermediate", "title": "Engineering for Slow Internet", "why": "Practical advice on building web apps that stay usable on slow, unreliable connections."}
+{"id": 35476, "keep": 0, "q": 1, "kind": "tool", "topic": "taxes", "depth": "intro", "title": "German Gross-Net Calculator", "why": "Salary calculator."}
+{"id": 35477, "keep": 1, "q": 3, "kind": "visual", "topic": "css", "depth": "intro", "title": "After Dark CSS", "why": "In-browser CSS recreations of classic After Dark screensavers showing creative CSS techniques."}
+{"id": 35478, "keep": 1, "q": 2, "kind": "talk", "topic": "unix", "depth": "intermediate", "title": "BSD Now: Ubuntu Slaughters Kittens", "why": "Podcast episode on a Linux-versus-BSD debate and kernel I/O interfaces like epoll."}
+{"id": 35479, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "Bluesky Series A", "why": "Company funding announcement."}
+{"id": 35480, "keep": 0, "q": 1, "kind": "other", "topic": "social media", "depth": "intro", "title": "Bluesky User Charts", "why": "Usage statistics tracker."}
+{"id": 35481, "keep": 0, "q": 1, "kind": "other", "topic": "bitcoin", "depth": "intro", "title": "Bitcoin Mining Pool Stats", "why": "Mining pool statistics table."}
+{"id": 35482, "keep": 0, "q": 1, "kind": "other", "topic": "transportation", "depth": "intro", "title": "Household Travel Quick Facts", "why": "Government statistics summary."}
+{"id": 35483, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "B'Tselem Apartheid Topic", "why": "Advocacy topic page on a contested political claim."}
+{"id": 35484, "keep": 0, "q": 1, "kind": "other", "topic": "push notifications", "depth": "intro", "title": "OpenPush", "why": "Project page on a push-notification proposal with little standalone content."}
+{"id": 35485, "keep": 1, "q": 2, "kind": "paper", "topic": "economics", "depth": "intermediate", "title": "Effects of Immigration on the US Economy", "why": "Summarizes economic modeling of immigration's effects on wages and output."}
+{"id": 35486, "keep": 1, "q": 4, "kind": "docs", "topic": "networking", "depth": "intro", "title": "What Can I Do About Bufferbloat", "why": "Practical guide to diagnosing and reducing bufferbloat on home networks."}
+{"id": 35487, "keep": 1, "q": 3, "kind": "docs", "topic": "networking", "depth": "intermediate", "title": "CAKE Queue Discipline", "why": "Describes the CAKE traffic-shaping qdisc for taming bufferbloat on routers."}
+{"id": 35488, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intro", "title": "AgileBits Bug Bounty", "why": "Bug bounty program page."}
+{"id": 35489, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intermediate", "title": "Chromium WebSocket Blocking Issue", "why": "Bug tracker thread."}
+{"id": 35490, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intermediate", "title": "Chromium Issue 608016", "why": "Bug tracker thread."}
+{"id": 35491, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intermediate", "title": "Chromium Issue 663971", "why": "Bug tracker thread."}
+{"id": 35492, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intermediate", "title": "Chromium Animated GIF Issue", "why": "Bug tracker thread."}
+{"id": 35493, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intermediate", "title": "Chromium Autocomplete Issue", "why": "Bug tracker thread."}
+{"id": 35494, "keep": 0, "q": 1, "kind": "other", "topic": "python", "depth": "intermediate", "title": "Chromium Python 3 Issue", "why": "Bug tracker thread."}
+{"id": 35495, "keep": 0, "q": 1, "kind": "other", "topic": "security", "depth": "intermediate", "title": "Project Zero Issue 884", "why": "Bug tracker disclosure thread."}
+{"id": 35496, "keep": 0, "q": 1, "kind": "other", "topic": "javascript", "depth": "intermediate", "title": "V8 Tail Calls Issue", "why": "Bug tracker thread."}
+{"id": 35497, "keep": 0, "q": 1, "kind": "other", "topic": "debian", "depth": "intermediate", "title": "Debian Bug 1067708", "why": "Package bug tracker thread."}
+{"id": 35498, "keep": 0, "q": 1, "kind": "other", "topic": "debian", "depth": "intermediate", "title": "Debian Bug 477454", "why": "Bug tracker thread with a changelog joke."}
+{"id": 35499, "keep": 0, "q": 1, "kind": "other", "topic": "debian", "depth": "intermediate", "title": "Debian Bug 597050", "why": "Bug tracker thread about the parallel package."}
+{"id": 35499, "keep": 0, "q": 1, "kind": "other", "topic": "debian", "depth": "intermediate", "title": "Debian Bug 597050", "why": "Bug tracker thread about the parallel package."}
+{"id": 35500, "keep": 0, "q": 1, "kind": "other", "topic": "php", "depth": "intermediate", "title": "PHP Bug 18556", "why": "Bug tracker entry."}
+{"id": 35501, "keep": 1, "q": 5, "kind": "docs", "topic": "algorithms", "depth": "expert", "title": "Timsort Description", "why": "Tim Peters' original design notes explaining timsort's runs, galloping and merge invariants."}
+{"id": 35502, "keep": 0, "q": 1, "kind": "other", "topic": "ruby", "depth": "intermediate", "title": "Ruby Issue 18481", "why": "Language-design bug thread."}
+{"id": 35503, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intermediate", "title": "WebKit Bug 146064", "why": "Bug tracker entry."}
+{"id": 35504, "keep": 1, "q": 4, "kind": "explainer", "topic": "software engineering", "depth": "intro", "title": "Bug Day: Ariane 5 Disaster", "why": "Explains the Ariane 5 overflow failure and the risks of reusing code."}
+{"id": 35505, "keep": 0, "q": 1, "kind": "other", "topic": "browsers", "depth": "intermediate", "title": "Firefox Bug 1332447", "why": "Bug tracker entry."}
+{"id": 35506, "keep": 0, "q": 1, "kind": "other", "topic": "desktop", "depth": "intermediate", "title": "GNOME File Picker Bug", "why": "Bug tracker entry."}
+{"id": 35507, "keep": 0, "q": 1, "kind": "other", "topic": "ssh", "depth": "intermediate", "title": "OpenSSH FIDO2 Feature Request", "why": "Feature request thread."}
+{"id": 35508, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox Bug 1536058", "why": "Bug tracker entry."}
+{"id": 35509, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox TouchID Bug", "why": "Bug tracker entry."}
+{"id": 35510, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox userChrome Bug", "why": "Bug tracker entry."}
+{"id": 35511, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox Android Sandboxing Bug", "why": "Bug tracker entry."}
+{"id": 35512, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox Bug 1621570", "why": "Bug tracker entry."}
+{"id": 35513, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox Private Mode IndexedDB Bug", "why": "Bug tracker entry."}
+{"id": 35514, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox Cookie Banner Bug", "why": "Bug tracker entry."}
+{"id": 35515, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox Bug 1832791", "why": "Bug tracker entry."}
+{"id": 35516, "keep": 0, "q": 1, "kind": "other", "topic": "certificates", "depth": "intermediate", "title": "DigiCert Bug 1910805", "why": "CA dispute bug thread."}
+{"id": 35517, "keep": 0, "q": 1, "kind": "other", "topic": "thunderbird", "depth": "intermediate", "title": "Thunderbird Bug 213945", "why": "Bug tracker entry."}
+{"id": 35518, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox SafeBrowsing Bug", "why": "Bug tracker entry."}
+{"id": 35519, "keep": 0, "q": 1, "kind": "other", "topic": "certificates", "depth": "intermediate", "title": "Brazil CA Bug 438825", "why": "CA approval thread."}
+{"id": 35520, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox Bug 486262", "why": "Bug tracker entry."}
+{"id": 35521, "keep": 0, "q": 1, "kind": "other", "topic": "certificates", "depth": "intermediate", "title": "CNNIC Root Cert Bug", "why": "CA removal thread."}
+{"id": 35522, "keep": 0, "q": 1, "kind": "other", "topic": "image formats", "depth": "intermediate", "title": "WebP Bug 600919", "why": "Bug tracker entry."}
+{"id": 35523, "keep": 0, "q": 1, "kind": "other", "topic": "web apis", "depth": "intermediate", "title": "WebCL Bug 664147", "why": "Feature bug thread."}
+{"id": 35524, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox Dark Theme Bug", "why": "Bug tracker entry."}
+{"id": 35525, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox Fixed Header Bug", "why": "Bug tracker entry."}
+{"id": 35526, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox Bug 781982", "why": "Bug tracker entry."}
+{"id": 35527, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox WebSocket Bug", "why": "Bug tracker entry."}
+{"id": 35528, "keep": 0, "q": 1, "kind": "other", "topic": "firefox", "depth": "intermediate", "title": "Firefox UA Sniffing Bug", "why": "Bug tracker entry."}
+{"id": 35529, "keep": 0, "q": 1, "kind": "other", "topic": "xslt", "depth": "intermediate", "title": "Firefox XSLT Bug 98168", "why": "Bug tracker entry."}
+{"id": 35530, "keep": 1, "q": 2, "kind": "reference", "topic": "games", "depth": "intermediate", "title": "Catch Rate", "why": "Detailed mechanics of Pokémon catch rates across generations."}
+{"id": 35531, "keep": 1, "q": 2, "kind": "docs", "topic": "productivity", "depth": "intro", "title": "Bullet Journal Method", "why": "Introduces the bullet journal system for tracking tasks, notes and reflections."}
+{"id": 35532, "keep": 1, "q": 4, "kind": "blog", "topic": "javascript tooling", "depth": "expert", "title": "Behind the Scenes of bun install", "why": "Explains the systems-level techniques behind Bun's fast package installation."}
+{"id": 35533, "keep": 0, "q": 1, "kind": "news", "topic": "javascript tooling", "depth": "intro", "title": "Bun 1.0 Announcement", "why": "Release announcement with limited standalone teaching content."}
+{"id": 35534, "keep": 1, "q": 2, "kind": "docs", "topic": "javascript tooling", "depth": "intermediate", "title": "Bun Bundler Docs", "why": "Reference for Bun's built-in JavaScript and TypeScript bundler options."}
+{"id": 35535, "keep": 0, "q": 1, "kind": "other", "topic": "javascript tooling", "depth": "intro", "title": "Bun Install Script", "why": "Installer shell script page."}
+{"id": 35536, "keep": 1, "q": 4, "kind": "blog", "topic": "hardware", "depth": "intermediate", "title": "Bunnie Studios Blog", "why": "Hardware hacking and hardware-startup lessons from Bunnie Huang's blog."}
+{"id": 35537, "keep": 1, "q": 3, "kind": "blog", "topic": "hardware security", "depth": "intermediate", "title": "Introducing Precursor", "why": "Designing an open, inspectable device with a screen for secure signing."}
+{"id": 35538, "keep": 1, "q": 3, "kind": "blog", "topic": "hardware startups", "depth": "intermediate", "title": "Made in China Series", "why": "Lessons from outsourcing hardware manufacturing in China."}
+{"id": 35539, "keep": 0, "q": 1, "kind": "other", "topic": "cdn", "depth": "intro", "title": "Bunny Stream", "why": "Pricing page for a video hosting product."}
+{"id": 35540, "keep": 0, "q": 1, "kind": "other", "topic": "employment law", "depth": "intro", "title": "At-Will Employment", "why": "Government legal information page."}
+{"id": 35541, "keep": 1, "q": 2, "kind": "journalism", "topic": "consumer protection", "depth": "intro", "title": "Why the BBB Should Give Itself a Bad Grade", "why": "Argues BBB ratings reflect business fees more than consumer satisfaction."}
+{"id": 35542, "keep": 0, "q": 1, "kind": "news", "topic": "history", "depth": "intro", "title": "1993 Article on Bin Laden", "why": "Archived news article."}
+{"id": 35543, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Google Programmer Salary Story", "why": "News anecdote about a salary decision."}
+{"id": 35544, "keep": 0, "q": 1, "kind": "other", "topic": "careers", "depth": "intro", "title": "Tech Employee Tenure", "why": "Statistics article on employee tenure."}
+{"id": 35545, "keep": 0, "q": 1, "kind": "other", "topic": "business", "depth": "intro", "title": "Microsoft Operating Income Chart", "why": "Chart of the day with revenue figures."}
+{"id": 35546, "keep": 0, "q": 1, "kind": "other", "topic": "politics", "depth": "intro", "title": "Political Bias by Profession", "why": "Statistics chart of donor political leanings."}
+{"id": 35547, "keep": 0, "q": 1, "kind": "news", "topic": "economics", "depth": "intro", "title": "Check Cashing Stores", "why": "News article reporting on a study."}
+{"id": 35548, "keep": 0, "q": 1, "kind": "news", "topic": "public health", "depth": "intro", "title": "COVID vs Flu Mortality", "why": "Pandemic news piece."}
+{"id": 35549, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Credit Card Data Sales", "why": "News article on card data sales."}
+{"id": 35550, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Musk Firing Sprees", "why": "News report on management practices."}
+{"id": 35551, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Musk Family Wealth Interview", "why": "News interview piece."}
+{"id": 35552, "keep": 0, "q": 1, "kind": "news", "topic": "antitrust", "depth": "intro", "title": "Schmidt and Brin Emails", "why": "News article on leaked emails."}
+{"id": 35553, "keep": 0, "q": 1, "kind": "news", "topic": "privacy", "depth": "intro", "title": "Evidon Sells Ghostery Data", "why": "News article on data sales."}
+{"id": 35554, "keep": 0, "q": 1, "kind": "news", "topic": "business", "depth": "intro", "title": "Zuckerberg Secret IMs", "why": "News article on a personal anecdote."}
+{"id": 35555, "keep": 0, "q": 1, "kind": "news", "topic": "social media", "depth": "intro", "title": "Musk Censorship Report", "why": "News article."}
+{"id": 35556, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "GitHub CEO on AI", "why": "News article on a current debate."}
+{"id": 35557, "keep": 0, "q": 1, "kind": "journalism", "topic": "rocketry", "depth": "intro", "title": "How Musk Learned Rocket Science", "why": "Personal profile news piece."}
+{"id": 35558, "keep": 0, "q": 1, "kind": "news", "topic": "ai", "depth": "intro", "title": "Watson Best Doctor", "why": "News article on a product claim."}
+{"id": 35559, "keep": 0, "q": 1, "kind": "news", "topic": "startups", "depth": "intro", "title": "Clinkle", "why": "News article on a startup."}
+{"id": 35560, "keep": 0, "q": 1, "kind": "journalism", "topic": "business", "depth": "intro", "title": "Larry Page Untold Story", "why": "Personal profile of a CEO."}
+{"id": 35561, "keep": 0, "q": 1, "kind": "journalism", "topic": "business", "depth": "intro", "title": "Marissa Mayer Biography", "why": "Personal profile."}
+{"id": 35562, "keep": 0, "q": 1, "kind": "news", "topic": "vaccines", "depth": "intro", "title": "Moderna Vaccine Design", "why": "News article on a vaccine milestone."}
+{"id": 35563, "keep": 0, "q": 1, "kind": "news", "topic": "enterprise software", "depth": "intro", "title": "Oracle Audit Threats", "why": "News article on a customer dispute."}
+{"id": 35564, "keep": 0, "q": 1, "kind": "other", "topic": "education", "depth": "intro", "title": "PISA Rankings", "why": "Ranking statistics article."}
+{"id": 35565, "keep": 0, "q": 1, "kind": "news", "topic": "intelligence", "depth": "intro", "title": "Poverty and Intelligence", "why": "Summary news article on a contested study."}
+{"id": 35566, "keep": 0, "q": 1, "kind": "news", "topic": "government", "depth": "intro", "title": "SF Poop Patrol Salaries", "why": "News article on city salaries."}
+{"id": 35567, "keep": 0, "q": 1, "kind": "news", "topic": "self-driving", "depth": "intro", "title": "Kalanick Self-Driving Interview", "why": "News interview."}
+{"id": 35568, "keep": 0, "q": 1, "kind": "news", "topic": "ride-sharing", "depth": "intro", "title": "Uber Profitability", "why": "News article on company finances."}
+{"id": 35569, "keep": 0, "q": 1, "kind": "other", "topic": "economics", "depth": "intro", "title": "US Median Income", "why": "Statistics news on household income."}
+{"id": 35570, "keep": 0, "q": 1, "kind": "other", "topic": "gaming", "depth": "intro", "title": "Fortnite Statistics", "why": "Statistics page."}
+{"id": 35571, "keep": 0, "q": 1, "kind": "other", "topic": "gaming", "depth": "intro", "title": "Mobile Games Revenue", "why": "Statistics page."}
+{"id": 35572, "keep": 0, "q": 1, "kind": "other", "topic": "social media", "depth": "intro", "title": "Reddit Statistics", "why": "Statistics page."}
+{"id": 35573, "keep": 1, "q": 3, "kind": "journalism", "topic": "startups", "depth": "intermediate", "title": "The Germany Website Copy Machine", "why": "Businessweek on the Samwer brothers' practice of cloning successful startups."}
+{"id": 35574, "keep": 1, "q": 3, "kind": "journalism", "topic": "business strategy", "depth": "intro", "title": "Costco's Cheapest Happiest Company", "why": "Profile of Costco's CEO and how membership fees fund its low prices."}
+{"id": 35575, "keep": 0, "q": 1, "kind": "news", "topic": "healthcare", "depth": "intro", "title": "Medical Costs and Bankruptcy", "why": "News summary of a study, cited as evidence."}
+{"id": 35576, "keep": 1, "q": 3, "kind": "journalism", "topic": "economics", "depth": "intermediate", "title": "The Tax Haven That's Saving Google Billions", "why": "Investigates how Google routes profits through tax havens to keep overseas rates low."}
+{"id": 35577, "keep": 0, "q": 1, "kind": "news", "topic": "android", "depth": "intro", "title": "Google Buys Android", "why": "Archival news article."}
+{"id": 35578, "keep": 1, "q": 3, "kind": "reference", "topic": "unix tools", "depth": "intro", "title": "About BusyBox", "why": "Explains BusyBox's single-binary approach to Unix utilities for embedded systems."}
+{"id": 35579, "keep": 0, "q": 1, "kind": "other", "topic": "startups", "depth": "intro", "title": "Buxfer YC", "why": "Product page for a news reader."}
+{"id": 35580, "keep": 0, "q": 1, "kind": "other", "topic": "bitcoin", "depth": "intro", "title": "Bitcoin Mining in China", "why": "Mining statistics page."}
+{"id": 35581, "keep": 1, "q": 4, "kind": "journalism", "topic": "security", "depth": "intro", "title": "The Internet Is Protected by Two Guys Named Steve", "why": "Shows how a few unpaid maintainers secure critical internet infrastructure."}
+{"id": 35582, "keep": 1, "q": 3, "kind": "journalism", "topic": "misinformation", "depth": "intermediate", "title": "Partisan Facebook Pages Analysis", "why": "Fact-check ratings across partisan Facebook pages, with misinformation rates."}
+{"id": 35583, "keep": 1, "q": 3, "kind": "journalism", "topic": "media", "depth": "intermediate", "title": "How Breitbart and Milo Smuggled White Nationalism", "why": "Investigation based on leaked documents about Breitbart's strategy."}
+{"id": 35584, "keep": 1, "q": 3, "kind": "journalism", "topic": "military", "depth": "intermediate", "title": "Mercenaries and Assassinations in Yemen", "why": "Investigation into private contractors allegedly hired for assassinations."}
+{"id": 35585, "keep": 0, "q": 1, "kind": "news", "topic": "philanthropy", "depth": "intro", "title": "Epstein and the Edge Foundation", "why": "News report about funding ties."}
+{"id": 35586, "keep": 1, "q": 4, "kind": "journalism", "topic": "surveillance", "depth": "intermediate", "title": "Spies in the Skies", "why": "Investigates aerial surveillance and how it tracks people on the ground."}
+{"id": 35587, "keep": 1, "q": 3, "kind": "journalism", "topic": "misinformation", "depth": "intermediate", "title": "WhatsApp and Village Lynchings", "why": "Reports how WhatsApp rumors fueled mob violence in an Indian village."}
+{"id": 35588, "keep": 0, "q": 1, "kind": "news", "topic": "careers", "depth": "intro", "title": "Broetry on LinkedIn", "why": "Trend piece with little to learn."}
+{"id": 35589, "keep": 1, "q": 5, "kind": "essay", "topic": "ai", "depth": "intermediate", "title": "The Real Danger to Civilization Isn't AI", "why": "Ted Chiang argues runaway corporate optimization is the real risk, not superintelligence."}
+{"id": 35590, "keep": 0, "q": 1, "kind": "other", "topic": "venture capital", "depth": "intro", "title": "Benchmark Anti-Portfolio", "why": "List of missed investments."}
+{"id": 35591, "keep": 0, "q": 1, "kind": "tool", "topic": "compression", "depth": "intermediate", "title": "cmix", "why": "Project homepage for a compression tool."}
+{"id": 35592, "keep": 1, "q": 3, "kind": "visual", "topic": "writing", "depth": "intro", "title": "Startups in 13 Sentences, Live", "why": "Live recording of Paul Graham writing an essay, showing how hard writing is."}
+{"id": 35593, "keep": 1, "q": 4, "kind": "blog", "topic": "emulation", "depth": "expert", "title": "SNES Coprocessors", "why": "Deep dive into SNES coprocessor hardware and why accurate emulation required hardware study."}
+{"id": 35594, "keep": 0, "q": 1, "kind": "tool", "topic": "apple", "depth": "intro", "title": "Toothfairy", "why": "Tool page for AirPods pairing fixes."}
+{"id": 35595, "keep": 1, "q": 4, "kind": "reference", "topic": "c programming", "depth": "intermediate", "title": "C FAQ: Arrays and Pointers", "why": "Clarifies how arrays decay to pointers in C, with common misconceptions."}
+{"id": 35596, "keep": 1, "q": 3, "kind": "reference", "topic": "c programming", "depth": "intermediate", "title": "C FAQ: Null Pointers", "why": "Explains null pointer constants and why null compares equal to zero."}
+{"id": 35597, "keep": 0, "q": 1, "kind": "other", "topic": "ai policy", "depth": "intro", "title": "OpenAI CEO Testimony", "why": "Video of a live hearing."}
+{"id": 35598, "keep": 1, "q": 2, "kind": "tutorial", "topic": "c programming", "depth": "intro", "title": "Learn C the Hard Way: Exercise 20", "why": "Tutorial exercise demonstrating C error-handling patterns."}

@@ -1,0 +1,200 @@
+{"id":39800,"keep":0,"q":1,"kind":"tool","topic":"fonts","depth":"intro","title":"IBM VGA 8x16 font","why":"Download page for one bitmap terminal font; no learning content beyond the font."}
+{"id":39801,"keep":0,"q":2,"kind":"reference","topic":"trademark law","depth":"intro","title":"Loss of Trademark Rights fact sheet","why":"Short INTA factsheet on how trademark rights are lost; cited as evidence in an argument."}
+{"id":39802,"keep":1,"q":4,"kind":"reference","topic":"cpu architecture","depth":"expert","title":"Intel 64 and IA-32 optimization manual","why":"Detailed reference on CPU microarchitecture, branch prediction and performance tuning for x86 code."}
+{"id":39803,"keep":0,"q":1,"kind":"docs","topic":"cpu architecture","depth":"expert","title":"Xeon Scalable specification update","why":"Errata and spec-change list for one Xeon generation; reference lookup, not a read."}
+{"id":39804,"keep":0,"q":2,"kind":"news","topic":"security","depth":"intro","title":"Intel AMT vulnerability announcement","why":"Vendor security advisory about AMT flaws; news of the moment."}
+{"id":39805,"keep":0,"q":1,"kind":"news","topic":"semiconductors","depth":"intro","title":"Intel Ohio site announcement","why":"Corporate press release about a fab investment; news, not learning content."}
+{"id":39806,"keep":0,"q":1,"kind":"other","topic":"hardware","depth":"intro","title":"Intel Thunderbolt page","why":"Vendor product page for Thunderbolt; marketing rather than explanation."}
+{"id":39807,"keep":0,"q":1,"kind":"docs","topic":"blockchain","depth":"intermediate","title":"Hyperledger Sawtooth introduction","why":"Project intro for a permissioned ledger with PoET consensus; thin and project-specific."}
+{"id":39808,"keep":0,"q":3,"kind":"reference","topic":"politics","depth":"intro","title":"Senate Intelligence report on Russian active measures","why":"Government report cited as evidence in a political argument rather than read for learning."}
+{"id":39809,"keep":1,"q":3,"kind":"book","topic":"privacy","depth":"intro","title":"Extreme Privacy (Michael Bazzell)","why":"Practical book on personal privacy and digital hygiene, adaptable to different threat levels."}
+{"id":39810,"keep":1,"q":3,"kind":"visual","topic":"equity","depth":"intro","title":"Illustrating equality vs equity","why":"Classic two-panel illustration of equality versus equity, with discussion of its limits as a metaphor."}
+{"id":39811,"keep":0,"q":2,"kind":"journalism","topic":"transit funding","depth":"intro","title":"NY Daily News MTA funding project","why":"Local news data graphic on MTA budget; tied to a current funding debate."}
+{"id":39812,"keep":0,"q":1,"kind":"tool","topic":"brokerage","depth":"intro","title":"Interactive Brokers margin rates","why":"Broker rate-table page; a lookup, not something to read and learn from."}
+{"id":39813,"keep":0,"q":1,"kind":"tool","topic":"brokerage","depth":"intro","title":"Interactive Brokers fee schedule","why":"Broker fee page; a lookup, not an explainer."}
+{"id":39814,"keep":1,"q":4,"kind":"tutorial","topic":"python","depth":"intro","title":"How to Think Like a Computer Scientist (Python)","why":"Interactive free textbook teaching programming from first principles with runnable code examples."}
+{"id":39815,"keep":0,"q":1,"kind":"other","topic":"careers","depth":"intro","title":"Intercom careers page","why":"Hiring page; job listing content only."}
+{"id":39816,"keep":1,"q":5,"kind":"book","topic":"databases","depth":"expert","title":"The Internals of PostgreSQL","why":"Deep free book on PostgreSQL storage, MVCC, buffer manager and WAL internals, with diagrams."}
+{"id":39817,"keep":0,"q":2,"kind":"journalism","topic":"nuclear engineering","depth":"intro","title":"Soviet nuke to extinguish gas well fire","why":"Popular article on a Cold War anecdote; entertaining but mainly cited as evidence in debate."}
+{"id":39818,"keep":1,"q":4,"kind":"book","topic":"functional programming","depth":"expert","title":"Higher-Order Perl","why":"Free book on closures, iterators and generators in Perl, teaching higher-order programming techniques deeply."}
+{"id":39819,"keep":1,"q":3,"kind":"reference","topic":"lisp","depth":"intro","title":"Interlisp history timeline","why":"History of Interlisp and early IDE-like features such as DWIM, with dated milestones."}
+{"id":39820,"keep":0,"q":2,"kind":"other","topic":"rust","depth":"intermediate","title":"crates.io package policies thread","why":"Forum discussion of namespace policy; policy debate rather than something to learn from."}
+{"id":39821,"keep":0,"q":1,"kind":"news","topic":"rust","depth":"intermediate","title":"Incremental compilation beta announcement","why":"Forum announcement of a beta feature; release news."}
+{"id":39822,"keep":1,"q":3,"kind":"other","topic":"rust","depth":"expert","title":"Pre-RFC: sandboxed proc macros via wasm","why":"Design proposal explaining how to sandbox and make proc-macro compilation reproducible; technical and concrete."}
+{"id":39823,"keep":0,"q":2,"kind":"other","topic":"rust","depth":"intermediate","title":"Type inference breakage in Rust 1.80","why":"Forum thread debating a compiler regression; community discussion, not a teaching piece."}
+{"id":39824,"keep":0,"q":1,"kind":"news","topic":"operating systems","depth":"intro","title":"BeOS IP sale and Microsoft settlement","why":"Old business news about BeOS assets and lawsuit; historical trivia."}
+{"id":39825,"keep":1,"q":3,"kind":"explainer","topic":"internet history","depth":"intro","title":"A Brief History of the Internet","why":"Concise history of ARPANET and internetworking design principles, including the robustness myth clarified."}
+{"id":39826,"keep":1,"q":3,"kind":"tutorial","topic":"python","depth":"intro","title":"Invent Your Own Computer Games with Python","why":"Free beginner book where readers type and modify small games to learn Python."}
+{"id":39827,"keep":0,"q":2,"kind":"journalism","topic":"human evolution","depth":"intro","title":"Stoned ape hypothesis article","why":"Popular article on a speculative hypothesis; not a rigorous explainer."}
+{"id":39828,"keep":0,"q":2,"kind":"journalism","topic":"energy","depth":"intro","title":"How many solar panels to power the USA","why":"Popular article with a quick estimate; more a numbers-trivia piece than an explainer."}
+{"id":39829,"keep":1,"q":3,"kind":"essay","topic":"security","depth":"intermediate","title":"The web of trust is dead","why":"Argues PGP's web of trust failed in practice and leaks social graphs; a clear critique with reasoning."}
+{"id":39830,"keep":0,"q":1,"kind":"reference","topic":"markets","depth":"intro","title":"Baltic Dry Index page","why":"Commodity index data page; a statistics tracker."}
+{"id":39831,"keep":0,"q":2,"kind":"journalism","topic":"economics","depth":"intro","title":"How Firefox and Chrome make money","why":"Investopedia piece on browser revenue; generic finance explainer."}
+{"id":39832,"keep":0,"q":1,"kind":"explainer","topic":"investing","depth":"intro","title":"How to become an accredited investor","why":"Regulatory finance explainer; reference-level information."}
+{"id":39833,"keep":0,"q":1,"kind":"reference","topic":"personal finance","depth":"intro","title":"Average 401k balance by age","why":"Statistics table of retirement balances; a tracker, not an essay."}
+{"id":39834,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"Why deflation is bad for the economy","why":"Generic Investopedia explainer of a basic economic concept."}
+{"id":39835,"keep":0,"q":1,"kind":"reference","topic":"airlines","depth":"intro","title":"Airline revenue from business travelers","why":"Q&A-style finance answer with uncited figures."}
+{"id":39836,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"How money supply affects inflation","why":"Generic Q&A explainer on a textbook macro concept."}
+{"id":39837,"keep":0,"q":1,"kind":"reference","topic":"investing","depth":"intro","title":"Stocks vs real estate historically","why":"Generic finance Q&A comparing historical returns."}
+{"id":39838,"keep":0,"q":1,"kind":"reference","topic":"investing","depth":"intro","title":"Google GOOG vs GOOGL shares","why":"Short Q&A on share classes; a generic lookup."}
+{"id":39839,"keep":0,"q":1,"kind":"reference","topic":"derivatives","depth":"intro","title":"How big is the derivatives market","why":"Finance Q&A with notional figures; a statistics lookup."}
+{"id":39840,"keep":0,"q":1,"kind":"reference","topic":"monetary policy","depth":"intro","title":"Who decides when to print money in the US","why":"Q&A on US money creation; generic reference with a contested argument around it."}
+{"id":39841,"keep":0,"q":1,"kind":"reference","topic":"finance","depth":"intro","title":"Acquiring firm share price after acquisition","why":"Short Q&A on M&A share price effects; generic finance lookup."}
+{"id":39842,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"Democrats vs Republicans national debt","why":"Political news comparison of debt figures; partisan and time-bound."}
+{"id":39843,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"10 things to know about 1031 exchanges","why":"Generic tax explainer; reference-level information."}
+{"id":39844,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"Agency problem (Investopedia term)","why":"Generic glossary entry for the agency problem."}
+{"id":39845,"keep":0,"q":1,"kind":"reference","topic":"markets","depth":"intro","title":"Circuit breaker definition","why":"Glossary entry for market circuit breakers."}
+{"id":39846,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"Commodity definition","why":"Glossary entry for commodities."}
+{"id":39847,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"Comparative advantage definition","why":"Glossary entry; the concept is basic and the page is a lookup."}
+{"id":39848,"keep":0,"q":1,"kind":"reference","topic":"finance","depth":"intro","title":"Conglomerate discount definition","why":"Glossary entry for conglomerate discount."}
+{"id":39849,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"Deflationary spiral definition","why":"Glossary entry for deflationary spiral."}
+{"id":39850,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"Double taxation definition","why":"Glossary entry for double taxation."}
+{"id":39851,"keep":0,"q":1,"kind":"reference","topic":"trade","depth":"intro","title":"Dumping definition","why":"Glossary entry for dumping."}
+{"id":39852,"keep":0,"q":1,"kind":"reference","topic":"finance","depth":"intro","title":"ESG criteria definition","why":"Glossary entry for ESG criteria."}
+{"id":39853,"keep":0,"q":1,"kind":"reference","topic":"personal finance","depth":"intro","title":"Four percent rule definition","why":"Glossary entry for the 4% withdrawal rule."}
+{"id":39854,"keep":0,"q":1,"kind":"reference","topic":"markets","depth":"intro","title":"Front running definition","why":"Glossary entry for front running."}
+{"id":39855,"keep":0,"q":1,"kind":"reference","topic":"options","depth":"intro","title":"Intrinsic value definition","why":"Glossary entry for intrinsic value."}
+{"id":39856,"keep":0,"q":1,"kind":"reference","topic":"banking","depth":"intro","title":"Know your client definition","why":"Glossary entry for KYC rules."}
+{"id":39857,"keep":0,"q":1,"kind":"reference","topic":"markets","depth":"intro","title":"Liquidity definition","why":"Glossary entry for liquidity."}
+{"id":39858,"keep":0,"q":1,"kind":"reference","topic":"monetary policy","depth":"intro","title":"M1 money supply definition","why":"Glossary entry for M1."}
+{"id":39859,"keep":0,"q":1,"kind":"reference","topic":"monetary policy","depth":"intro","title":"M2 money supply definition","why":"Glossary entry for M2."}
+{"id":39860,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"Natural monopoly definition","why":"Glossary entry for natural monopoly."}
+{"id":39861,"keep":0,"q":1,"kind":"reference","topic":"markets","depth":"intro","title":"Painting the tape definition","why":"Glossary entry for a market manipulation term."}
+{"id":39862,"keep":0,"q":1,"kind":"reference","topic":"personal finance","depth":"intro","title":"Pay yourself first definition","why":"Glossary entry for a savings habit."}
+{"id":39863,"keep":0,"q":1,"kind":"reference","topic":"investing","depth":"intro","title":"Price-earnings ratio definition","why":"Glossary entry for P/E ratio."}
+{"id":39864,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"Principal-agent problem definition","why":"Glossary entry for principal-agent problem."}
+{"id":39865,"keep":0,"q":1,"kind":"reference","topic":"markets","depth":"intro","title":"Pump and dump definition","why":"Glossary entry for pump-and-dump fraud."}
+{"id":39866,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"Recession definition","why":"Glossary entry for recession."}
+{"id":39867,"keep":0,"q":1,"kind":"reference","topic":"investing","depth":"intro","title":"REIT definition","why":"Glossary entry for REITs."}
+{"id":39868,"keep":0,"q":1,"kind":"reference","topic":"banking","depth":"intro","title":"Required reserves definition","why":"Glossary entry for reserve requirements."}
+{"id":39869,"keep":0,"q":1,"kind":"reference","topic":"markets","depth":"intro","title":"Short selling definition","why":"Glossary entry for short selling."}
+{"id":39870,"keep":0,"q":1,"kind":"reference","topic":"investing","depth":"intro","title":"Speculation definition","why":"Glossary entry for speculation."}
+{"id":39871,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"Tax-loss harvesting definition","why":"Glossary entry for tax-loss harvesting."}
+{"id":39872,"keep":0,"q":1,"kind":"reference","topic":"investing","depth":"intro","title":"TINA (There Is No Alternative)","why":"Glossary entry for a market slogan."}
+{"id":39873,"keep":0,"q":1,"kind":"reference","topic":"economics","depth":"intro","title":"Veblen good definition","why":"Glossary entry for Veblen goods."}
+{"id":39874,"keep":0,"q":1,"kind":"reference","topic":"bankruptcy","depth":"intro","title":"Texas two-step bankruptcy definition","why":"Glossary entry for a bankruptcy tactic; news-driven context."}
+{"id":39875,"keep":0,"q":1,"kind":"tool","topic":"money market funds","depth":"intro","title":"Vanguard VMFXX fund profile","why":"Fund product page; a financial product, not explanatory content."}
+{"id":39876,"keep":0,"q":1,"kind":"reference","topic":"streaming","depth":"intro","title":"Spotify financial results","why":"Company financial filings page; statistics, not an explainer."}
+{"id":39877,"keep":0,"q":2,"kind":"reference","topic":"licensing","depth":"intro","title":"ncurses license history page","why":"License and history page for ncurses; legal and project-politics content."}
+{"id":39878,"keep":0,"q":2,"kind":"tool","topic":"terminals","depth":"intermediate","title":"xterm project page","why":"Project homepage with a list of terminal compatibility; mostly links."}
+{"id":39879,"keep":0,"q":2,"kind":"reference","topic":"terminals","depth":"expert","title":"xterm manual page","why":"Man page for xterm options; a lookup reference rather than a read."}
+{"id":39880,"keep":0,"q":2,"kind":"other","topic":"privacy","depth":"intermediate","title":"PGPP cellular privacy","why":"Project page on hiding IMSI and IMEI identifiers; product-style description."}
+{"id":39881,"keep":1,"q":5,"kind":"reference","topic":"programming tricks","depth":"intermediate","title":"HAKMEM","why":"MIT AI Lab collection of clever hacks and mathematical tricks; a classic must-read for programmers."}
+{"id":39882,"keep":0,"q":1,"kind":"reference","topic":"blockchain","depth":"intro","title":"Cardano research library","why":"Index of research papers for one blockchain project; a catalogue page."}
+{"id":39883,"keep":0,"q":1,"kind":"other","topic":"blockchain","depth":"intro","title":"IOHK team page","why":"Company staff page; no learning content."}
+{"id":39884,"keep":1,"q":3,"kind":"docs","topic":"programming languages","depth":"intermediate","title":"Io programming guide","why":"Guide to the Io language covering prototypes, messaging, coroutines and futures, teaching the design."}
+{"id":39885,"keep":0,"q":2,"kind":"blog","topic":"programming","depth":"intermediate","title":"Angzarr post (ionathan.ch)","why":"Blog post on a niche project; content unclear from snippets."}
+{"id":39886,"keep":0,"q":1,"kind":"tool","topic":"containers","depth":"intro","title":"Podman Desktop Companion","why":"Tool homepage for a GUI container manager."}
+{"id":39887,"keep":0,"q":1,"kind":"docs","topic":"mobile","depth":"intro","title":"Ionic framework docs","why":"Framework documentation index; reference lookup for a product."}
+{"id":39888,"keep":0,"q":3,"kind":"paper","topic":"climate","depth":"intermediate","title":"Cook et al. 2013 consensus paper","why":"Climate consensus paper cited as evidence in an argument about scientist agreement."}
+{"id":39889,"keep":1,"q":2,"kind":"paper","topic":"astronomy","depth":"expert","title":"Astronomy paper, AJ 2024 (ad7fe6)","why":"Peer-reviewed astronomy paper on object detection methods; specialist content for those in the field."}
+{"id":39890,"keep":0,"q":2,"kind":"paper","topic":"astronomy","depth":"expert","title":"Cosmological coupling papers (ApJL 2023)","why":"Papers cited as evidence in a debate about black hole cosmological coupling."}
+{"id":39891,"keep":1,"q":3,"kind":"blog","topic":"security","depth":"intermediate","title":"Careless Whisper: Does Amazon Echo send data in silent mode?","why":"Measured investigation of whether Echo devices transmit audio while silent; explains method and findings."}
+{"id":39892,"keep":0,"q":2,"kind":"news","topic":"ecology","depth":"intro","title":"IPBES global assessment press release","why":"Press release summarizing a policy report; news-level content."}
+{"id":39893,"keep":0,"q":1,"kind":"news","topic":"climate","depth":"intro","title":"IPCC AR6 WG1 press release","why":"Press release for a climate report; news of the moment."}
+{"id":39894,"keep":0,"q":3,"kind":"reference","topic":"climate","depth":"intermediate","title":"IPCC AR5 Synthesis Report","why":"Full assessment report cited as evidence in an argument rather than read for learning."}
+{"id":39895,"keep":0,"q":3,"kind":"reference","topic":"climate","depth":"expert","title":"IPCC AR5 WG1 Summary for Policymakers","why":"Policy summary cited as evidence in a climate argument."}
+{"id":39896,"keep":0,"q":2,"kind":"reference","topic":"climate","depth":"expert","title":"IPCC AR5 WG2 report page","why":"Report landing page; cited for authorship counts."}
+{"id":39897,"keep":0,"q":3,"kind":"reference","topic":"climate","depth":"intermediate","title":"IPCC AR6 Synthesis Report SPM","why":"Policy summary cited in an argument about poverty and warming; evidence, not a read."}
+{"id":39898,"keep":0,"q":3,"kind":"reference","topic":"climate","depth":"expert","title":"IPCC AR6 WG1 full report","why":"Large assessment report cited as evidence in a political debate."}
+{"id":39899,"keep":0,"q":3,"kind":"reference","topic":"climate","depth":"expert","title":"IPCC AR6 WG2 report","why":"Impacts report cited as evidence; the landing page links many documents."}
+{"id":39900,"keep":0,"q":2,"kind":"reference","topic":"climate","depth":"expert","title":"IPCC AR5 WG1 Chapter 8","why":"Report chapter cited as evidence in a discussion of water vapour feedback."}
+{"id":39901,"keep":0,"q":1,"kind":"other","topic":"intellectual property","depth":"intermediate","title":"IP Commission report 2013","why":"Policy advocacy report on IP theft; commenters dispute its framing."}
+{"id":39902,"keep":0,"q":1,"kind":"tool","topic":"networking","depth":"intermediate","title":"iPerf public servers list","why":"Directory of public speed-test servers; a lookup list."}
+{"id":39903,"keep":1,"q":3,"kind":"explainer","topic":"distributed systems","depth":"intro","title":"Uncensorable Wikipedia (IPFS blog)","why":"Explains IPFS content-based addressing and how a decentralized, censorship-resistant Wikipedia would work."}
+{"id":39904,"keep":0,"q":1,"kind":"other","topic":"hardware","depth":"intro","title":"Ampere Altra developer platform page","why":"Product page for an Arm workstation; a sales listing."}
+{"id":39905,"keep":0,"q":1,"kind":"tool","topic":"web","depth":"intro","title":"Net renderer diff tool","why":"Utility page for comparing rendering; a tool, not content."}
+{"id":39906,"keep":0,"q":1,"kind":"tool","topic":"networking","depth":"intro","title":"AT&T network delay charts","why":"Live latency chart; a statistics tracker."}
+{"id":39907,"keep":0,"q":2,"kind":"blog","topic":"search engines","depth":"intermediate","title":"Google algorithm leak analysis","why":"SEO commentary on leaked ranking code; mostly marketing interpretation of internals."}
+{"id":39908,"keep":0,"q":1,"kind":"reference","topic":"networking","depth":"intro","title":"IPv4 address market reports","why":"Price data page for IPv4 address trading; a statistics tracker."}
+{"id":39909,"keep":1,"q":3,"kind":"blog","topic":"data analysis","depth":"intro","title":"NYPD systematically ticketing legal parking","why":"Data-driven blog investigation of parking tickets, showing how to check an official dataset for a pattern."}
+{"id":39910,"keep":1,"q":5,"kind":"reference","topic":"graphics","depth":"expert","title":"Distance functions (iq)","why":"Catalogue of signed distance function formulas for shapes and operations, with derivations; essential for SDF work."}
+{"id":39911,"keep":1,"q":4,"kind":"talk","topic":"graphics","depth":"expert","title":"Rendering Worlds with Two Triangles","why":"Slides on building demo scenes from signed distance functions and raymarching in very compact code."}
+{"id":39912,"keep":0,"q":1,"kind":"reference","topic":"business","depth":"intro","title":"Netflix investor results page","why":"Earnings-results landing page; statistics content."}
+{"id":39913,"keep":0,"q":1,"kind":"news","topic":"business","depth":"intro","title":"Yandex press release 2024","why":"Corporate press release; news."}
+{"id":39914,"keep":0,"q":1,"kind":"blog","topic":"typography","depth":"intro","title":"Keming: a new typography term","why":"Short joke post coining a typography pun; little to learn."}
+{"id":39915,"keep":0,"q":1,"kind":"visual","topic":"typography","depth":"intro","title":"Oh my eyes (text overlay demo)","why":"Stunt page showing superimposed text; a demo rather than an explanation."}
+{"id":39916,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"IRS US income tax treaties list","why":"Government reference lookup table of treaties."}
+{"id":39917,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"IRS gift tax FAQ","why":"Government FAQ; reference lookup."}
+{"id":39918,"keep":0,"q":1,"kind":"news","topic":"taxes","depth":"intro","title":"IRS Direct File page","why":"Program announcement for a free filing service; news-level."}
+{"id":39919,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"IRS full-time employee definition","why":"Government reference on ACA full-time status."}
+{"id":39920,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"IRS estimated taxes page","why":"Government reference on paying estimated taxes."}
+{"id":39921,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"IRS foreign earned income exclusion","why":"Government reference on the FEIE limit."}
+{"id":39922,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"IRS clean vehicle credits","why":"Government eligibility page for an EV tax credit."}
+{"id":39923,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"IRS international taxpayer FAQ","why":"Government FAQ; reference lookup."}
+{"id":39924,"keep":0,"q":1,"kind":"news","topic":"taxes","depth":"intro","title":"IRS non-filer enforcement announcement","why":"Government press release; news of the moment."}
+{"id":39925,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"IRS fact sheet on tax","why":"Government fact sheet; reference lookup."}
+{"id":39926,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"expert","title":"IRS Publication 15 (employer tax guide)","why":"Official tax guide; lookup reference."}
+{"id":39927,"keep":0,"q":1,"kind":"reference","topic":"taxes","depth":"intro","title":"IRS Publication 561 (charitable value)","why":"Official publication on donation valuation; lookup reference."}
+{"id":39928,"keep":0,"q":2,"kind":"reference","topic":"taxes","depth":"intermediate","title":"IRS individual tax statistics","why":"Statistics tables for AGI distribution; tracker data, not an explainer."}
+{"id":39929,"keep":0,"q":1,"kind":"tool","topic":"fonts","depth":"intro","title":"Terminus font page","why":"Font download page with a short description."}
+{"id":39930,"keep":0,"q":2,"kind":"news","topic":"economics","depth":"intro","title":"India's basic income grant experiment","why":"Short policy article; commentary rather than a rigorous explainer."}
+{"id":39931,"keep":1,"q":5,"kind":"paper","topic":"automation","depth":"intermediate","title":"Ironies of Automation","why":"Classic 1983 paper on why automation leaves human operators with harder, rarer tasks; still essential."}
+{"id":39932,"keep":0,"q":1,"kind":"news","topic":"mobile","depth":"intro","title":"iSH app store removal blog","why":"Developer blog about App Store policy; news of the moment."}
+{"id":39933,"keep":1,"q":3,"kind":"paper","topic":"security","depth":"expert","title":"Package manager security (Mirror, CCS 2008)","why":"Academic paper on securing package mirrors and update channels; the design lessons still apply."}
+{"id":39934,"keep":0,"q":1,"kind":"tool","topic":"networking","depth":"intro","title":"Is it down right now (Facebook)","why":"Status checker page; a tool."}
+{"id":39935,"keep":0,"q":2,"kind":"reference","topic":"c language","depth":"expert","title":"C11 draft standard n1570","why":"Draft standard text; a reference lookup rather than a read."}
+{"id":39936,"keep":0,"q":1,"kind":"docs","topic":"standards","depth":"intro","title":"ISO 8601 standard page","why":"Standards store page with paywalled pricing."}
+{"id":39937,"keep":0,"q":1,"kind":"docs","topic":"standards","depth":"intro","title":"ISO standard series page","why":"Standards store listing; no learning content."}
+{"id":39938,"keep":0,"q":1,"kind":"docs","topic":"c++","depth":"intro","title":"ISO C++ standard page","why":"Standards landing page; paywalled purchase info."}
+{"id":39939,"keep":1,"q":3,"kind":"essay","topic":"security","depth":"intermediate","title":"Is OpenBSD Secure?","why":"Critical talk on OpenBSD's security mitigations and their stated threat models, with evidence."}
+{"id":39940,"keep":0,"q":1,"kind":"tool","topic":"audio","depth":"expert","title":"NNLS chroma tool page","why":"Software page for a chord-analysis tool; a tool, not an explainer."}
+{"id":39941,"keep":0,"q":1,"kind":"tool","topic":"compilers","depth":"expert","title":"ISPC project homepage","why":"Project homepage for a SIMD compiler; links and marketing."}
+{"id":39942,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"Israel-Palestine casualty charts","why":"Casualty statistics charts on a contested conflict; news data."}
+{"id":39943,"keep":0,"q":1,"kind":"reference","topic":"space","depth":"intro","title":"Artemis trajectory tracker","why":"Live spacecraft tracker; a dashboard."}
+{"id":39944,"keep":0,"q":1,"kind":"news","topic":"politics","depth":"intro","title":"Durov Russia visits (istories)","why":"Investigative news on Telegram's founder; time-bound reporting."}
+{"id":39945,"keep":0,"q":2,"kind":"journalism","topic":"hardware","depth":"intro","title":"iPhone 4 bill of materials (iSuppli)","why":"Teardown cost estimate article; a single figure reference."}
+{"id":39946,"keep":0,"q":1,"kind":"other","topic":"puzzles","depth":"intermediate","title":"ITA Software puzzle archive","why":"Index of recruiting puzzles; a list, not a read."}
+{"id":39947,"keep":0,"q":2,"kind":"journalism","topic":"taxes","depth":"intro","title":"Amazon paid zero federal taxes (ITEP)","why":"Policy analysis of a corporate tax story; advocacy and news."}
+{"id":39948,"keep":0,"q":1,"kind":"docs","topic":"terminals","depth":"intermediate","title":"iTerm2 Python API page","why":"Feature announcement and API landing page; reference for a product."}
+{"id":39949,"keep":0,"q":1,"kind":"reference","topic":"careers","depth":"intro","title":"IT jobs watch (UK)","why":"Job market statistics tracker."}
+{"id":39950,"keep":0,"q":1,"kind":"news","topic":"privacy","depth":"intro","title":"FastMail loses customers over anti-encryption laws","why":"News story on an email provider and legislation; time-bound."}
+{"id":39951,"keep":1,"q":4,"kind":"blog","topic":"linguistics","depth":"intro","title":"The Dan Brown Code (Language Log)","why":"Linguist's word-level takedown of Dan Brown's prose; entertaining and insightful about style."}
+{"id":39952,"keep":0,"q":2,"kind":"essay","topic":"academia","depth":"intro","title":"Caltech crunch art essay","why":"Essay on academic productivity and age cited in a discussion; unclear value beyond the argument."}
+{"id":39953,"keep":0,"q":1,"kind":"other","topic":"android","depth":"intro","title":"Open source Android alternatives list","why":"Listicle of alternative software; product roundup."}
+{"id":39954,"keep":0,"q":2,"kind":"journalism","topic":"transportation","depth":"intro","title":"How far Americans drive to work","why":"Commute statistics article; numbers cited in an argument."}
+{"id":39955,"keep":0,"q":1,"kind":"news","topic":"security","depth":"intro","title":"De Raadt on FreeBSD crypto","why":"News story quoting a feud between projects; no technical content."}
+{"id":39956,"keep":0,"q":1,"kind":"tool","topic":"diagrams","depth":"intro","title":"svgbob editor","why":"Browser tool for ASCII-to-SVG diagrams; a tool, not content."}
+{"id":39957,"keep":1,"q":4,"kind":"essay","topic":"lisp history","depth":"intermediate","title":"Half a century of car and cdr","why":"History of the Lisp car and cdr names with primary-source emails and early interpreter details."}
+{"id":39958,"keep":1,"q":3,"kind":"talk","topic":"hardware","depth":"expert","title":"Why Xeon Max can't reach full HBM bandwidth","why":"Presentation with measurements explaining memory-bandwidth limits on a server CPU; concrete and technical."}
+{"id":39959,"keep":0,"q":1,"kind":"tool","topic":"storage","depth":"intro","title":"iXsystems FreeNAS Mini","why":"Vendor product page for a NAS appliance."}
+{"id":39960,"keep":0,"q":1,"kind":"tool","topic":"audio","depth":"intro","title":"iZotope RX product page","why":"Software product page with a trial."}
+{"id":39961,"keep":1,"q":4,"kind":"blog","topic":"distributed systems","depth":"expert","title":"Why Apache Kafka doesn't need fsync to be safe","why":"Deep dive on Kafka durability via replication and recovery versus fsync, reasoning from failure models."}
+{"id":39962,"keep":1,"q":3,"kind":"blog","topic":"weather data","depth":"intermediate","title":"How Dark Sky works","why":"Creator's account of how the forecast app combined data sources and models for short-term rain prediction."}
+{"id":39963,"keep":1,"q":3,"kind":"blog","topic":"llms","depth":"intermediate","title":"How predictive text works","why":"Explains how phone predictive text is built with a small language model, with concrete examples."}
+{"id":39964,"keep":1,"q":3,"kind":"blog","topic":"llms","depth":"intermediate","title":"Mamba explained","why":"Explains the Mamba state-space sequence model and why it scales efficiently versus transformers."}
+{"id":39965,"keep":1,"q":2,"kind":"essay","topic":"career","depth":"intro","title":"Embrace the grind","why":"Short reflective essay on persistence in long-term technical work; a perspective, not a how-to."}
+{"id":39966,"keep":1,"q":3,"kind":"essay","topic":"economics","depth":"intermediate","title":"Sweden's Meidner plan","why":"Historical account of Sweden's wage-earner fund and automation-tax proposal; a political-economy essay."}
+{"id":39967,"keep":1,"q":4,"kind":"essay","topic":"machine learning","depth":"intermediate","title":"AI bias doesn't mean what journalists say","why":"Separates statistical bias from colloquial bias in ML fairness debates, with clear examples."}
+{"id":39968,"keep":0,"q":1,"kind":"tool","topic":"performance testing","depth":"intro","title":"Apache JMeter homepage","why":"Project homepage for a load-testing tool."}
+{"id":39969,"keep":1,"q":3,"kind":"tutorial","topic":"rust","depth":"intermediate","title":"Rust FFI Omnibus","why":"Worked examples of building Rust libraries and calling them from C and other languages."}
+{"id":39970,"keep":0,"q":2,"kind":"blog","topic":"medicine","depth":"intro","title":"Dying of squamous cell carcinoma (Seliger)","why":"Personal medical plea about drug approval; advocacy and personal story."}
+{"id":39971,"keep":0,"q":1,"kind":"tutorial","topic":"dataviz","depth":"intro","title":"XKCD-style plots in matplotlib","why":"Short post on a cosmetic plotting style; niche feature."}
+{"id":39972,"keep":1,"q":5,"kind":"essay","topic":"dataviz","depth":"intermediate","title":"How Bad Is Your Colormap?","why":"Classic analysis of why the jet colormap misleads, with perceptual uniformity examples; must-read for plots."}
+{"id":39973,"keep":1,"q":3,"kind":"journalism","topic":"cars","depth":"intro","title":"The company that tears cars apart (Munro)","why":"Profile of a firm that reverse-engineers cars to estimate production costs, showing how cost engineering works."}
+{"id":39974,"keep":0,"q":2,"kind":"journalism","topic":"cars","depth":"intro","title":"Tesla Model 3 superbottle","why":"Automotive news story about one cooling part; a casual feature."}
+{"id":39975,"keep":0,"q":1,"kind":"news","topic":"legal","depth":"intro","title":"Uzi vs Nissan legal fight","why":"Legal news story about a dealer dispute; personal anecdote."}
+{"id":39976,"keep":0,"q":2,"kind":"paper","topic":"medicine","depth":"expert","title":"JAMA study on symptoms and injury","why":"Medical paper cited as evidence in a debate about symptoms."}
+{"id":39977,"keep":0,"q":2,"kind":"paper","topic":"medicine","depth":"expert","title":"JAMA Italy COVID-19 follow-up study","why":"Clinical study cited as evidence in a COVID argument."}
+{"id":39978,"keep":0,"q":2,"kind":"paper","topic":"medicine","depth":"expert","title":"JAMA masks and droplet transmission","why":"Study cited as evidence in a masks debate."}
+{"id":39979,"keep":0,"q":2,"kind":"paper","topic":"medicine","depth":"expert","title":"JAMA mask effectiveness study","why":"Study cited in a masks argument; evidence only."}
+{"id":39980,"keep":0,"q":1,"kind":"paper","topic":"health","depth":"expert","title":"JAMA IM sauna study","why":"Study cited as evidence in a sauna health argument."}
+{"id":39981,"keep":0,"q":2,"kind":"paper","topic":"health","depth":"expert","title":"JAMA IM study","why":"Study cited as evidence in a discussion of research design."}
+{"id":39982,"keep":0,"q":2,"kind":"paper","topic":"nutrition","depth":"expert","title":"JAMA IM intermittent fasting trial","why":"Trial cited as evidence in an argument about fasting."}
+{"id":39983,"keep":0,"q":2,"kind":"paper","topic":"health","depth":"expert","title":"JAMA Network Open fitness and mortality","why":"Cohort study cited as evidence in a longevity discussion."}
+{"id":39984,"keep":0,"q":2,"kind":"paper","topic":"medicine","depth":"expert","title":"JAMA Netw Open household transmission study","why":"Study cited as evidence about household COVID spread."}
+{"id":39985,"keep":0,"q":2,"kind":"paper","topic":"public health","depth":"expert","title":"JAMA Pediatrics fluoride and IQ study","why":"Cohort study cited as evidence in a fluoride argument."}
+{"id":39986,"keep":0,"q":2,"kind":"paper","topic":"psychiatry","depth":"expert","title":"JAMA Psychiatry addiction prevalence study","why":"Study cited as evidence in an argument about addiction rates."}
+{"id":39987,"keep":0,"q":2,"kind":"blog","topic":"productivity","depth":"intro","title":"Ultimate guide to becoming an idea machine","why":"Self-help post on daily idea generation; motivational rather than technical."}
+{"id":39988,"keep":1,"q":4,"kind":"essay","topic":"productivity","depth":"intro","title":"Systems, not goals","why":"Argues habit systems beat outcome goals for steady progress, with a concrete framing and clear logic."}
+{"id":39989,"keep":0,"q":2,"kind":"blog","topic":"productivity","depth":"intro","title":"How to stop procrastinating","why":"Self-help post on the two-minute rule; generic productivity advice."}
+{"id":39990,"keep":0,"q":1,"kind":"other","topic":"productivity","depth":"intro","title":"James Clear newsletter page","why":"Newsletter signup landing page."}
+{"id":39991,"keep":0,"q":1,"kind":"blog","topic":"programming","depth":"intro","title":"Programming projects list","why":"Blog index of project ideas; thin content in the snippets."}
+{"id":39992,"keep":1,"q":2,"kind":"essay","topic":"food science","depth":"intro","title":"Ingredients of an all-natural banana","why":"Short essay on preservatives and food ingredients; a light, clear explainer of food chemistry myths."}
+{"id":39993,"keep":1,"q":3,"kind":"explainer","topic":"programming history","depth":"intro","title":"The Story of Mel, explained","why":"Explains the assembly-level tricks in the classic Story of Mel, a real-programmer folklore piece."}
+{"id":39994,"keep":0,"q":1,"kind":"other","topic":"virology","depth":"intro","title":"Origins of SARS-CoV-2 (Metzl)","why":"Author's project page and interview links; advocacy rather than analysis."}
+{"id":39995,"keep":1,"q":3,"kind":"talk","topic":"programming languages","depth":"expert","title":"Effective programming (Jane Street tech talk)","why":"Talk on OCaml's multicore runtime upstreaming and an effect-types roadmap, with design reasoning."}
+{"id":39996,"keep":0,"q":2,"kind":"reference","topic":"programming languages","depth":"intermediate","title":"Janet API index","why":"API reference index; a lookup rather than a read."}
+{"id":39997,"keep":0,"q":1,"kind":"journalism","topic":"careers","depth":"intro","title":"Software developer salaries in Japan","why":"Salary guide with statistics; a market data page."}
+{"id":39998,"keep":0,"q":1,"kind":"news","topic":"education","depth":"intro","title":"Tokyo schools end hair dye enforcement","why":"News story about a school policy; time-bound."}
+{"id":39999,"keep":1,"q":4,"kind":"reference","topic":"hacker culture","depth":"intro","title":"The Jargon File 1.5.0","why":"Classic glossary of hacker slang and folklore; a historical snapshot of programmer culture."}
